@@ -170,6 +170,112 @@
    "section": "Historia"
   },
   {
+   "id": "T8Oh_R9pR6I",
+   "title_pl": "Dr Krzysztof Radtke: polska misja w Mastabie Faraona i pole grobowców pod piaskiem",
+   "title": "Miało tam nic nie być. Polacy odkryli podziemne pole grobowców w Egipcie",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=T8Oh_R9pR6I",
+   "date": "2026-11-01",
+   "duration": 4005,
+   "views": 163955,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Archeologia",
+    "Egipt"
+   ],
+   "about": "Archeolog z PAN o grobowcu faraona Szepseskafa w Sakkarze, polskiej szkole archeologii i o tym, jak naprawdę wygląda praca w Egipcie.",
+   "intro": "Patrycjusz Wyżga rozmawia z dr. Krzysztofem Radtke z Instytutu Kultur Śródziemnomorskich i Orientalnych PAN, członkiem polsko-egipskiej misji w Mastabie Faraona w Sakkarze (listopad 2026). Mowa o tym, czemu faraon zbudował mastabę zamiast piramidy, co pokazała geofizyka, jak powstała polska szkoła archeologii i jak zebrano pieniądze na wyjazd.",
+   "points": [
+    {
+     "t": "Mastaba zamiast piramidy",
+     "d": "Mastaba to grobowiec przypominający ściętą piramidę. Szepseskaf, władca z końca IV dynastii, zbudował ją, choć piramidy w Gizie już stały. Może to wiązać się z konfliktem z kapłanami z Gizy, ale odpowiedzi jeszcze nie ma."
+    },
+    {
+     "t": "Miało tam nic nie być",
+     "d": "Badania geofizyczne pokazały wokół mastaby pole grobowców i konstrukcji pod piaskiem. Wcześniej zakładano, że teren jest pusty, więc nikt go nie badał. Szczegóły ogłosi wspólnie misja polsko-egipska."
+    },
+    {
+     "t": "Na czym polega praca",
+     "d": "Najpierw dokładne pomiary całej budowli, potem oczyszczanie wnętrza i przesiewanie piasku. Znaleziska to fragmenty ceramiki i części sarkofagu, które trzeba zinwentaryzować i złożyć jak puzzle."
+    },
+    {
+     "t": "Recykling kamienia",
+     "d": "Egipcjanie byli praktyczni. Z budowli, które się rozpadły, brali kamień, zamiast sprowadzać go np. z Asuanu. Dlatego wiele grobowców zachowało się tylko częściowo."
+    },
+    {
+     "t": "Wejście do wnętrza",
+     "d": "Pierwsze zejście przez wąskie przejście w głąb mastaby było dla gościa stresujące jak w filmie przygodowym. Dotknięcie miejsca, którego nikt nie dotykał od tysięcy lat, nazywa solą archeologii."
+    },
+    {
+     "t": "Początki polskiej szkoły",
+     "d": "Prof. Kazimierz Michałowski zaczął wykopaliska w Edfu przed wojną razem z Francuzami. Polskie misje słynęły z badań kompleksowych, z architektami i numizmatykami, oraz z publikowania wyników po każdym sezonie."
+    },
+    {
+     "t": "Freski z Faras",
+     "d": "W latach 60. Polacy uczestniczyli w ratowaniu zabytków Nubii przed zalaniem. Freski z katedry w Faras trafiły częściowo do Muzeum Narodowego w Warszawie, w czasach gdy znaleziska dzielono między kraje."
+    },
+    {
+     "t": "Odkryto może 20%",
+     "d": "Według szacunków archeologów spod piasku wydobyto dopiero ok. 20% tego, co kryje Egipt. Wiedzę buduje się mozolnie, małymi elementami, by luk nie wypełniały pseudonaukowe teorie."
+    },
+    {
+     "t": "Indiana Jones a nauka",
+     "d": "Filmy to rozrywka bez nauki, ale przyciągają ludzi do archeologii. Zwykła praca to pędzelek i powolne odsłanianie drobnych elementów."
+    },
+    {
+     "t": "Rzemieślnicy i kunszt",
+     "d": "Wiedzę w warsztatach przekazywano ustnie i przez praktykę. Doskonałe dekoracje grobowców, np. w grobowcu w Dolinie Zachodniej w Tebach, gość uważa za największe skarby tej kultury."
+    },
+    {
+     "t": "Zbiórka i biznes",
+     "d": "Instytutowi brakowało ok. 250 tys. zł na sezon. Apel o wpłaty trafił przez pomyłkę na stronę ministerstwa, co nagłośniło sprawę. Dziś misję wspierają m.in. firmy."
+    }
+   ],
+   "conclusion": "Rzeczowa rozmowa o archeologii od kuchni. Mniej sensacji niż w tytule, sporo o finansowaniu i historii polskich badań.",
+   "factchecks": [
+    {
+     "claim": "Szepseskaf był synem Mykerinosa i ostatnim władcą IV dynastii.",
+     "verdict": "półprawda",
+     "note": "To najpewniej ostatni król IV dynastii, ale to, że był synem Mykerinosa, jest tylko prawdopodobne.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Szepseskaf - hasło \"Shepseskaf\"",
+       "https://en.wikipedia.org/wiki/Shepseskaf"
+      ]
+     ]
+    },
+    {
+     "claim": "Michałowski zaczął badania w Edfu w 1937 r. razem z misją francuską.",
+     "verdict": "półprawda",
+     "note": "Współpraca z francuskim instytutem się zgadza, ale Wikipedia podaje, że prace ruszyły w 1936 r.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Kazimierz Michałowski - hasło \"Kazimierz Michałowski\"",
+       "https://en.wikipedia.org/wiki/Kazimierz_Michałowski"
+      ]
+     ]
+    },
+    {
+     "claim": "Freski z Faras trafiły do Muzeum Narodowego w Warszawie.",
+     "verdict": "prawda",
+     "note": "66 malowideł przewieziono do Polski, reszta jest w Chartumie.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Faras - hasło \"Faras\"",
+       "https://en.wikipedia.org/wiki/Faras"
+      ]
+     ]
+    }
+   ],
+   "bias": "Gość mówi o własnej misji i instytucie, więc to perspektywa zaangażowana. Odcinek ma partnera reklamowego (salon optyczny)."
+  },
+  {
    "id": "1qEPZT1FQs0",
    "title_pl": "Więc MacBooki mają teraz ekrany dotykowe",
    "title": "So, Apple MacBooks have touch screens now",
@@ -2720,6 +2826,108 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "cDIJDFlNkfY",
+   "title_pl": "Prof. Rafał Szabla: jak powstało życie na Ziemi i czy jest gdzie indziej",
+   "title": "Kosmos tętni życiem. Jak powstało życie na Ziemi? II prof. Rafał Szabla",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=cDIJDFlNkfY",
+   "date": "2026-07-12",
+   "duration": 5764,
+   "views": 467840,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Nauka",
+    "Kosmos",
+    "Chemia"
+   ],
+   "about": "Chemik teoretyk o tym, z jakich cegiełek i w jakich warunkach mogło powstać życie, i gdzie w kosmosie warto go szukać.",
+   "intro": "Patrycjusz Wyżga rozmawia z prof. Rafałem Szablą, chemikiem teoretykiem badającym chemię początków życia. Od dysku protoplanetarnego i roli wody, przez organikę z komet, ostatniego wspólnego przodka i świat RNA, po fosfinę na Wenus, życie w kwasie siarkowym, fotosyntezę, tlen i paradoks Fermiego.",
+   "points": [
+    {
+     "t": "Przepis zapisany w dysku",
+     "d": "Skład planet przesądza pierwsze ok. 10 mln lat, gdy wokół młodej gwiazdy krąży dysk protoplanetarny. To, jak rozłożą się w nim związki chemiczne, decyduje, co potem znajdzie się na planetach. Ziemia trafiła w dobry punkt."
+    },
+    {
+     "t": "Dlaczego woda",
+     "d": "Cząsteczka wody jest polarna, z lekko ujemnym i lekko dodatnim końcem. Dzięki temu jest świetnym rozpuszczalnikiem i pozwala na wielką różnorodność reakcji w protokomórkach."
+    },
+    {
+     "t": "Cegiełki z kosmosu",
+     "d": "W kometach i meteorytach znaleziono m.in. aminokwasy i proste cukry. Organika mogła trafić na Ziemię w okresie bombardowania, po uformowaniu się skalistej planety."
+    },
+    {
+     "t": "Wiele kałuż, nie jedna",
+     "d": "Ok. 3,8 mld lat temu warunki mogły sprzyjać powstaniu życia na dużej części planety. Samo przejście od chemii do protokomórki trwało zapewne krótko w skali wieku Ziemi, może ok. miliona lat."
+    },
+    {
+     "t": "LUCA i świat RNA",
+     "d": "Ostatni wspólny przodek (LUCA) był już złożony. Bez enzymów skutecznie kopiuje się tylko RNA, co pokazują m.in. badania laboratorium Jacka Szostaka. Dlatego RNA uważa się za kandydata na pierwszą cząsteczkę życia."
+    },
+    {
+     "t": "Mars: nie wiemy",
+     "d": "Mars leży na granicy strefy zamieszkiwalnej i ma wodę. Życia tam nie znaleziono, ale nie da się wykluczyć, że istnieje. Nigdy jeszcze nie przywieziono na Ziemię próbek pobranych na Marsie."
+    },
+    {
+     "t": "Fosfina na Wenus",
+     "d": "W 2020 r. ogłoszono wykrycie w chmurach Wenus fosfiny (PH3), na Ziemi gazu pochodzenia biologicznego. Gość jest sceptyczny co do życia w chmurach kwasu siarkowego, choć nie da się go dziś wykluczyć."
+    },
+    {
+     "t": "Cyjanowodór i UV",
+     "d": "W wielu dyskach protoplanetarnych jest dużo HCN, trującego dla nas, ale cennego w prebiotycznej chemii. Promieniowanie UV mogło selekcjonować najtrwalsze cegiełki życia. Gość współtworzył o tym pracę w Nature z zespołem Johna Sutherlanda."
+    },
+    {
+     "t": "Tlen zmienił wszystko",
+     "d": "Fotosynteza tlenowa była szokiem dla wcześniejszych organizmów beztlenowych. Oddychanie tlenem daje dużo więcej energii, więc atmosfera tlenowa jest prawdopodobnie potrzebna do złożonych organizmów i łańcuchów pokarmowych."
+    },
+    {
+     "t": "Gdzie szukać i paradoks Fermiego",
+     "d": "Dobre kandydatki to skaliste planety od rozmiaru Ziemi po superziemie oraz skaliste księżyce gazowych olbrzymów. Teleskop Webba szuka biosygnatur w atmosferach. Brak kontaktu może wynikać z tego, że cywilizacje trwają krótko."
+    }
+   ],
+   "conclusion": "Rzetelna, ostrożna rozmowa o granicach wiedzy. Gość jasno oddziela ustalenia od własnych przypuszczeń.",
+   "factchecks": [
+    {
+     "claim": "W chmurach Wenus wykryto fosfinę.",
+     "verdict": "półprawda",
+     "note": "Ogłoszono to w 2020 r., ale wynik zakwestionowano i do dziś jest sporny. W filmie pada też zastrzeżenie, że to niepewne.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Życie na Wenus - hasło \"Life on Venus\"",
+       "https://en.wikipedia.org/wiki/Life_on_Venus"
+      ]
+     ]
+    },
+    {
+     "claim": "Nigdy nie badaliśmy na Ziemi próbek z Marsa.",
+     "verdict": "półprawda",
+     "note": "Nie przywieziono próbek pobranych na Marsie, ale badamy ponad 270 meteorytów marsjańskich.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Meteoryt marsjański - hasło \"Martian meteorite\"",
+       "https://en.wikipedia.org/wiki/Martian_meteorite"
+      ]
+     ]
+    },
+    {
+     "claim": "Badaliśmy próbki z komet.",
+     "verdict": "prawda",
+     "note": "Sonda Stardust dostarczyła na Ziemię w 2006 r. pył z komety Wild 2.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Stardust - hasło \"Stardust (spacecraft)\"",
+       "https://en.wikipedia.org/wiki/Stardust_(spacecraft)"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ostrożny przekaz naukowy. Teza o krótkim trwaniu cywilizacji i liczbach planet podobnych do Ziemi to spekulacje rozmówców."
+  },
+  {
    "id": "NxQU8EmHxiw",
    "title_pl": "Luki w historii, których wciąż nie rozumiemy",
    "title": "Hidden Gaps In History We Still Don’t Understand",
@@ -3574,6 +3782,124 @@
     }
    ],
    "bias": "Gość jasno mówi, które tezy są jego, np. pierwszeństwo Krakowa i sprzedaż jeńców z grodów, ale to interpretacje dyskutowane przez badaczy."
+  },
+  {
+   "id": "nVTnC6ZDQZg",
+   "title_pl": "Dr Tomasz Miller o czasie, podróżach w czasie, entropii i nieskończonościach",
+   "title": "Największe tajemnice wszechświata - Dr Tomasz Miller, didaskalia#178",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=nVTnC6ZDQZg",
+   "date": "2026-02-22",
+   "duration": 6085,
+   "views": 980325,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Nauka",
+    "Fizyka",
+    "Matematyka"
+   ],
+   "about": "Fizyk matematyczny tłumaczy, czemu czas płynie różnie, czy można podróżować w czasie i ile jest rodzajów nieskończoności.",
+   "intro": "Półtoragodzinna rozmowa Patrycjusza Wyżgi z dr. Tomaszem Millerem, fizykiem matematycznym (luty 2026). Czas we względności i fizyce kwantowej, Interstellar i GPS, soczewkowanie grawitacyjne, paradoks bliźniąt, podróże w przeszłość i wszechświat Gödla, strzałka czasu i entropia, początek czasu, a na koniec matematyka: nieskończoności Cantora, liczby p-adyczne i dzielenie przez zero.",
+   "points": [
+    {
+     "t": "Czym jest czas",
+     "d": "Fizyka definiuje czas operacyjnie, tak jak energię czy siłę. Wielu fizyków uważa, że jego upływ jest iluzją albo zjawiskiem emergentnym. Nie ma jednej rzeki czasu: każdy ma własny strumyk, płynący w tempie zależnym od ruchu."
+    },
+    {
+     "t": "Czas w fizyce kwantowej",
+     "d": "Mechanika kwantowa działa na płaskim tle szczególnej teorii względności, więc natury czasu nie wyjaśnia. Są koncepcje czasu termicznego, np. Rovellego i Connesa, ale niepotwierdzone. Kwantowa grawitacja jest wciąż zbyt trudna matematycznie."
+    },
+    {
+     "t": "Interstellar i GPS",
+     "d": "Im głębiej w studni grawitacyjnej, tym wolniej płynie czas, jak na planecie Millera w filmie, liczonym zgodnie z OTW przez Kipa Thorne'a. Satelity GPS muszą uwzględniać tę dylatację oraz efekt prędkości, inaczej pozycja byłaby błędna."
+    },
+    {
+     "t": "Soczewki grawitacyjne",
+     "d": "Masa zakrzywia drogę światła, więc galaktyki działają jak soczewki. Mikrosoczewkowanie pozwala wykryć nawet samotne planety. Supernowa widoczna potrójnie dotarła w różnym czasie, a astronomowie przewidzieli kolejny obraz."
+    },
+    {
+     "t": "Paradoks bliźniąt",
+     "d": "Szczególna teoria względności działa w układach inercjalnych. Brat w rakiecie musi hamować i zawracać, więc symetrii nie ma: prędkości są względne, przyspieszenia nie. To on po powrocie będzie młodszy."
+    },
+    {
+     "t": "Podróż w przyszłość jest możliwa",
+     "d": "Wystarczy szybko lecieć albo przebywać blisko masywnego obiektu. Na rowerze zyskujemy pikosekundy, a efekt staje się wielki dopiero przy prędkościach bliskich światłu albo przy czarnej dziurze."
+    },
+    {
+     "t": "Przeszłość i wszechświat Gödla",
+     "d": "Do cofania się dylatacja nie wystarczy, potrzebne są zamknięte krzywe czasopodobne. Gödel, przyjaciel Einsteina, znalazł takie rozwiązanie równań OTW. Paradoksy logiczne i entropia sugerują, że w naszym świecie ich nie ma."
+    },
+    {
+     "t": "Entropia i życie",
+     "d": "Druga zasada termodynamiki dotyczy układów izolowanych, a Ziemia dostaje energię od Słońca, więc ewolucja jej nie łamie. Organizmy to pompy entropii. Zagadką pozostaje, czemu wczesny wszechświat miał tak niską entropię."
+    },
+    {
+     "t": "Początek czasu",
+     "d": "W OTW początek czasu jest jak biegun północny: nie ma nic bardziej na północ. Niektóre teorie kwantowej grawitacji przewidują odbicie zamiast osobliwości, a nawet wszechświaty potomne we wnętrzach czarnych dziur."
+    },
+    {
+     "t": "Wiele nieskończoności",
+     "d": "Cantor, precyzując, co znaczy równoliczność zbiorów, odkrył, że są nieskończoności różnej wielkości. Istnieją różne systemy liczb pozaskończonych, więc odpowiedź dla sześciolatka zależy od wybranego systemu."
+    },
+    {
+     "t": "Drabinka liczb i zero",
+     "d": "Od naturalnych przez wymierne i rzeczywiste do zespolonych, a obok liczby p-adyczne. Zero pojawiło się późno i budziło nieufność. Dzielenia przez zero lepiej nie definiować, bo wymaga to rezygnacji z innych praw arytmetyki."
+    }
+   ],
+   "conclusion": "Jasny, cierpliwy przewodnik po czasie i nieskończoności. Gość uczciwie mówi, czego nie rozumie, a co jest jeszcze spekulacją.",
+   "factchecks": [
+    {
+     "claim": "Po 25 latach na stacji kosmicznej przenieślibyśmy się w przyszłość o ok. 2 s.",
+     "verdict": "przesada",
+     "note": "Na ISS zegar spóźnia się ok. 0,01 s na rok, czyli ok. 0,25 s w 25 lat. Gość zastrzegł, że nie pamięta liczb.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): dylatacja czasu - hasło \"Time dilation\"",
+       "https://en.wikipedia.org/wiki/Time_dilation"
+      ]
+     ]
+    },
+    {
+     "claim": "Kip Thorne napisał książkę o nauce w filmie Interstellar.",
+     "verdict": "prawda",
+     "note": "To \"The Science of Interstellar\" (2014), po polsku \"Interstellar i nauka\".",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Kip Thorne - hasło \"Kip Thorne\"",
+       "https://en.wikipedia.org/wiki/Kip_Thorne"
+      ]
+     ]
+    },
+    {
+     "claim": "Gödel znalazł rozwiązanie równań OTW z zamkniętymi krzywymi czasopodobnymi.",
+     "verdict": "prawda",
+     "note": "Opublikował je w 1949 r. W jego wszechświecie takie pętle przechodzą przez każde zdarzenie.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): metryka Gödla - hasło \"Gödel metric\"",
+       "https://en.wikipedia.org/wiki/Gödel_metric"
+      ]
+     ]
+    },
+    {
+     "claim": "Cantor wykazał, że istnieją nieskończoności różnej wielkości.",
+     "verdict": "prawda",
+     "note": "Udowodnił m.in., że liczb algebraicznych jest przeliczalnie wiele, a przestępnych nieprzeliczalnie.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Georg Cantor - hasło \"Georg Cantor\"",
+       "https://en.wikipedia.org/wiki/Georg_Cantor"
+      ]
+     ]
+    }
+   ],
+   "bias": "Brak stronniczości. Gość wyraźnie oznacza spekulacje, np. odbicie zamiast Wielkiego Wybuchu czy wszechświaty w czarnych dziurach, i przyznaje się do niewiedzy."
   },
   {
    "id": "S6rqpxVGKZ4",
@@ -7401,6 +7727,112 @@
     }
    ],
    "bias": "Rzetelny, z bezpiecznie pokazanymi doświadczeniami i ostrzeżeniem, by ich nie powtarzać; na końcu reklama sponsora."
+  },
+  {
+   "id": "li1hF9l-hr4",
+   "title_pl": "Artur Chmielewski z NASA JPL: asteroidy, małe satelity i szansa Polski w kosmosie",
+   "title": "Polak w NASA - szef misji kosmicznych Artur Chmielewski - didaskalia #odc13",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=li1hF9l-hr4",
+   "date": "2023-06-04",
+   "duration": 6494,
+   "views": 539738,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Kosmos",
+    "Technologie",
+    "Nauka"
+   ],
+   "about": "Polski inżynier z JPL opowiada o obronie przed asteroidami, Teleskopie Webba, poszukiwaniu życia i o tym, czemu małe statki to szansa dla Polski.",
+   "intro": "Rozmowa Patrycjusza Wyżgi z Arturem Chmielewskim, kierownikiem projektów w Jet Propulsion Laboratory NASA (czerwiec 2023). Od drogi z Polski do NASA i elektrycznego samochodu sprzed 40 lat, przez osłonę Teleskopu Webba, panikę wokół asteroidy Apophis i misje na Europę i Tytana, po pomysł polskiej misji na Marsa i rolę małych satelitów w gospodarce.",
+   "points": [
+    {
+     "t": "Era małych statków",
+     "d": "Kiedyś misje kosmiczne kosztowały miliardy, jak łazik Perseverance za ok. 2,5 mld dolarów. Dziś mały satelita może kosztować dziesiątki tysięcy dolarów, więc w kosmos wchodzą uniwersytety i małe firmy."
+    },
+    {
+     "t": "Apophis i panika 2004",
+     "d": "Zespół Paula Chodasa w JPL wyliczył w 2004 r. kilkuprocentowe ryzyko zderzenia z 340-metrową asteroidą Apophis. W 2029 r. przeleci ok. 31 tys. km nad Ziemią, bliżej niż satelity geostacjonarne."
+    },
+    {
+     "t": "Jak bronić się przed asteroidą",
+     "d": "Trzy etapy: znaleźć obiekt i jego trajektorię, zbadać, czy to kupa gruzu, metal czy lód, i dopiero wtedy odchylić. Gość projektuje z francuską agencją CNES misję, która radarowo prześwietli wnętrze asteroidy."
+    },
+    {
+     "t": "DART po filmach",
+     "d": "Budżet biura obrony planetarnej długo starczał tylko na konferencje. Według gościa popularność filmów o zagładzie pomogła w finansowaniu, a DART była pierwszą misją, która sprawdziła odchylenie asteroidy."
+    },
+    {
+     "t": "Osłona Teleskopu Webba",
+     "d": "Teleskop musiał mieć osłonę termiczną wielkości kortu tenisowego, za ciężką z aluminium. Chmielewski, specjalista od ultralekkich struktur, zbudował pierwszy model z folii, składany jak origami."
+    },
+    {
+     "t": "Samochód elektryczny 40 lat temu",
+     "d": "Po przyjeździe do USA i pracy w przemyśle motoryzacyjnym trafił do JPL, gdzie budowano elektryczny samochód na bazie technologii kosmicznych. Projekt zamknięto listem z podziękowaniem, za wcześnie na swoje czasy."
+    },
+    {
+     "t": "Europa i Tytan",
+     "d": "Pod lodem księżyca Jowisza Europy jest prawdopodobnie ocean, a na Tytanie są jeziora metanu i etanu oraz woda pod powierzchnią. Tam poleci dron Dragonfly. W europejskiej misji do Jowisza biorą udział Polacy."
+    },
+    {
+     "t": "Satelity dla Kataru",
+     "d": "Katar ma za mało wody teraz i może jej mieć za dużo w przyszłości, bo spora część kraju leży nisko. JPL prowadzi dla Qatar Foundation misję obserwacji wody z orbity."
+    },
+    {
+     "t": "Polska misja na Marsa",
+     "d": "Pomysł małego polskiego orbitera, pierwszego takiego na Marsie, bo dwa cubesaty MarCO tylko przeleciały obok. Tu NASA wypełniałaby luki w polskiej misji. Gość zachęca Polaków do budowy kolejnych helikopterów marsjańskich."
+    },
+    {
+     "t": "Kosmos napędza gospodarkę",
+     "d": "Polska wydaje ok. 50 mln dolarów rocznie na składkę w ESA, ale te pieniądze wracają w kontraktach dla polskich firm. Technologie kosmiczne, jak GPS, napędzają produkty warte miliardy."
+    },
+    {
+     "t": "Życie w kosmosie",
+     "d": "Planet podobnych do Ziemi jest dużo, więc statystycznie życie powinno być częste. Badając inne planety, np. to, jak Mars stracił wodę, uczymy się o Ziemi. Znana materia to tylko ok. 5% wszechświata."
+    }
+   ],
+   "conclusion": "Barwna, optymistyczna opowieść praktyka z NASA. Sporo anegdot, liczby podawane z pamięci, a wątki o Polsce to apel gościa.",
+   "factchecks": [
+    {
+     "claim": "W 2004 r. szansa zderzenia Apophisa z Ziemią wynosiła 4%.",
+     "verdict": "przesada",
+     "note": "Najwyższe oszacowanie z 27 grudnia 2004 r. to 2,7%. Później zderzenie w 2029 r. wykluczono.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Apophis - hasło \"99942 Apophis\"",
+       "https://en.wikipedia.org/wiki/99942_Apophis"
+      ]
+     ]
+    },
+    {
+     "claim": "Apophis ma 340 m i w 2029 r. przeleci ok. 31 tys. km nad Ziemią.",
+     "verdict": "prawda",
+     "note": "Średnica ok. 340 m, przelot 13 kwietnia 2029 r. ok. 31 600 km nad powierzchnią.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Apophis - hasło \"99942 Apophis\"",
+       "https://en.wikipedia.org/wiki/99942_Apophis"
+      ]
+     ]
+    },
+    {
+     "claim": "Przy Marsie były dwa małe statki MarCO, które tylko przeleciały obok.",
+     "verdict": "prawda",
+     "note": "Dwa cubesaty MarCO wystartowały w 2018 r. razem z lądownikiem InSight i wykonały przelot obok Marsa.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): MarCO - hasło \"Mars Cube One\"",
+       "https://en.wikipedia.org/wiki/Mars_Cube_One"
+      ]
+     ]
+    }
+   ],
+   "bias": "Gość mówi też o wojnie i szpiegostwie, te wątki pominąłem. Wyraźnie promuje polski sektor kosmiczny i swoją książkę. Liczby podaje z pamięci."
   },
   {
    "id": "HDre_o2qz1o",
