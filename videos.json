@@ -1460,6 +1460,135 @@
    "section": "Technologie"
   },
   {
+   "id": "I1uDiTVSEnM",
+   "title_pl": "Przeklęta stacja Camden Town",
+   "title": "The Cursed Station at Camden Town",
+   "channel": "Jago Hazzard",
+   "url": "https://www.youtube.com/watch?v=I1uDiTVSEnM",
+   "date": "2026-09-11",
+   "duration": 980,
+   "views": 204724,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Technika"
+   ],
+   "about": "Historia stacji metra Camden Town w Londynie: od legendy o czarownicy po najbardziej diabelski węzeł Northern Line.",
+   "intro": "Jago Hazzard opowiada, dlaczego Camden Town jest ukochaną stacją Londyńczyków i koszmarem Transport for London. Od planów z 1893 r., które jej nie przewidywały, przez budowę, węzeł 4 kierunków z 1924 r. i schron z czasów wojny, po tłumy z czasów kontrkultury i odkładaną przebudowę.",
+   "points": [
+    {
+     "t": "Dom czarownicy",
+     "d": "Według legendy stacja stoi przy chacie Mother Damnable, czyli Mother Redcap, po którą w chwili śmierci przyszedł sam diabeł. Autor żartuje, że to tłumaczy, czemu Camden Town to taki kłopot."
+    },
+    {
+     "t": "Stacji miało nie być",
+     "d": "Linia Charing Cross, Euston and Hampstead Railway zatwierdzona w 1893 r. omijała Camden. Po zmianie trasy w 1899 r. dodano odgałęzienie do Kentish Town, a pod Camden powstał węzeł i stacja, otwarta 22 czerwca 1907 r."
+    },
+    {
+     "t": "Nazwa i pieniądze",
+     "d": "Rozważano nazwy Camden Road, Hampstead Road i Camden Mother Redcap, od pubu naprzeciwko. Zapał inwestorów do metra ostygł, gdy okazało się, ile kosztuje, więc w 1900 r. linię przejęło konsorcjum późniejszego UERL i budowa ruszyła w 1902 r."
+    },
+    {
+     "t": "Pierwsze rozgałęzienie",
+     "d": "Nikt wcześniej nie zbudował rozgałęzienia głębokiego metra dla pasażerów, więc Board of Trade obawiał się kolizji. UERL po prostu przestawił sygnalizację, by pociągi stawały dalej od węzła."
+    },
+    {
+     "t": "Styl Leslie Greena",
+     "d": "Stacja ma typową fasadę z bordowych płytek i stalowy szkielet, ale z 2 fasadami rozdzielonymi cudzym budynkiem. Perony mają własny, niebiesko-kremowy wzór, a te w kierunku północnym leżą nad południowymi, by zaoszczędzić miejsce."
+    },
+    {
+     "t": "Węzeł z 4 kierunków",
+     "d": "W latach 1922-1924 przedłużono City and South London Railway z Euston do Camden. Powstało 6 tuneli na południe od węzła i 17 nowych połączeń, a nastawnia miała 37 dźwigni; dziennie przejeżdżało 1504 pociągów."
+    },
+    {
+     "t": "Ruchome schody i nazwa",
+     "d": "W 1929 r. 3 windy zastąpiono schodami ruchomymi; dawne korytarze do wind służą dziś przesiadkom. Po utworzeniu London Transport w 1933 r. połączone linie dostały tymczasową nazwę Northern Line, która została."
+    },
+    {
+     "t": "Bomba i schron",
+     "d": "14 października 1940 r. bomba zniszczyła 1/3 fasady przy Camden High Street. Rząd zgodził się na budowę ekspresowej linii pod warunkiem wykopania schronów; ten w Camden ukończono w 1942 r., linii nigdy nie zbudowano."
+    },
+    {
+     "t": "Stolica kontrkultury",
+     "d": "W latach 70. opuszczone budynki kolejowe i magazyny nad Regent's Canal zamieniono w kluby i targi. Stacja tak się zatłoczyła, że w niedziele była tylko wyjściem, aż w 2019 r. wprowadzono ruch jednokierunkowy."
+    },
+    {
+     "t": "Linia nieszczęścia",
+     "d": "Przez węzeł problem na jednej odnodze rozlewa się na całą linię. Rozdzielenie Northern Line oznacza więcej przesiadek w zatłoczonym Camden, a nowsze plany zostawiają węzeł, co według autora mija się z celem."
+    },
+    {
+     "t": "Odkładana przebudowa",
+     "d": "TfL odkupił schron, ale pierwsze plany wymagały wyburzenia kościoła, szkoły i klubu Electric Ballroom. Nowe wejście od Buck Street z windami ruszy raczej w latach 30., a podział linii nie przed latami 40."
+    }
+   ],
+   "conclusion": "Camden Town to od początku kompromis, który dziś ogranicza całą Northern Line, a naprawa wciąż czeka na pieniądze.",
+   "factchecks": [
+    {
+     "claim": "Stację Camden Town otwarto 22 czerwca 1907 r.",
+     "verdict": "prawda",
+     "note": "Otwarto ją razem z całą linią Charing Cross, Euston and Hampstead Railway.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): stacja Camden Town - hasło \"Camden Town tube station\"",
+       "https://en.wikipedia.org/wiki/Camden_Town_tube_station"
+      ]
+     ]
+    },
+    {
+     "claim": "Zaprojektował ją Leslie Green w typowym dla UERL stylu z bordowych płytek.",
+     "verdict": "prawda",
+     "note": "Green zaprojektował ok. 50 stacji UERL z charakterystyczną bordową terakotą.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Leslie Green - hasło \"Leslie Green\"",
+       "https://en.wikipedia.org/wiki/Leslie_Green"
+      ]
+     ]
+    },
+    {
+     "claim": "Głęboki schron w Camden Town zbudowano w czasie wojny pod przyszłą linię ekspresową.",
+     "verdict": "prawda",
+     "note": "To jeden z 8 głębokich schronów pod Northern Line; ekspresowej linii nie zbudowano.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): głębokie schrony w Londynie - hasło \"London deep-level shelters\"",
+       "https://en.wikipedia.org/wiki/London_deep-level_shelters"
+      ]
+     ]
+    },
+    {
+     "claim": "Fasada przy Camden High Street ucierpiała w bombardowaniu 14 października 1940 r.",
+     "verdict": "prawda",
+     "note": "Stację uszkodziła bomba w październiku 1940 r.; odbudowano ją bez zniszczonej części.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): stacja Camden Town - hasło \"Camden Town tube station\"",
+       "https://en.wikipedia.org/wiki/Camden_Town_tube_station"
+      ]
+     ]
+    },
+    {
+     "claim": "Przebudowa z nowym wejściem od Buck Street jest planowana, ale bez daty.",
+     "verdict": "prawda",
+     "note": "TfL ma zgodę na nowe wejście, ale budowę odłożono z braku funduszy.",
+     "p": 10,
+     "src": [
+      [
+       "Wikipedia (ang.): stacja Camden Town - hasło \"Camden Town tube station\"",
+       "https://en.wikipedia.org/wiki/Camden_Town_tube_station"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i z humorem, z podanymi źródłami książkowymi; opinia o podziale linii to zdanie autora."
+  },
+  {
    "id": "yTvakY_xVJk",
    "title_pl": "Dlaczego Rzymianie nigdy nie przekroczyli równika",
    "title": "Why the Romans Could Never Cross the Equator",
@@ -2065,6 +2194,130 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "MgswDy8PMAA",
+   "title_pl": "Czym jest rachatłukum? Prawdziwy osmański przepis",
+   "title": "What is Turkish Delight? How to make real Ottoman Turkish Delight.",
+   "channel": "Tasting History with Max Miller",
+   "url": "https://www.youtube.com/watch?v=MgswDy8PMAA",
+   "date": "2025-12-09",
+   "duration": 1379,
+   "views": 4036962,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia"
+   ],
+   "about": "Max Miller robi rachatłukum według osmańskiego przepisu z 1844 r. i opowiada historię słodyczy od pałacu sułtana po Narnię.",
+   "intro": "Max Miller z Tasting History zaczyna od Edmunda z Opowieści z Narnii, który zdradza rodzeństwo za rachatłukum. Gotuje słodycz według przepisu Mehmeda Kâmila z 1844 r., z wodą różaną i piżmem, a w trakcie opowiada o teoriach pochodzenia, cukierniku Hacı Bekirze, sporze z Grekami, relacjach podróżników i podróbkach z Anglii.",
+   "points": [
+    {
+     "t": "Edmund i Narnia",
+     "d": "Akcja Lwa, czarownicy i starej szafy toczy się w czasie wojny, gdy cukier w Wielkiej Brytanii był racjonowany. Nic dziwnego, że Edmund chciał kawałka cukru obsypanego cukrem pudrem."
+    },
+    {
+     "t": "Przepis z 1844 r.",
+     "d": "Po osmańsku słodycz nazywała się rahat ul-hulkum, \"ukojenie gardła\". Długo tajne pałacowe przepisy ujawnił w 1844 r. Mehmed Kâmil: syrop z 1 kg cukru i 3 kg wody, skrobia, woda różana z ziarnkiem piżma, tacka natłuszczona olejem migdałowym i obtoczenie w skrobi z cukrem pudrem."
+    },
+    {
+     "t": "Wersja domowa",
+     "d": "Autor zmniejsza przepis do 700 g cukru, 350 ml wody, 3,5 g kwasku cytrynowego (zapobiega krystalizacji), 140 g skrobi w 1 l wody, łyżki wody różanej i 1/8 łyżeczki płynnego piżma spożywczego, które pachnie mu jak czyste pranie."
+    },
+    {
+     "t": "Godziny mieszania",
+     "d": "Syrop podgrzewa się powoli do ok. 121°C (stadium twardej kuli), dodaje rozmieszaną skrobię i gotuje na małym ogniu 1,5-2 godziny, aż masa zrobi się bursztynowa. Dawniej 2 osoby mieszały na zmianę 2-3 godziny; potem masę studzi się w formie 28 x 18 cm co najmniej 5 godzin."
+    },
+    {
+     "t": "Lekarstwo czy pudding",
+     "d": "W XV w. na Bliskim Wschodzie lokum oznaczało leki mieszane z cukrem i wodą różaną, a z czasem lek usunięto. Inna teoria wywodzi słodycz od budyniu helva, a legenda przypisuje ją XVII-wiecznemu poecie Nevizâde Atâyî; autor zaznacza, że dokumentów na to brak."
+    },
+    {
+     "t": "Hacı Bekir",
+     "d": "Firma cukiernika Hacı Bekira, działająca do dziś, twierdzi, że współczesną wersję wymyślił w 1777 r. w Stambule. Sułtan Mahmud II tak lubił jego różaną, pomarańczową i pistacjową wersję, że mianował go nadwornym cukiernikiem."
+    },
+    {
+     "t": "Spór z Grekami",
+     "d": "Grecy twierdzą, że słodycz wymyślono na Cykladach. Według autora raczej przywieźli ją uchodźcy z Chios na Syros w latach 20. XIX w.; w 1832 r. było tam już kilku producentów loukoumi z mastyksem."
+    },
+    {
+     "t": "Relacje podróżników",
+     "d": "Lekarz marynarki USA James De Kay w latach 30. XIX w. zachwycał się masą, która rozpływa się w ustach, a markiza Londonderry nie odważyła się spróbować \"lumps of delight\". Ta angielska nazwa przyjęła się, a u Dickensa w Tajemnicy Edwina Drooda Rosa kupuje je w sklepie."
+    },
+    {
+     "t": "Podróbki z żelatyną",
+     "d": "Import był drogi, więc w Anglii robiono podróbki, np. przepis z 1897 r. z żelatyną, przez co słodycz była gumowata. W 1888 r. w procesie o podrabiane rachatłukum sędzia był \"boleśnie zaskoczony\", że nie pochodzi ono z Turcji."
+    },
+    {
+     "t": "Ocena",
+     "d": "Prawdziwe rachatłukum trzeba ugryźć raz czy dwa i zaczyna się rozpuszczać. Piżmo według autora równoważy mydlany posmak wody różanej; poleca też wersje z pistacjami, wanilią czy wodą z kwiatu pomarańczy."
+    }
+   ],
+   "conclusion": "Prawdziwe rachatłukum nie ma żelatyny i rozpływa się w ustach; najlepiej kupić je w Turcji lub Grecji albo zrobić samemu.",
+   "factchecks": [
+    {
+     "claim": "W czasie II wojny światowej cukier w Wielkiej Brytanii był racjonowany.",
+     "verdict": "prawda",
+     "note": "Cukier objęto kartkami od stycznia 1940 r. do 1953 r.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): racjonowanie w Wielkiej Brytanii - hasło \"Rationing in the United Kingdom\"",
+       "https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom"
+      ]
+     ]
+    },
+    {
+     "claim": "Mehmed Kâmil wydał w 1844 r. jedną z pierwszych osmańskich książek kucharskich.",
+     "verdict": "prawda",
+     "note": "Melceü't-Tabbâhîn z 1844 r. uchodzi za pierwszą drukowaną turecką książkę kucharską.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): kuchnia osmańska - hasło \"Ottoman cuisine\"",
+       "https://en.wikipedia.org/wiki/Ottoman_cuisine"
+      ]
+     ]
+    },
+    {
+     "claim": "Firma Hacı Bekira istnieje od 1777 r. i twierdzi, że stworzyła współczesne rachatłukum.",
+     "verdict": "prawda",
+     "note": "Firma działa do dziś; jej rola jako wynalazcy to tradycja rodzinna, bez pewnych dokumentów.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): rachatłukum - hasło \"Turkish delight\"",
+       "https://en.wikipedia.org/wiki/Turkish_delight"
+      ]
+     ]
+    },
+    {
+     "claim": "\"Lumps of delight\" pojawiają się w Tajemnicy Edwina Drooda Dickensa.",
+     "verdict": "prawda",
+     "note": "Scena z Rosą Bud jest w 3. rozdziale ostatniej, niedokończonej powieści Dickensa (1870).",
+     "p": 7,
+     "src": [
+      [
+       "Projekt Gutenberg: Tajemnica Edwina Drooda (tekst ang.)",
+       "https://www.gutenberg.org/ebooks/564"
+      ]
+     ]
+    },
+    {
+     "claim": "Rupert Holmes napisał musical Edwin Drood i piosenkę Escape.",
+     "verdict": "prawda",
+     "note": "Musical z 1985 r. ma kilka zakończeń wybieranych przez widzów; Escape to przebój z 1979 r.",
+     "p": null,
+     "src": [
+      [
+       "Wikipedia (ang.): Rupert Holmes - hasło \"Rupert Holmes\"",
+       "https://en.wikipedia.org/wiki/Rupert_Holmes"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i ostrożny przy legendach o pochodzeniu; dygresje (musical) i dłuższa reklama garnka."
+  },
+  {
    "id": "XSl4ZTtjS7Q",
    "title_pl": "Instynkty, z którymi walczysz codziennie, a których ewolucja zapomniała usunąć",
    "title": "Instincts You Fight Daily That Evolution Forgot To Delete",
@@ -2426,6 +2679,154 @@
    "bias": "Rzetelny, w większości zgodny z nauką. Jedyny wyraźny błąd: wiek hełmów z Viksø. Ton prześmiewczy wobec rodziców, ale bez tendencyjności.",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "TsWsDwn7mlA",
+   "title_pl": "Jak Egipcjanie zapomnieli hieroglifów",
+   "title": "How did the Egyptians forget Hieroglyphs?",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=TsWsDwn7mlA",
+   "date": "2025-04-25",
+   "duration": 653,
+   "views": 759630,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia"
+   ],
+   "about": "Dlaczego po ponad 3500 latach użycia hieroglify przestały być czytelne: upadek świątyń, kapłanów i rzymska kontrola.",
+   "intro": "Garrett Ryan z toldinstone zaczyna od ostatniej inskrypcji hieroglificznej na wyspie File z 394 r. Opisuje, jak w czasach rzymskich pismo wciąż się rozwijało, jak Rzym odebrał świątyniom majątek i autonomię i dlaczego, gdy zniknęli kapłani, nikt nie umiał już czytać hieroglifów, choć Rzymian bardzo one ciekawiły.",
+   "points": [
+    {
+     "t": "Ostatnia inskrypcja",
+     "d": "W świątyni Izydy na File wyryto napis ku czci boga Mandulisa, datowany na urodziny Ozyrysa, czyli 24 sierpnia 394 r. Hieroglify powstały ok. XXXIII w. p.n.e., a dłuższą historię mają dziś według autora tylko znaki chińskie."
+    },
+    {
+     "t": "Pismo wciąż się rozwijało",
+     "d": "W czasach rzymskich język zapisywany hieroglifami miał prawie 2000 lat, ale liczba znaków wzrosła z ok. 750 do kilku tysięcy. W świątyni w Esnie jeden hymn zapisano wyłącznie znakami krokodyli, a inny baranów."
+    },
+    {
+     "t": "Hieroglify w rzymskim Egipcie",
+     "d": "Pierwszy prefekt Korneliusz Gallus upamiętnił stłumienie buntu napisem po łacinie, grecku i hieroglifami, a obeliski zamawiali Domicjan i Hadrian. Za Trajana w Oksyrynchos pracowało co najmniej 5 zawodowych rytowników hieroglifów."
+    },
+    {
+     "t": "Świątynie pełne tekstów",
+     "d": "Większość tekstów była w świątyniach: hymny, rytuały świąt, mity. Publikacja rzymskich inskrypcji z Dendery ma prawie 2000 stron, a z Esny ponad 1000; cesarze występowali na reliefach jako faraonowie."
+    },
+    {
+     "t": "Miliony mumii zwierząt",
+     "d": "Pobożność ludowa była silna: świątynie Memfis sprzedawały zwierzęta na ofiary, a w katakumbach Sakkary jest podobno ponad 4 mln zmumifikowanych ibisów i pół miliona sokołów."
+    },
+    {
+     "t": "Rzym przejmuje świątynie",
+     "d": "Za Ramzesa III świątynia Amona w Karnaku miała ok. 2800 km² ziemi, 421 tys. bydła i 65 miast. Ptolemeusze dawali świątyniom autonomię, a Rzymianie zabrali większość majątków, uzależnili je od państwowych pensji i ograniczyli przywileje kapłanów."
+    },
+    {
+     "t": "Koniec wsparcia",
+     "d": "Po nawróceniu Konstantyna cesarskie wsparcie ustało; ostatnim cesarzem na ścianie świątyni był Maksymin Daja (310-313). Świątynię w Luksorze za Dioklecjana zamieniono w fort legionu, a w świątyni grobowej Ramzesa III wyrosła wieś z kościołem."
+    },
+    {
+     "t": "Pismo garstki kapłanów",
+     "d": "Nawet w czasach faraonów hieroglify znało mniej niż 1% ludności, głównie w świątyniach. Gdy greka stała się językiem administracji, uczyć się ich mieli powód już tylko kapłani, a ci znikali."
+    },
+    {
+     "t": "Rzymska ciekawość",
+     "d": "Obelisk z II w. we Florencji ma przypadkowe znaki, a Tablica Bembo z Rzymu tylko udaje hieroglify. Hadrian wypytywał kapłanów o znaki, Chajremon, nauczyciel Nerona, pisał o nich traktat, ale żaden znany autor nie twierdził, że umie je czytać."
+    },
+    {
+     "t": "Hieroglifika Horapollona",
+     "d": "Uważano, że znaki to alegorie świętej mądrości. Jedyne egipskie dzieło o hieroglifach przetłumaczone na grekę, Hieroglifika Horapollona z ok. V w., znało część znaczeń, ale nie wiedziało, jak znaki tworzą zdania."
+    }
+   ],
+   "conclusion": "Hieroglify zniknęły razem ze świątyniami i kapłanami, którzy jako jedyni ich uczyli.",
+   "factchecks": [
+    {
+     "claim": "Ostatnia inskrypcja hieroglificzna na File pochodzi z 24 sierpnia 394 r.",
+     "verdict": "prawda",
+     "note": "Graffito Esmet-Achoma datuje się na 24 sierpnia 394 r., to ostatni znany tekst hieroglificzny.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): graffito Esmet-Achoma - hasło \"Graffito of Esmet-Akhom\"",
+       "https://en.wikipedia.org/wiki/Graffito_of_Esmet-Akhom"
+      ]
+     ]
+    },
+    {
+     "claim": "Liczba hieroglifów wzrosła z ok. 750 do kilku tysięcy w epoce grecko-rzymskiej.",
+     "verdict": "prawda",
+     "note": "Klasyczny egipski używał ok. 750-900 znaków, w epoce ptolemejskiej i rzymskiej ok. 5000-7000.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): hieroglify egipskie - hasło \"Egyptian hieroglyphs\"",
+       "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs"
+      ]
+     ]
+    },
+    {
+     "claim": "Świątynia Amona w Tebach miała za Ramzesa III ogromne ziemie i ok. 421 tys. bydła.",
+     "verdict": "prawda",
+     "note": "Papirus Harris I podaje, że Teby zarządzały 80% świątynnej ziemi i 86% bydła.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Papirus Harris I - hasło \"Papyrus Harris I\"",
+       "https://en.wikipedia.org/wiki/Papyrus_Harris_I"
+      ]
+     ]
+    },
+    {
+     "claim": "Tablica Bembo zrobiona w Rzymie tylko naśladuje hieroglify.",
+     "verdict": "prawda",
+     "note": "Powstała w Rzymie w 2. połowie I w.; jej twórca w ogóle nie rozumiał hieroglifów.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Tablica Bembo - hasło \"Bembine Tablet\"",
+       "https://en.wikipedia.org/wiki/Bembine_Tablet"
+      ]
+     ]
+    },
+    {
+     "claim": "Chajremon z Aleksandrii uczył Nerona i pisał o hieroglifach.",
+     "verdict": "prawda",
+     "note": "Był nauczycielem Nerona przed 49 r.; jego dzieło o hieroglifach zachowało się tylko we fragmentach.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Chajremon z Aleksandrii - hasło \"Chaeremon of Alexandria\"",
+       "https://en.wikipedia.org/wiki/Chaeremon_of_Alexandria"
+      ]
+     ]
+    },
+    {
+     "claim": "Hieroglifika Horapollona powstała ok. V w. i błędnie tłumaczyła wiele znaków.",
+     "verdict": "prawda",
+     "note": "Datowana na V w.; część znaczeń jest trafna, ale interpretacje są głównie alegoryczne.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Horapollo - hasło \"Horapollo\"",
+       "https://en.wikipedia.org/wiki/Horapollo"
+      ]
+     ]
+    },
+    {
+     "claim": "W Sakkarze jest ponad 4 mln mumii ibisów.",
+     "verdict": "nie da się sprawdzić",
+     "note": "Szacunki dla katakumb ibisów w Sakkarze sięgają milionów, ale dokładnych liczb brak.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): mumie zwierząt - hasło \"Animal mummy\"",
+       "https://en.wikipedia.org/wiki/Animal_mummy"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, spokojny wykład; kilka liczb podanych jako pewne to szacunki. Reklama biurka w środku."
   },
   {
    "id": "wztjGaAiqME",
@@ -3047,6 +3448,164 @@
    "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper.",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "GBX3rgsmQbw",
+   "title_pl": "Odtwarzam ostatni posiłek Ötziego, człowieka lodu",
+   "title": "Recreating the Last Meal of Ötzi the Iceman",
+   "channel": "Tasting History with Max Miller",
+   "url": "https://www.youtube.com/watch?v=GBX3rgsmQbw",
+   "date": "2024-06-04",
+   "duration": 1321,
+   "views": 4185855,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Nauka"
+   ],
+   "about": "Max Miller gotuje ostatni posiłek Ötziego (dziczyzna, koza, samopsza) i opowiada, co nauka wie o jego życiu i śmierci.",
+   "intro": "Max Miller z Tasting History odtwarza ostatni posiłek Ötziego, mężczyzny zabitego strzałą w Alpach ponad 5000 lat temu. Wędzi kozinę, piecze jelenia i placek z samopszy, a przy okazji opowiada o odkryciu mumii, jej ubraniu, narzędziach, chorobach i o tym, jak z treści jelit odtworzono ostatnie godziny jego życia.",
+   "points": [
+    {
+     "t": "Między rolnikami a łowcami",
+     "d": "Ötzi żył przed piramidami i Stonehenge, gdy rolnictwo dotarło już przez Turcję i Bałkany do całej Europy, ale gdzieniegdzie przetrwali łowcy-zbieracze. Jego ostatni posiłek łączył oba światy: dziczyznę i uprawne zboże."
+    },
+    {
+     "t": "Co było w żołądku",
+     "d": "Kilka godzin przed śmiercią zjadł jelenia szlachetnego, koziorożca i samopszę, czyli według autora pierwsze uprawiane zboże. Były tam też pyłki, grzyby, mech i odrobina orlicy, paproci leczniczej, ale i trującej; autor użył jadalnych pędów paproci."
+    },
+    {
+     "t": "Gotowanie po neolitycznemu",
+     "d": "Kozinę (zamiast koziorożca) wędził na plasterkach przy żarze w ok. 70-77°C przez 6-10 godzin, jelenia piekł na rożnie 5-6 minut. Grubo zmieloną samopszę zmieszał z tłuszczem, wodą i paprocią i upiekł placek na glinianej płycie po ok. 3 minuty z każdej strony."
+    },
+    {
+     "t": "Tłuszcz jako paliwo",
+     "d": "Z ok. 300 g zawartości żołądka Ötziego połowę stanowił tłuszcz koziorożca. Ziarna nie były zmielone na mąkę, bo w żołądku znaleziono spore kawałki."
+    },
+    {
+     "t": "Odkrycie w 1991 r.",
+     "d": "19 września 1991 r. dwoje niemieckich turystów znalazło ciało na granicy Austrii i Włoch; najpierw myślano o zaginionym turyście lub żołnierzu z I wojny światowej. Okazało się, że mężczyzna żył ok. 3359-3105 r. p.n.e., a lód naturalnie zmumifikował jego i jego rzeczy."
+    },
+    {
+     "t": "Strój i ekwipunek",
+     "d": "Miał buty z podeszwą ze skóry niedźwiedzia i jelenia ocieplone trawą, nogawice z łatami futra w naprzemienne kolory, płaszcz z owczej i koziej skóry, pelerynę z trawy i czapkę z niedźwiedziej skóry. Nosił też nóż, zestaw do rozpalania ognia, kołczan 14 strzał i łuk z cisu."
+    },
+    {
+     "t": "Miedziany topór",
+     "d": "Wszystkie narzędzia były kamienne, poza toporem z miedzi o czystości 99,7%. Ostrze miało mniej niż 10 cm, ale według autora było bardzo cenne."
+    },
+    {
+     "t": "Zdrowie 45-latka",
+     "d": "W wieku 45-46 lat miał chorobę serca, starte zęby, chore dziąsła, zrośnięte żebra, kamień żółciowy, odmrożenia, włosogłówkę i bóle stawów. Jego 61 tatuaży mogło służyć leczeniu bólu, a w sakiewce nosił grzyby i mchy, pewnie jako lekarstwa."
+    },
+    {
+     "t": "Morderstwo odkryte po 10 latach",
+     "d": "Miał ranę głowy i głęboko rozciętą dłoń, która zaczęła się goić. Dopiero w 2001 r. odkryto grot strzały w barku, wystrzelonej kilka minut przed śmiercią; motywy zabójstwa pozostają nieznane."
+    },
+    {
+     "t": "Ostatnie godziny z pyłków",
+     "d": "Pyłki w jelitach pokazują, że 33 godziny przed śmiercią był w lesie na ok. 2500 m, 24 godziny przed nią niżej, na ok. 1200 m, gdzie zranił dłoń i być może opatrzył ją torfowcem. Potem szybko wspiął się na prawie 3000 m i zjadł ostatni posiłek."
+    },
+    {
+     "t": "Śmierć na przełęczy",
+     "d": "1-3 godziny po jedzeniu strzała z grotem ludzi z południa przecięła mu tętnicę podobojczykową. Ktoś wyjął drzewce, grot został, a śnieg i lodowiec zakonserwowały go na 5000 lat."
+    },
+    {
+     "t": "Jak to smakuje",
+     "d": "Jeleń był mocno dziki w smaku, wędzona kozina zaskakująco dobra, a placek przypominał autorowi niesłodzony batonik musli. Wniosek: dobrze żyć w czasach z wyborem jedzenia."
+    }
+   ],
+   "conclusion": "Z treści żołądka sprzed 5000 lat da się odtworzyć nie tylko posiłek, ale i ostatnie godziny życia człowieka.",
+   "factchecks": [
+    {
+     "claim": "Ciało Ötziego znaleźli niemieccy turyści 19 września 1991 r.",
+     "verdict": "prawda",
+     "note": "Znaleźli je Helmut i Erika Simon na lodowcu Similaun w Alpach Ötztalskich.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Ötzi - hasło \"Ötzi\"",
+       "https://en.wikipedia.org/wiki/%C3%96tzi"
+      ]
+     ]
+    },
+    {
+     "claim": "Ötzi żył ok. 3359-3105 r. p.n.e.",
+     "verdict": "prawda",
+     "note": "Datowanie radiowęglowe daje 3350-3105 r. p.n.e.; różnica w pierwszej dacie to drobny błąd.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Ötzi - hasło \"Ötzi\"",
+       "https://en.wikipedia.org/wiki/%C3%96tzi"
+      ]
+     ]
+    },
+    {
+     "claim": "Połowę zawartości żołądka stanowił tłuszcz koziorożca.",
+     "verdict": "prawda",
+     "note": "Analiza z 2018 r. wykazała 46% tłuszczu oraz mięso koziorożca, jelenia i samopszę.",
+     "p": [
+      1,
+      3
+     ],
+     "src": [
+      [
+       "Current Biology: ostatni posiłek Ötziego (Maixner i in., 2018)",
+       "https://doi.org/10.1016/j.cub.2018.05.067"
+      ]
+     ]
+    },
+    {
+     "claim": "Samopsza to pierwsze uprawiane zboże, niezmienione od 12 tys. lat.",
+     "verdict": "półprawda",
+     "note": "To jedno z najwcześniej udomowionych zbóż (ok. 10-11 tys. lat temu), obok płaskurki i jęczmienia.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): pszenica samopsza - hasło \"Einkorn wheat\"",
+       "https://en.wikipedia.org/wiki/Einkorn_wheat"
+      ]
+     ]
+    },
+    {
+     "claim": "Topór Ötziego był z miedzi o czystości 99,7%, a ciało miało 61 tatuaży.",
+     "verdict": "prawda",
+     "note": "Oba fakty potwierdzają badania; tatuaże to linie i krzyżyki głównie przy stawach.",
+     "p": [
+      6,
+      7
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): Ötzi - hasło \"Ötzi\"",
+       "https://en.wikipedia.org/wiki/%C3%96tzi"
+      ],
+      [
+       "Muzeum Archeologiczne Południowego Tyrolu: Ötzi",
+       "https://www.iceman.it/en/the-iceman/"
+      ]
+     ]
+    },
+    {
+     "claim": "Grot strzały w barku odkryto dopiero w 2001 r.",
+     "verdict": "prawda",
+     "note": "Zdjęcia rentgenowskie z 2001 r. ujawniły grot, który uszkodził tętnicę podobojczykową.",
+     "p": [
+      8,
+      10
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): Ötzi - hasło \"Ötzi\"",
+       "https://en.wikipedia.org/wiki/%C3%96tzi"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i lekki w tonie; ostrożnie zaznacza, co jest hipotezą. Część czasu zajmuje reklama sponsora."
   },
   {
    "id": "7bOQ7fLCqgI",
@@ -3703,6 +4262,501 @@
    "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze).",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "SHDnfz8EKSs",
+   "title_pl": "Trzy zapomniane rzymskie megaprojekty",
+   "title": "Three Forgotten Roman Megaprojects",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=SHDnfz8EKSs",
+   "date": "2023-03-31",
+   "duration": 690,
+   "views": 1098897,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Technika"
+   ],
+   "about": "Tunel Klaudiusza pod jeziorem Fucino, droga Trajana przez Żelazną Bramę na Dunaju i ukryty port Agryppy nad jeziorem Averno.",
+   "intro": "Garrett Ryan z toldinstone pokazuje 3 mniej znane dzieła rzymskiej inżynierii. Tunel, którym Klaudiusz chciał osuszyć jezioro Fucino, drogę i most Trajana przy Żelaznej Bramie na Dunaju oraz port wojenny, który Agryppa ukrył w kraterze wulkanu pod Neapolem. Każdy z nich ma swoją dramatyczną historię i smutny koniec.",
+   "points": [
+    {
+     "t": "Skala Rzymu",
+     "d": "Imperium obejmowało według autora czwartą część ludzkości, a Rzym był największym miastem świata aż do XIX w. Rzymianie przewozili 100-tonowe obeliski, a pył z ich kopalni srebra osiadł nawet w lodzie Grenlandii."
+    },
+    {
+     "t": "Jezioro bez odpływu",
+     "d": "Jezioro Fucino ok. 80 km na wschód od Rzymu otaczały żyzne pola, ale bez naturalnego odpływu jego poziom to zalewał, to odsłaniał wsie. Dopiero Klaudiusz kazał przebić 300-metrową górę wapienną dzielącą je od rzeki Liri oddalonej o 8 km."
+    },
+    {
+     "t": "Tunel Klaudiusza",
+     "d": "30 tys. ludzi przez 11 lat drążyło tunel o wysokości 3 m, szerokości 1,5 m i długości 5,6 km, z 40 pionowymi szybami do wentylacji i wyciągania urobku. Według autora był najdłuższym tunelem świata aż do końca XIX w."
+    },
+    {
+     "t": "Dwa nieudane otwarcia",
+     "d": "Na otwarcie Klaudiusz urządził bitwę morską 19 tys. niewolników i skazańców. Dno tunelu okazało się za wysoko i woda nie odpływała; po pogłębieniu woda runęła tak gwałtownie, że rzeka zalała ucztę i cesarz ledwo uszedł z życiem."
+    },
+    {
+     "t": "Osuszone dopiero w XIX w.",
+     "d": "Tunel działał kilka stuleci, ale w późnej starożytności się zatkał i jezioro wróciło. Mimo prób w średniowieczu i renesansie osuszono je dopiero w połowie XIX w., z pomocą koparek parowych i materiałów wybuchowych."
+    },
+    {
+     "t": "Żelazna Brama Dunaju",
+     "d": "Na granicy dzisiejszej Serbii i Rumunii Dunaj przeciska się między klifami dwóch pasm górskich i do budowy zapór w XX w. tworzył groźne bystrza. Przed wyprawą na Dację Trajan kazał poprowadzić tam drogę wojskową."
+    },
+    {
+     "t": "Droga w skale i nad wodą",
+     "d": "Połowę drogi wykuto w ścianie klifu, a resztę oparto na belkach wystających nad nurt. Inżynierowie upamiętnili to inskrypcją Tabula Traiana, a wzdłuż drogi wykopano kanały, by łodzie omijały bystrza."
+    },
+    {
+     "t": "Most Trajana",
+     "d": "Poniżej wąwozu stanął największy most starożytności: 20 filarów wznoszących się 18 m nad wodą i drewniane kratownice z jezdnią dłuższą niż 1 km. Filary przetrwały do średniowiecza, fundamenty wysadzono na początku XX w., a resztę zalał zbiornik."
+    },
+    {
+     "t": "Ukryty port Agryppy",
+     "d": "Wojując z Sekstusem Pompejuszem, Oktawian potrzebował osłoniętego portu. Agryppa połączył kanałami jezioro Lucrino z morzem i z jeziorem Averno w kraterze wulkanu, tworząc port niewidoczny dla wrogich patroli."
+    },
+    {
+     "t": "Tunele i flota",
+     "d": "Inżynier Lucjusz Kokcejusz Auktus przebił tunele przez okoliczne wzgórza, z których Grotta di Cocceio miała prawie 1 km i mieściła 2 wozy obok siebie. Agryppa wyszkolił tam 20 tys. ludzi i w 36 r. p.n.e. pokonał Sekstusa pod Naulochos."
+    },
+    {
+     "t": "Koniec pod nowym wzgórzem",
+     "d": "Flota szybko przeniosła się do Misenum. W 1538 r. erupcja w ciągu 2 dni usypała wzgórze Monte Nuovo, zasypując większość jeziora Lucrino; ruiny portu wciąż widać nad Averno."
+    }
+   ],
+   "conclusion": "Rzymianie budowali z rozmachem, ale nawet ich megaprojekty pokonały muł, rzeki, wojny i wulkany.",
+   "factchecks": [
+    {
+     "claim": "Rzymski ołów i srebro zostawiły ślady w lodzie Grenlandii.",
+     "verdict": "prawda",
+     "note": "Badanie rdzeni lodowych z 2018 r. pokazało wzrost zanieczyszczeń ołowiem z wydobycia srebra w czasach Rzymu.",
+     "p": 0,
+     "src": [
+      [
+       "PNAS: zanieczyszczenie ołowiem w lodzie Grenlandii (McConnell i in., 2018)",
+       "https://doi.org/10.1073/pnas.1721818115"
+      ]
+     ]
+    },
+    {
+     "claim": "Tunel Klaudiusza miał 5,6 km i był najdłuższy aż do końca XIX w.",
+     "verdict": "prawda",
+     "note": "Ma ok. 5,65 km; dłuższe tunele pojawiły się dopiero w XIX w., np. kolejowy Fréjus (1871).",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): jezioro Fucino - hasło \"Fucine Lake\"",
+       "https://en.wikipedia.org/wiki/Fucine_Lake"
+      ]
+     ]
+    },
+    {
+     "claim": "Na otwarcie Klaudiusz urządził bitwę morską 19 tys. walczących, a powódź zalała ucztę.",
+     "verdict": "prawda",
+     "note": "Tak opisuje to Tacyt (Roczniki XII); liczba 19 tys. pochodzi z jego relacji.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): naumachia - hasło \"Naumachia\"",
+       "https://en.wikipedia.org/wiki/Naumachia"
+      ]
+     ]
+    },
+    {
+     "claim": "Most Trajana miał 20 filarów i ponad 1 km długości.",
+     "verdict": "prawda",
+     "note": "Miał ok. 1135 m i 20 filarów; przez ponad 1000 lat był najdłuższym mostem łukowym świata.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): most Trajana - hasło \"Trajan's Bridge\"",
+       "https://en.wikipedia.org/wiki/Trajan%27s_Bridge"
+      ],
+      [
+       "Wikipedia (ang.): Tabula Traiana - hasło \"Tabula Traiana\"",
+       "https://en.wikipedia.org/wiki/Tabula_Traiana"
+      ]
+     ]
+    },
+    {
+     "claim": "Port Agryppy łączył jeziora Averno i Lucrino, a w 36 r. p.n.e. flota wygrała pod Naulochos.",
+     "verdict": "prawda",
+     "note": "Portus Iulius zbudowano w 37 r. p.n.e.; bitwa pod Naulochos odbyła się we wrześniu 36 r. p.n.e.",
+     "p": [
+      8,
+      9
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): Portus Julius - hasło \"Portus Julius\"",
+       "https://en.wikipedia.org/wiki/Portus_Julius"
+      ],
+      [
+       "Wikipedia (ang.): bitwa pod Naulochos - hasło \"Battle of Naulochus\"",
+       "https://en.wikipedia.org/wiki/Battle_of_Naulochus"
+      ]
+     ]
+    },
+    {
+     "claim": "Erupcja w 1538 r. usypała wzgórze Monte Nuovo wysokie na ok. 180 m.",
+     "verdict": "przesada",
+     "note": "Monte Nuovo ma ok. 132 m n.p.m.; powstało w ciągu kilku dni we wrześniu 1538 r.",
+     "p": 10,
+     "src": [
+      [
+       "Wikipedia (ang.): Monte Nuovo - hasło \"Monte Nuovo\"",
+       "https://en.wikipedia.org/wiki/Monte_Nuovo"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i barwny; drobne zawyżenia (wysokość Monte Nuovo) i lekko kpiący ton wobec Klaudiusza."
+  },
+  {
+   "id": "SnIS9Ozo7NM",
+   "title_pl": "Starożytne teorie spiskowe",
+   "title": "Ancient Conspiracy Theories",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=SnIS9Ozo7NM",
+   "date": "2022-10-21",
+   "duration": 1005,
+   "views": 1540369,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Psychologia"
+   ],
+   "about": "Trzy starożytne teorie spiskowe: okaleczenie hermów w Atenach, rzekome otrucie Aleksandra Wielkiego i rzymska nagonka na manichejczyków.",
+   "intro": "Garrett Ryan z toldinstone opowiada o trzech teoriach spiskowych ze starożytności. Najpierw afera hermów w Atenach w 415 r. p.n.e. i oskarżenia wobec Alkibiadesa, potem plotka, że Aleksandra Wielkiego otruto trucizną od Arystotelesa, na koniec edykt Dioklecjana, który uznał manicheizm za perski spisek.",
+   "points": [
+    {
+     "t": "Spiski i teorie spiskowe",
+     "d": "Starożytność zna wiele prawdziwych spisków, np. Katyliny, Pizona przeciw Neronowi czy \"spisek barbarzyński\" na Brytanię. Teorie o tajnej organizacji pociągającej za sznurki pojawiały się według autora głównie w czasach ostrych kryzysów."
+    },
+    {
+     "t": "Alkibiades",
+     "d": "Najgłośniejszy polityk Aten: błyskotliwy, czarujący i bez skrupułów, z rodu Peryklesa. Zasłynął agresywną polityką wobec Sparty i wystawieniem aż 7 kosztownych rydwanów na igrzyskach w Olimpii, ale jego rozwiązłe życie budziło nieufność."
+    },
+    {
+     "t": "Okaleczenie hermów",
+     "d": "Wiosną 415 r. p.n.e., tuż przed wyprawą na Sycylię, prawie wszystkim hermom w Atenach (kamiennym słupom z głową boga i fallusem) odbito nosy i fallusy. Uznano to za świętokradztwo i zły znak, a w mieście zrodziła się teoria o tajnej kliki chcącej obalić ustrój."
+    },
+    {
+     "t": "Oskarżenie bez dowodów",
+     "d": "Śledztwo ujawniło też parodiowanie misteriów eleuzyjskich, w którym miał brać udział Alkibiades. Pod jego nieobecność plotka urosła do spisku arystokratów; gdy w pobliżu pojawił się mały oddział Spartan, uznano, że to wezwali spiskowcy, a Alkibiadesa wezwano na proces."
+    },
+    {
+     "t": "Ofiara teorii spiskowej",
+     "d": "Według autora parodia misteriów jest możliwa, ale Alkibiades nie miał powodu obalać ustroju, który właśnie dał mu dowództwo. Zamachy oligarchów były realnym zagrożeniem, w kolejnych latach doszło do 2."
+    },
+    {
+     "t": "Śmierć Aleksandra",
+     "d": "Aleksander zmarł w Babilonie 10 czerwca 323 r. p.n.e. w wieku 32 lat po 10 dniach gorączki, która zaczęła się po zakrapianej uczcie. Późniejsza wersja dodawała dramatyczny krzyk bólu przy piciu z pucharu."
+    },
+    {
+     "t": "Trucizna od Arystotelesa",
+     "d": "Plotka głosiła, że Antypater wysłał syna Jollasa, by wlał królowi truciznę z wód Styksu, przygotowaną przez Arystotelesa i przewiezioną w kopycie muła. Arystoteles miał motyw: Aleksander stracił jego siostrzeńca Kallistenesa."
+    },
+    {
+     "t": "Krwawe rozliczenia",
+     "d": "Olimpias straciła kilku rzekomych spiskowców i kazała rozrzucić kości Jollasa. Kassander zabił ją i zostawił ciało bez pochówku, a mówcy Hyperejdesowi, który chciał uhonorować Jollasa, wycięto język. Według autora śmierć Aleksandra to raczej malaria, alkohol i stare rany."
+    },
+    {
+     "t": "Mani i manicheizm",
+     "d": "Ponad 500 lat później prorok Mani w Mezopotamii głosił walkę światła z ciemnością: wybrani wyrzekali się majątku, a słuchacze ich wspierali. Wspierany przez szacha, słał misjonarzy do Indii, Azji Środkowej i Cesarstwa Rzymskiego."
+    },
+    {
+     "t": "Edykt Dioklecjana",
+     "d": "W 302 r. Dioklecjan uznał manicheizm za perski spisek przeciw Rzymowi: nawróconych czekała śmierć, urzędników kopalnie, a kaznodziejów stos z ich księgami. Kolejni cesarze, już chrześcijańscy, przez ponad 2 stulecia ścigali sektę jako herezję."
+    },
+    {
+     "t": "Spisku nie było",
+     "d": "Mani tylko przez pewien czas cieszył się łaską dworu, zmarł w więzieniu, a jego religię w Persji prześladowali kapłani zaratusztriańscy. Według autora rzymska krucjata wyrosła z zabójczej prostoty teorii spiskowej."
+    }
+   ],
+   "conclusion": "Teorie spiskowe żyją niezależnie od faktów, a w kryzysie potrafią kosztować życie i trwać stulecia.",
+   "factchecks": [
+    {
+     "claim": "Alkibiades wystawił 7 rydwanów na igrzyskach olimpijskich.",
+     "verdict": "prawda",
+     "note": "W 416 r. p.n.e. wystawił 7 zaprzęgów i zajął 1., 2. i 4. miejsce, jak podaje Tukidydes.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Alkibiades - hasło \"Alcibiades\"",
+       "https://en.wikipedia.org/wiki/Alcibiades"
+      ]
+     ]
+    },
+    {
+     "claim": "W 415 r. p.n.e. przed wyprawą sycylijską okaleczono hermy w Atenach.",
+     "verdict": "prawda",
+     "note": "Afera hermokopidów wybuchła tuż przed wypłynięciem floty; o udział oskarżono m.in. Alkibiadesa.",
+     "p": [
+      2,
+      3
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): herma - hasło \"Herma\"",
+       "https://en.wikipedia.org/wiki/Herma"
+      ],
+      [
+       "Wikipedia (ang.): wyprawa sycylijska - hasło \"Sicilian Expedition\"",
+       "https://en.wikipedia.org/wiki/Sicilian_Expedition"
+      ]
+     ]
+    },
+    {
+     "claim": "W ciągu dekady od wyprawy doszło do 2 zamachów oligarchów.",
+     "verdict": "prawda",
+     "note": "Rządy Czterystu w 411 r. p.n.e. i Trzydziestu Tyranów w 404 r. p.n.e., czyli 11 lat po wyprawie.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): przewrót ateński - hasło \"Athenian coup of 411 BC\"",
+       "https://en.wikipedia.org/wiki/Athenian_coup_of_411_BC"
+      ],
+      [
+       "Wikipedia (ang.): Trzydziestu Tyranów - hasło \"Thirty Tyrants\"",
+       "https://en.wikipedia.org/wiki/Thirty_Tyrants"
+      ]
+     ]
+    },
+    {
+     "claim": "Aleksander zmarł w Babilonie 10 czerwca 323 r. p.n.e., mając 32 lata.",
+     "verdict": "prawda",
+     "note": "Źródła podają 10 lub 11 czerwca; miał niespełna 33 lata.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): śmierć Aleksandra - hasło \"Death of Alexander the Great\"",
+       "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+      ]
+     ]
+    },
+    {
+     "claim": "Aleksander kazał stracić Kallistenesa, siostrzeńca Arystotelesa.",
+     "verdict": "prawda",
+     "note": "Kallistenes zginął w 327 r. p.n.e. po spisku paziów; relacje o sposobie śmierci się różnią.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Kallistenes - hasło \"Callisthenes\"",
+       "https://en.wikipedia.org/wiki/Callisthenes"
+      ]
+     ]
+    },
+    {
+     "claim": "Hyperejdesa schwytał łowca nagród Kassandra.",
+     "verdict": "półprawda",
+     "note": "Hyperejdesa ścigał Archiasz na zlecenie Antypatra, ojca Kassandra, i stracono go w 322 r. p.n.e.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): Hyperejdes - hasło \"Hypereides\"",
+       "https://en.wikipedia.org/wiki/Hypereides"
+      ]
+     ]
+    },
+    {
+     "claim": "Najbardziej prawdopodobna przyczyna śmierci Aleksandra to malaria, a nie trucizna.",
+     "verdict": "nie da się sprawdzić",
+     "note": "Historycy wymieniają malarię, tyfus, zapalenie trzustki i inne; teza o otruciu nie ma mocnych dowodów.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): śmierć Aleksandra - hasło \"Death of Alexander the Great\"",
+       "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+      ]
+     ]
+    },
+    {
+     "claim": "W 302 r. Dioklecjan wydał edykt przeciw manichejczykom, karząc kaznodziejów stosem.",
+     "verdict": "prawda",
+     "note": "Edykt zachował się w Collatio; datuje się go na 302 r. (część badaczy na 297 r.).",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): manicheizm - hasło \"Manichaeism\"",
+       "https://en.wikipedia.org/wiki/Manichaeism"
+      ]
+     ]
+    },
+    {
+     "claim": "Mani zmarł w więzieniu, prześladowany przez kapłanów zaratusztriańskich.",
+     "verdict": "prawda",
+     "note": "Zmarł ok. 274-277 r. w więzieniu za Bahrama I, przy wpływie arcykapłana Kartira.",
+     "p": 10,
+     "src": [
+      [
+       "Wikipedia (ang.): Mani - hasło \"Mani (prophet)\"",
+       "https://en.wikipedia.org/wiki/Mani_(prophet)"
+      ],
+      [
+       "Wikipedia (ang.): Kartir - hasło \"Kartir\"",
+       "https://en.wikipedia.org/wiki/Kartir"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, spokojny wykład historyka ze źródłami; drobne uproszczenia (Hyperejdes) i reklama sponsora na początku."
+  },
+  {
+   "id": "mkrhwBl3jms",
+   "title_pl": "Czy Rzymianie wiedzieli, ile lat mają piramidy?",
+   "title": "Did the Romans Know How Old the Pyramids Were?",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=mkrhwBl3jms",
+   "date": "2022-08-12",
+   "duration": 530,
+   "views": 1279356,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia"
+   ],
+   "about": "Jak Grecy i Rzymianie wyobrażali sobie przeszłość Egiptu i dlaczego mylili się co do wieku piramid w Gizie.",
+   "intro": "Garrett Ryan z toldinstone zaczyna od obelisku postawionego w Circus Maximus w 357 r., którego hieroglifów nikt w Rzymie nie umiał przeczytać. Pokazuje, jak Grecy i Rzymianie mierzyli przeszłość mitami, jak fascynował ich Egipt i dlaczego datowali piramidy o tysiące lat za późno, choć poprawna kronika istniała.",
+   "points": [
+    {
+     "t": "Obelisk w Circus Maximus",
+     "d": "W 357 r. Konstancjusz II sprowadził obelisk z największej świątyni Egiptu: przypłynął specjalną barką, przetoczono go na drewnianej kołysce i podniosły go tysiące ludzi przy kabestanach. Miał ok. 32 m i ok. 400 t, a jego hieroglifów nikt w Rzymie nie umiał odczytać."
+    },
+    {
+     "t": "Czas mierzony mitem",
+     "d": "Rzymianie sądzili, że Rzym założono ok. 11 wieków wcześniej, a wojna trojańska była ponad 400 lat przed nim. O tym, co wcześniej, wiedzieli tylko z mitów: ruiny mykeńskie przypisywano bohaterom Iliady lub cyklopom."
+    },
+    {
+     "t": "Znaleziska tłumaczone legendą",
+     "d": "Ateńczycy uznali kości wysokiego mężczyzny z brązową bronią za szczątki Tezeusza, a kamienną trumnę odsłoniętą przez powódź pod Rzymem za grób króla Numy. Spartański król Agesilaos, nie umiejąc odczytać tabliczki z grobu Alkmeny, wysłał ją do Egiptu."
+    },
+    {
+     "t": "Egipt w świecie klasycznym",
+     "d": "Grecy docierali nad Nil od VII w. p.n.e., po Aleksandrze przez 3 wieki rządzili nim Ptolemeusze, a od Augusta Egipt był prowincją rzymską przez prawie 700 lat. Mimo to elity widziały go jako egzotyczną krainę cudów."
+    },
+    {
+     "t": "Moda na Egipt",
+     "d": "W Rzymie stawiano obeliski, malowano sceny nilowe w willach, a elita budowała grobowce-piramidy, choć Pliniusz Starszy krytykował piramidy jako próżny pokaz bogactwa. Rzymscy turyści płacili wieśniakom za wspinanie się na Wielką Piramidę i ryli na niej graffiti."
+    },
+    {
+     "t": "Faraonowie sprzed tysięcy lat",
+     "d": "Herodot uważał, że pierwsi faraonowie panowali ok. 15000 lat p.n.e., a Diodor przesunął to do ok. 23000 lat p.n.e. W rzeczywistości państwo egipskie powstało tuż przed 3000 r. p.n.e."
+    },
+    {
+     "t": "Piramidy datowane za późno",
+     "d": "Piramidy w Gizie zbudowano w XXVI w. p.n.e., a Herodot umieścił budowniczego Wielkiej Piramidy ok. 1200 r. p.n.e., Diodor w X w. p.n.e. Piramidę Mykerinosa tradycja przypisywała nawet greckiej kurtyzanie Rodopis z VI w. p.n.e."
+    },
+    {
+     "t": "Zanikająca wiedza kapłanów",
+     "d": "Hieroglify umiała czytać tylko kurcząca się grupa kapłanów, więc długo przed ostatnią inskrypcją pod koniec IV w. zapisy na pomnikach były niezrozumiałe nawet dla ich strażników."
+    },
+    {
+     "t": "Zapomniany Manetho",
+     "d": "W III w. p.n.e. Egipcjanin Manetho napisał po grecku historię Egiptu, która poprawnie datowała piramidy na wczesny okres. Grecy i Rzymianie woleli jednak klasycznego, chronologicznie chaotycznego Herodota."
+    }
+   ],
+   "conclusion": "Grecy i Rzymianie widzieli Egipt przez pryzmat własnej kultury i klasyków, a czego te nie pokazywały, nie chcieli widzieć.",
+   "factchecks": [
+    {
+     "claim": "W 357 r. Konstancjusz II postawił w Circus Maximus obelisk z Egiptu.",
+     "verdict": "prawda",
+     "note": "To dzisiejszy Obelisk Laterański z Karnaku, ok. 32 m wysokości, przeniesiony na Lateran w 1588 r.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Obelisk Laterański - hasło \"Lateran Obelisk\"",
+       "https://en.wikipedia.org/wiki/Lateran_Obelisk"
+      ]
+     ]
+    },
+    {
+     "claim": "Kimon przywiózł ze Skiros kości uznane za szczątki Tezeusza.",
+     "verdict": "prawda",
+     "note": "Plutarch opisuje znalezisko z ok. 475 r. p.n.e.: duży szkielet z włócznią i mieczem z brązu.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Tezeusz - hasło \"Theseus\"",
+       "https://en.wikipedia.org/wiki/Theseus"
+      ]
+     ]
+    },
+    {
+     "claim": "Pliniusz Starszy nazwał piramidy próżnym pokazem bogactwa królów.",
+     "verdict": "prawda",
+     "note": "W Historii naturalnej (ks. 36) pisze o piramidach jako bezużytecznym i głupim popisie bogactwa.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Wielka Piramida - hasło \"Great Pyramid of Giza\"",
+       "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+      ]
+     ]
+    },
+    {
+     "claim": "Państwo egipskie powstało tuż przed 3000 r. p.n.e., a piramidy w Gizie w XXVI w. p.n.e.",
+     "verdict": "prawda",
+     "note": "Zjednoczenie ok. 3100 r. p.n.e.; Wielką Piramidę datuje się na ok. 2600-2560 r. p.n.e.",
+     "p": [
+      5,
+      6
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): wczesny okres dynastyczny - hasło \"Early Dynastic Period (Egypt)\"",
+       "https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Egypt)"
+      ],
+      [
+       "Wikipedia (ang.): Wielka Piramida - hasło \"Great Pyramid of Giza\"",
+       "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+      ]
+     ]
+    },
+    {
+     "claim": "Tradycja przypisywała piramidę Mykerinosa kurtyzanie Rodopis.",
+     "verdict": "prawda",
+     "note": "Herodot przytacza tę wersję i ją odrzuca; powtarzali ją później Strabon i Diodor.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Rodopis - hasło \"Rhodopis\"",
+       "https://en.wikipedia.org/wiki/Rhodopis"
+      ]
+     ]
+    },
+    {
+     "claim": "Ostatnią inskrypcję hieroglificzną wyryto pod koniec IV w.",
+     "verdict": "prawda",
+     "note": "Graffito Esmet-Achoma na wyspie File pochodzi z 394 r.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): graffito Esmet-Achoma - hasło \"Graffito of Esmet-Akhom\"",
+       "https://en.wikipedia.org/wiki/Graffito_of_Esmet-Akhom"
+      ]
+     ]
+    },
+    {
+     "claim": "Manetho w III w. p.n.e. napisał po grecku historię Egiptu.",
+     "verdict": "prawda",
+     "note": "Jego Aegyptiaca zna się z odpisów; podział na dynastie stosuje się do dziś.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Manetho - hasło \"Manetho\"",
+       "https://en.wikipedia.org/wiki/Manetho"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i wyważony; masa obeliska podana z zaokrągleniem, poza tym brak przekłamań. Reklama sponsora w środku."
   },
   {
    "id": "dvWtaHFG7QI",
