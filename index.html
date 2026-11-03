@@ -46,6 +46,7 @@ main{padding:6px 0 0}
 .num{display:block;font:900 3.3rem/1 var(--disp);font-variation-settings:"opsz" 144;color:var(--ac);letter-spacing:-.03em;margin:0 0 8px}
 .card.read .num{color:var(--mut)}
 .side b{display:block;color:var(--ink);font-weight:600}
+.side span:not(.num){display:block}
 .card h2{font:700 clamp(1.45rem,3.6vw,2.15rem)/1.12 var(--disp);font-variation-settings:"opsz" 96;letter-spacing:-.012em;margin:0}
 .card h2 a{text-decoration:none}.card h2 a:hover{text-decoration:underline}
 .card.read h2 a{color:var(--mut)}
@@ -95,11 +96,12 @@ footer .b{vertical-align:1px}
  .ctl{grid-template-columns:1fr 1fr 1fr}
  .f.q{grid-column:1/-1;border-right:0;border-bottom:1px solid var(--ink);padding:6px 0}
  .f:nth-child(2){padding-left:0}
- .f select{font-size:.95rem}
+ .f select{font-size:.9rem;padding-right:16px;text-overflow:ellipsis}
  .card{grid-template-columns:1fr;padding:22px 0}
  .side{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 14px;border-top:3px solid var(--ink);margin-bottom:12px}
  .num{font-size:2.2rem;margin:0 6px 0 0}
  .side b{display:inline}
+ .side span:not(.num){display:inline}
  .rb{width:100%}
 }
 </style>
@@ -117,7 +119,7 @@ footer .b{vertical-align:1px}
 <div class="f q"><label for="q">Szukaj</label><input id="q" type="search" placeholder="tytuły, streszczenia, weryfikacja" autocomplete="off"></div>
 <div class="f"><label for="fr">Pokaż</label><select id="fr"><option value="all">Wszystkie</option><option value="unread">Nieprzeczytane</option><option value="read">Przeczytane</option></select></div>
 <div class="f"><label for="ft">Temat</label><select id="ft"><option value="">Wszystkie</option></select></div>
-<div class="f"><label for="so">Kolejność</label><select id="so"><option value="new">Najnowsze</option><option value="old">Najstarsze</option><option value="pop">Najpopularniejsze</option></select></div>
+<div class="f"><label for="so">Kolejność</label><select id="so"><option value="new">Najnowsze</option><option value="old">Najstarsze</option><option value="pop">Popularne</option></select></div>
 </div>
 <div class="status"><span id="stat"></span><span class="sync" id="sync">synchronizacja...</span></div>
 </div></div>
