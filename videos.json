@@ -1,6 +1,748 @@
 {
  "videos": [
   {
+   "id": "difPlwouuPY",
+   "title_pl": "Gdy pęknie bańka AI: lekcja z cmentarzyska drewnianych statków",
+   "title": "When the AI bubble pops...",
+   "channel": "Phil Edwards",
+   "url": "https://www.youtube.com/watch?v=difPlwouuPY",
+   "date": "2026-11-02",
+   "duration": 861,
+   "views": 97911,
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Technika"
+   ],
+   "about": "Autor porównuje boom centrów danych AI do drewnianych statków z I wojny światowej, które dziś leżą w zatoce Mallows Bay.",
+   "intro": "Phil Edwards płynie kajakiem po Mallows Bay w Maryland, gdzie leży ponad 100 drewnianych statków z I wojny światowej. Porównuje ten pospieszny program budowy do dzisiejszego boomu centrów danych AI. Pokazuje, że bańka to nie tylko spekulacja finansowa, ale też fizyczne pozostałości po nadmiernej budowie. Film ma sponsora (Hostinger).",
+   "points": [
+    {
+     "t": "Centra danych zmieniają krajobraz",
+     "d": "Zdjęcia satelitarne przed i po pokazują, jak setki centrów danych za miliardy dolarów zastępują pola, np. centrum Amazona w Karolinie Północnej i Clarksville w Arkansas. Od Data Center Alley w Wirginii do Mallows Bay jest ok. 137 km."
+    },
+    {
+     "t": "Pośpiech bez znanego terminu",
+     "d": "W 1917 r. USA założyły Emergency Fleet Corporation, by przy niedoborze stali szybko budować statki na wojnę. Wydano setki milionów dolarów, a nikt nie wiedział, kiedy wojna się skończy, tak jak dziś nie wiadomo, kiedy nastąpią przełomy w AI."
+    },
+    {
+     "t": "Bańka pochłania zasoby",
+     "d": "Gazeta pisała o 68 planach budowy na 375 statków z sosny długoigielnej, której nie wolno było sprzedawać gdzie indziej, choć nie była dobrym materiałem. Autor porównuje to do drożejącej pamięci komputerowej wykupywanej przez boom AI."
+    },
+    {
+     "t": "Nowa infrastruktura",
+     "d": "W ciągu 2 lat przybyło 120 stoczni i 657 pochylni. Według autora to dokładnie odpowiada dzisiejszej budowie elektrowni i sieci dla centrów danych."
+    },
+    {
+     "t": "Polityka pompuje bańkę",
+     "d": "Hasło wyścigu z Chinami napędza inwestycje w AI, np. projekt Stargate w Teksasie Trumpa i OpenAI. Po I wojnie szef Shipping Board bronił niewykorzystanych statków, bo w czasie wojny nie ma nadwyżek. Bańka pękła, gdy wojna skończyła się wcześniej, niż sądzono."
+    },
+    {
+     "t": "Gorszy materiał, gorsza budowa",
+     "d": "Drewniane statki były słabsze nie tylko przez trwałość: wymagały dużo więcej wzmocnień wewnątrz niż stalowe. Najpopularniejszy był projekt Design 1001; po wojnie statki były drogie w utrzymaniu, a w 1925 r. odholowano je do Mallows Bay."
+    },
+    {
+     "t": "Niepewność centrów danych",
+     "d": "Wiele centrów danych powstaje bez stabilnego zasilania, a nie wiadomo, czy GPU w środku za 5 lat będą coś warte. Niejasne jest też, czy AI nie przeniesie się na lokalne urządzenia; Apple według autora na to stawia."
+    },
+    {
+     "t": "Płonący basen i złom",
+     "d": "Statki malowano kamuflażem dazzle, który radar uczynił prawie bezużytecznym. W II wojnie rząd zaryzykował 200 000 dolarów, by odzyskać co najmniej 11 000 ton metalu: statki spalono w basenie i wyciągano złom elektromagnesem. Dziś to rezerwat przyrody morskiej."
+    },
+    {
+     "t": "Lekcja światłowodów",
+     "d": "Boom światłowodowy z lat 2000. uznano wtedy za klapę, ale ta infrastruktura zbudowała współczesny internet. Autor sądzi, że AI nie pęknie nagle jak koniec wojny, ale boom zostawi i użyteczne rzeczy, i drewniane statki."
+    }
+   ],
+   "conclusion": "Nawet jeśli AI zostanie, boom budowy zostawi po sobie niepotrzebną infrastrukturę i przekształci krajobraz.",
+   "factchecks": [
+    {
+     "claim": "W Mallows Bay leży ponad 100 drewnianych statków z I wojny światowej.",
+     "verdict": "prawda",
+     "note": "Wraków statków z programu wojennego jest tam ok. 230; od 2019 r. to rezerwat morski NOAA.",
+     "p": null,
+     "src": [
+      [
+       "Wikipedia (ang.): zatoka Mallows Bay - hasło \"Mallows Bay\"",
+       "https://en.wikipedia.org/wiki/Mallows_Bay"
+      ],
+      [
+       "NOAA: rezerwat Mallows Bay-Potomac River",
+       "https://sanctuaries.noaa.gov/mallows-potomac/"
+      ]
+     ]
+    },
+    {
+     "claim": "Emergency Fleet Corporation powstała w 1917 r.",
+     "verdict": "prawda",
+     "note": "Utworzono ją 16 kwietnia 1917 r. przy U.S. Shipping Board.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Emergency Fleet Corporation - hasło \"Emergency Fleet Corporation\"",
+       "https://en.wikipedia.org/wiki/Emergency_Fleet_Corporation"
+      ]
+     ]
+    },
+    {
+     "claim": "Design 1001 był najpopularniejszy, a w 1925 r. statki odholowano do Mallows Bay.",
+     "verdict": "prawda",
+     "note": "Design 1001 (typ Ferris) z sosny lub daglezji był standardowym projektem; holowanie w 1925 r. potwierdza Wikipedia.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): statek typu Design 1001 - hasło \"Design 1001 ship\"",
+       "https://en.wikipedia.org/wiki/Design_1001_ship"
+      ],
+      [
+       "Wikipedia (ang.): zatoka Mallows Bay - hasło \"Mallows Bay\"",
+       "https://en.wikipedia.org/wiki/Mallows_Bay"
+      ]
+     ]
+    },
+    {
+     "claim": "Statki spalono w II wojnie, by odzyskać metal.",
+     "verdict": "półprawda",
+     "note": "Spalono je już ok. 1925 r. po bankructwie firmy złomowej; w II wojnie Bethlehem Steel zbudowało basen do odzysku metalu.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): zatoka Mallows Bay - hasło \"Mallows Bay\"",
+       "https://en.wikipedia.org/wiki/Mallows_Bay"
+      ]
+     ]
+    },
+    {
+     "claim": "Kamuflaż dazzle stał się prawie bezużyteczny przez radar.",
+     "verdict": "prawda",
+     "note": "Tracił sens wraz z dalmierzami i lotnictwem, a w II wojnie radar dodatkowo osłabił jego działanie.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): kamuflaż dazzle - hasło \"Dazzle camouflage\"",
+       "https://en.wikipedia.org/wiki/Dazzle_camouflage"
+      ]
+     ]
+    },
+    {
+     "claim": "Stargate w Teksasie uzasadniano wyścigiem z Chinami.",
+     "verdict": "prawda",
+     "note": "Stargate buduje centra danych w Abilene w Teksasie; ogłoszono go w Białym Domu w 2025 r.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): projekt Stargate - hasło \"Stargate LLC\"",
+       "https://en.wikipedia.org/wiki/Stargate_LLC"
+      ]
+     ]
+    },
+    {
+     "claim": "Apple stawia na AI uruchamianą lokalnie.",
+     "verdict": "półprawda",
+     "note": "Apple Intelligence działa głównie na urządzeniu, ale trudniejsze zadania wysyła do chmury Private Cloud Compute.",
+     "p": 6,
+     "src": [
+      [
+       "Apple: zapowiedź Apple Intelligence (2024)",
+       "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/"
+      ]
+     ]
+    },
+    {
+     "claim": "Nadmiar światłowodów z boomu stał się potem podstawą internetu.",
+     "verdict": "prawda",
+     "note": "Nadwyżkę po krachu dot-com nazwano ciemnym włóknem; później stworzyła nowy rynek usług.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): ciemne włókno - hasło \"Dark fibre\"",
+       "https://en.wikipedia.org/wiki/Dark_fibre"
+      ],
+      [
+       "Wikipedia (ang.): bańka internetowa - hasło \"Dot-com bubble\"",
+       "https://en.wikipedia.org/wiki/Dot-com_bubble"
+      ]
+     ]
+    }
+   ],
+   "bias": "Analogia luźna i wybiórcza: wojenny program rządu to nie prywatne inwestycje. Sponsor Hostinger chwalony jako platforma AI, co kłóci się z tematem filmu."
+  },
+  {
+   "id": "1qEPZT1FQs0",
+   "title_pl": "Więc MacBooki mają teraz ekrany dotykowe",
+   "title": "So, Apple MacBooks have touch screens now",
+   "channel": "NikTek",
+   "url": "https://www.youtube.com/watch?v=1qEPZT1FQs0",
+   "date": "2026-10-28",
+   "duration": 77,
+   "views": 386134,
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Krótki montaż: Steve Jobs mówi, że pionowy ekran dotykowy nie działa, na tle reklamy nowego MacBooka Pro z dotykiem.",
+   "intro": "Ironiczny, 77-sekundowy montaż. Fragmenty wystąpień Steve'a Jobsa, który przekonuje, że dotykowy ekran w laptopie to zły pomysł, przeplatają się z reklamą nowego MacBooka Pro z ekranem dotykowym i procesorami M5 Pro i M5 Max.",
+   "points": [
+    {
+     "t": "Jobs: pionowy dotyk nie działa",
+     "d": "Jobs mówi, że Apple dawno temu testowało dotyk na pionowym ekranie i to się nie sprawdza: dobrze wygląda na pokazie, ale ręka szybko się męczy, aż \"chce odpaść\". Ekrany dotykowe mają być poziome, stąd gładziki."
+    },
+    {
+     "t": "Reklama nowego MacBooka",
+     "d": "Między wypowiedziami lecą fragmenty reklamy: obraz tak realny, że chce się go dotknąć, a skoro można, to przesuwać, szczypać i przewijać. Reklama poleca M5 Pro lub M5 Max z akceleratorami neuronowymi i baterię na całą noc."
+    }
+   ],
+   "conclusion": "Bez słowa komentarza: zestawienie pokazuje, że Apple zrobiło to, co Jobs uważał za błąd.",
+   "factchecks": [
+    {
+     "claim": "Apple wprowadziło MacBooka z ekranem dotykowym.",
+     "verdict": "prawda",
+     "note": "28.10.2026 Apple ogłosiło MacBooka Pro z ekranem PROLED XDR i dotykiem, z M5 Pro i M5 Max; dostawy od 6.11.",
+     "p": 1,
+     "src": [
+      [
+       "Apple Newsroom: nowy MacBook Pro z dotykiem",
+       "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+      ],
+      [
+       "MacRumors: zapowiedź nowego MacBooka Pro",
+       "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
+      ]
+     ]
+    },
+    {
+     "claim": "Steve Jobs był przeciwny dotykowym ekranom w Macach.",
+     "verdict": "prawda",
+     "note": "Ars Technica przypomina, że Jobs był znanym przeciwnikiem tego pomysłu; cytaty to jego wypowiedzi sprzed lat.",
+     "p": 0,
+     "src": [
+      [
+       "Ars Technica: dotykowy MacBook Pro i sprzeciw Jobsa",
+       "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+      ],
+      [
+       "CNBC: Apple wprowadza dotyk w Macach",
+       "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html"
+      ]
+     ]
+    }
+   ],
+   "bias": "Satyra wyrwana z kontekstu: argument Jobsa z 2010 r. dotyczył ekranu jako jedynego sposobu obsługi, a nowy MacBook ma nadal gładzik i klawiaturę."
+  },
+  {
+   "id": "xB-Gkb7mvlM",
+   "title_pl": "Schudłem 30 kg po 40. Wieczorne podjadanie to nie słaba wola",
+   "title": "Schudłem 30 kg po 40. Wieczorne podjadanie to nie słaba wola.",
+   "channel": "Odchudzanie bez spiny | Leszek Zieliński",
+   "url": "https://www.youtube.com/watch?v=xB-Gkb7mvlM",
+   "date": "2026-10-27",
+   "duration": 672,
+   "views": 13674,
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Ciało i zdrowie",
+    "Psychologia"
+   ],
+   "about": "Skąd bierze się wieczorne podjadanie: głód, jedzenie emocjonalne i nawyki, jak sobie z nimi radzić i kiedy iść do lekarza.",
+   "intro": "Leszek, technolog żywności, który schudł ze 124 do 94 kg, tłumaczy, że wieczorne podjadanie rzadko wynika z braku silnej woli. Wymienia 3 przyczyny: głód, jedzenie emocjonalne i nawyki, do każdej daje prosty sposób. Mówi też, kiedy problem wymaga specjalisty.",
+   "points": [
+    {
+     "t": "Kim jest autor",
+     "d": "Ma 45 lat; ważył 124 kg przy otyłości II stopnia z cukrzycą typu 2 i stłuszczeniem wątroby. Teraz waży 94 kg, glikemia jest w normie bez leków, cukrzyca w remisji, a stłuszczenia wątroby nie ma. Jest technologiem żywności z kilkunastoletnim stażem."
+    },
+    {
+     "t": "Mit baterii silnej woli",
+     "d": "Popularna teoria mówi, że rano mamy pełną baterię silnej woli, a wieczorem się wyczerpuje. Autor uważa, że może jest w tym ziarno prawdy, ale jako główna przyczyna oznaczałaby codzienną, coraz trudniejszą walkę do końca życia."
+    },
+    {
+     "t": "Przyczyna 1: zwykły głód",
+     "d": "Kolacja ma być sycąca, z białkiem, z ok. 2 godzinami przerwy przed snem; nie musi być przed 18:00. Dwie kromki chleba z wędliną to słaby posiłek. Głód przychodzi falami po 30-60 minut, a przy stałych porach jedzenia pojawia się w porze posiłku."
+    },
+    {
+     "t": "Przyczyna 2: jedzenie emocjonalne",
+     "d": "Ochota na chipsy godzinę po dobrej kolacji to wyuczona reakcja na emocje; u autora na nudę i pustkę. Nie chodzi o walkę z emocjami, tylko o inną nagrodę: dla niego było to zgłębianie odchudzania, potem kanał na YouTube."
+    },
+    {
+     "t": "Przyczyna 3: nawyk",
+     "d": "Kanapa, serial i coś do chrupania powtarzane tysiące razy stają się automatem bez głodu i emocji. Rada: odczekaj 10-15 minut, a jeśli ochota nie mija, wstań, zatrzymaj serial, odmierz porcję i zjedz bez oglądania. Przekąski najlepiej schować lub nie trzymać w domu."
+    },
+    {
+     "t": "Kiedy do lekarza",
+     "d": "Gdy objadasz się w ukryciu, po napadzie masz silne negatywne emocje albo budzisz się w nocy, by coś zjeść. Jeśli takie epizody zdarzają się częściej niż raz w tygodniu przez ponad 3 miesiące, potrzebny jest specjalista, nie film. Wspomina też o \"food noise\", czyli natrętnych myślach o jedzeniu."
+    }
+   ],
+   "conclusion": "Wieczorne podjadanie ma zwykle kilka przyczyn; gdy się je zrozumie, da się nad nim zapanować.",
+   "factchecks": [
+    {
+     "claim": "Utrata wagi może doprowadzić do remisji cukrzycy typu 2.",
+     "verdict": "prawda",
+     "note": "W badaniu DiRECT po roku remisję miało 46% osób na programie odchudzania i 86% tych, co schudli 15 kg lub więcej.",
+     "p": 0,
+     "src": [
+      [
+       "Lean i in. 2018, Lancet: badanie DiRECT (PubMed)",
+       "https://pubmed.ncbi.nlm.nih.gov/29221645/"
+      ]
+     ]
+    },
+    {
+     "claim": "Teoria \"baterii silnej woli\" może mieć ziarno prawdy.",
+     "verdict": "półprawda",
+     "note": "To tzw. wyczerpanie ego; duże replikacje (m.in. w 23 laboratoriach) nie potwierdziły efektu.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): wyczerpanie ego - hasło \"Ego depletion\"",
+       "https://en.wikipedia.org/wiki/Ego_depletion"
+      ]
+     ]
+    },
+    {
+     "claim": "Przy stałych porach jedzenia głód pojawia się w porze posiłku.",
+     "verdict": "prawda",
+     "note": "Poziom greliny, hormonu głodu, rośnie przed zwykłą porą posiłku i spada po jedzeniu.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): grelina - hasło \"Ghrelin\"",
+       "https://en.wikipedia.org/wiki/Ghrelin"
+      ]
+     ]
+    },
+    {
+     "claim": "Napady częściej niż raz w tygodniu przez ponad 3 miesiące to sygnał do lekarza.",
+     "verdict": "prawda",
+     "note": "Zgadza się z kryteriami zaburzenia z napadami objadania się (DSM-5: raz w tygodniu przez 3 miesiące).",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): zaburzenie z napadami objadania się - hasło \"Binge eating disorder\"",
+       "https://en.wikipedia.org/wiki/Binge_eating_disorder"
+      ],
+      [
+       "NIMH: zaburzenia odżywiania",
+       "https://www.nimh.nih.gov/health/topics/eating-disorders"
+      ]
+     ]
+    },
+    {
+     "claim": "Budzenie się w nocy, by jeść, wymaga konsultacji.",
+     "verdict": "prawda",
+     "note": "To objaw zespołu jedzenia nocnego, ujętego w DSM-5 jako zaburzenie odżywiania.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): zespół jedzenia nocnego - hasło \"Night eating syndrome\"",
+       "https://en.wikipedia.org/wiki/Night_eating_syndrome"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rady oparte głównie na własnym doświadczeniu autora, bez źródeł; poza tym wyważony, bez sprzedaży diet i suplementów."
+  },
+  {
+   "id": "yTvakY_xVJk",
+   "title_pl": "Dlaczego Rzymianie nigdy nie przekroczyli równika",
+   "title": "Why the Romans Could Never Cross the Equator",
+   "channel": "KhAnubis",
+   "url": "https://www.youtube.com/watch?v=yTvakY_xVJk",
+   "date": "2026-07-26",
+   "duration": 711,
+   "views": 1143919,
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Geografia"
+   ],
+   "about": "Jak starożytni wyobrażali sobie nieznany świat: strefa gorąca, ludy z Pliniusza, Rzym i Chiny oraz bariery dawnych odkrywców.",
+   "intro": "Autor tłumaczy, dlaczego granica znanego świata dla Rzymian była bardziej psychologiczna niż techniczna. Omawia teorię stref klimatycznych, wymyślone kontynenty i ludy-potwory z Pliniusza, wzajemne wyobrażenia Rzymu i Chin oraz wyprawy Hannona, Himilkona, Pyteasza i Gila Eanesa. Na koniec porównuje to z dzisiejszym patrzeniem na kosmos.",
+   "points": [
+    {
+     "t": "Strefa gorąca",
+     "d": "W V w. p.n.e. Parmenides podzielił Ziemię na 5 stref: 2 mroźne, 2 umiarkowane i gorącą przy równiku, gdzie nic nie przeżyje. Grecy i Rzymianie nie wiedzieli, że Sahara bywa gorętsza niż równik, a najdalej na południe znali okolice Somalii."
+    },
+    {
+     "t": "Kontynenty z rozumowania",
+     "d": "Skoro na północy jest dużo lądu, na południu też musi być, dla równowagi: Rzymianie nazwali go Terra Australis Incognita. W II w. p.n.e. Krates z Mallos dodał 2 lądy na półkuli zachodniej, według autora jakby przewidując Ameryki."
+    },
+    {
+     "t": "Ludy-potwory Pliniusza",
+     "d": "W Historii naturalnej (lata 70. n.e.) Pliniusz opisał Blemmiów bez głów z twarzą na piersi, psiogłowych Kynokefalów w Indiach, jednonogich Skiapodów i Astomów bez ust żywiących się zapachem, jako fakty. Herodot wcześniej umieszczał bezgłowych w Libii."
+    },
+    {
+     "t": "Zniekształcone relacje",
+     "d": "Według autora część opisów to prawdziwe obserwacje zniekształcone przez głuchy telefon. Jedna z interpretacji mówi, że bezgłowi Blemmiowie to wojownicy kulący głowy za tarczami, widziani z daleka."
+    },
+    {
+     "t": "Daqin, czyli Rzym oczami Chin",
+     "d": "Chińczycy nazywali Rzym Daqin (Wielkie Qin) i wyobrażali go sobie jako cnotliwe państwo z królem ustępującym w razie klęski. Autorowi przypomina to republikę z konsulami na rok."
+    },
+    {
+     "t": "Gan Ying i morze szaleństwa",
+     "d": "W 97 r. n.e. poseł Gan Ying przez Azję Środkową i Partię dotarł do Tiaozhi nad wielkim morzem. Usłyszał, że przeprawa trwa 2-3 lata. Według autora Partowie to zmyślili, bo jako pośrednicy na Jedwabnym Szlaku nie chcieli bezpośredniego kontaktu Rzymu z Chinami."
+    },
+    {
+     "t": "Rzymianie w Chinach w 166 r.",
+     "d": "Rzymska delegacja przypłynęła morzem przez Wietnam. Rzymskich dokumentów brak, ale chińskie kroniki wspominają posłów od Anduna: imię brzmi jak Antoninus Pius, a data wskazuje raczej na Marka Aureliusza."
+    },
+    {
+     "t": "Hannon i Himilkon",
+     "d": "W V w. p.n.e. Kartagińczyk Hannon płynął wzdłuż Afryki, według badaczy do Senegalu lub Gabonu; jego \"owłosione kobiety\" dały nazwę gorylom. Himilkon popłynął na północ do Bretanii lub Brytanii za cyną, aż zatrzymały go mgły i wodorosty."
+    },
+    {
+     "t": "Pyteasz i Thule",
+     "d": "Ok. 100 lat później Pyteasz z Massalii (Marsylii) dotarł za Brytanię do Thule, gdzie latem słońce prawie nie zachodzi, a morze zmienia się w \"płuco morskie\", według autora prawdopodobnie lód krupowy. Mogło to wzmacniać mit Hyperborei."
+    },
+    {
+     "t": "Bariery na krańcu świata",
+     "d": "Ok. 1000 lat po Gan Yingu mnich Rabban Bar Sauma dotarł do Konstantynopola. Przylądek Bojador z rafami i wiatrami uchodził za kres żeglugi do 1434 r., gdy Gil Eanes po prostu go opłynął. Według autora wyprawy blokowały też koszty i ostrożni inwestorzy."
+    }
+   ],
+   "conclusion": "Eksploracja zależy od tego, kto odważy się płynąć i kto za to zapłaci; dziś tak samo patrzymy na kosmos.",
+   "factchecks": [
+    {
+     "claim": "Parmenides wymyślił podział Ziemi na strefy klimatyczne.",
+     "verdict": "prawda",
+     "note": "Według Strabona pierwszy był Parmenides, a teorię rozwinął Arystoteles.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): strefy geograficzne - hasło \"Geographical zone\"",
+       "https://en.wikipedia.org/wiki/Geographical_zone"
+      ]
+     ]
+    },
+    {
+     "claim": "Pustynie jak Sahara bywają gorętsze niż okolice równika.",
+     "verdict": "prawda",
+     "note": "Rekordy temperatur notuje się na pustyniach zwrotnikowych (Lut, Sahara, Dolina Śmierci), nie na równiku.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): najwyższe temperatury na Ziemi - hasło \"Highest temperature recorded on Earth\"",
+       "https://en.wikipedia.org/wiki/Highest_temperature_recorded_on_Earth"
+      ]
+     ]
+    },
+    {
+     "claim": "Krates z Mallos przewidywał dodatkowe lądy na drugiej półkuli.",
+     "verdict": "prawda",
+     "note": "Krates zbudował najstarszy znany globus z 4 masami lądu oddzielonymi oceanami.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Krates z Mallos - hasło \"Crates of Mallus\"",
+       "https://en.wikipedia.org/wiki/Crates_of_Mallus"
+      ],
+      [
+       "Wikipedia (ang.): Terra Australis - hasło \"Terra Australis\"",
+       "https://en.wikipedia.org/wiki/Terra_Australis"
+      ]
+     ]
+    },
+    {
+     "claim": "Pliniusz opisał bezgłowych Blemmiów, Kynokefalów, Skiapodów i Astomów.",
+     "verdict": "prawda",
+     "note": "Wszystkie te ludy są w Historii naturalnej (77-79 n.e.); Blemmiowie byli też realnym ludem na południe od Egiptu.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Blemmiowie - hasło \"Blemmyes\"",
+       "https://en.wikipedia.org/wiki/Blemmyes"
+      ],
+      [
+       "Wikipedia (ang.): Astomowie - hasło \"Astomi\"",
+       "https://en.wikipedia.org/wiki/Astomi"
+      ],
+      [
+       "Wikipedia (ang.): Historia naturalna Pliniusza - hasło \"Natural History (Pliny)\"",
+       "https://en.wikipedia.org/wiki/Natural_History_(Pliny)"
+      ]
+     ]
+    },
+    {
+     "claim": "Gan Ying dotarł do Zatoki Perskiej, a Partowie go zniechęcili.",
+     "verdict": "półprawda",
+     "note": "Nie wiadomo, czy \"zachodnie morze\" to Zatoka Perska, Morze Śródziemne czy Czarne; wersja o Partach to hipoteza.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Gan Ying - hasło \"Gan Ying\"",
+       "https://en.wikipedia.org/wiki/Gan_Ying"
+      ]
+     ]
+    },
+    {
+     "claim": "W 166 r. do Chin dotarli posłowie od Anduna z Daqin.",
+     "verdict": "prawda",
+     "note": "Notuje to Księga Późniejszych Hanów; Andun to Antoninus Pius lub Marek Aureliusz, rzymskich źródeł brak.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): stosunki rzymsko-chińskie - hasło \"Sino-Roman relations\"",
+       "https://en.wikipedia.org/wiki/Sino-Roman_relations"
+      ]
+     ]
+    },
+    {
+     "claim": "Hannon dotarł do Senegalu lub Gabonu i dał nazwę gorylom.",
+     "verdict": "półprawda",
+     "note": "Nazwa goryla pochodzi z jego relacji, ale zasięg wyprawy jest sporny: od Gabonu po samo południe Maroka.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): Hannon Żeglarz - hasło \"Hanno the Navigator\"",
+       "https://en.wikipedia.org/wiki/Hanno_the_Navigator"
+      ],
+      [
+       "Wikipedia (ang.): goryl - hasło \"Gorilla\"",
+       "https://en.wikipedia.org/wiki/Gorilla"
+      ]
+     ]
+    },
+    {
+     "claim": "\"Płuco morskie\" Pyteasza to prawdopodobnie lód krupowy.",
+     "verdict": "nie da się sprawdzić",
+     "note": "Opis zna się tylko ze Strabona; badacze łączą go też z meduzami zwanymi płucami morskimi lub dryfującym lodem.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Pyteasz - hasło \"Pytheas\"",
+       "https://en.wikipedia.org/wiki/Pytheas"
+      ]
+     ]
+    },
+    {
+     "claim": "Rabban Bar Sauma dotarł do Konstantynopola, a Gil Eanes opłynął Bojador w 1434 r.",
+     "verdict": "prawda",
+     "note": "Bar Sauma był w Konstantynopolu w 1287 r.; Eanes minął Bojador w 1434 r. po nieudanej próbie w 1433 r.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Rabban Bar Sauma - hasło \"Rabban Bar Sawma\"",
+       "https://en.wikipedia.org/wiki/Rabban_Bar_Sawma"
+      ],
+      [
+       "Wikipedia (ang.): Gil Eanes - hasło \"Gil Eanes\"",
+       "https://en.wikipedia.org/wiki/Gil_Eanes"
+      ],
+      [
+       "Wikipedia (ang.): przylądek Bojador - hasło \"Cape Bojador\"",
+       "https://en.wikipedia.org/wiki/Cape_Bojador"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i ostrożny film; uproszczenia przy hipotezach (Partowie, tarcze Blemmiów) i dość skrajny kontrast \"lękliwy Rzym kontra ufne Chiny\"."
+  },
+  {
+   "id": "LUzZdtHhSqQ",
+   "title_pl": "Strony, których używają mądrzy ludzie, a przeciętni nigdy o nich nie słyszeli",
+   "title": "Websites Smart People Use That Average People Never Heard Of",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=LUzZdtHhSqQ",
+   "date": "2026-07-13",
+   "duration": 669,
+   "views": 541911,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Top 10 mało znanych darmowych stron: od archiwum FBI i Shodana po mapy Wi-Fi, rejestry firm i wyszukiwarkę kodu źródłowego.",
+   "intro": "Ranking 10 stron, które według autora zna mało kto. Są wśród nich archiwum akt FBI, wyszukiwarka urządzeń w sieci Shodan, rejestry przesyłek i firm, mapa sieci Wi-Fi WiGLE, katalog narzędzi AI, mapa powiązań prac naukowych, pogoda Windy, wirtualne karty płatnicze i wyszukiwarka kodu stron. Autor mocno upraszcza i dramatyzuje.",
+   "points": [
+    {
+     "t": "10. FBI Vault",
+     "d": "Darmowe archiwum akt FBI (vault.fbi.gov) udostępnianych na mocy ustawy o dostępie do informacji (FOIA). Są tam akta Elvisa Presleya i Alberta Einsteina, a także memo z 1950 r. o 3 latających spodkach odzyskanych w Nowym Meksyku, w każdym 3 ciała o wzroście ok. 0,9 m."
+    },
+    {
+     "t": "9. Shodan",
+     "d": "Wyszukiwarka urządzeń podłączonych do internetu: kamer, nianiek elektronicznych, sygnalizacji świetlnej, sterowników przemysłowych. Wiele działa bez hasła lub na fabrycznych ustawieniach. Według autora hakerzy weszli do sieci kasyna przez termometr akwarium i wynieśli 10 GB danych."
+    },
+    {
+     "t": "8. ImportYeti",
+     "d": "Wyszukiwarka publicznych dokumentów celnych USA (konosamentów). Po nazwie firmy widać, która fabryka w Chinach czy Wietnamie robi jej produkty, z adresem, liczbą i wagą przesyłek. Można tak znaleźć dostawcę konkurencji albo odkryć, że droga marka i tania podróbka płyną z tej samej fabryki."
+    },
+    {
+     "t": "7. OpenCorporates",
+     "d": "Według autora największa otwarta baza firm na świecie, z ponad 200 mln zarejestrowanych spółek. Pokazuje dane rejestrowe, dyrektorów, adresy i sieć powiązań między spółkami o tych samych dyrektorach lub adresach, np. łańcuch spółek holdingowych za lokalną restauracją."
+    },
+    {
+     "t": "6. WiGLE",
+     "d": "Tworzona społecznie od 2001 r. mapa sieci Wi-Fi: wolontariusze zbierają nazwy sieci i współrzędne GPS podczas jazdy czy spacerów. Według autora baza ma ponad 1 mld unikalnych sieci, a na wigle.net często znajdziesz własny router i sieci sąsiadów."
+    },
+    {
+     "t": "5. Futurepedia",
+     "d": "Stale aktualizowany katalog tysięcy narzędzi AI podzielonych na kategorie: logo, lektor z tekstu, pisanie i poprawianie kodu, stylista ze zdjęć. Pokazuje, które są darmowe, mają okres próbny i które zyskują popularność."
+    },
+    {
+     "t": "4. Connected Papers",
+     "d": "Z jednej pracy naukowej buduje wizualną mapę powiązanych prac. Według autora wielkość kółka to liczba cytowań, a odległość to pokrewieństwo tematyczne. Widać prace założycielskie, najnowsze badania i głównych badaczy."
+    },
+    {
+     "t": "3. Windy.com",
+     "d": "Darmowa mapa atmosfery w czasie rzeczywistym zamiast ikonki słońca i ok. 22°C w aplikacji. Pokazuje wiatr, prądy strumieniowe, huragany, fale, jakość powietrza, dym z pożarów, wyładowania i CO2; korzystają z niej piloci i żeglarze."
+    },
+    {
+     "t": "2. Privacy.com",
+     "d": "Wirtualne numery kart do zakupów w sieci, osobny dla każdego sklepu i powiązany z kontem bankowym. Można ustawić limit, więc zapomniany okres próbny za 99 dolarów zostanie odrzucony, albo zrobić kartę jednorazową."
+    },
+    {
+     "t": "1. PublicWWW",
+     "d": "Przeszukuje kod źródłowy milionów stron. Wklejając unikalny fragment, np. identyfikator Google Analytics, znajdziesz inne strony tej samej osoby lub grupy, nawet pod fałszywymi nazwami. Marketerzy sprawdzają tak narzędzia konkurencji, inni śledzą sieci oszukańczych stron."
+    }
+   ],
+   "conclusion": "Autor zapowiada podobne filmy i zachęca do subskrypcji.",
+   "factchecks": [
+    {
+     "claim": "Według filmu FBI uważało Elvisa za zagrożenie dla bezpieczeństwa USA.",
+     "verdict": "fałsz",
+     "note": "Te słowa pochodzą z listu obywatela do FBI z 1956 r.; Biuro nie prowadziło śledztwa w sprawie Elvisa.",
+     "p": 0,
+     "src": [
+      [
+       "Archiwa Narodowe USA: Elvis w FBI i jego akta",
+       "https://text-message.blogs.archives.gov/2021/08/12/dont-be-cruel-elvis-presleys-visit-to-fbi-headquarters/"
+      ],
+      [
+       "Wikipedia (ang.): akta FBI o Elvisie - hasło \"FBI files on Elvis Presley\"",
+       "https://en.wikipedia.org/wiki/FBI_files_on_Elvis_Presley"
+      ]
+     ]
+    },
+    {
+     "claim": "Memo z 1950 r. o 3 spodkach z 3 ciałami jest prawdziwe.",
+     "verdict": "półprawda",
+     "note": "Dokument istnieje, ale FBI nazywa go relacją z drugiej lub trzeciej ręki, której nigdy nie sprawdzało.",
+     "p": 0,
+     "src": [
+      [
+       "FBI Vault: memo Guya Hottela",
+       "https://vault.fbi.gov/hottel_guy"
+      ],
+      [
+       "Wikipedia (ang.): memo Hottela i mistyfikacja z Aztec - hasło \"Hottel memo\"",
+       "https://en.wikipedia.org/wiki/Hottel_memo"
+      ]
+     ]
+    },
+    {
+     "claim": "Kasyno straciło 10 GB danych przez termometr w akwarium.",
+     "verdict": "prawda",
+     "note": "Opisała to firma Darktrace w 2017 r.; dane trafiły na serwer w Finlandii. Film łączy to z Shodanem bez podstaw.",
+     "p": 1,
+     "src": [
+      [
+       "SecurityWeek: akwarium wysłało 10 GB danych",
+       "https://www.securityweek.com/hacked-smart-fish-tank-exfiltrated-data-rare-external-destination/"
+      ]
+     ]
+    },
+    {
+     "claim": "Shodan znajduje urządzenia w sieci, w tym kamery i sygnalizację.",
+     "verdict": "prawda",
+     "note": "Działa od 2009 r. i indeksuje kamery, routery i serwery; znajdowano nim m.in. sterowniki sygnalizacji.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): wyszukiwarka Shodan - hasło \"Shodan (website)\"",
+       "https://en.wikipedia.org/wiki/Shodan_(website)"
+      ]
+     ]
+    },
+    {
+     "claim": "ImportYeti pokazuje dokumenty celne każdej przesyłki do USA.",
+     "verdict": "półprawda",
+     "note": "Baza obejmuje setki milionów rekordów celnych, ale tylko import morski do USA, nie każdy transport.",
+     "p": 2,
+     "src": [
+      [
+       "ImportYeti: wyszukiwarka rekordów celnych",
+       "https://www.importyeti.com/"
+      ],
+      [
+       "Wikipedia (ang.): konosament - hasło \"Bill of lading\"",
+       "https://en.wikipedia.org/wiki/Bill_of_lading"
+      ]
+     ]
+    },
+    {
+     "claim": "OpenCorporates ma dane ponad 200 mln firm.",
+     "verdict": "prawda",
+     "note": "W 2026 r. firma podaje ok. 220 mln spółek z ponad 147 jurysdykcji.",
+     "p": 3,
+     "src": [
+      [
+       "OpenCorporates: komunikat z września 2026",
+       "https://blog.opencorporates.com/2026/09/03/opencorporates-achieves-iso-iec-277012025-certification/"
+      ],
+      [
+       "Wikipedia (ang.): OpenCorporates - hasło \"OpenCorporates\"",
+       "https://en.wikipedia.org/wiki/OpenCorporates"
+      ]
+     ]
+    },
+    {
+     "claim": "WiGLE działa od 2001 r. i ma ponad 1 mld sieci.",
+     "verdict": "prawda",
+     "note": "Pierwszą sieć dodano we wrześniu 2001 r.; statystyki WiGLE pokazują ponad 2 mld sieci Wi-Fi.",
+     "p": 4,
+     "src": [
+      [
+       "WiGLE: statystyki bazy",
+       "https://wigle.net/stats"
+      ],
+      [
+       "Wikipedia (ang.): WiGLE - hasło \"WiGLE\"",
+       "https://en.wikipedia.org/wiki/WiGLE"
+      ]
+     ]
+    },
+    {
+     "claim": "W Connected Papers wielkość kółka to cytowania, a bliskość to podobieństwo.",
+     "verdict": "półprawda",
+     "note": "Układ opiera się na podobieństwie (współcytowania), nie na bezpośrednich cytowaniach; twórcy piszą, że to nie drzewo cytowań.",
+     "p": 6,
+     "src": [
+      [
+       "Connected Papers: jak to działa",
+       "https://www.connectedpapers.com/about"
+      ]
+     ]
+    },
+    {
+     "claim": "Privacy.com daje wirtualne karty z limitami i karty jednorazowe.",
+     "verdict": "prawda",
+     "note": "Tak działa usługa, ale tylko dla mieszkańców USA z amerykańskim kontem bankowym.",
+     "p": 8,
+     "src": [
+      [
+       "Privacy.com: wirtualne karty",
+       "https://www.privacy.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "PublicWWW przeszukuje kod źródłowy stron.",
+     "verdict": "prawda",
+     "note": "Serwis szuka fragmentów w HTML, JavaScript i CSS stron.",
+     "p": 9,
+     "src": [
+      [
+       "PublicWWW: wyszukiwarka kodu źródłowego",
+       "https://publicwww.com/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Clickbaitowy tytuł; sensacyjne podanie akt FBI (Elvis, UFO) bez kontekstu, a narzędzia jak ImportYeti i Privacy.com działają głównie w USA."
+  },
+  {
    "id": "NxQU8EmHxiw",
    "title_pl": "Luki w historii, których wciąż nie rozumiemy",
    "title": "Hidden Gaps In History We Still Don’t Understand",
@@ -200,7 +942,8 @@
      "p": 9
     }
    ],
-   "bias": "Dobrze dobrane tematy, ale przesadza z \"nierozwiązanymi zagadkami\": dla kilku (Roopkund, sylfion, lista królów) jest postęp, który film pomija lub umniejsza."
+   "bias": "Dobrze dobrane tematy, ale przesadza z \"nierozwiązanymi zagadkami\": dla kilku (Roopkund, sylfion, lista królów) jest postęp, który film pomija lub umniejsza.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "XSl4ZTtjS7Q",
@@ -347,7 +1090,8 @@
      "p": null
     }
    ],
-   "bias": "Jednostronny: każde zachowanie wyjaśnia psychologią ewolucyjną w formie \"opowieści\", bez alternatyw (kultura, uczenie się). Brak źródeł; traktuj jako ciekawostkę, nie wiedzę."
+   "bias": "Jednostronny: każde zachowanie wyjaśnia psychologią ewolucyjną w formie \"opowieści\", bez alternatyw (kultura, uczenie się). Brak źródeł; traktuj jako ciekawostkę, nie wiedzę.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "kDfP5vAbOS0",
@@ -559,7 +1303,8 @@
      "p": 9
     }
    ],
-   "bias": "Rzetelny, w większości zgodny z nauką. Jedyny wyraźny błąd: wiek hełmów z Viksø. Ton prześmiewczy wobec rodziców, ale bez tendencyjności."
+   "bias": "Rzetelny, w większości zgodny z nauką. Jedyny wyraźny błąd: wiek hełmów z Viksø. Ton prześmiewczy wobec rodziców, ale bez tendencyjności.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "wztjGaAiqME",
@@ -741,7 +1486,8 @@
      "p": 8
     }
    ],
-   "bias": "Straszy (\"cichy zabójca\") i podaje kilka przesadzonych liczb (kichnięcie, 15 h siedzenia). Rady są w większości sensowne, ale ryzyka są wyolbrzymione."
+   "bias": "Straszy (\"cichy zabójca\") i podaje kilka przesadzonych liczb (kichnięcie, 15 h siedzenia). Rady są w większości sensowne, ale ryzyka są wyolbrzymione.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "19UC0V9Ul2M",
@@ -959,7 +1705,8 @@
      "p": 9
     }
    ],
-   "bias": "Sensacyjny język (\"mózg zjada sam siebie\"); korelacje podane jak pewniki, a mit o nużeńcach jest już obalony."
+   "bias": "Sensacyjny język (\"mózg zjada sam siebie\"); korelacje podane jak pewniki, a mit o nużeńcach jest już obalony.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "2sWFexuc7MI",
@@ -1174,7 +1921,8 @@
      "p": 9
     }
    ],
-   "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper."
+   "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "7bOQ7fLCqgI",
@@ -1321,7 +2069,8 @@
      "p": null
     }
    ],
-   "bias": "Uproszczona wizja ewolucji jako \"usuwania zbędnych części\". Jedna liczba (brak wyrostka) jest wyssana z palca, a wyrostek opisany według przestarzałej wiedzy."
+   "bias": "Uproszczona wizja ewolucji jako \"usuwania zbędnych części\". Jedna liczba (brak wyrostka) jest wyssana z palca, a wyrostek opisany według przestarzałej wiedzy.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "UTz2Xg4oMxs",
@@ -1476,7 +2225,8 @@
      "p": null
     }
    ],
-   "bias": "Ranking subiektywny (bólu nie da się obiektywnie porównać). Punkt o osie-katu jest w dużej mierze zmyślony; reszta zgodna z faktami."
+   "bias": "Ranking subiektywny (bólu nie da się obiektywnie porównać). Punkt o osie-katu jest w dużej mierze zmyślony; reszta zgodna z faktami.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "ziYuxvxAw3U",
@@ -1667,7 +2417,8 @@
      "p": 8
     }
    ],
-   "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją, a film sugeruje nawet zaginione maszyny."
+   "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją, a film sugeruje nawet zaginione maszyny.",
+   "channel": "Chill Dude Explains"
   },
   {
    "id": "hmHhsg7h4g0",
@@ -1822,7 +2573,8 @@
      "p": null
     }
    ],
-   "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze)."
+   "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze).",
+   "channel": "Chill Dude Explains"
   }
  ]
 }
