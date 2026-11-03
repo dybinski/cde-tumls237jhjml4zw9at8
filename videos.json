@@ -17,19 +17,19 @@
    "points": [
     {
      "t": "10. Najgorszy rok w historii (536)",
-     "d": "Tajemnicza mgła zasłoniła słońce na ponad rok, były nieurodzaje i głód; dziś łączy się to z erupcjami wulkanów."
+     "d": "Mgła zasłoniła słońce na ponad rok, był głód; dziś łączy się to z erupcjami wulkanów."
     },
     {
      "t": "9. Jezioro Szkieletów (Roopkund)",
-     "d": "Na wysokości ok. 5000 m w Himalajach leżą szczątki setek ludzi; DNA pokazało grupy z Azji Południowej i z Morza Śródziemnego, które zginęły w odstępie ok. 1000 lat."
+     "d": "Na ok. 5000 m w Himalajach leżą szczątki setek ludzi z dwóch grup, które dzieli ok. 1000 lat."
     },
     {
      "t": "8. Upadek epoki brązu",
-     "d": "Ok. 1177 p.n.e. upadły niemal wszystkie państwa Morza Śródziemnego naraz; winni: Ludy Morza, susze, trzęsienia ziemi, rozpad handlu."
+     "d": "Ok. 1177 p.n.e. upadły niemal wszystkie państwa Morza Śródziemnego naraz."
     },
     {
      "t": "7. Rzymski dwunastościan",
-     "d": "Brązowe przedmioty z otworami, znajdowane w całym imperium; Rzymianie, którzy pisali o wszystkim, nie zostawili o nich ani słowa."
+     "d": "Brązowe przedmioty z otworami z całego imperium; Rzymianie nie zostawili o nich ani słowa."
     },
     {
      "t": "6. Miedziany Zwój",
@@ -37,11 +37,11 @@
     },
     {
      "t": "5. Zamknięte grobowce Kofun",
-     "d": "W Japonii jest ponad 160 tys. kurhanów; największy, Daisen, jest większy od Wielkiej Piramidy, ale Agencja Dworu Cesarskiego nie pozwala ich badać."
+     "d": "Ponad 160 tys. kurhanów; największy, Daisen, przewyższa Wielką Piramidę, ale badania są zakazane."
     },
     {
      "t": "4. Sylfion",
-     "d": "Roślina warta tyle co srebro; Cezar zabrał ze skarbca 1500 funtów, a ostatnią łodygę miał dostać Neron. Dziś nie wiemy, czym była."
+     "d": "Roślina warta tyle co srebro, wytępiona w starożytności; dziś nie wiemy, czym była."
     },
     {
      "t": "3. Zaginione miasto Akad",
@@ -49,7 +49,7 @@
     },
     {
      "t": "2. Zniknięcie Normanów z Grenlandii",
-     "d": "Osady Eryka Rudego przetrwały ok. 400 lat; ostatni zapis to ślub w Hvalsey w 1408 r. Autor mówi o 5000 osadników, którzy nie przejęli sposobów Inuitów."
+     "d": "Osady Eryka Rudego przetrwały ok. 400 lat; ostatni zapis to ślub w Hvalsey w 1408 r."
     },
     {
      "t": "1. Sumeryjska lista królów",
@@ -61,7 +61,7 @@
     {
      "claim": "Rok 536: mgła zasłoniła słońce, zimno i głód.",
      "verdict": "prawda",
-     "note": "Potwierdzają to rdzenie lodowe (erupcje wulkaniczne w 536 i 540 r.), relacja Prokopiusza i zapis w słojach drzew; początek Późnoantycznej Małej Epoki Lodowcowej.",
+     "note": "Potwierdzają to rdzenie lodowe, słoje drzew i relacja Prokopiusza.",
      "src": [
       [
        "Wikipedia (ang.): zima wulkaniczna 536 r. - hasło \"Volcanic winter of 536\"",
@@ -74,9 +74,9 @@
      ]
     },
     {
-     "claim": "Roopkund: dwie grupy (z Azji Południowej i Morza Śródziemnego) zginęły ok. 1000 lat od siebie; wszyscy od gradu.",
+     "claim": "Roopkund: dwie grupy zginęły ok. 1000 lat od siebie, wszyscy od gradu.",
      "verdict": "półprawda",
-     "note": "Badanie DNA (Harney i in., Nature Communications 2019) pokazało grupy z VII-X w. i XVII-XX w. To podważa tezę o jednym zdarzeniu i o gradzie dla wszystkich. Liczba ofiar to szacunkowo 300-800.",
+     "note": "DNA (2019) pokazało grupy z VII-X w. i XVII-XX w., co podważa tezę o jednym gradobiciu.",
      "src": [
       [
        "Harney i in. 2019, Nature Communications",
@@ -91,7 +91,7 @@
     {
      "claim": "Upadek epoki brązu: upadły niemal wszystkie państwa naraz.",
      "verdict": "półprawda",
-     "note": "Upadły Hetyci, Mykeny i Ugarit, ale Egipt przetrwał osłabiony, a Asyria również. Przyczyny złożone (\"burza systemowa\"); konkretne liczby spadku ludności są niepewne.",
+     "note": "Upadli Hetyci, Mykeny i Ugarit, ale Egipt i Asyria przetrwały osłabione.",
      "src": [
       [
        "Wikipedia (ang.): upadek epoki brązu - hasło \"Late Bronze Age collapse\"",
@@ -124,7 +124,7 @@
     {
      "claim": "Kofun: ponad 160 tys. kurhanów, Daisen większy od Wielkiej Piramidy, zakaz badań.",
      "verdict": "prawda",
-     "note": "Daisen (Nintoku) zajmuje większą powierzchnię niż Wielka Piramida. Agencja Dworu Cesarskiego ogranicza badania, choć w 2018 r. dopuściła ograniczone wykopaliska. Motywy zakazu (np. obawa przed powiązaniami z Koreą) to spekulacja.",
+     "note": "Daisen jest większy od Wielkiej Piramidy, ale od 2018 r. dopuszczono ograniczone wykopaliska.",
      "src": [
       [
        "Wikipedia (ang.): kurhan Daisen - hasło \"Daisen Kofun\"",
@@ -137,9 +137,9 @@
      ]
     },
     {
-     "claim": "Sylfion wart był srebra, Cezar zabrał 1500 funtów, Neron dostał ostatnią łodygę; tożsamość rośliny zaginęła na zawsze.",
+     "claim": "Sylfion był wart srebra, a tożsamość rośliny zaginęła na zawsze.",
      "verdict": "półprawda",
-     "note": "Anegdoty pochodzą od Pliniusza Starszego. Ale w 2021 r. farmakognosta Mahmut Miski zaproponował, że sylfion to Ferula drudeana z Turcji; to sporna hipoteza (inni badacze ją krytykują), ale \"na zawsze\" jest przesadą.",
+     "note": "Anegdoty są od Pliniusza, ale w 2021 r. zaproponowano identyfikację rośliny (sporną), więc nie \"na zawsze\".",
      "src": [
       [
        "Wikipedia (ang.): sylfion - hasło \"Silphium\"",
@@ -165,7 +165,7 @@
     {
      "claim": "Grenlandia: ostatni zapis 1408 r., 5000 osadników, odrzucili sposoby Inuitów.",
      "verdict": "półprawda",
-     "note": "Ślub w Hvalsey w 1408 r. się zgadza. Nowsze szacunki szczytowej populacji to ok. 2000-2500. Badania kości pokazują, że Normanowie jedli dużo foki, więc teza o \"upartym odrzuceniu\" jest przestarzała.",
+     "note": "Ślub z 1408 r. się zgadza, ale osadników było ok. 2000-2500 i jedli dużo foki.",
      "src": [
       [
        "Wikipedia (ang.): osadnictwo nordyckie w Ameryce i na Grenlandii - hasło \"Norse colonization of the Americas / Greenland\"",
@@ -180,7 +180,7 @@
     {
      "claim": "Liczb panowań z Sumeryjskiej listy królów nikt nie wyjaśnił.",
      "verdict": "półprawda",
-     "note": "Liczby (np. 28 800, 36 000, łącznie 241 200 lat) to wielokrotności sar (3600) w systemie sześćdziesiątkowym, co jest znanym tropem. Lista to dokument ideologiczny łączący mit z historią.",
+     "note": "Liczby to wielokrotności sar (3600) w systemie sześćdziesiątkowym; lista łączy mit z historią.",
      "src": [
       [
        "Wikipedia (ang.): Sumeryjska lista królów - hasło \"Sumerian King List\"",
@@ -213,7 +213,7 @@
     },
     {
      "t": "7. Instynkt stadny",
-     "d": "Naśladowanie grupy chroniło przed zagrożeniem; dziś mózg nagradza konformizm dopaminą, co wykorzystują reklamy i media społecznościowe."
+     "d": "Naśladowanie grupy chroniło przed zagrożeniem; dziś wykorzystują to reklamy i media społecznościowe."
     },
     {
      "t": "6. Przymus odwzajemnienia",
@@ -229,7 +229,7 @@
     },
     {
      "t": "3. Awersja do straty",
-     "d": "Strata 100 dolarów boli mocniej niż radość ze znalezienia ich; dla przodków strata zapasów mogła oznaczać śmierć."
+     "d": "Strata 100 dolarów boli mocniej niż radość z ich znalezienia; dla przodków strata to śmierć."
     },
     {
      "t": "2. Obsesja statusu",
@@ -245,7 +245,7 @@
     {
      "claim": "Przodkowie spali dwufazowo (\"pierwszy i drugi sen\") przez tysiące lat.",
      "verdict": "półprawda",
-     "note": "Historyk Roger Ekirch udokumentował segmentowany sen w przedindustrialnej Europie. Ale badanie Yetisha i in. (2015) trzech współczesnych społeczności łowców-zbieraczy nie wykazało snu segmentowanego, więc to nie musi być \"pierwotny\" wzorzec. Popołudniowy spadek czujności jest dobrze opisany.",
+     "note": "Ekirch opisał sen dwufazowy w dawnej Europie, ale u współczesnych łowców-zbieraczy go nie wykazano.",
      "src": [
       [
        "Wikipedia (ang.): sen dwufazowy - hasło \"Segmented sleep\"",
@@ -260,7 +260,7 @@
     {
      "claim": "Mózg nagradza konformizm (układ nagrody).",
      "verdict": "półprawda",
-     "note": "Klucharev i in. (Neuron, 2009) pokazali w fMRI, że niezgodność z grupą aktywuje sygnał błędu w układzie nagrody. To jedno z niewielu badań; \"dopamina za konformizm\" to uproszczenie.",
+     "note": "Jedno badanie fMRI (2009) pokazało sygnał błędu przy niezgodności z grupą; \"dopamina za konformizm\" to uproszczenie.",
      "src": [
       [
        "Klucharev i in. 2009 (PubMed)",
@@ -286,7 +286,7 @@
     {
      "claim": "Strata boli ok. dwa razy mocniej niż równy zysk.",
      "verdict": "półprawda",
-     "note": "Kahneman i Tversky oszacowali współczynnik awersji do straty na ok. 2. Nowsze prace (np. Gal i Rucker, 2018) pokazują, że efekt zależy od kontekstu i bywa dużo mniejszy.",
+     "note": "Kahneman i Tversky podali ok. 2, ale nowsze prace pokazują, że efekt bywa dużo mniejszy.",
      "src": [
       [
        "Wikipedia (ang.): awersja do straty - hasło \"Loss aversion\"",
@@ -301,7 +301,7 @@
     {
      "claim": "Poczucie sprawiedliwości jest wrodzone i ewolucyjnie stare.",
      "verdict": "półprawda",
-     "note": "Kapucynki odrzucają gorszą nagrodę (Brosnan i de Waal, 2003), a w grze w ultimatum ludzie odrzucają niesprawiedliwe oferty. Ale wyjaśnienia ewolucyjne pozostają hipotezami, a reakcje różnią się między kulturami.",
+     "note": "Kapucynki i ludzie odrzucają niesprawiedliwe nagrody, ale ewolucyjne wyjaśnienia to hipotezy.",
      "src": [
       [
        "Brosnan i de Waal 2003, Nature",
@@ -316,7 +316,7 @@
     {
      "claim": "Strach przed nieznanym, potrzeba kontroli i status jako ewolucyjne pozostałości.",
      "verdict": "nie da się sprawdzić",
-     "note": "Zjawiska psychologiczne są realne (np. iluzja kontroli, porównania społeczne), ale konkretne ewolucyjne historie \"jak to było w plemieniu\" są nietestowalne.",
+     "note": "Zjawiska są realne, ale ewolucyjne historie \"jak było w plemieniu\" są nietestowalne.",
      "src": [
       [
        "Wikipedia (ang.): iluzja kontroli - hasło \"Illusion of control\"",
@@ -350,35 +350,35 @@
    "points": [
     {
      "t": "10. Cukier nie robi z dzieci \"tornada\"",
-     "d": "Badania ślepe nie wykazały różnicy w zachowaniu dzieci po cukrze i placebo; rodzice widzą nadpobudliwość, gdy sądzą, że dziecko zjadło cukier. Mit przypisany lekarzowi z lat 70., który obwiniał dodatki do żywności."
+     "d": "Badania ślepe nie wykazały wpływu cukru; nadpobudliwość widzą rodzice, którzy jej oczekują."
     },
     {
      "t": "9. Nie używamy tylko 10% mózgu",
-     "d": "Skany pokazują aktywność w całym mózgu, także we śnie. Mózg to ok. 2% masy ciała i ok. 20% zużycia energii; nawet małe uszkodzenia dają poważne skutki."
+     "d": "Skany pokazują aktywność całego mózgu; to 2% masy ciała i ok. 20% energii."
     },
     {
      "t": "8. Moneta z Empire State Building nie zabije",
-     "d": "Opór powietrza ogranicza prędkość monety do ok. 40 km/h, co da najwyżej pstryczek. Bardziej niebezpieczny byłby opływowy długopis."
+     "d": "Opór powietrza ogranicza monetę do ok. 40 km/h, więc da najwyżej pstryczek."
     },
     {
      "t": "7. Piorun uderza w to samo miejsce",
-     "d": "Empire State Building dostaje ok. 25 uderzeń rocznie; strażnik parku Roy Sullivan przeżył 7 uderzeń. Pioruny mogą trafić kilometry od burzy (\"grom z jasnego nieba\")."
+     "d": "Empire State Building dostaje ok. 25 uderzeń rocznie; Roy Sullivan przeżył 7."
     },
     {
      "t": "6. Wikingowie nie nosili hełmów z rogami",
-     "d": "Rogi wymyślili XIX-wieczni kostiumolodzy operowi. Prawdziwe hełmy były proste. Rogate hełmy z Danii są dużo starsze i ceremonialne."
+     "d": "Rogi wymyślili XIX-wieczni kostiumolodzy operowi; prawdziwe hełmy były proste."
     },
     {
      "t": "5. Golenie nie zagęszcza włosów",
-     "d": "Ścięty włos ma tępy koniec, więc odrastający zarost wydaje się grubszy, ale grubość, kolor i tempo wzrostu zależą od genów."
+     "d": "Ścięty włos ma tępy koniec, więc wydaje się grubszy; grubość zależy od genów."
     },
     {
      "t": "4. Można pływać zaraz po jedzeniu",
-     "d": "Brak udokumentowanych utonięć z tego powodu; co najwyżej lekki skurcz po dużym posiłku. Autor powołuje się na Amerykański Czerwony Krzyż."
+     "d": "Brak udokumentowanych utonięć z tego powodu; najwyżej lekki skurcz."
     },
     {
      "t": "3. Głowa nie traci połowy ciepła",
-     "d": "Mit z wojskowego podręcznika, w którym badani byli ubrani poza głową. Głowa to ok. 10% powierzchni ciała, więc traci proporcjonalnie; wyjątek to niemowlęta."
+     "d": "Mit z badań wojskowych, w których odsłonięta była tylko głowa; to ok. 10% powierzchni ciała."
     },
     {
      "t": "2. Złota rybka ma dobrą pamięć",
@@ -394,7 +394,7 @@
     {
      "claim": "Cukier nie powoduje nadpobudliwości u dzieci; rodzice widzą ją z powodu oczekiwań.",
      "verdict": "prawda",
-     "note": "Metaanaliza 16 badań z podwójnie ślepą próbą (JAMA 1995) nie wykazała wpływu cukru na zachowanie. Badanie Hoover i Milich (1994) pokazało, że matki przekonane o podaniu cukru oceniały dzieci jako bardziej nadpobudliwe.",
+     "note": "Metaanaliza 16 ślepych badań (JAMA 1995) nie wykazała wpływu cukru na zachowanie.",
      "src": [
       [
        "JAMA 1995, Wolraich i in. (PubMed)",
@@ -409,7 +409,7 @@
     {
      "claim": "Mit 10% mózgu; mózg to 2% masy i 20% energii.",
      "verdict": "prawda",
-     "note": "Obrazowanie pokazuje aktywność całego mózgu; dane o 2% masy i ok. 20% energii są standardowe. Pochodzenie mitu (William James i błędne cytowanie) jest niepewne, ale wersja z filmu jest zgodna z popularnym wyjaśnieniem.",
+     "note": "Obrazowanie pokazuje aktywność całego mózgu; dane o 2% masy i 20% energii są standardowe.",
      "src": [
       [
        "Wikipedia (ang.): mit 10% mózgu - hasło \"Ten percent of the brain myth\"",
@@ -424,7 +424,7 @@
     {
      "claim": "Moneta osiąga prędkość graniczną ok. 40 km/h i nie zabije.",
      "verdict": "prawda",
-     "note": "Fizyk Louis Bloomfield zmierzył prędkość graniczną koziołkującej monety na ok. 40-80 km/h; nie przebije czaszki. Twierdzenie, że w próżni z tej wysokości osiągnęłaby ponad 320 km/h, to przesada: wyliczenie daje ok. 305 km/h.",
+     "note": "Zmierzono ok. 40-80 km/h; moneta nie przebije czaszki.",
      "src": [
       [
        "Wikipedia (ang.): lista powszechnych mitów (moneta z wieżowca) - hasło \"List of common misconceptions\"",
@@ -454,7 +454,7 @@
     {
      "claim": "Rogate hełmy z Danii są o 3000 lat starsze od wikingów.",
      "verdict": "fałsz",
-     "note": "Reszta punktu jest prawdziwa (rogi spopularyzował kostiumolog Carl Emil Doepler przy \"Pierścieniu Nibelunga\" Wagnera w 1876). Ale hełmy z Viksø datowano na ok. 900 p.n.e., czyli ok. 1700 lat przed wikingami, a nie 3000. To one mają ok. 3000 lat.",
+     "note": "Hełmy z Viksø są z ok. 900 p.n.e., czyli ok. 1700 lat przed wikingami, nie 3000.",
      "src": [
       [
        "Aarhus University: datowanie hełmów z Viksø",
@@ -480,7 +480,7 @@
     {
      "claim": "Pływanie zaraz po jedzeniu nie jest groźne; Czerwony Krzyż to potwierdza.",
      "verdict": "prawda",
-     "note": "Rada naukowa Amerykańskiego Czerwonego Krzyża nie znalazła dowodów na utonięcia związane z jedzeniem przed pływaniem. \"Ani jednego udokumentowanego przypadku\" trudno sprawdzić w 100%, ale brak dowodów jest dobrze opisany.",
+     "note": "Czerwony Krzyż nie znalazł dowodów na utonięcia związane z jedzeniem przed pływaniem.",
      "src": [
       [
        "Wikipedia (ang.): lista powszechnych mitów (pływanie po jedzeniu) - hasło \"List of common misconceptions\"",
@@ -491,7 +491,7 @@
     {
      "claim": "Mit 40-45% ciepła tracone przez głowę pochodzi z wojskowego podręcznika; głowa to ok. 10% powierzchni.",
      "verdict": "prawda",
-     "note": "BMJ (Vreeman i Carroll, 2008) opisuje, że mit wywodzi się z badań armii USA, w których odsłonięta była tylko głowa; głowa to ok. 7-10% powierzchni ciała.",
+     "note": "BMJ (2008): mit pochodzi z badań armii USA; głowa to ok. 7-10% powierzchni ciała.",
      "src": [
       [
        "BMJ 2008: świąteczne mity medyczne (DOI)",
@@ -502,7 +502,7 @@
     {
      "claim": "Złote rybki pamiętają przez miesiące, uczą się sztuczek i rozróżniają muzykę.",
      "verdict": "prawda",
-     "note": "Badania warunkowania pokazują pamięć ryb trwającą miesiące; rybki trenowane są np. do \"gry w piłkę\". Rozróżnianie muzyki wykazano u karpi koi i złotych rybek (Bach vs Strawiński). \"Rozpoznawanie twarzy\" udokumentowano u strzelczyków, nie u złotych rybek (niepewne).",
+     "note": "Badania pokazują pamięć trwającą miesiące i rozróżnianie muzyki u złotych rybek.",
      "src": [
       [
        "Wikipedia (ang.): złota rybka (pamięć) - hasło \"Goldfish\"",
@@ -549,11 +549,11 @@
    "points": [
     {
      "t": "9. Obgryzanie paznokci",
-     "d": "Bakterie spod paznokci trafiają do ust, zęby się szczerbią, a skórki ulegają zakażeniu (zanokcica); obgryzacze mają częściej mieć infekcje jelitowe."
+     "d": "Bakterie spod paznokci trafiają do ust, a skórki ulegają zakażeniu (zanokcica)."
     },
     {
      "t": "8. Tłumienie kichnięć",
-     "d": "Kichnięcie ma pędzić ok. 160 km/h; zatkanie nosa i ust może uszkodzić uszy, naczynia krwionośne, a nawet gardło."
+     "d": "Kichnięcie ma pędzić ok. 160 km/h; tłumienie go może uszkodzić uszy i gardło."
     },
     {
      "t": "7. Patyczki do uszu",
@@ -561,11 +561,11 @@
     },
     {
      "t": "6. Przewodnienie",
-     "d": "Wypicie zbyt dużo wody w krótkim czasie rozrzedza sód we krwi (hiponatremia) i może zabić; autor wspomina 9-letnią dziewczynkę."
+     "d": "Za dużo wody naraz rozrzedza sód we krwi (hiponatremia) i może zabić."
     },
     {
      "t": "5. Słuchawki",
-     "d": "Głośność powyżej 85 dB uszkadza włoski czuciowe ucha; przy 100 dB wystarczy 15 minut. Ma to dawać nastolatkom słuch 50-latków."
+     "d": "Ponad 85 dB uszkadza słuch, a przy 100 dB wystarczy 15 minut."
     },
     {
      "t": "4. Lampki nocne",
@@ -573,7 +573,7 @@
     },
     {
      "t": "3. Krzesło",
-     "d": "Długie siedzenie spowalnia metabolizm i krążenie; autor mówi, że przeciętny pracownik biurowy siedzi do 15 godzin dziennie."
+     "d": "Długie siedzenie spowalnia metabolizm; biurowiec ma siedzieć do 15 h dziennie."
     },
     {
      "t": "2. Spanie na brzuchu",
@@ -589,7 +589,7 @@
     {
      "claim": "Kichnięcie osiąga ok. 160 km/h.",
      "verdict": "fałsz",
-     "note": "Pomiary szybką kamerą (Tang i in., PLOS One 2013) dały ok. 4,5 m/s, czyli ok. 16 km/h. Liczba 160 km/h (100 mil/h) pochodzi z dawnych szacunków.",
+     "note": "Pomiar szybką kamerą (2013) dał ok. 16 km/h; 160 km/h to dawne szacunki.",
      "src": [
       [
        "Tang i in. 2013, PLOS One",
@@ -626,7 +626,7 @@
     {
      "claim": "Zbyt dużo wody może zabić (hiponatremia).",
      "verdict": "prawda",
-     "note": "Zatrucie wodą jest dobrze udokumentowane, np. u maratończyków i w konkursach picia. Przypadku 9-letniej dziewczynki nie udało się jednoznacznie zweryfikować.",
+     "note": "Zatrucie wodą jest dobrze udokumentowane; przypadku 9-latki nie udało się zweryfikować.",
      "src": [
       [
        "Wikipedia (ang.): zatrucie wodne - hasło \"Water intoxication\"",
@@ -637,7 +637,7 @@
     {
      "claim": "Powyżej 85 dB grozi uszkodzenie słuchu, przy 100 dB po ok. 15 minutach; nastolatki mają słuch 50-latków.",
      "verdict": "półprawda",
-     "note": "Progi zgodne z normą NIOSH (85 dB przez 8 h, 100 dB ok. 15 min). Teza o \"słuchu 50-latków\" nie ma źródła i jest przesadą, choć WHO ostrzega przed ryzykiem dla ponad miliarda młodych osób.",
+     "note": "Progi zgadzają się z normą NIOSH, ale \"słuch 50-latków\" nie ma źródła.",
      "src": [
       [
        "CDC/NIOSH: hałas w pracy a utrata słuchu",
@@ -652,7 +652,7 @@
     {
      "claim": "Przyćmione światło nocą tuczy myszy.",
      "verdict": "prawda",
-     "note": "Fonken i in. (PNAS, 2010) wykazali, że myszy przy słabym świetle nocą przybierały na wadze przez zmianę pory jedzenia. U ludzi są tylko korelacje.",
+     "note": "Myszy przy słabym świetle nocą tyły (PNAS 2010); u ludzi są tylko korelacje.",
      "src": [
       [
        "Fonken i in. 2010, PNAS (DOI)",
@@ -663,7 +663,7 @@
     {
      "claim": "Przeciętny pracownik biurowy siedzi do 15 godzin dziennie; \"siedzenie to nowe palenie\".",
      "verdict": "fałsz",
-     "note": "Badania szacują łączny czas siedzenia dorosłych na ok. 9-10 h dziennie; 15 h to wartość skrajna. Długie siedzenie zwiększa ryzyko zdrowotne, ale porównanie do palenia jest przesadzone, bo ryzyko palenia jest wielokrotnie wyższe.",
+     "note": "Dorośli siedzą ok. 9-10 h dziennie, a ryzyko palenia jest wielokrotnie wyższe.",
      "src": [
       [
        "Wikipedia (ang.): siedzący tryb życia - hasło \"Sedentary lifestyle\"",
@@ -678,7 +678,7 @@
     {
      "claim": "Obgryzacze paznokci mają istotnie więcej infekcji przewodu pokarmowego.",
      "verdict": "nie da się sprawdzić",
-     "note": "Obgryzanie wiąże się z zanokcicą, uszkodzeniem zębów i przenoszeniem bakterii, ale nie znalazłem solidnego badania potwierdzającego \"istotnie więcej\" infekcji jelitowych.",
+     "note": "Obgryzanie przenosi bakterie, ale brak solidnych badań o częstszych infekcjach jelitowych.",
      "src": [
       [
        "Wikipedia (ang.): obgryzanie paznokci - hasło \"Nail biting\"",
@@ -689,7 +689,7 @@
     {
      "claim": "Częste wstrzymywanie moczu osłabia dno miednicy i prowadzi do nietrzymania.",
      "verdict": "półprawda",
-     "note": "Okazjonalne wstrzymywanie jest bezpieczne. Urolodzy ostrzegają, że nawykowe, wieloletnie wstrzymywanie przez wiele godzin może uszkodzić mięśnie pęcherza i zwiększyć ryzyko infekcji oraz nietrzymania; to dotyczy skrajnych przypadków.",
+     "note": "Okazjonalne wstrzymywanie jest bezpieczne; szkodzi tylko wieloletnie, skrajne.",
      "src": [
       [
        "Cleveland Clinic: skutki długiego wstrzymywania moczu",
@@ -722,19 +722,19 @@
    "points": [
     {
      "t": "10. Drgnięcia przy zasypianiu",
-     "d": "Ok. 70% ludzi doświadcza nagłego szarpnięcia przy zasypianiu; mózg ma brać rozluźnienie mięśni za spadanie. Hipoteza: pozostałość po spaniu na drzewach."
+     "d": "Ok. 70% ludzi ma szarpnięcie przy zasypianiu; mózg bierze rozluźnienie za spadanie."
     },
     {
      "t": "9. Syndrom fantomowych wibracji",
-     "d": "Nawet 90% użytkowników telefonów czuje nieistniejące wibracje; mózg tak przywykł do sygnału, że go \"dopowiada\"."
+     "d": "Nawet 90% użytkowników telefonów czuje nieistniejące wibracje; mózg \"dopowiada\" sygnał."
     },
     {
      "t": "8. Pasożyty sterujące",
-     "d": "Toxoplasma gondii jest w mózgu ok. 30% ludzi; u myszy znosi strach przed kotami, a u ludzi ma wiązać się ze zmianami osobowości i wypadkami drogowymi."
+     "d": "Toxoplasma jest w mózgu ok. 30% ludzi; u myszy znosi strach przed kotami, u ludzi ma zmieniać zachowanie."
     },
     {
      "t": "7. Paraliż senny",
-     "d": "Umysł budzi się, gdy ciało jest jeszcze sparaliżowane fazą REM; towarzyszą temu halucynacje postaci i ucisk na klatkę piersiową."
+     "d": "Umysł budzi się, gdy ciało jest jeszcze sparaliżowane fazą REM; pojawiają się halucynacje i ucisk."
     },
     {
      "t": "6. Kichanie od światła",
@@ -742,7 +742,7 @@
     },
     {
      "t": "5. Drugi mózg w jelitach",
-     "d": "Ok. 500 mln neuronów w jelitach, \"więcej niż w mózgu kota\"; jelita produkują 90% serotoniny i mają wpływać na nastrój."
+     "d": "Ok. 500 mln neuronów w jelitach i 90% serotoniny; jelita mają wpływać na nastrój."
     },
     {
      "t": "4. Mózg zjada sam siebie",
@@ -750,7 +750,7 @@
     },
     {
      "t": "3. Zespół Capgrasa",
-     "d": "Urojenie, że bliska osoba została zastąpiona sobowtórem; rozpoznawanie twarzy działa, ale brak reakcji emocjonalnej."
+     "d": "Urojenie, że bliską osobę zastąpił sobowtór; twarz jest rozpoznana, ale bez emocji."
     },
     {
      "t": "2. Jamais vu",
@@ -758,7 +758,7 @@
     },
     {
      "t": "1. Roztocza w rzęsach",
-     "d": "Nużeńce żyją w mieszkach włosowych twarzy, w nocy wychodzą się rozmnażać, nie mają odbytu i uwalniają odchody dopiero po śmierci; z wiekiem ma ich prawie każdy."
+     "d": "Nużeńce żyją w mieszkach włosowych twarzy, w nocy się rozmnażają; z wiekiem ma je prawie każdy."
     }
    ],
    "conclusion": "Ciało i mózg robią mnóstwo dziwnych rzeczy bez naszej wiedzy, a wiele z nich to ślady dawnej ewolucji.",
@@ -766,7 +766,7 @@
     {
      "claim": "Drgnięcia przy zasypianiu ma ok. 70% ludzi; to pozostałość po spaniu na drzewach.",
      "verdict": "półprawda",
-     "note": "Częstość 60-70% jest często podawana w literaturze. Wyjaśnienie z drzewami to tylko spekulatywna hipoteza ewolucyjna, a mechanizm nie jest znany.",
+     "note": "Częstość 60-70% jest podawana w literaturze, ale wyjaśnienie z drzewami to tylko hipoteza.",
      "src": [
       [
        "Wikipedia (ang.): drgawki hipnagogiczne - hasło \"Hypnic jerk\"",
@@ -792,7 +792,7 @@
     {
      "claim": "Toxoplasma jest u ok. 30% ludzi i zmienia osobowość oraz zwiększa ryzyko wypadków.",
      "verdict": "przesada",
-     "note": "Zarażenie ok. 30% populacji i zachowanie myszy (utrata strachu przed kocim moczem) są dobrze opisane. U ludzi są tylko korelacje (badania Flegra) bez dowodu przyczynowości; film podaje to jak pewnik.",
+     "note": "Zarażenie ok. 30% ludzi i efekt u myszy są potwierdzone; u ludzi są tylko korelacje, film podaje je jak pewnik.",
      "src": [
       [
        "Wikipedia (ang.): toksoplazmoza - hasło \"Toxoplasmosis\"",
@@ -807,7 +807,7 @@
     {
      "claim": "Paraliż senny: świadomość przy zablokowanych mięśniach REM, halucynacje postaci, ucisk w klatce.",
      "verdict": "prawda",
-     "note": "Zgodne z opisem klinicznym; przynajmniej raz w życiu doświadcza go ok. 8% ogółu ludzi (więcej u studentów i pacjentów psychiatrycznych). Film sugeruje, że to \"co noc\", co jest przesadą.",
+     "note": "Opis kliniczny się zgadza; doświadcza go ok. 8% ludzi przynajmniej raz, nie \"co noc\".",
      "src": [
       [
        "Wikipedia (ang.): paraliż senny - hasło \"Sleep paralysis\"",
@@ -822,7 +822,7 @@
     {
      "claim": "Kichanie od światła jest dziedziczne.",
      "verdict": "prawda",
-     "note": "Odruch fotyczny dotyczy ok. 18-35% ludzi i dziedziczy się w sposób autosomalny dominujący. Mechanizm \"skrzyżowania\" nerwu wzrokowego i trójdzielnego to wiodąca hipoteza.",
+     "note": "Dotyczy ok. 18-35% ludzi i jest dziedziczny; mechanizm nerwowy to wiodąca hipoteza.",
      "src": [
       [
        "Wikipedia (ang.): odruch kichania na światło - hasło \"Photic sneeze reflex\"",
@@ -833,7 +833,7 @@
     {
      "claim": "W jelitach jest ok. 500 mln neuronów, więcej niż w mózgu kota.",
      "verdict": "półprawda",
-     "note": "Szacunki to 100-600 mln (nowsze badanie: ok. 168 mln). Kora mózgowa kota ma ok. 250-300 mln neuronów, ale cały mózg kota znacznie więcej, więc porównanie jest mylące.",
+     "note": "Szacunki to 100-600 mln neuronów; cały mózg kota ma ich więcej, więc porównanie jest mylące.",
      "src": [
       [
        "Stanford: drugi mózg w jelitach",
@@ -848,7 +848,7 @@
     {
      "claim": "Jelita produkują 90% serotoniny, co steruje nastrojem.",
      "verdict": "przesada",
-     "note": "Ok. 90% serotoniny powstaje w komórkach enterochromafinowych jelit. Ta serotonina nie przechodzi jednak przez barierę krew-mózg; oś jelita-mózg istnieje, ale \"sterowanie nastrojem\" jest uproszczeniem.",
+     "note": "Ok. 90% serotoniny powstaje w jelitach, ale nie trafia do mózgu; \"sterowanie nastrojem\" to uproszczenie.",
      "src": [
       [
        "Wikipedia (ang.): serotonina - hasło \"Serotonin\"",
@@ -863,7 +863,7 @@
     {
      "claim": "Autofagia w neuronach głodu wzmacnia uczucie głodu.",
      "verdict": "prawda",
-     "note": "Kaushik i in. (Cell Metabolism, 2011) wykazali u myszy, że autofagia w neuronach AgRP podwzgórza reguluje głód. \"Mózg zjada sam siebie\" to dramatyzacja normalnego procesu sprzątania komórek.",
+     "note": "Autofagia w neuronach reguluje głód (badanie na myszach, 2011); \"mózg zjada sam siebie\" to dramatyzacja.",
      "src": [
       [
        "Kaushik i in. 2011 (PubMed)",
@@ -878,7 +878,7 @@
     {
      "claim": "Zespół Capgrasa i jamais vu (wywoływane wielokrotnym pisaniem słowa).",
      "verdict": "prawda",
-     "note": "Capgras to opisane urojenie, które wiąże się z zerwaniem połączenia rozpoznawania twarzy i emocji. Chris Moulin i współpracownicy wywoływali jamais vu przepisywaniem słowa (Ig Nobel 2023).",
+     "note": "Capgras to opisane urojenie, a jamais vu wywoływano przepisywaniem słowa (Moulin, Ig Nobel 2023).",
      "src": [
       [
        "Wikipedia (ang.): zespół Capgrasa - hasło \"Capgras delusion\"",
@@ -893,7 +893,7 @@
     {
      "claim": "Nużeńce nie mają odbytu i uwalniają odchody po śmierci.",
      "verdict": "fałsz",
-     "note": "Badanie genomu z 2022 r. (Molecular Biology and Evolution) wykazało, że nużeńce mają odbyt. Prawdą jest, że żyją w mieszkach włosowych twarzy (nie tylko rzęs), w nocy wychodzą się kopulować, a z wiekiem ma je prawie każdy dorosły.",
+     "note": "Badanie genomu z 2022 r. wykazało, że nużeńce mają odbyt; reszta opisu się zgadza.",
      "src": [
       [
        "University of Reading: sekretne życie roztoczy",
@@ -906,7 +906,7 @@
      ]
     }
    ],
-   "bias": "Sensacyjny język (\"mózg zjada sam siebie\", \"pasożyt w twoim mózgu\"). Fakty w większości prawdziwe, ale korelacje podane jak pewniki, a jeden mit (brak odbytu u nużeńców) jest już obalony."
+   "bias": "Sensacyjny język (\"mózg zjada sam siebie\"); korelacje podane jak pewniki, a mit o nużeńcach jest już obalony."
   },
   {
    "id": "2sWFexuc7MI",
@@ -926,35 +926,35 @@
    "points": [
     {
      "t": "10. Gangkhar Puensum (Bhutan)",
-     "d": "Najwyższa niezdobyta góra świata (ok. 7570 m). Bhutan zakazał wspinaczki z szacunku dla duchów gór; wcześniejsze wyprawy nie mogły nawet znaleźć szczytu przez złe mapy."
+     "d": "Najwyższa niezdobyta góra (ok. 7570 m); Bhutan zakazał wspinaczki z szacunku dla duchów gór."
     },
     {
      "t": "9. Jaskinia Kryształów (Meksyk)",
-     "d": "Kryształy wielkości autobusów, 58°C i prawie 100% wilgotności. Naukowcy wchodzą na ok. 10 minut w kombinezonach chłodzących; w kryształach znaleziono uśpione mikroby."
+     "d": "Kryształy wielkości autobusów, 58°C i prawie 100% wilgotności; wejścia na ok. 10 minut."
     },
     {
      "t": "8. Podwodne jaskinie Jukatanu",
-     "d": "Tysiące połączonych cenotów, w większości niezbadanych i groźnych dla nurków. Majowie traktowali je jako wrota do podziemi; są tam kości, ceramika i ślepe ryby."
+     "d": "Tysiące połączonych cenotów, w większości niezbadanych; dla Majów wrota do podziemi."
     },
     {
      "t": "7. Góry Gwiezdne (Papua-Nowa Gwinea)",
-     "d": "Wapienne urwiska w dżungli, ciągły deszcz i pijawki. Ściana Hindenburga ma być niezdobyta, a okoliczne plemiona nie badają niektórych części."
+     "d": "Wapienne urwiska w dżungli, deszcz i pijawki; Ściana Hindenburga ma być niezdobyta."
     },
     {
      "t": "6. Rów Nowych Hebrydów",
-     "d": "Rów na Pacyfiku między Vanuatu a Nową Kaledonią, ok. 7200 m głębokości. Badały go roboty; warunki przypominają te na księżycach Jowisza."
+     "d": "Rów między Vanuatu a Nową Kaledonią, ok. 7200 m głębokości; badały go tylko roboty."
     },
     {
      "t": "5. Tsingy de Bemaraha (Madagaskar)",
-     "d": "\"Kamienny las\" ostrych wapiennych iglic do wysokości 5 pięter. Wnętrze ma być nietknięte, a gatunki endemiczne."
+     "d": "\"Kamienny las\" ostrych wapiennych iglic wysokości 5 pięter; wnętrze ma być nietknięte."
     },
     {
      "t": "4. Serce pustyni Namib",
-     "d": "Morze wydm wyższych od Empire State Building, ciągle w ruchu, wielkości stanu Maryland; obszar UNESCO, którego wnętrza nikt nie odwiedził."
+     "d": "Morze wydm wyższych od Empire State Building, wielkości Maryland; wnętrza nikt nie odwiedził."
     },
     {
      "t": "3. Sandy Island",
-     "d": "Wyspa z map (także Google Maps) między Australią a Nową Kaledonią, której nie znaleźli australijscy naukowcy w 2012 roku."
+     "d": "Wyspa z map między Australią a Nową Kaledonią, której nie znaleźli naukowcy w 2012 r."
     },
     {
      "t": "2. Północna Grenlandia",
@@ -962,15 +962,15 @@
     },
     {
      "t": "1. Pustynia Takla Makan (Chiny)",
-     "d": "\"Pustynia śmierci\" większa od Wielkiej Brytanii, otoczona górami, bez wody; w jej centrum nikt nie był, a pod piaskiem mogą być zaginione miasta z czasów Jedwabnego Szlaku."
+     "d": "\"Pustynia śmierci\" większa od Wielkiej Brytanii; pod piaskiem mają być zaginione miasta."
     }
    ],
    "conclusion": "Mimo satelitów i GPS wciąż są miejsca, do których człowiek nie dotarł, głównie przez zakazy, ekstremalne warunki albo zwykłe trudności w dojściu.",
    "factchecks": [
     {
-     "claim": "Gangkhar Puensum to najwyższa niezdobyta góra; Bhutan zakazał wspinaczki w 1994; w latach 80. wyprawy nie mogły jej znaleźć.",
+     "claim": "Gangkhar Puensum to najwyższa niezdobyta góra; wspinaczka zakazana, a wyprawy nie mogły jej znaleźć.",
      "verdict": "prawda",
-     "note": "Szczyt ma 7570 m. Od 1994 zakazano wspinaczki na szczyty powyżej 6000 m, a od 2003 całkowicie. W latach 1985-1986 cztery wyprawy się nie powiodły, m.in. przez niedokładne mapy.",
+     "note": "Szczyt ma 7570 m, a wspinaczka jest zakazana od 2003 r.; wyprawy z lat 80. się nie powiodły.",
      "src": [
       [
        "Wikipedia (ang.): Gangkhar Puensum",
@@ -979,9 +979,9 @@
      ]
     },
     {
-     "claim": "Jaskinia Kryształów: 58°C, prawie 100% wilgotności, toksyczne powietrze z siarkowodorem, wizyty ok. 10 minut, mikroby w kryształach.",
+     "claim": "Jaskinia Kryształów: 58°C, prawie 100% wilgotności, toksyczne powietrze, wizyty ok. 10 minut.",
      "verdict": "półprawda",
-     "note": "Temperatura i wilgotność się zgadzają, a mikroby (uśpione nawet do 50 tys. lat) opisała NASA (Penelope Boston, 2017). Głównym zagrożeniem jest jednak upał z wilgocią, nie toksyczne gazy. Jaskinię odkryto w 2000 r. przy kopalni i zalano ponownie po wyłączeniu pomp w 2015 r.",
+     "note": "Upał, wilgotność i mikroby się zgadzają; głównym zagrożeniem jest upał, nie toksyczne gazy.",
      "src": [
       [
        "Wikipedia (ang.): Jaskinia Kryształów (Naica) - hasło \"Cave of the Crystals\"",
@@ -996,7 +996,7 @@
     {
      "claim": "Cenoty Jukatanu: tysiące połączonych jaskiń, ślepe ryby, ofiary Majów.",
      "verdict": "prawda",
-     "note": "Sam system Sac Actun ma ponad 370 km zbadanych korytarzy. Na Jukatanie żyją ślepe ryby jaskiniowe, a w cenotach (np. w Chichén Itzá) znaleziono szczątki ludzkie i ofiary. To jednak dobrze odwiedzane miejsce nurkowe, a nie \"nieodwiedzone\".",
+     "note": "Sac Actun ma ponad 370 km korytarzy, ale to popularne miejsce nurkowe, a nie \"nieodwiedzone\".",
      "src": [
       [
        "Wikipedia (ang.): system jaskiń Sac Actun - hasło \"Sistema Sac Actun\"",
@@ -1011,7 +1011,7 @@
     {
      "claim": "W Góry Gwiezdne nigdy nie wszedł żaden człowiek.",
      "verdict": "fałsz",
-     "note": "W Górach Gwiezdnych mieszkają ludy Min, działa tam też wielka kopalnia Ok Tedi i miasto Tabubil. Niedostępne mogą być tylko poszczególne urwiska, jak Ściana Hindenburga.",
+     "note": "Mieszkają tam ludy Min, działa kopalnia Ok Tedi i miasto Tabubil.",
      "src": [
       [
        "Wikipedia (ang.): Góry Gwiezdne - hasło \"Star Mountains\"",
@@ -1026,7 +1026,7 @@
     {
      "claim": "Rów Nowych Hebrydów: Everest by się w nim zmieścił; nikt tam nie był, były tylko roboty.",
      "verdict": "fałsz",
-     "note": "Rów ma ok. 7,8 km głębokości, a Everest 8,85 km, więc szczyt by wystawał (sam film podaje 7200 m, co przeczy porównaniu). 4 grudnia 2021 r. Victor Vescovo zszedł na dno w batyskafie Limiting Factor (7794 m).",
+     "note": "Rów ma ok. 7,8 km, a Everest 8,85 km, więc szczyt by wystawał; na dno zszedł Victor Vescovo w 2021 r.",
      "src": [
       [
        "Wikipedia (ang.): Rów Nowych Hebrydów - hasło \"New Hebrides Trench\"",
@@ -1041,7 +1041,7 @@
     {
      "claim": "Tsingy: nazwa znaczy \"gdzie nie można chodzić boso\"; wnętrze nietknięte.",
      "verdict": "półprawda",
-     "note": "Popularne tłumaczenie nazwy jest zgodne z opisami parku, a obszar jest na liście UNESCO i ma wiele gatunków endemicznych. Ale park jest udostępniony turystom (szlaki, mosty linowe), a badacze prowadzą tam inwentaryzacje; \"przecina buty jak masło\" to przesada.",
+     "note": "Tłumaczenie nazwy się zgadza, ale park ma szlaki dla turystów i jest badany.",
      "src": [
       [
        "Wikipedia (ang.): Tsingy de Bemaraha",
@@ -1056,7 +1056,7 @@
     {
      "claim": "Namib: wydmy wyższe od Empire State Building, obszar wielkości Maryland, wnętrza nigdy nie odwiedzono.",
      "verdict": "przesada",
-     "note": "Morze Piasku Namib (UNESCO od 2013) ma ok. 30 tys. km2, czyli mniej więcej jak Maryland. Najwyższe wydmy mają ok. 300-380 m, czyli mniej więcej jak dach Empire State (381 m). Teza o nieodwiedzonym wnętrzu jest bez źródła; obszar jest badany, a okolice Sossusvlei to masowa turystyka.",
+     "note": "Wielkość i wydmy (do ok. 380 m) się zgadzają, ale okolice Sossusvlei to masowa turystyka.",
      "src": [
       [
        "UNESCO: Morze Piasku Namib",
@@ -1071,7 +1071,7 @@
     {
      "claim": "Sandy Island: \"odkrytą\" przez Jamesa Cooka wyspę obalili Australijczycy w 2012.",
      "verdict": "półprawda",
-     "note": "Rejs statku badawczego Southern Surveyor w listopadzie 2012 r. potwierdził, że wyspy nie ma. Ale pierwszy zapis pochodzi od statku wielorybniczego Velocity z 1876 r., a nie od Cooka. Prawdopodobna przyczyna to błąd kartograficzny lub pumeks.",
+     "note": "W 2012 r. potwierdzono, że wyspy nie ma, ale pierwszy zapis jest z 1876 r., nie od Cooka.",
      "src": [
       [
        "Wikipedia (ang.): Sandy Island (Nowa Kaledonia) - hasło \"Sandy Island (New Caledonia)\"",
@@ -1082,7 +1082,7 @@
     {
      "claim": "Lądolód pokrywa ok. 80% Grenlandii, a wnętrze północnej Grenlandii jest nietknięte przez człowieka.",
      "verdict": "półprawda",
-     "note": "Lądolód pokrywa ok. 80% wyspy i ma do ok. 3 km grubości. Ale w głębi lądolodu działały stacje wiertnicze (NGRIP, NEEM, Summit Camp), a lądolód wielokrotnie przekraczano.",
+     "note": "Lądolód pokrywa ok. 80% wyspy, ale w głębi działały stacje wiertnicze i wiele razy go przekraczano.",
      "src": [
       [
        "Wikipedia (ang.): lądolód grenlandzki - hasło \"Greenland ice sheet\"",
@@ -1097,7 +1097,7 @@
     {
      "claim": "Takla Makan: większa od Wielkiej Brytanii, w środku nie było człowieka, nazwa znaczy \"miejsce bez powrotu\".",
      "verdict": "fałsz",
-     "note": "Powierzchnia ok. 337 tys. km2 jest faktycznie większa od Wielkiej Brytanii (ok. 243 tys. km2). Ale przez pustynię biegnie od 1995 r. Tarimska Autostrada Pustynna, działają tam pola naftowe, a pogrzebane miasta (np. Niya, Dandan Oilik) odkopano już ponad 100 lat temu. Etymologia nazwy jest sporna.",
+     "note": "Jest większa od Wielkiej Brytanii, ale biegnie przez nią autostrada, a pogrzebane miasta odkopano 100 lat temu.",
      "src": [
       [
        "Wikipedia (ang.): pustynia Takla Makan - hasło \"Taklamakan Desert\"",
@@ -1110,7 +1110,7 @@
      ]
     }
    ],
-   "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana (Rów Nowych Hebrydów, Takla Makan, Góry Gwiezdne, cenoty). Uczciwie byłoby powiedzieć \"miejsca słabo zbadane\". Transkrypcja tego filmu pochodzi z rozpoznawania mowy (Whisper), bo napisy były niedostępne."
+   "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper."
   },
   {
    "id": "7bOQ7fLCqgI",
@@ -1130,7 +1130,7 @@
    "points": [
     {
      "t": "9. Wyrostek robaczkowy",
-     "d": "Pozostałość po trawieniu roślin; mało przydatny, a może się zapalić. Autor mówi, że coraz więcej ludzi rodzi się bez niego."
+     "d": "Pozostałość po trawieniu roślin, która może się zapalić; ma się coraz częściej nie wykształcać."
     },
     {
      "t": "8. Palce u stóp",
@@ -1162,7 +1162,7 @@
     },
     {
      "t": "1. Zatoki",
-     "d": "Nie wiadomo do końca, po co są; mogą odciążać czaszkę lub ogrzewać powietrze. Według autora mogą powoli zanikać."
+     "d": "Nie wiadomo, po co są; mogą odciążać czaszkę lub ogrzewać powietrze. Mają powoli zanikać."
     }
    ],
    "conclusion": "Ciało nosi ślady ewolucji, a niektóre z tych części mogą zniknąć, ale zajmie to tysiące lat.",
@@ -1170,7 +1170,7 @@
     {
      "claim": "Wyrostek robaczkowy jest bezużyteczny.",
      "verdict": "półprawda",
-     "note": "Nowsze badania wskazują na rolę odpornościową i \"bezpieczną przystań\" bakterii jelitowych; wyrostek pojawił się niezależnie u wielu ssaków, co przeczy prostej tezie o szczątkowości.",
+     "note": "Nowsze badania wskazują na rolę odpornościową wyrostka, co przeczy prostej tezie o szczątkowości.",
      "src": [
       [
        "Wikipedia (ang.): wyrostek robaczkowy - hasło \"Appendix (anatomy)\"",
@@ -1241,7 +1241,7 @@
     {
      "claim": "Te części ciała \"znikną kiedyś\".",
      "verdict": "nie da się sprawdzić",
-     "note": "Ewolucja nie usuwa zbędnych części automatycznie; potrzebna jest presja selekcyjna, a współczesna medycyna i kultura mocno ją zmieniają. Teza o zanikaniu zatok i palców jest spekulacją.",
+     "note": "Ewolucja nie usuwa zbędnych części sama; potrzebna jest presja selekcyjna, więc to spekulacja.",
      "src": [
       [
        "Wikipedia (ang.): szczątkowość narządów - hasło \"Vestigiality\"",
@@ -1274,11 +1274,11 @@
     },
     {
      "t": "8. Meduza Irukandji",
-     "d": "Malutka meduza z Australii; użądlenie wywołuje syndrom Irukandji: silny ból, wymioty, skoki ciśnienia, a nawet zagrożenie życia."
+     "d": "Malutka meduza z Australii; użądlenie daje silny ból, wymioty i skoki ciśnienia."
     },
     {
      "t": "7. Tężec",
-     "d": "Toksyna bakterii z ziemi i rdzy powoduje bolesne skurcze mięśni, w tym szczękościsk; stąd szczepienia przypominające."
+     "d": "Toksyna bakterii z ziemi daje bolesne skurcze mięśni i szczękościsk; stąd szczepienia."
     },
     {
      "t": "6. Klasterowe bóle głowy",
@@ -1298,7 +1298,7 @@
     },
     {
      "t": "2. Osa \"Kat\" (executioner wasp)",
-     "d": "Duża osa z Ameryki Środkowej; autor mówi o rozmiarze małego ptaka, jadzie z poneratoksyną i składaniu jaj w innych owadach."
+     "d": "Duża osa z Ameryki Środkowej; autor mówi o rozmiarze małego ptaka i silnym jadzie."
     },
     {
      "t": "1. Mrówka-pocisk",
@@ -1310,7 +1310,7 @@
     {
      "claim": "Osa Polistes carnifex ma jad z poneratoksyną, jest wielkości małego ptaka i składa jaja w innych owadach.",
      "verdict": "fałsz",
-     "note": "Poneratoksyna to toksyna mrówki-pocisku, nie tej osy. Polistes carnifex to społeczna osa papierowa (do ok. 3,3 cm), która karmi larwy rozdrobnionymi owadami, a nie pasożytuje. Jej bolesność opisuje głównie entomolog Justin Schmidt w anegdotach.",
+     "note": "Poneratoksyna to toksyna mrówki-pocisku; ta osa ma do ok. 3,3 cm i nie pasożytuje.",
      "src": [
       [
        "Wikipedia (ang.): osa Polistes carnifex - hasło \"Polistes carnifex\"",
@@ -1340,7 +1340,7 @@
     {
      "claim": "Meduza Irukandji występuje od Hawajów po Florydę.",
      "verdict": "półprawda",
-     "note": "Carukia barnesi to gatunek australijski. Podobny syndrom wywołują inne kostkowe meduzy w różnych miejscach, w tym na Hawajach i Florydzie, więc chodzi o różne gatunki.",
+     "note": "Carukia barnesi żyje w Australii; na Hawajach i Florydzie podobny syndrom dają inne gatunki.",
      "src": [
       [
        "Wikipedia (ang.): zespół Irukandji - hasło \"Irukandji syndrome\"",
@@ -1418,11 +1418,11 @@
    "points": [
     {
      "t": "9. Puchar Likurga",
-     "d": "Rzymski puchar z IV wieku, który pod światło świeci na czerwono, a z zewnątrz jest zielony; efekt dają nanocząstki złota i srebra."
+     "d": "Rzymski puchar z IV w., zielony w odbitym świetle, czerwony pod światło."
     },
     {
      "t": "8. Rzymskie elastyczne szkło",
-     "d": "Legenda o wynalazcy, który pokazał cesarzowi Tyberiuszowi nietłukące się szkło i został stracony, by nie zaszkodzić wartości złota."
+     "d": "Legenda o wynalazcy nietłukącego się szkła, straconego przez cesarza Tyberiusza."
     },
     {
      "t": "7. Ogień grecki",
@@ -1430,15 +1430,15 @@
     },
     {
      "t": "6. Skrzypce Stradivariego",
-     "d": "Rodzina Stradivari (ok. 1650-1750) robiła skrzypce o rzekomo niepowtarzalnym brzmieniu; teorie mówią o drewnie z małej epoki lodowcowej i chemii lakieru."
+     "d": "Skrzypce Stradivariego mają mieć niepowtarzalne brzmienie dzięki drewnu i lakierowi."
     },
     {
      "t": "5. Mechanizm z Antykithiry",
-     "d": "Odnaleziony we wraku ok. 100 lat temu analogowy \"komputer\" do przewidywania ruchu ciał niebieskich i zaćmień; podobna precyzja pojawiła się dopiero ponad 1000 lat później."
+     "d": "Analogowy \"komputer\" sprzed 2000 lat do przewidywania zaćmień i ruchu planet."
     },
     {
      "t": "4. Stal damasceńska",
-     "d": "Krzyżowcy spotkali niezwykle ostre i wytrzymałe miecze ze wzorami; technologia zaginęła, a nanorurki węglowe w ostrzu dziwią naukowców."
+     "d": "Bardzo ostre miecze ze wzorami; technologia zaginęła, a w ostrzu są nanorurki."
     },
     {
      "t": "3. Kamienne kule z Kostaryki",
@@ -1458,7 +1458,7 @@
     {
      "claim": "Puchar Likurga zmienia kolor dzięki nanocząstkom.",
      "verdict": "prawda",
-     "note": "Szkło zawiera koloidalne złoto i srebro (cząstki ok. 50-100 nm), co potwierdziło British Museum. Efekt jest wyjaśniony; to nie jest \"technologia, której nie rozumiemy\".",
+     "note": "Złoto i srebro w nanocząstkach potwierdziło British Museum; efekt jest wyjaśniony.",
      "src": [
       [
        "British Museum: Puchar Likurga",
@@ -1484,7 +1484,7 @@
     {
      "claim": "Ogień grecki wynaleźli Rzymianie, a jego przepis zaginął.",
      "verdict": "półprawda",
-     "note": "Używało go Cesarstwo Bizantyjskie (wschodnia część Rzymu) od ok. 672 r., według tradycji wynalazł go Kallinikos. Skład faktycznie jest nieznany, prawdopodobnie bazował na ropie naftowej.",
+     "note": "Używało go Bizancjum od ok. 672 r.; skład faktycznie nie jest znany.",
      "src": [
       [
        "Wikipedia (ang.): ogień grecki - hasło \"Greek fire\"",
@@ -1495,7 +1495,7 @@
     {
      "claim": "Skrzypiec Stradivariego nie da się odtworzyć i brzmią wyjątkowo.",
      "verdict": "przesada",
-     "note": "W ślepych testach (Fritz i in., PNAS 2012 i 2014) soliści nie odróżniali Stradivariusów od nowych instrumentów i często woleli nowe. Antonio Stradivari żył w latach 1644-1737.",
+     "note": "W ślepych testach (PNAS 2012, 2014) soliści nie odróżniali Stradivariusów od nowych skrzypiec.",
      "src": [
       [
        "Fritz i in. 2014, PNAS (DOI)",
@@ -1510,7 +1510,7 @@
     {
      "claim": "Mechanizm z Antykithiry: znaleziony ok. 100 lat temu, przewidywał zaćmienia, niezrównany przez wieki.",
      "verdict": "prawda",
-     "note": "Znaleziony w 1901 r. (więc ok. 120 lat temu), datowany na II-I w. p.n.e. Podobnie złożone zegary astronomiczne pojawiły się w Europie w XIV w. Jego działanie jest dziś dobrze zrekonstruowane.",
+     "note": "Działanie mechanizmu jest dziś dobrze zrekonstruowane.",
      "src": [
       [
        "Wikipedia (ang.): mechanizm z Antykithiry - hasło \"Antikythera mechanism\"",
@@ -1525,7 +1525,7 @@
     {
      "claim": "Stal damasceńska to zaginiony sekret.",
      "verdict": "przesada",
-     "note": "Pierwotna stal wootz pochodziła z Indii i Sri Lanki. Metalurdzy Verhoeven i Pendray odtworzyli jej wzory w latach 90. Nanorurki węglowe znaleziono w jednym ostrzu (Reibold i in., Nature 2006).",
+     "note": "Wzory stali wootz odtworzono w latach 90., a nanorurki znaleziono w jednym ostrzu.",
      "src": [
       [
        "Wikipedia (ang.): stal damasceńska - hasło \"Damascus steel\"",
@@ -1540,7 +1540,7 @@
     {
      "claim": "Kule z Kostaryki: ponad 300, do kilkunastu ton, cel nieznany.",
      "verdict": "prawda",
-     "note": "Kultura Diquís, ok. 600-1500 n.e., największe ważą ok. 15-16 t, wpis na listę UNESCO w 2014 r. Cel nie jest pewny, ale nie ma w nich nic \"niewytłumaczalnego\": obrabiano je kamieniem i ścieraniem.",
+     "note": "Kule kultury Diquís obrabiano kamieniem i ścieraniem; cel jest niepewny, ale nie \"niewytłumaczalny\".",
      "src": [
       [
        "Wikipedia (ang.): kamienne kule z Kostaryki - hasło \"Stone spheres of Costa Rica\"",
@@ -1566,7 +1566,7 @@
     {
      "claim": "Nie wiadomo, jak zbudowano piramidy.",
      "verdict": "przesada",
-     "note": "Liczba ok. 2,3 mln bloków jest prawdziwa. Szczegóły są dyskutowane, ale mamy papirusy z Wadi al-Dżarf (dziennik Merera o transporcie wapienia łodziami), ślady ramp i osady robotników. Mokry piasek ułatwia ciągnięcie sań (Fall i in., 2014). Wzmianka o \"megamaszynach\" to spekulacja bez podstaw.",
+     "note": "Papirusy z Wadi al-Dżarf, ślady ramp i osady robotników wyjaśniają budowę; \"megamaszyny\" to spekulacja.",
      "src": [
       [
        "Wikipedia (ang.): Dziennik Merera - hasło \"Diary of Merer\"",
@@ -1579,7 +1579,7 @@
      ]
     }
    ],
-   "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją (Puchar Likurga, Antykithira, stal damasceńska, piramidy). Film podsyca narrację o \"zagadkach\", sugerując nawet zaginione maszyny."
+   "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją, a film sugeruje nawet zaginione maszyny."
   },
   {
    "id": "hmHhsg7h4g0",
@@ -1599,15 +1599,15 @@
    "points": [
     {
      "t": "Znamiona",
-     "d": "Uważane za \"znak diabła\", rzekomo nieczuły na ból. Łowcy czarownic kłuli je igłami, czasem chowanymi, a każda reakcja świadczyła przeciw oskarżonemu."
+     "d": "Znamię uznawane za \"znak diabła\"; kłuto je igłami, czasem chowanymi."
     },
     {
      "t": "Lunatykowanie",
-     "d": "Chodzenie i mamrotanie we śnie brano za rozmowę z diabłem; każde nieszczęście następnego dnia zwalano na lunatyka."
+     "d": "Chodzenie i mamrotanie we śnie brano za rozmowę z diabłem."
     },
     {
      "t": "Gwizdanie",
-     "d": "Niektóre melodie miały wywoływać wiatr lub zsiadanie mleka; gwizdanie przy drzewach, na cmentarzu czy w kościele było podejrzane."
+     "d": "Niektóre melodie miały wywoływać wiatr; gwizdanie na cmentarzu czy w kościele było podejrzane."
     },
     {
      "t": "Leworęczność",
@@ -1615,7 +1615,7 @@
     },
     {
      "t": "Ziewanie",
-     "d": "Otwarte usta miały wpuszczać demony; trzeba było robić znak krzyża. Autor łączy to z dżumą, której objawem miało być ziewanie."
+     "d": "Otwarte usta miały wpuszczać demony; autor łączy to z dżumą."
     },
     {
      "t": "Posiadanie kotów",
@@ -1627,7 +1627,7 @@
     },
     {
      "t": "Warzenie piwa",
-     "d": "Piwowarkami były kobiety; zbyt dobre piwo budziło zazdrość. Kocioł, kij do mieszania i koty to według autora źródło stereotypu czarownicy."
+     "d": "Piwowarki z kotłem i kotami miały być źródłem stereotypu czarownicy."
     },
     {
      "t": "Za dobry ser",
@@ -1643,7 +1643,7 @@
     {
      "claim": "Polowania na czarownice to średniowiecze (XV wiek).",
      "verdict": "półprawda",
-     "note": "Masowe procesy przypadają głównie na wczesną nowożytność, ok. 1450-1750, ze szczytem w latach 1560-1630. Tytuł \"średniowiecze\" jest mylący; sam film raz wspomina XVI wiek.",
+     "note": "Masowe procesy to głównie lata 1450-1750, czyli wczesna nowożytność, nie średniowiecze.",
      "src": [
       [
        "Wikipedia (ang.): procesy czarownic w epoce nowożytnej - hasło \"Witch trials in the early modern period\"",
@@ -1654,7 +1654,7 @@
     {
      "claim": "\"Znak diabła\" i kłucie igłami, także chowanymi.",
      "verdict": "prawda",
-     "note": "Szukanie znaku diabła i kłucie (witch-pricking) są dobrze udokumentowane, zwłaszcza w Szkocji i Anglii XVII w. Opisywano oszustów używających tępych lub chowanych igieł.",
+     "note": "Kłucie (witch-pricking) jest dobrze udokumentowane, w tym oszustwa z chowanymi igłami.",
      "src": [
       [
        "Wikipedia (ang.): kłucie czarownic - hasło \"Witch pricking\"",
@@ -1669,7 +1669,7 @@
     {
      "claim": "Leworęczni byli oskarżani o czary, a ich zeznania nie miały wagi w sądzie.",
      "verdict": "nie da się sprawdzić",
-     "note": "Skojarzenia lewej strony ze złem (łac. sinister) są realne, ale nie znalazłem źródeł, że leworęczność była typowym zarzutem w procesach ani że unieważniała zeznania.",
+     "note": "Lewa strona kojarzyła się ze złem, ale brak źródeł, że leworęczność była typowym zarzutem.",
      "src": [
       [
        "Wikipedia (ang.): uprzedzenia wobec leworęcznych - hasło \"Bias against left-handed people\"",
@@ -1680,7 +1680,7 @@
     {
      "claim": "Ziewanie było objawem dżumy, stąd znak krzyża przy ziewaniu.",
      "verdict": "nie da się sprawdzić",
-     "note": "Zwyczaj zasłaniania lub żegnania ust przy ziewaniu istniał, ale związek z dżumą to popularna anegdota bez źródeł. Podobna legenda dotyczy kichania i \"na zdrowie\".",
+     "note": "Zwyczaj żegnania ust istniał, ale związek z dżumą to anegdota bez źródeł.",
      "src": [
       [
        "Wikipedia (ang.): ziewanie (kultura) - hasło \"Yawn\"",
@@ -1691,7 +1691,7 @@
     {
      "claim": "Koty kojarzono z diabłem; ich tępienie nasiliło dżumę.",
      "verdict": "półprawda",
-     "note": "Bulla \"Vox in Rama\" (1233) łączyła czarnego kota z kultem diabła. Teza, że wybijanie kotów spowodowało lub nasiliło Czarną Śmierć, nie ma mocnych dowodów; historycy uważają ją za mit.",
+     "note": "Bulla z 1233 r. łączyła koty z diabłem, ale wpływ tępienia kotów na dżumę to mit.",
      "src": [
       [
        "Wikipedia (ang.): bulla Vox in Rama - hasło \"Vox in Rama\"",
@@ -1706,7 +1706,7 @@
     {
      "claim": "Kobiety piwowarki (alewives) dały początek stereotypowi czarownicy z kotłem, miotłą i kotem.",
      "verdict": "półprawda",
-     "note": "Kobiety rzeczywiście dominowały w piwowarstwie średniowiecznej Anglii. Ale teza o pochodzeniu stereotypu czarownicy od piwowarek jest popularna w internecie i kwestionowana przez historyków (np. Christina Wade), bo brakuje dowodów.",
+     "note": "Kobiety dominowały w piwowarstwie, ale historycy kwestionują związek ze stereotypem czarownicy.",
      "src": [
       [
        "Wikipedia (ang.): piwowarki (alewives) - hasło \"Alewife (trade)\"",
@@ -1717,7 +1717,7 @@
     {
      "claim": "Lunatykowanie, gwizdanie, kichnięcie kota, ser, jajka z dwoma żółtkami jako powody oskarżeń.",
      "verdict": "nie da się sprawdzić",
-     "note": "Autor nie podaje źródeł. Istniały przesądy o \"kradzieży\" mleka i masła przez czarownice, ale konkretne przypadki z filmu (ser, podwójne żółtka we Francji) nie są udokumentowane w znanych opracowaniach.",
+     "note": "Przesądy o \"kradzieży\" mleka istniały, ale konkretne przykłady z filmu nie są udokumentowane.",
      "src": [
       [
        "Wikipedia (ang.): czary (przesądy ludowe) - hasło \"Witchcraft\"",
