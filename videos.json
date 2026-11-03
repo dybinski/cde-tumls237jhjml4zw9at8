@@ -2318,6 +2318,242 @@
    "bias": "Rzetelny i ostrożny przy legendach o pochodzeniu; dygresje (musical) i dłuższa reklama garnka."
   },
   {
+   "id": "NtZaP8VMv0c",
+   "title_pl": "Astronauta NASA sprawdził na ISS moją teorię o łańcuszku",
+   "title": "NASA tested my chain theory in space",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=NtZaP8VMv0c",
+   "date": "2025-10-10",
+   "duration": 903,
+   "views": 15440952,
+   "section": "Ciekawostki",
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Fizyka",
+    "Kosmos"
+   ],
+   "about": "Steve Mould łączy się z Donem Pettitem na ISS, by w nieważkości sprawdzić brakujący element wyjaśnienia fontanny łańcuszkowej.",
+   "intro": "Ok. 10 lat temu Steve Mould odkrył fontannę łańcuszkową, zwaną też efektem Moulda. Jeden element jego wyjaśnienia da się sprawdzić tylko w nieważkości: czy łańcuszek poruszający się ze stałą prędkością płynie przez własny kształt. W 25-minutowej rozmowie wideo astronauta Don Pettit testuje to na Międzynarodowej Stacji Kosmicznej.",
+   "points": [
+    {
+     "t": "Fontanna łańcuszkowa",
+     "d": "Łańcuszek z koralików wyciągany z naczynia wznosi się łukiem nad jego krawędź. Po serii 6 filmów z ElectroBoomem wyjaśnienie Moulda uznaje się za poprawne: z naczynia działa dodatkowa siła skierowana w górę."
+    },
+    {
+     "t": "Brakujący element",
+     "d": "Ta siła musi tylko równoważyć ciężar łuku. Z matematyki wynika, że szarpanie łańcuszka na drugim końcu nie zmienia kształtu łuku: bez grawitacji łańcuszek o stałej prędkości płynie przez własny kształt."
+    },
+    {
+     "t": "Nieudane pomysły",
+     "d": "Łańcuszka nie da się zatrzymać nieruchomo w powietrzu, a z kłębka nie da się go wyciągać ze stałą prędkością, bo koraliki się plączą i rozpływają. Pettit porównał chaotyczny ruch łańcuszka do ruchu cząsteczek."
+    },
+    {
+     "t": "Zamknięta pętla",
+     "d": "Trzeci pomysł: pętla w niekołowym kształcie, wprawiona w ruch wokół obwodu. Intuicja podpowiada, że zrobi się z niej okrąg, a teoria, że zachowa kształt."
+    },
+    {
+     "t": "Wynik",
+     "d": "Pętla w dużej mierze zachowała kształt, także wygięcie w stronę Pettita, ale powoli się zaokrąglała. Symulacja Martina Beyera pokazała, że to skutek tarcia w przegubach, którego model matematyczny nie uwzględnia."
+    },
+    {
+     "t": "Łańcuszek a sznurek",
+     "d": "Nitka i lina mają własną sztywność i prostują się, a łańcuszek z przegubami o małym tarciu zachowuje się zupełnie inaczej. Reaguje na prądy powietrza, a bez nich ustawia się wzdłuż gradientu grawitacji."
+    },
+    {
+     "t": "Inne eksperymenty",
+     "d": "Pettit robi sztuczki jak z jojo, przytrzymuje koniec łańcuszka ładunkiem elektrostatycznym i pokazuje, że łańcuch ze spinaczy o ogniwach 50 mm zachowuje się jak ten z koralików o średnicy 3 mm."
+    },
+    {
+     "t": "Droga na ISS",
+     "d": "Mould zapytał w filmie, jak dotrzeć do kogoś na ISS. Odezwał się Stefan z ESA, Samantha Cristoforetti zabrała w kosmos 4 m łańcuszka, a potem skontaktowała go z Pettitem."
+    },
+    {
+     "t": "Rozmowa",
+     "d": "Rozmowę przez Microsoft Teams zorganizował John Stevens z NASA. Okno łączności trwało 25 minut. Pettit uznał wyjaśnienie, w tym zaokrąglanie pętli przez tarcie, za trafne."
+    }
+   ],
+   "conclusion": "Łańcuszek w nieważkości zachował kształt, a powolne zaokrąglanie tłumaczy tarcie w przegubach, więc teoria Moulda się broni.",
+   "factchecks": [
+    {
+     "claim": "Steve Mould spopularyzował fontannę łańcuszkową filmem na YouTube w 2013 r.",
+     "verdict": "prawda",
+     "note": "Zjawisko pokazywano wcześniej, np. Steve Spangler w 2009 r.; nazwa efekt Moulda pochodzi od jego filmu.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): fontanna łańcuszkowa - hasło \"Chain fountain\"",
+       "https://en.wikipedia.org/wiki/Chain_fountain"
+      ]
+     ]
+    },
+    {
+     "claim": "Wyjaśnienie zakłada dodatkową siłę z naczynia działającą w górę.",
+     "verdict": "prawda",
+     "note": "Biggins i Warner z Cambridge opisali ją w Proceedings of the Royal Society A w 2014 r.",
+     "p": [
+      0,
+      1
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): fontanna łańcuszkowa - hasło \"Chain fountain\"",
+       "https://en.wikipedia.org/wiki/Chain_fountain"
+      ],
+      [
+       "Biggins, Warner: Understanding the chain fountain (Proc. R. Soc. A, 2014)",
+       "https://doi.org/10.1098/rspa.2013.0689"
+      ]
+     ]
+    },
+    {
+     "claim": "Samantha Cristoforetti dowodziła misją na ISS.",
+     "verdict": "prawda",
+     "note": "Objęła dowództwo Ekspedycji 68 28 września 2022 r.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): Samantha Cristoforetti - hasło \"Samantha Cristoforetti\"",
+       "https://en.wikipedia.org/wiki/Samantha_Cristoforetti"
+      ]
+     ]
+    },
+    {
+     "claim": "Don Pettit przebywał wtedy na ISS.",
+     "verdict": "prawda",
+     "note": "Był w składzie Ekspedycji 71 i 72; wylądował 20 kwietnia 2025 r., w dniu 70. urodzin.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Don Pettit - hasło \"Donald Pettit\"",
+       "https://en.wikipedia.org/wiki/Donald_Pettit"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny; Mould sam przyznaje, że pętla się zaokrąglała, i opiera wniosek o tarciu na symulacji. Krótka wzmianka o Patreonie."
+  },
+  {
+   "id": "qqFCHxacUww",
+   "title_pl": "Dlaczego w średniowieczu porzucano rzymskie miasta",
+   "title": "Why Roman Cities were Abandoned in the Middle Ages",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=qqFCHxacUww",
+   "date": "2025-07-25",
+   "duration": 569,
+   "views": 867499,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia"
+   ],
+   "about": "Toldinstone tłumaczy, czemu jedne rzymskie miasta przetrwały do dziś, a setki innych opustoszały.",
+   "intro": "Stojąc w ruinach antycznego miasta w południowej Turcji, Garrett Ryan z kanału toldinstone pyta, dlaczego Londyn czy Paryż przetrwały, a setki rzymskich miast zniknęły. Odpowiedź to splot czynników: słabnące elity, najazdy, klimat, malaria, zamulone porty i przede wszystkim rozpad sieci handlu, z której miasta żyły.",
+   "points": [
+    {
+     "t": "Imperium miast",
+     "d": "Rzym był konfederacją miast; sieć ok. 2000 z nich ciągnęła się od Brytanii po Syrię. Lokalne elity zbierały podatki dla Rzymu i w zamian inwestowały w fora, akwedukty, łaźnie i amfiteatry, czyli wszystko, co dziś kojarzymy z rzymskim miastem."
+    },
+    {
+     "t": "Kryzys III wieku",
+     "d": "Najazdy i kryzysy gospodarcze III w. zniszczyły setki miast przy granicach. Nawet te oszczędzone często chowały się za murami zbudowanymi z rozebranych pomników."
+    },
+    {
+     "t": "Elity odchodzą",
+     "d": "W późnym cesarstwie najbogatsi wyjeżdżali na posady w administracji, a ci, którzy zostali, biednieli i nie chcieli rządzić miastem. Kwitły ośrodki władzy, jak Arles i Trewir, ale Londinium wyludniało się od końca II w. i opustoszało po odejściu Rzymian z Brytanii."
+    },
+    {
+     "t": "Bliżej Morza Śródziemnego",
+     "d": "Miasta nad Morzem Śródziemnym miały większe szanse: były bliżej szlaków handlowych i łatwiej je było przejąć bez walki. Później grozili im piraci; w IX w. łupieżcy splądrowali nawet Bazylikę św. Piotra, a mieszkańcy wybrzeży przenosili się na wzgórza."
+    },
+    {
+     "t": "Wschód do VII wieku",
+     "d": "Miasta wschodniego cesarstwa trzymały się dobrze do VII w. Część Syrii i Palestyny rozkwitała pod Umajjadami, ale Anatolię pustoszyły najazdy, a w XI w. plemię Banu Hilal zrujnowało miasta Maghrebu."
+    },
+    {
+     "t": "Klimat i krajobraz",
+     "d": "Wczesne cesarstwo przypadło na wyjątkowo ciepły okres; gdy się ochłodziło, podupadły miasta wysoko w górach Taurus, jak Sagalassos. Pola Fajumu w Egipcie zasoliły się, porty Efezu i Miletu zamuliły, a część Aleksandrii i Bajów zapadła się w morze."
+    },
+    {
+     "t": "Malaria",
+     "d": "Najgroźniejsza malaria tropikalna rozprzestrzeniała się na zachód, a wylesianie tworzyło bagniste delty. To ona zamieniła żyzną Kampanię Rzymską w pustkowie, którym była aż do XIX w."
+    },
+    {
+     "t": "Zerwane sieci handlu",
+     "d": "Miasta przy granicach żyły z wydatków wojska. Wiejskie osady na wapiennym płaskowyżu północnej Syrii dostarczały oliwę do Antiochii; gdy po podboju arabskim zmieniły się szlaki, opustoszały na zawsze i zwą się dziś martwymi miastami."
+    },
+    {
+     "t": "Kruchość miast",
+     "d": "Miasta zależą od handlu, infrastruktury i masy krytycznej ludzi. Według autora większość rzymskich miast zgubiły nie katastrofy, ale powolne zmiany, które odebrały im sens istnienia."
+    }
+   ],
+   "conclusion": "Rzymskie miasta umierały zwykle powoli: gdy znikały powody ich istnienia, ludzie po prostu odchodzili.",
+   "factchecks": [
+    {
+     "claim": "Arabscy łupieżcy splądrowali Bazylikę św. Piotra w IX w.",
+     "verdict": "prawda",
+     "note": "Najazd na Rzym w 846 r. ograbił bazyliki św. Piotra i św. Pawła za murami.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): najazd na Rzym w 846 r. - hasło \"Arab raid against Rome\"",
+       "https://en.wikipedia.org/wiki/Arab_raid_against_Rome"
+      ]
+     ]
+    },
+    {
+     "claim": "Martwe miasta północnej Syrii opustoszały po zmianie szlaków handlowych.",
+     "verdict": "prawda",
+     "note": "To ok. 700 osad z I-VII w.; porzucono je w VIII-X w. po przesunięciu się szlaków. Wpisane na listę UNESCO.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): martwe miasta - hasło \"Dead Cities\"",
+       "https://en.wikipedia.org/wiki/Dead_Cities"
+      ]
+     ]
+    },
+    {
+     "claim": "Port Efezu zamulił się, odcinając miasto od morza.",
+     "verdict": "prawda",
+     "note": "Rzeka Kaystros nanosiła osady; dziś ruiny leżą kilka kilometrów od brzegu.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Efez - hasło \"Ephesus\"",
+       "https://en.wikipedia.org/wiki/Ephesus"
+      ]
+     ]
+    },
+    {
+     "claim": "Część Bajów zapadła się w morze przez ruchy ziemi.",
+     "verdict": "prawda",
+     "note": "Bradyzejsmy Pól Flegrejskich zatopiły część Bajów; ruiny tworzą dziś podwodny park.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Baje - hasło \"Baiae\"",
+       "https://en.wikipedia.org/wiki/Baiae"
+      ]
+     ]
+    },
+    {
+     "claim": "Malaria zamieniła Kampanię Rzymską w pustkowie aż do XIX w.",
+     "verdict": "półprawda",
+     "note": "Porzucono ją w średniowieczu przez malarię i brak wody; osuszanie i rekultywacja trwały do XX w.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Kampania Rzymska - hasło \"Roman Campagna\"",
+       "https://en.wikipedia.org/wiki/Roman_Campagna"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, zwięzły przegląd z ostrożnymi wnioskami. Reklama sponsora zawiera polityczne cytaty niezwiązane z tematem."
+  },
+  {
    "id": "XSl4ZTtjS7Q",
    "title_pl": "Instynkty, z którymi walczysz codziennie, a których ewolucja zapomniała usunąć",
    "title": "Instincts You Fight Daily That Evolution Forgot To Delete",
@@ -2465,6 +2701,130 @@
    "bias": "Jednostronny: każde zachowanie wyjaśnia psychologią ewolucyjną w formie \"opowieści\", bez alternatyw (kultura, uczenie się). Brak źródeł; traktuj jako ciekawostkę, nie wiedzę.",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "Mcg9GcilBfU",
+   "title_pl": "Zapalniczka sprzed 200 lat, która zapala się bez iskry",
+   "title": "This 200-Year-Old Lighter Ignites Without a Spark",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=Mcg9GcilBfU",
+   "date": "2025-05-17",
+   "duration": 830,
+   "views": 1363330,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Chemia",
+    "Historia nauki"
+   ],
+   "about": "Steve Mould pokazuje działającą replikę lampy Döbereinera z 1823 r. i tłumaczy katalizę na platynie, od zapalniczki po ogniwo paliwowe.",
+   "intro": "Słoik z kwasem siarkowym, który sam wytwarza wybuchowy gaz i sam go zapala, brzmi jak zły pomysł, a jednak w 1823 r. kupowano go do domów. Steve Mould dostaje od Marcusa z kanału Marv's Lab działającą replikę lampy Döbereinera, pierwszej zapalniczki, i wyjaśnia, dlaczego wodór zapala się na platynie bez iskry.",
+   "points": [
+    {
+     "t": "Wodór z cynku",
+     "d": "Jony wodoru z kwasu odbierają cynkowi 2 słabo trzymane elektrony. Powstają atomy wodoru, które łączą się w cząsteczki H2 i wydobywają się jako pęcherzyki."
+    },
+    {
+     "t": "Samoregulujący zbiornik",
+     "d": "Odwrócony szklany stożek napełnia się wodorem i wypycha kwas. Gdy kwas przestaje dotykać cynku, reakcja staje. Po otwarciu zaworu wodór ucieka, kwas wraca do cynku i produkcja rusza od nowa."
+    },
+    {
+     "t": "Gąbka platynowa",
+     "d": "W oryginale strumień wodoru trafiał na gąbkę platynową. Dziś łatwiej kupić wełnę ceramiczną pokrytą platyną. Wodór zaczyna na niej płonąć bez ognia i iskry, a ciepło reakcji rozgrzewa platynę do żaru."
+    },
+    {
+     "t": "Dlaczego wodór sam nie płonie",
+     "d": "Cząsteczki H2 i O2 trzeba najpierw rozerwać, zwykle ciepłem. Mieszanina w balonie wybucha dopiero po silnym podgrzaniu jednego miejsca."
+    },
+    {
+     "t": "Orbital antywiążący",
+     "d": "Cząsteczki przyciągają się do platyny słabymi siłami van der Waalsa. Elektrony z metalu przechodzą na orbital antywiążący wodoru, w którym elektrony przebywają na zewnątrz atomów, więc cząsteczka się rozpada. Podobnie dzieje się z tlenem."
+    },
+    {
+     "t": "Powstaje woda",
+     "d": "Wolne atomy wodoru i tlenu na powierzchni łączą się w wodę. Woda słabo wiąże się z platyną, a energia zderzenia wprawia ją w drgania, czyli ciepło, które pomaga jej się oderwać i rozgrzewa metal."
+    },
+    {
+     "t": "Dlaczego to był hit",
+     "d": "W 1823 r. ogień rozpalano krzesiwem, tłokiem ogniowym albo pocieraniem patyków. Według Moulda lampę szybko wyparła zapałka Johna Walkera z 1827 r. (w filmie omyłkowo mowa o XVII w.)."
+    },
+    {
+     "t": "Platyna dziś",
+     "d": "Katalityczny ogrzewacz do rąk Zippo grzeje do 6 godzin dzięki parującej benzynie i wełnie z platyną. Katalityczny dyfuzor zapachów spala alkohol bez płomienia. Liczy się duża powierzchnia, bo reakcja zachodzi na powierzchni metalu."
+    },
+    {
+     "t": "Ogniwo paliwowe",
+     "d": "Wodór i tlen przepływają nad 2 powierzchniami platyny rozdzielonymi membraną, która przepuszcza tylko jony. Elektrony płyną obwodem i zasilają wentylator. Odwrócone ogniwo rozkłada wodę na wodór i tlen."
+    },
+    {
+     "t": "Sponsor",
+     "d": "Końcówka to reklama programu WISE firmy Jane Street dla osób zaczynających studia."
+    }
+   ],
+   "conclusion": "Lampa Döbereinera była niebezpieczna i skomplikowana, ale zapoczątkowała katalizę na platynie, z której korzystają dziś m.in. ogniwa paliwowe.",
+   "factchecks": [
+    {
+     "claim": "Lampę wynalazł w 1823 r. niemiecki chemik J. W. Döbereiner; cynk z kwasem siarkowym daje w niej wodór.",
+     "verdict": "prawda",
+     "note": "Strumień wodoru zapala się na gąbce platynowej.",
+     "p": [
+      0,
+      1,
+      2
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): lampa Döbereinera - hasło \"Döbereiner's lamp\"",
+       "https://en.wikipedia.org/wiki/Döbereiner's_lamp"
+      ]
+     ]
+    },
+    {
+     "claim": "Po 3 latach lampa stała się przestarzała z powodu zapałek.",
+     "verdict": "przesada",
+     "note": "Zapałkę cierną Walker wynalazł w 1826 lub 1827 r., ale lampę produkowano do ok. 1880 r.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): lampa Döbereinera - hasło \"Döbereiner's lamp\"",
+       "https://en.wikipedia.org/wiki/Döbereiner's_lamp"
+      ],
+      [
+       "Wikipedia (ang.): John Walker - hasło \"John Walker (inventor)\"",
+       "https://en.wikipedia.org/wiki/John_Walker_(inventor)"
+      ]
+     ]
+    },
+    {
+     "claim": "Lampa Döbereinera to pierwsze komercyjne zastosowanie katalizy.",
+     "verdict": "prawda",
+     "note": "Uznaje się ją za pierwsze komercyjne zastosowanie katalizy heterogenicznej.",
+     "p": [
+      2,
+      7
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): lampa Döbereinera - hasło \"Döbereiner's lamp\"",
+       "https://en.wikipedia.org/wiki/Döbereiner's_lamp"
+      ]
+     ]
+    },
+    {
+     "claim": "Ogniwo paliwowe z membraną łączy wodór i tlen w wodę, wytwarzając prąd.",
+     "verdict": "prawda",
+     "note": "W ogniwach PEM membrana przewodzi protony, a elektrony płyną obwodem zewnętrznym.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): ogniwo PEM - hasło \"Proton-exchange membrane fuel cell\"",
+       "https://en.wikipedia.org/wiki/Proton-exchange_membrane_fuel_cell"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelne wyjaśnienie chemii; przesadza z szybkim końcem lampy i myli wiek (XVII zamiast XIX). Na końcu reklama sponsora."
   },
   {
    "id": "kDfP5vAbOS0",
@@ -3450,6 +3810,127 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "tmbZVmXyOXM",
+   "title_pl": "Jak działają chłodnie kominowe",
+   "title": "Why Are Cooling Towers Shaped Like That?",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=tmbZVmXyOXM",
+   "date": "2024-11-05",
+   "duration": 1188,
+   "views": 9489698,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Practical Engineering buduje model chłodni kominowej i tłumaczy, czemu z komina leci para, a nie dym, i skąd ten kształt.",
+   "intro": "Z wielkich, wygiętych kominów elektrowni nie leci dym, tylko para wodna. Grady Hillhouse z Practical Engineering buduje model chłodni z akrylu i tłumaczy chłodzenie przez parowanie, wykres psychrometryczny, ciąg naturalny, zalety hiperboloidy i to, czemu takie wieże słabo sprawdzają się w gorącym klimacie.",
+   "points": [
+    {
+     "t": "Para, nie dym",
+     "d": "Komin wyprowadza spaliny wysoko, a chłodnia kominowa robi coś zupełnie innego. Kojarzy się z elektrowniami jądrowymi, które niczego nie spalają; pióropusz to głównie skroplona para wodna."
+    },
+    {
+     "t": "Po co chłodzić",
+     "d": "Elektrownie cieplne napędzają generatory turbinami parowymi. Para skrapla się w skraplaczu chłodzonym wodą, a ta krąży między skraplaczem a wieżą, gdzie oddaje ciepło powietrzu."
+    },
+    {
+     "t": "Przeciwprąd i parowanie",
+     "d": "Gorąca woda jest rozpylana nad wypełnieniem o dużej powierzchni i spływa w dół, a powietrze płynie w górę. Parowanie zabiera ciepło utajone, więc wodę można schłodzić poniżej temperatury powietrza, o ile nie jest ono nasycone."
+    },
+    {
+     "t": "Wilgotne powietrze jest lżejsze",
+     "d": "Ciepłe powietrze mieści więcej pary i ma mniejszą gęstość. Co mniej oczywiste, przy tej samej temperaturze wilgotniejsze powietrze też jest lżejsze, bo cząsteczka wody waży mniej niż azotu czy tlenu."
+    },
+    {
+     "t": "Ciąg naturalny",
+     "d": "Ogrzane i nawilżone powietrze unosi się w wieży i zasysa świeże przez wloty u dołu. Autora zaskoczyło, jak silny ciąg dało samo rozpylanie gorącej wody w modelu."
+    },
+    {
+     "t": "Hiperboloida",
+     "d": "Wygięty kształt to hiperboloida, którą da się zbudować z prostych prętów, co ułatwia budowę. Podwójna krzywizna usztywnia cienką powłokę na ciężar i wiatr, jak chips Pringles, i według autora może o połowę zmniejszyć naprężenia względem walca."
+    },
+    {
+     "t": "Wentylatory zamiast wysokości",
+     "d": "Wielkie wieże z ciągiem naturalnym są rzadkie. Szpitale, biurowce, rafinerie i wiele elektrowni używają mniejszych, tańszych chłodni z wentylatorami; wielkie wybiera się dla niezawodności, np. w elektrowniach jądrowych."
+    },
+    {
+     "t": "Wilgotność pomaga ciągowi",
+     "d": "Na wykresie psychrometrycznym przy wilgotności 20% powietrze na początku drogi nie zyskuje wyporu i ciąg może zgasnąć. Przy 50% gęstość spada na całej drodze, więc dla danej temperatury termometru mokrego ciąg rośnie z wilgotnością."
+    },
+    {
+     "t": "Teksas chłodzi jeziorami",
+     "d": "W gorącym klimacie ciąg naturalny działa słabo. Obie elektrownie jądrowe w Teksasie chłodzą się zbiornikami wodnymi, bo tama i jezioro wyszły taniej niż odpowiednia wieża."
+    },
+    {
+     "t": "Czasem jednak dym",
+     "d": "Niektóre nowsze chłodnie wpuszczają do wieży oczyszczone spaliny, więc w pióropuszu może być trochę spalin, ale głównie to woda."
+    }
+   ],
+   "conclusion": "Chłodnia kominowa to sprytne połączenie parowania, wyporu i wytrzymałej geometrii, bez ani jednego wentylatora.",
+   "factchecks": [
+    {
+     "claim": "Hiperboloidę da się zbudować z prostych elementów.",
+     "verdict": "prawda",
+     "note": "Hiperboloida jednopowłokowa jest powierzchnią prostokreślną; wykorzystał to m.in. Szuchow.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): hiperboloida - hasło \"Hyperboloid\"",
+       "https://en.wikipedia.org/wiki/Hyperboloid"
+      ],
+      [
+       "Wikipedia (ang.): konstrukcja hiperboloidalna - hasło \"Hyperboloid structure\"",
+       "https://en.wikipedia.org/wiki/Hyperboloid_structure"
+      ]
+     ]
+    },
+    {
+     "claim": "Wilgotne powietrze jest lżejsze od suchego w tej samej temperaturze.",
+     "verdict": "prawda",
+     "note": "Masa molowa wody (ok. 18 g/mol) jest mniejsza niż suchego powietrza (ok. 29 g/mol).",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): gęstość powietrza - hasło \"Density of air\"",
+       "https://en.wikipedia.org/wiki/Density_of_air"
+      ]
+     ]
+    },
+    {
+     "claim": "Obie elektrownie jądrowe w Teksasie chłodzą się zbiornikami wodnymi.",
+     "verdict": "prawda",
+     "note": "Comanche Peak korzysta ze Squaw Creek Reservoir, a South Texas Project ze sztucznego zbiornika chłodzącego.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): elektrownia Comanche Peak - hasło \"Comanche Peak Nuclear Power Plant\"",
+       "https://en.wikipedia.org/wiki/Comanche_Peak_Nuclear_Power_Plant"
+      ],
+      [
+       "Wikipedia (ang.): South Texas Project - hasło \"South Texas Nuclear Generating Station\"",
+       "https://en.wikipedia.org/wiki/South_Texas_Nuclear_Generating_Station"
+      ]
+     ]
+    },
+    {
+     "claim": "Niektóre chłodnie wyprowadzają także oczyszczone spaliny.",
+     "verdict": "prawda",
+     "note": "Takie rozwiązanie stosuje się m.in. w niemieckich elektrowniach węglowych z odsiarczaniem.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): chłodnia kominowa - hasło \"Cooling tower\"",
+       "https://en.wikipedia.org/wiki/Cooling_tower"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, z modelem i wykresem; transkrypt miejscami nieczytelny. Na końcu reklama serwisu Nebula."
+  },
+  {
    "id": "GBX3rgsmQbw",
    "title_pl": "Odtwarzam ostatni posiłek Ötziego, człowieka lodu",
    "title": "Recreating the Last Meal of Ötzi the Iceman",
@@ -4107,6 +4588,121 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "FAdmpAZTH_M",
+   "title_pl": "Matematyczny błąd, który wyjdzie na jaw za 1200 lat",
+   "title": "The 1,200 Year Maths Mistake",
+   "channel": "Stand-up Maths",
+   "url": "https://www.youtube.com/watch?v=FAdmpAZTH_M",
+   "date": "2024-02-22",
+   "duration": 1150,
+   "views": 3404042,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Matematyka",
+    "Kultura"
+   ],
+   "about": "Matt Parker jedzie do Wemding, gdzie od 1993 r. powstaje Piramida Czasu, i znajduje w planie klasyczny błąd o jeden.",
+   "intro": "W bawarskim Wemding co 10 lat dokłada się jeden betonowy blok do piramidy, która ma powstawać 1200 lat. Matt Parker (Stand-up Maths) z Ayliean MacDonald ogląda wstawianie czwartego bloku w 2023 r., tłumaczy błąd \"płotu i słupków\", który sprawi, że ostatni blok trafi na miejsce 10 lat za wcześnie, i wymyśla żartobliwe poprawki.",
+   "points": [
+    {
+     "t": "Piramida Czasu",
+     "d": "Zeitpyramide artysty Manfreda Labera uczciła 1200-lecie Wemding, pierwszy raz wzmiankowanego w 793 r. Skoro ludzkie życie jest za krótkie, by poczuć 1200 lat, dzieło ma powstawać właśnie tyle."
+    },
+    {
+     "t": "120 bloków",
+     "d": "Piramida ma warstwy 8 x 8, 6 x 6, 4 x 4 i 2 x 2, czyli 64 + 36 + 16 + 4 = 120 bloków, ustawionych dokładnie jeden na drugim. Pierwszy wstawiono w 1993 r., kolejne w 2003, 2013 i 2023 r."
+    },
+    {
+     "t": "Czas na ludzką skalę",
+     "d": "Parker miał 12 lat przy pierwszym bloku i 42 przy czwartym. Pojedyncze bloki mierzy się życiem człowieka, a całość pokazuje skalę, której nie da się ogarnąć."
+    },
+    {
+     "t": "Błąd płotu i słupków",
+     "d": "Płot z 4 przęseł ma 5 słupków. W programowaniu to klasyczny błąd o jeden: od 8:00 do 12:00 są 4 godziny, ale od 8. do 12. piętra jest 5 pięter."
+    },
+    {
+     "t": "10 lat za wcześnie",
+     "d": "Wstawiając 120 bloków co 10 lat od 1993 r., ostatni trafi na miejsce w 3183 r., a nie w 3193 r., na 2400-lecie miasta. Do tej daty trzeba by 121 bloków."
+    },
+    {
+     "t": "Wstawianie bloku",
+     "d": "Dźwig opuścił 6,5 t betonu na zaprawę w drewnianym szablonie, przy klarnecie grającym utwory o czasie i przemowach lokalnych władz. Córka artysty i twórca aplikacji AR nie przejmowali się błędem: ostatnią dekadę można świętować."
+    },
+    {
+     "t": "Poprawki na 121",
+     "d": "Parker proponuje drugą, mniejszą piramidę z kwadratów liczb nieparzystych lub odwróconą na szczycie. Ayliean wymyśla spiralę z liczb trójkątnych: 2 x 55 + 11 = 121, a 21 liczb to też liczba trójkątna."
+    },
+    {
+     "t": "Błąd jako część dzieła",
+     "d": "Ostatecznie Parker uważa, że błędu nie należy poprawiać, bo to plan jednego człowieka wykonywany przez dziesiątki pokoleń. Gdy minie pierwszy rząd, za ok. 40 lat, nikt nie zechce przerwać tradycji."
+    },
+    {
+     "t": "Długie projekty się udają",
+     "d": "Świątynię Zeusa w Atenach zaczęli Grecy, porzucili ją na wieki, a dokończył cesarz Hadrian. Rzymski beton przetrwał ponad 1200 lat, więc materiał wytrzyma; zmienić się może co najwyżej technika."
+    }
+   ],
+   "conclusion": "Piramida Czasu skończy się 10 lat przed planowaną rocznicą, ale to błąd, który zostanie świętowany przez dekadę.",
+   "factchecks": [
+    {
+     "claim": "Zeitpyramide w Wemding to dzieło Manfreda Labera, w którym co 10 lat dokłada się blok od 1993 r.",
+     "verdict": "prawda",
+     "note": "Piramida ma 120 bloków i ma być ukończona w 3183 r.",
+     "p": [
+      0,
+      1
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): Piramida Czasu - hasło \"Zeitpyramide\"",
+       "https://en.wikipedia.org/wiki/Zeitpyramide"
+      ]
+     ]
+    },
+    {
+     "claim": "Wemding wzmiankowano po raz pierwszy w 793 r.",
+     "verdict": "prawda",
+     "note": "Miasto wzmiankowano za Karola Wielkiego i świętowało 1200-lecie w 1993 r.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Piramida Czasu - hasło \"Zeitpyramide\"",
+       "https://en.wikipedia.org/wiki/Zeitpyramide"
+      ]
+     ]
+    },
+    {
+     "claim": "120 bloków co 10 lat od 1993 r. daje ostatni blok w 3183 r., a nie 3193 r.",
+     "verdict": "prawda",
+     "note": "1993 + 119 x 10 = 3183; to klasyczny błąd płotu i słupków.",
+     "p": [
+      3,
+      4
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): błąd o jeden - hasło \"Off-by-one error\"",
+       "https://en.wikipedia.org/wiki/Off-by-one_error"
+      ]
+     ]
+    },
+    {
+     "claim": "Świątynię Zeusa Olimpijskiego w Atenach ukończył cesarz Hadrian.",
+     "verdict": "prawda",
+     "note": "Budowę zaczęto w VI w. p.n.e., a ukończono w II w. n.e., ok. 638 lat później.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Olimpiejon - hasło \"Temple of Olympian Zeus, Athens\"",
+       "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"
+      ]
+     ]
+    }
+   ],
+   "bias": "Lekki i rzetelny; rachunek łatwo sprawdzić. Druga połowa to żartobliwe pomysły i rozmowy."
+  },
+  {
    "id": "hmHhsg7h4g0",
    "title_pl": "10 powodów, dla których w średniowieczu uznano by cię za czarownicę",
    "title": "10 Reasons You'd Be Called a Witch in The Middle Ages",
@@ -4262,6 +4858,237 @@
    "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze).",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "wCxRHueX6jQ",
+   "title_pl": "Pompa, która działa dzięki korkom powietrznym",
+   "title": "Wirtz pumps are really clever",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=wCxRHueX6jQ",
+   "date": "2023-10-10",
+   "duration": 725,
+   "views": 19166829,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Fizyka",
+    "Inżynieria"
+   ],
+   "about": "Steve Mould buduje pompę spiralną Wirtza, wyjaśnia, jak sumują się korki powietrzne, i poprawia błąd z filmu o labiryntach.",
+   "intro": "Spirala wysokości 20 cm, obracana tak, by co obrót zaczerpnąć trochę wody, potrafi podnieść wodę znacznie wyżej niż sama ma. Steve Mould pokazuje, że działa to dzięki korkom powietrznym, zwykle zmorze inżynierów, odwiedza ogród Jonathana Deana z działającą pompą i buduje poprawioną wersję.",
+   "points": [
+    {
+     "t": "Poprawka błędu",
+     "d": "W filmie o wodzie rozwiązującej labirynty Mould tłumaczył zatrzymanie przepływu napięciem powierzchniowym. Widzowie, m.in. Corey Albers, wykazali na rysunkach, że winne są korki powietrzne."
+    },
+    {
+     "t": "Korki się sumują",
+     "d": "W rurce z 3 odcinkami w kształcie U z wodą i 3 w kształcie odwróconego U z powietrzem każdy słup wody musi pchać kolejny. Żeby woda spłynęła, słup na wejściu musi być wyższy niż suma wszystkich przeszkód."
+    },
+    {
+     "t": "Pompa Wirtza",
+     "d": "Ta sama zasada działa na korzyść w pompie spiralnej. Każdy łuk wody w spirali to korek oddzielający komory powietrza, a ich ciśnienia się dodają, więc wylot może być dużo wyżej niż sama pompa."
+    },
+    {
+     "t": "Pierwsza wersja zawiodła",
+     "d": "Pompa Moulda podnosiła wodę słabo: powietrze przebijało się między komorami, a woda przelewała. Jedna praca naukowa podawała, że rura powinna mieć ok. 1,5 cm średnicy, ale nie tłumaczyła dlaczego."
+    },
+    {
+     "t": "Pompa w ogrodzie",
+     "d": "Jonathan Dean ma pompę napędzaną kołem z łopatkami w rzece. Szeroki czerpak na końcu węża zapewnia pobór przy każdym poziomie wody, a obrotowe złącze wytrzymało ok. miliona obrotów w sezonie."
+    },
+    {
+     "t": "Ani za wąsko, ani za szeroko",
+     "d": "W zbyt wąskiej rurze przeszkadza napięcie powierzchniowe, a w zbyt szerokiej powietrze przebija się przez korki zamiast tworzyć osobne porcje."
+    },
+    {
+     "t": "Powietrze pomaga",
+     "d": "Między korkami wody wypychane jest też powietrze, a mieszanka wody i powietrza w rurze wylotowej jest lżejsza. Według Deana prawie podwaja to wysokość podnoszenia. Jego wylot jest 8 m nad rzeką i zasila ogród bagienny."
+    },
+    {
+     "t": "Wpompowana rybka",
+     "d": "Dean znalazł kiedyś w zbiorniku rybkę, która trafiła tam jako narybek, przezimowała i urosła. Wypuścił ją z powrotem do rzeki."
+    },
+    {
+     "t": "Druga wersja",
+     "d": "Nowa spirala ma szerszą rurę i nie sięga środka, więc wszystkie zwoje mają podobny obwód. W krótkich zwojach wewnętrznych porcja wody wypełnia cały obwód, co powoduje przelewanie."
+    },
+    {
+     "t": "Działa",
+     "d": "Kręcona ręcznie pompa podnosi wodę i przelewa ją przez wspornik nad odpływem. Przy zbyt szybkim obracaniu słup wody się załamuje."
+    },
+    {
+     "t": "Sponsor",
+     "d": "Ostatnie minuty to reklama Incogni, usługi wysyłającej brokerom danych żądania usunięcia danych osobowych."
+    }
+   ],
+   "conclusion": "Korki powietrzne, które blokują przepływ w labiryncie, sumują się w pompie Wirtza i pozwalają podnieść wodę wysoko bez prądu.",
+   "factchecks": [
+    {
+     "claim": "Pompa spiralna, zwana pompą Wirtza, podnosi wodę wyżej niż wynosi jej rozmiar.",
+     "verdict": "prawda",
+     "note": "Ze szczelnym złączem obrotowym podnosi wodę zwykle na 5-10 m; jej wadą jest mała wydajność.",
+     "p": [
+      2,
+      6
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): pompowanie wody - hasło \"Water pumping\"",
+       "https://en.wikipedia.org/wiki/Water_pumping"
+      ]
+     ]
+    },
+    {
+     "claim": "Korek powietrzny może całkowicie zatrzymać przepływ cieczy w rurze.",
+     "verdict": "prawda",
+     "note": "Gaz uwięziony w wysokim punkcie rury ogranicza lub zatrzymuje przepływ.",
+     "p": [
+      0,
+      1
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): korek powietrzny - hasło \"Air lock\"",
+       "https://en.wikipedia.org/wiki/Air_lock"
+      ]
+     ]
+    },
+    {
+     "claim": "Mieszanka powietrza i wody prawie podwaja wysokość podnoszenia.",
+     "verdict": "przesada",
+     "note": "Lżejszy słup mieszanki pozwala podnieść wodę wyżej, ale ile, zależy od proporcji; podwojenie to szacunek Deana.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): pompowanie wody - hasło \"Water pumping\"",
+       "https://en.wikipedia.org/wiki/Water_pumping"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny; Mould otwarcie poprawia własny błąd. Pod koniec długa reklama Incogni."
+  },
+  {
+   "id": "jduDyF2Zwd8",
+   "title_pl": "Czy prąd naprawdę płynie do ziemi?",
+   "title": "Where Does Grounded Electricity Actually Go?",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=jduDyF2Zwd8",
+   "date": "2023-08-01",
+   "duration": 1175,
+   "views": 7948111,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Practical Engineering tłumaczy uziemienie: prąd nie płynie do ziemi, tylko przez nią, z powrotem do źródła.",
+   "intro": "Generator na izolowanym stojaku i przewód fazowy wbity w ziemię: czy popłynie prąd? Grady Hillhouse z Practical Engineering wyjaśnia, po co uziemia się sieci, czemu ziemia to kiepski, ale ogromny przewód, czym są napięcie krokowe i dotykowe, jak działają linie z powrotem przez ziemię i czym różni się od tego piorun.",
+   "points": [
+    {
+     "t": "Masa to punkt odniesienia",
+     "d": "Napięcie to zawsze różnica potencjałów między dwoma punktami. W małych układach, np. zabawkach na baterie, \"masa\" to tylko umowne zero, bez związku z ziemią pod stopami."
+    },
+    {
+     "t": "Sieć bez uziemienia",
+     "d": "Trójfazowa sieć bez połączenia z ziemią przy zwarciu jednej fazy z ziemią często działa dalej, bo silniki i transformatory są podłączone między fazami. Ale napięcie pozostałych faz względem ziemi rośnie prawie dwukrotnie, a to oznacza droższą izolację."
+    },
+    {
+     "t": "Zabezpieczenia potrzebują prądu",
+     "d": "W sieci nieuziemionej przy zwarciu do ziemi płynie bardzo mały prąd, a niemal wszystkie zabezpieczenia, od bezpieczników po przekaźniki w sieci, wykrywają awarię po dużym prądzie zwarciowym."
+    },
+    {
+     "t": "Przykład tostera",
+     "d": "Gdy faza dotknie metalowej obudowy tostera, przewód ochronny daje drogę o małej oporności. Płynie duży prąd i wyłącznik odcina obwód, zanim ktoś zostanie porażony."
+    },
+    {
+     "t": "Przez ziemię, nie do ziemi",
+     "d": "W sieci uziemionej przy zwarciu fazy nie zmieniają potencjału, a prąd wraca przez ziemię do źródła. Odpowiedź na pytanie z tytułu: prąd prawie nigdy nie płynie do ziemi, tylko przez nią; ziemia to po prostu kolejny, choć słaby przewód."
+    },
+    {
+     "t": "Pokaz z piaskiem",
+     "d": "Suchy piasek prawie nie przewodzi; zalany wodą z kranu przepuszcza ok. 0,1 A. Dopiero dodatek słonej wody zapala żarówkę, bo oporność gruntu zależy od wilgoci, temperatury i elektrolitów."
+    },
+    {
+     "t": "Napięcie krokowe",
+     "d": "Wokół elektrody potencjał spada warstwami, najszybciej tuż przy niej. Stojąc tam, każda noga ma inny potencjał i prąd płynie przez ciało, dlatego monterom zaleca się odskakiwać od awarii na jednej nodze."
+    },
+    {
+     "t": "Ochrona w stacjach",
+     "d": "Projektanci liczą dopuszczalne napięcia krokowe i dotykowe. Stacje mają siatki zakopanych przewodów zamiast jednej elektrody i nawierzchnię z tłucznia, który słabo przewodzi i nie zatrzymuje wody."
+    },
+    {
+     "t": "Ziemia jako przewód powrotny",
+     "d": "Sieci SWER na terenach wiejskich używają jednego przewodu i ziemi jako powrotu. Linia prądu stałego Pacific DC Intertie ma w Oregonie ponad 1000 elektrod w pierścieniu o obwodzie 3,2 km, a w Kalifornii elektrody w Pacyfiku."
+    },
+    {
+     "t": "Skutki uboczne",
+     "d": "Prąd stały w ziemi zakłóca kompasy i ryby wrażliwe na pole magnetyczne, jak łososie i węgorze, a w morzu elektroliza tworzy m.in. chloroform. Prądy błądzące, także z szyn kolejowych, przyspieszają korozję rurociągów."
+    },
+    {
+     "t": "Piorun i prądy telluryczne",
+     "d": "Piorun to wyładowanie elektryczności statycznej, które naprawdę płynie do ziemi albo z niej; uziemienie daje mu bezpieczną drogę. Pod ziemią płyną też naturalne prądy telluryczne wywołane m.in. przez wiatr słoneczny."
+    }
+   ],
+   "conclusion": "Prąd nie znika w ziemi: zawsze wraca do źródła, a ziemia jest tylko jedną z dróg.",
+   "factchecks": [
+    {
+     "claim": "W sieci nieuziemionej zwarcie fazy z ziemią podnosi napięcie pozostałych faz prawie dwukrotnie.",
+     "verdict": "prawda",
+     "note": "Rośnie do pierwiastka z 3 (ok. 1,73) wartości normalnej, czyli do napięcia międzyfazowego.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): uziemienie punktu neutralnego - hasło \"Earthing system\"",
+       "https://en.wikipedia.org/wiki/Earthing_system"
+      ]
+     ]
+    },
+    {
+     "claim": "Przy awarii do ziemi powstają groźne napięcia krokowe i dotykowe.",
+     "verdict": "prawda",
+     "note": "Analiza zwarć pozwala ocenić te napięcia i dobrać środki ochrony, np. siatki uziemiające.",
+     "p": [
+      6,
+      7
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): potencjał ziemi - hasło \"Earth potential rise\"",
+       "https://en.wikipedia.org/wiki/Earth_potential_rise"
+      ]
+     ]
+    },
+    {
+     "claim": "SWER to systemy z jednym przewodem i powrotem przez ziemię dla terenów wiejskich.",
+     "verdict": "prawda",
+     "note": "Są szeroko używane m.in. w Australii, Nowej Zelandii i krajach afrykańskich.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): SWER - hasło \"Single-wire earth return\"",
+       "https://en.wikipedia.org/wiki/Single-wire_earth_return"
+      ]
+     ]
+    },
+    {
+     "claim": "Pacific DC Intertie ma w Oregonie ponad 1000 elektrod w pierścieniu o obwodzie 3,2 km.",
+     "verdict": "prawda",
+     "note": "W Rice Flats leży 1067 anod żeliwnych w pierścieniu o obwodzie 3255 m; w Kalifornii elektrody są w oceanie.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Pacific DC Intertie - hasło \"Pacific DC Intertie\"",
+       "https://en.wikipedia.org/wiki/Pacific_DC_Intertie"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, z bezpiecznie pokazanymi doświadczeniami i ostrzeżeniem, by ich nie powtarzać; na końcu reklama sponsora."
   },
   {
    "id": "SHDnfz8EKSs",
@@ -4608,6 +5435,96 @@
    "bias": "Rzetelny, spokojny wykład historyka ze źródłami; drobne uproszczenia (Hyperejdes) i reklama sponsora na początku."
   },
   {
+   "id": "fT2KhJ8W-Kg",
+   "title_pl": "Jak pistolet na stacji paliw wie, że bak jest pełny",
+   "title": "How petrol pumps know when to turn themselves off",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=fT2KhJ8W-Kg",
+   "date": "2022-09-16",
+   "duration": 836,
+   "views": 15567702,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Fizyka",
+    "Inżynieria"
+   ],
+   "about": "Steve Mould przecina pistolet dystrybutora na pół i na modelach pokazuje mechanizm bez elektroniki, który sam odcina paliwo.",
+   "intro": "Pistolet dystrybutora odcina paliwo z charakterystycznym kliknięciem, gdy bak jest pełny, choć nie ma w nim czujnika elektronicznego. Steve Mould przecina go na pół i buduje przezroczyste modele dwóch mechanizmów: czujnika opartego na efekcie Venturiego i układu dźwigni z kulkami łożyskowymi, który zamyka zawór.",
+   "points": [
+    {
+     "t": "Efekt Venturiego",
+     "d": "Rura, która zwęża się pośrodku, przyspiesza przepływ, a w przewężeniu spada ciśnienie. Gdy Mould dmucha przez taki model, woda w podłączonej rurce w kształcie U podnosi się zamiast opadać."
+    },
+    {
+     "t": "Rurka do końca dyszy",
+     "d": "Otworki przy przewężeniu łączą się z cienką rurką biegnącą do końca dyszy. Podciśnienie zasysa przez nią powietrze, które miesza się z paliwem."
+    },
+    {
+     "t": "Druga gałąź z membraną",
+     "d": "Z tego samego miejsca odchodzi kanał do komory zamkniętej membraną. Dopóki rurka w dyszy zasysa powietrze, łagodzi podciśnienie i membrana stoi w miejscu."
+    },
+    {
+     "t": "Bak pełny",
+     "d": "Gdy paliwo zakryje otwór na końcu dyszy, rurka zasysa ciężkie paliwo zamiast powietrza i słabiej łagodzi podciśnienie. W modelu odpowiada to zatkaniu rurki palcem: podciśnienie w komorze rośnie i wciąga membranę."
+    },
+    {
+     "t": "Dźwignia i kulki",
+     "d": "Zawór paliwa jest dociskany sprężyną i otwierany przez rękojeść. Punkt podparcia dźwigni tworzą 3 kulki łożyskowe zaklinowane w przewężeniu obudowy, a do membrany przymocowany jest trzpień z klinem."
+    },
+    {
+     "t": "Kliknięcie",
+     "d": "Gdy membrana się podnosi, klin się cofa, kulki wpadają do środka, punkt podparcia znika i cały mechanizm się składa. Sprężyna zamyka zawór."
+    },
+    {
+     "t": "Przepływ w środku",
+     "d": "Paliwo pod ciśnieniem opływa mechanizm i pcha sprężynowy element, tworząc cienką szczelinę. To w niej, dzięki efektowi Venturiego, powstaje podciśnienie dla czujnika."
+    },
+    {
+     "t": "Po co to wszystko",
+     "d": "Samoczynne odcięcie chroni przed rozlaniem paliwa na stacji, co groziłoby pożarem. Mould przyznaje, że jego modele są uproszczone i nie wszystko udało mu się dostroić."
+    },
+    {
+     "t": "Sponsor",
+     "d": "Końcówka to reklama 80,000 Hours, organizacji non-profit doradzającej w wyborze kariery."
+    }
+   ],
+   "conclusion": "Pistolet dystrybutora odcina paliwo czysto mechanicznie: efekt Venturiego, membrana i kulki łożyskowe zastępują elektronikę.",
+   "factchecks": [
+    {
+     "claim": "W przewężeniu rury płyn przyspiesza, a jego ciśnienie spada.",
+     "verdict": "prawda",
+     "note": "To efekt Venturiego, wynikający z zasady zachowania masy i równania Bernoulliego.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): efekt Venturiego - hasło \"Venturi effect\"",
+       "https://en.wikipedia.org/wiki/Venturi_effect"
+      ]
+     ]
+    },
+    {
+     "claim": "Automatyczne odcięcie w pistolecie działa dzięki rurce czujnika i pompie Venturiego w rękojeści.",
+     "verdict": "prawda",
+     "note": "Zawór mechaniczny w rękojeści wykrywa zmianę ciśnienia i zamyka się.",
+     "p": [
+      1,
+      2,
+      3,
+      5
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): dystrybutor paliwa - hasło \"Gasoline pump\"",
+       "https://en.wikipedia.org/wiki/Gasoline_pump"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i dobrze zilustrowany; transkrypcja miejscami nieczytelna, ale mechanizm jest jasny. Na końcu reklama sponsora."
+  },
+  {
    "id": "mkrhwBl3jms",
    "title_pl": "Czy Rzymianie wiedzieli, ile lat mają piramidy?",
    "title": "Did the Romans Know How Old the Pyramids Were?",
@@ -4759,6 +5676,119 @@
    "bias": "Rzetelny i wyważony; masa obeliska podana z zaokrągleniem, poza tym brak przekłamań. Reklama sponsora w środku."
   },
   {
+   "id": "bY1E2IkvQ3k",
+   "title_pl": "Jak wody gruntowe wpływają na tamy i budowy",
+   "title": "The Bizarre Paths of Groundwater Around Structures",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=bY1E2IkvQ3k",
+   "date": "2022-06-07",
+   "duration": 841,
+   "views": 14269809,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Grady z Practical Engineering pokazuje na modelu z piasku, jak woda pod ziemią może podnieść tamę albo wciągnąć robotnika.",
+   "intro": "W 2015 r. w Kanadzie robotnika wciągnęło zapadlisko w dnie stalowego kesonu na budowie przepompowni. Grady Hillhouse z Practical Engineering na akrylowym modelu z piaskiem i barwnikiem pokazuje, jak płyną wody gruntowe, czym jest ciśnienie wyporu pod tamą i jak inżynierowie bronią się przed nim przesłonami, drenażem i pompami.",
+   "points": [
+    {
+     "t": "Wypadek w kesonie",
+     "d": "Na budowie w Kolumbii Brytyjskiej dno kesonu, czyli wodoszczelnej komory w gruncie, zostało przebite i pracownik wpadł do zapadliska. Przyczyną była woda gruntowa pod placem budowy; kolegom udało się go uratować."
+    },
+    {
+     "t": "Tama jako granica ciśnień",
+     "d": "Woda gruntowa płynie z obszaru wysokiego do niskiego ciśnienia, a tama właśnie je rozdziela. Przesiąkająca pod nią woda może wymywać cząstki gruntu (sufozja), co nakręca się samo i grozi szybką awarią."
+    },
+    {
+     "t": "Ciśnienie wyporu",
+     "d": "Zapory grawitacyjne trzymają się dzięki własnej masie, ale woda pod podstawą naciska od dołu i odejmuje część tego ciężaru. Do lat 20. XX w. inżynierowie to pomijali; zapora St. Francis w Kalifornii zawaliła się w 1928 r., zabijając ponad 400 osób."
+    },
+    {
+     "t": "Sieć przepływu",
+     "d": "Inżynierowie rysowali krzywoliniową siatkę z liniami równego ciśnienia i liniami przepływu. To w praktyce graficzne rozwiązanie równania Laplace'a, tego samego co dla przepływu ciepła; dziś liczy się to programami."
+    },
+    {
+     "t": "Przesłona przeciwfiltracyjna",
+     "d": "Pionowa ściana pod czołem tamy wydłuża drogę wody. Wg prawa Darcy'ego prędkość przepływu zależy od przepuszczalności i gradientu hydraulicznego, więc dłuższa droga to mniejszy przesiąk i niższe ciśnienie wyporu, nawet gdy woda przechodzi pod ścianą."
+    },
+    {
+     "t": "Jak buduje się przesłony",
+     "d": "Można wykopać szeroki fundament (przy okazji sprawdzając uskoki), wypełnić głęboki rów betonem lub zawiesiną gliny, wbić ścianki szczelne albo wtłoczyć pod ciśnieniem zaczyn tworzący nieprzepuszczalną kurtynę."
+    },
+    {
+     "t": "Drenaż pod tamą",
+     "d": "Dreny z filtrem z piasku i żwiru zatrzymują cząstki gruntu i odprowadzają wodę, obniżając wypór. Skracają drogę przepływu, więc przesiąk rośnie, ale dzięki filtrom to zwykle opłacalna wymiana."
+    },
+    {
+     "t": "Studnie odciążające",
+     "d": "Niektóre zapory pompują wodę, by obniżyć jej poziom pod konstrukcją. Przesiąk rośnie, ale ciśnienie pod podstawą wyraźnie spada, a stabilność rośnie."
+    },
+    {
+     "t": "Kurzawka w kesonie",
+     "d": "Odwadniany keson działa jak tama na bardzo krótkim odcinku, więc gradient i prędkość przesiąku są duże. Grunt traci spójność, upłynnia się i wpływa do środka; model pokazuje, jak piasek zaczyna wzbierać."
+    },
+    {
+     "t": "Jak temu zapobiec",
+     "d": "Wokół kesonu stawia się igłofiltry, czyli rząd małych studni z pompami, albo wbija keson głębiej, najlepiej do warstwy nieprzepuszczalnej. Dzięki temu woda nie napiera od spodu."
+    }
+   ],
+   "conclusion": "Pod niemal każdą tamą, ścianą oporową czy wykopem kryją się przesłony i drenaże, które trzymają wody gruntowe w ryzach.",
+   "factchecks": [
+    {
+     "claim": "Zawalenie zapory St. Francis w 1928 r. zabiło ponad 400 osób.",
+     "verdict": "prawda",
+     "note": "Szacunki to co najmniej 431 ofiar; to jedna z najgorszych katastrof budowlanych w USA w XX w.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): zapora St. Francis - hasło \"St. Francis Dam\"",
+       "https://en.wikipedia.org/wiki/St._Francis_Dam"
+      ]
+     ]
+    },
+    {
+     "claim": "Sieć przepływu to graficzne rozwiązanie równania Laplace'a.",
+     "verdict": "prawda",
+     "note": "Ustalony przepływ w jednorodnym gruncie opisuje równanie Laplace'a; sieć to jego przybliżenie.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): sieć przepływu - hasło \"Flow net\"",
+       "https://en.wikipedia.org/wiki/Flow_net"
+      ]
+     ]
+    },
+    {
+     "claim": "Prawo Darcy'ego wiąże przepływ z przepuszczalnością i gradientem hydraulicznym.",
+     "verdict": "prawda",
+     "note": "Darcy sformułował je w 1856 r. na podstawie doświadczeń z filtrami piaskowymi.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): prawo Darcy'ego - hasło \"Darcy's law\"",
+       "https://en.wikipedia.org/wiki/Darcy%27s_law"
+      ]
+     ]
+    },
+    {
+     "claim": "Do lat 20. XX w. projektanci zapór pomijali ciśnienie wyporu.",
+     "verdict": "półprawda",
+     "note": "Zjawisko znano od końca XIX w., ale w latach 20. wciąż było słabo rozumiane i rzadko uwzględniane.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): zapora St. Francis - hasło \"St. Francis Dam\"",
+       "https://en.wikipedia.org/wiki/St._Francis_Dam"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, z pokazem na modelu; na końcu długa, rodzinna reklama sponsora."
+  },
+  {
    "id": "dvWtaHFG7QI",
    "title_pl": "Twoje ulubione zespoły zapłaciły za sławę: historia payoli",
    "title": "Your Favorite Bands Paid To Be Famous",
@@ -4886,6 +5916,128 @@
    ],
    "bias": "Dobrze udokumentowana historia, wyważona w ocenie; film jest z 2022 r., więc liczby o streamingu mogą być nieaktualne.",
    "section": "Ciekawostki"
+  },
+  {
+   "id": "5nW3nJhBHL0",
+   "title_pl": "Dlaczego nie ma wzoru na obwód elipsy?",
+   "title": "Why is there no equation for the perimeter of an ellipse‽",
+   "channel": "Stand-up Maths",
+   "url": "https://www.youtube.com/watch?v=5nW3nJhBHL0",
+   "date": "2020-09-05",
+   "duration": 1264,
+   "views": 2701258,
+   "section": "Ciekawostki",
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Matematyka"
+   ],
+   "about": "Matt Parker porównuje przybliżenia obwodu elipsy, od prostej średniej po wzory Ramanujana, i pokazuje dwa własne.",
+   "intro": "Pole elipsy to po prostu pi razy a razy b, ale na jej obwód nie ma prostego, dokładnego wzoru. Matt Parker (Stand-up Maths) zestawia na wykresie błędy kolejnych przybliżeń, chwali geniusz Ramanujana, przedstawia dwa wzory znalezione z pomocą komputera i na koniec przekonuje, że okrąg wcale nie jest pod tym względem wyjątkiem.",
+   "points": [
+    {
+     "t": "Pojęcia",
+     "d": "a to dłuższa, a b krótsza półoś. Mimośród mówi, jak bardzo elipsa odbiega od okręgu: 0 to okrąg, blisko 1 skrajnie spłaszczona elipsa. Elipsę można narysować sznurkiem zaczepionym o dwa ogniska."
+    },
+    {
+     "t": "Skala porównania",
+     "d": "Parker sprawdza stosunek a do b od 1 (okrąg) do 5 i liczy błąd procentowy każdego przybliżenia względem dokładnej wartości."
+    },
+    {
+     "t": "Proste średnie",
+     "d": "Średnia arytmetyczna a i b jako promień myli się o 10% dopiero przy stosunku 4,83. Średnia geometryczna wypada znacznie gorzej: ponad 15% błędu już przy 2,63."
+    },
+    {
+     "t": "Średnia kwadratowa",
+     "d": "Pierwiastek ze średniej kwadratów a i b bywa w sieci błędnie podawany jako wzór dokładny. To jednak dobre zgrubne przybliżenie: przy stosunku 5 błąd wynosi 7,8%."
+    },
+    {
+     "t": "Pierwszy wzór Ramanujana",
+     "d": "pi razy [3(a + b) - pierwiastek z (3a + b)(a + 3b)] daje błędy rzędu tysięcznych części procenta w całym zakresie do 5."
+    },
+    {
+     "t": "Wzór Parkera",
+     "d": "Program komputerowy pomógł mu znaleźć wzór z ułamkami 53/3 i 17/35. Do stosunku 2,4 Ramanujan jest lepszy, dalej Parker, a średnio w zakresie 1-5 jego wzór jest ok. 2 razy dokładniejszy. Działa tylko, gdy a jest większe."
+    },
+    {
+     "t": "Drugi wzór Ramanujana",
+     "d": "Drugie przybliżenie Ramanujana, oparte na wielkości h, bije oba poprzednie. Parker przyznaje mu wygraną."
+    },
+    {
+     "t": "Leniwe przybliżenie",
+     "d": "pi razy (1,2a + 0,75b), bez pierwiastków. Błąd skacze wokół 2,5%, do 5% dochodzi dopiero przy elipsie 75 razy dłuższej niż wysokiej, a nigdy nie przekracza 6,1%."
+    },
+    {
+     "t": "Wartość dokładna",
+     "d": "Dokładny obwód daje dopiero nieskończony szereg. Parkerowi wystarczały wyrazy do h do szóstej, a przy dokładnych obliczeniach do h do dziesiątej potęgi."
+    },
+    {
+     "t": "Okrąg też jest nieporządny",
+     "d": "Wzór 2 pi r wygląda czysto tylko dlatego, że nieskończony szereg chowamy w symbolu pi. Każdy stosunek osi miałby swoją własną stałą, a pi pozostaje wyjątkowe głównie dla pola."
+    },
+    {
+     "t": "Zakończenie",
+     "d": "Sponsor Jane Street, wyzwanie dla widzów na lepszy wzór w Matt Parker's Maths Puzzles i aukcja narysowanej sznurkiem elipsy na cele charytatywne (WaterAid)."
+    }
+   ],
+   "conclusion": "Obwód elipsy można tylko przybliżać albo liczyć szeregiem, a w gruncie rzeczy tak samo jest z okręgiem.",
+   "factchecks": [
+    {
+     "claim": "Obwodu elipsy nie da się wyrazić prostym wzorem zamkniętym.",
+     "verdict": "prawda",
+     "note": "Dokładna wartość wymaga całki eliptycznej lub nieskończonego szeregu.",
+     "p": [
+      0,
+      8
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): obwód elipsy - hasło \"Perimeter of an ellipse\"",
+       "https://en.wikipedia.org/wiki/Perimeter_of_an_ellipse"
+      ]
+     ]
+    },
+    {
+     "claim": "Ramanujan podał dwa bardzo dokładne przybliżenia obwodu elipsy.",
+     "verdict": "prawda",
+     "note": "Opisał je w pracy o równaniach modularnych i przybliżeniach pi; błąd jest rzędu h^3 i h^5.",
+     "p": [
+      4,
+      6
+     ],
+     "src": [
+      [
+       "Wikipedia (ang.): elipsa - hasło \"Ellipse\"",
+       "https://en.wikipedia.org/wiki/Ellipse"
+      ]
+     ]
+    },
+    {
+     "claim": "Leniwy wzór pi(1,2a + 0,75b) do stosunku 75 myli się najwyżej o ok. 5%.",
+     "verdict": "prawda",
+     "note": "Własne obliczenie numeryczne: -2,5% dla okręgu, +2,1% przy 2, -3,3% przy 20, -5,0% przy 75.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): elipsa - hasło \"Ellipse\"",
+       "https://en.wikipedia.org/wiki/Ellipse"
+      ]
+     ]
+    },
+    {
+     "claim": "Liczby pi nie da się zapisać skończonym wyrażeniem, stąd szeregi.",
+     "verdict": "prawda",
+     "note": "Pi jest niewymierne i przestępne; liczy się je m.in. szeregami nieskończonymi.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): pi - hasło \"Pi\"",
+       "https://en.wikipedia.org/wiki/Pi"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i zabawny; wzory Parkera to jego własne propozycje, a nie uznane wyniki. Na końcu reklama sponsora."
   }
  ]
 }
