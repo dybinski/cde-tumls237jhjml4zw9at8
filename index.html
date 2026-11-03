@@ -5,29 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="referrer" content="no-referrer">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#000000">
 <link rel="icon" href="data:,">
 <title>Chill Dude Explains</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap&subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600&display=swap&subset=latin-ext" rel="stylesheet">
 <style>
-:root{--ink:#161616;--mut:#707070;--line:#ececec;--s1:1.5rem;--s2:1.125rem;--s3:.9375rem;
---v-prawda:#2e8540;--v-polprawda:#e0b100;--v-przesada:#e8731a;--v-falsz:#cf2e2e;--v-nds:#a8a8a8}
+:root{color-scheme:dark}
+:root{--ink:#eeeeee;--mut:#999999;--line:#222222;--s1:1.5rem;--s2:1.125rem;--s3:.9375rem;
+--v-prawda:#4cc46a;--v-polprawda:#f2c94c;--v-przesada:#ff9440;--v-falsz:#ff5a5a;--v-nds:#8c8c8c}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:#fff;color:var(--ink);font:400 var(--s3)/1.6 "Source Serif 4",Georgia,serif}
-a{color:inherit;text-decoration:underline;text-decoration-color:#c8c8c8;text-underline-offset:3px}
+body{margin:0;background:#000;color:var(--ink);font:400 var(--s3)/1.6 "Figtree","Helvetica Neue",Arial,sans-serif}
+a{color:inherit;text-decoration:underline;text-decoration-color:#666;text-underline-offset:3px}
 a:hover{text-decoration-color:var(--ink)}
 .wrap{max-width:720px;margin:0 auto;padding:0 24px}
 header{padding:48px 0 8px}
-h1{font-size:var(--s1);font-weight:600;margin:0;letter-spacing:-.01em}
-.bar{position:sticky;top:0;z-index:5;background:#fff;padding:16px 0 12px;border-bottom:1px solid var(--line)}
+h1{font-size:var(--s1);font-weight:600;margin:0;letter-spacing:-.02em}
+.bar{position:sticky;top:0;z-index:5;background:#000;padding:16px 0 12px;border-bottom:1px solid var(--line)}
 .ctl{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:12px}
-input,select{font:inherit;font-size:var(--s3);color:var(--ink);background:#fff;border:1px solid #dcdcdc;border-radius:6px;padding:0 12px;min-height:48px;width:100%;outline:none;-webkit-appearance:none;appearance:none}
+input,select{font:inherit;font-size:var(--s3);color:var(--ink);background:#000;border:1px solid #444;border-radius:6px;padding:0 12px;min-height:48px;width:100%;outline:none;-webkit-appearance:none;appearance:none}
 select{padding-right:28px;background-image:linear-gradient(45deg,transparent 50%,var(--mut) 50%),linear-gradient(135deg,var(--mut) 50%,transparent 50%);background-position:calc(100% - 16px) 52%,calc(100% - 11px) 52%;background-size:5px 5px;background-repeat:no-repeat;text-overflow:ellipsis;cursor:pointer}
 input:focus,select:focus{border-color:var(--ink)}
-.sync{position:absolute;right:24px;top:-26px;width:8px;height:8px;border-radius:50%;background:#d0d0d0;overflow:hidden;color:transparent;font-size:1px}
+.sync{position:absolute;right:24px;top:-26px;width:8px;height:8px;border-radius:50%;background:#555;overflow:hidden;color:transparent;font-size:1px}
 .sync.ok{background:var(--v-prawda)}.sync.off{background:var(--v-przesada)}
 .bar .wrap{position:relative}
 main{padding:8px 0 40px}
@@ -38,10 +39,10 @@ h2{font-size:var(--s2);font-weight:600;line-height:1.35;margin:0 0 4px}
 .meta{color:var(--mut);margin:0 0 8px}
 .about{margin:0}
 .read h2,.read .about{color:var(--mut)}
-.rb{flex:none;width:48px;height:48px;border-radius:50%;border:1px solid #d0d0d0;background:#fff;color:transparent;cursor:pointer;font:inherit;font-size:var(--s2);line-height:1;padding:0;position:relative}
-.rb i{color:#c4c4c4}
-.rb.on i{color:#fff}
-.rb.on{background:var(--v-prawda);border-color:var(--v-prawda);color:#fff}
+.rb{flex:none;width:48px;height:48px;border-radius:50%;border:1px solid #6a6a6a;background:#000;color:transparent;cursor:pointer;font:inherit;font-size:var(--s2);line-height:1;padding:0;position:relative}
+.rb i{color:#6a6a6a}
+.rb.on i{color:#000}
+.rb.on{background:var(--v-prawda);border-color:var(--v-prawda);color:#000}
 .rb span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .rb i{font-style:normal}
 .vbar{display:flex;height:4px;margin:14px 0 0;max-width:160px;gap:2px}
