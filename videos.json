@@ -2622,6 +2622,187 @@
    "bias": "Spokojny, oparty na badaniach materiał. Autor mocno broni oleju rzepakowego, gdzie dowody są w dużej części obserwacyjne. Na końcu zachęta do zapisu na newsletter."
   },
   {
+   "id": "4S1T6M7OhqU",
+   "title_pl": "Największe problemy inżynieryjne, jakie kiedykolwiek rozwiązano",
+   "title": "The Biggest Engineering Problems Ever Solved",
+   "channel": "Some Guy Who Knows Stuff",
+   "url": "https://www.youtube.com/watch?v=4S1T6M7OhqU",
+   "date": "2026-07-19",
+   "duration": 1063,
+   "views": 789618,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Historia"
+   ],
+   "about": "Ranking 10 wielkich budów: od Kanału Panamskiego i Mostu Brooklińskiego po Wielki Zderzacz Hadronów i Międzynarodową Stację Kosmiczną.",
+   "intro": "Odliczanie od 10. do 1. miejsca największych wyzwań inżynierii. Przy każdym projekcie autor pokazuje, jaki problem trzeba było rozwiązać, jak to zrobiono i co z tego wyszło: kanał, mosty, tunel, tama, lot na Księżyc, wieżowiec, kolej, akcelerator cząstek i stacja kosmiczna.",
+   "points": [
+    {
+     "t": "10. Kanał Panamski",
+     "d": "Francuzi pod wodzą Ferdinanda de Lessepsa zaczęli kopać w latach 80. XIX w., ale deszcze, osuwiska, malaria i żółta febra zabiły ponad 20 000 ludzi. USA od 1904 r. zbudowały śluzy podnoszące statki ponad 25 m do sztucznego jeziora, a William Gorgas walczył z komarami. Otwarcie w 1914 r."
+    },
+    {
+     "t": "9. Most Brookliński",
+     "d": "Wiszący most nad East River zaprojektował John Augustus Roebling, który zginął po wypadku. Syn Washington zapadł na chorobę dekompresyjną w kesonach i kierował budową z mieszkania przez teleskop, a jego żona Emily była łącznikiem z inżynierami. Otwarty w 1883 r."
+    },
+    {
+     "t": "8. Tunel pod kanałem La Manche",
+     "d": "Budowa ruszyła w 1988 r. z obu brzegów naraz, maszyny drążyły warstwę kredy i od razu kładły betonową obudowę. Przebicie w 1990 r. po ponad 50 km wykopów, otwarcie w 1994 r. Dziś pociągi łączą Wielką Brytanię z kontynentem w około 35 minut."
+    },
+    {
+     "t": "7. Zapora Hoovera",
+     "d": "Od 1931 r. najpierw przekierowano rzekę Kolorado czterema tunelami w ścianach kanionu. Beton lano w osobnych blokach z rurami chłodzącymi, bo jedna wylewka stygłaby ponad sto lat i pękła. Tama ma ponad 220 m, utworzyła Jezioro Mead i do dziś daje prąd i wodę."
+    },
+    {
+     "t": "6. Lądowanie na Księżycu",
+     "d": "Kennedy w 1961 r. postawił cel lądowania przed końcem dekady, choć nikt nie wyleciał poza orbitę Ziemi. Powstała rakieta Saturn V (ponad 110 m) i komputer Apollo słabszy od smartfona. Apollo 11 wylądował 20 lipca 1969 r. po podróży na odległość prawie 400 000 km."
+    },
+    {
+     "t": "5. Burdż Chalifa",
+     "d": "Budowa od 2004 r.: przekrój w kształcie litery Y rozkłada ciężar i osłabia wiatr, testowany w tunelu aerodynamicznym. Słaby grunt wymagał prawie 200 betonowych pali pod ponad pół miliona ton. Ukończony w 2010 r., ma 828 m."
+    },
+    {
+     "t": "4. Kolej transkontynentalna w USA",
+     "d": "Od 1863 r. Central Pacific budowała na wschód przez Sierra Nevada, a Union Pacific na zachód przez Wielkie Równiny. Tunele wysadzano prochem i nitrogliceryną, kluczową rolę odegrały tysiące chińskich robotników. Linie spotkały się w Promontory Summit w 1869 r., podróż skróciła się z miesięcy do tygodnia."
+    },
+    {
+     "t": "3. Most Golden Gate",
+     "d": "Joseph Strauss zaproponował most wiszący nad cieśniną z silnymi prądami, mgłą i wiatrem. Budowa od 1933 r., siatka pod mostem uratowała 19 robotników (\"Klub Pół drogi do Piekła\"). Most celowo ugina się przy wietrze i trzęsieniach ziemi. Otwarty w 1937 r."
+    },
+    {
+     "t": "2. Wielki Zderzacz Hadronów",
+     "d": "Pierścień o długości 27 km pod granicą Francji i Szwajcarii, z tysiącami magnesów nadprzewodzących chłodzonych do około -271°C i próżnią rzadszą niż w kosmosie. Działa od 2008 r., w 2012 r. pomógł potwierdzić bozon Higgsa."
+    },
+    {
+     "t": "1. Międzynarodowa Stacja Kosmiczna",
+     "d": "Od 1998 r. składana na orbicie z dziesiątek modułów z wielu krajów, przy prędkości prawie 28 000 km/h, przez spacery kosmiczne i roboty. Stacja odzyskuje powietrze i wodę, ma panele słoneczne i musi być regularnie podnoszona, bo atmosfera ją hamuje."
+    }
+   ],
+   "conclusion": "Według autora każde z tych osiągnięć wymagało nowych rozwiązań, a doświadczenia z nich, np. z ISS, pomagają dziś planować misje na Księżyc i Marsa.",
+   "factchecks": [
+    {
+     "claim": "Podczas francuskiej próby budowy Kanału Panamskiego zmarło ponad 20 000 robotników.",
+     "verdict": "prawda",
+     "note": "Szacunki mówią o około 22 000 zgonów w latach 1881-1889, głównie z powodu chorób.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Kanał Panamski - hasło \"Panama Canal\"",
+       "https://en.wikipedia.org/wiki/Panama_Canal"
+      ]
+     ]
+    },
+    {
+     "claim": "Budowa Mostu Brooklińskiego ruszyła w 1870 r., a Roebling zginął w wypadku budowlanym.",
+     "verdict": "półprawda",
+     "note": "Roebling zmarł na tężec w lipcu 1869 r., po wypadku przy pomiarach, czyli jeszcze przed startem budowy.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): John A. Roebling - hasło \"John A. Roebling\"",
+       "https://en.wikipedia.org/wiki/John_A._Roebling"
+      ],
+      [
+       "Wikipedia (ang.): Most Brookliński - hasło \"Brooklyn Bridge\"",
+       "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+      ]
+     ]
+    },
+    {
+     "claim": "Tunel pod La Manche był w 1994 r. najdłuższym podmorskim tunelem świata.",
+     "verdict": "prawda",
+     "note": "Całością ustępuje tunelom Seikan i Gotthard, ale ma najdłuższy odcinek pod dnem morza.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): tunel pod La Manche - hasło \"Channel Tunnel\"",
+       "https://en.wikipedia.org/wiki/Channel_Tunnel"
+      ]
+     ]
+    },
+    {
+     "claim": "Beton Zapory Hoovera wylany naraz stygłby ponad sto lat.",
+     "verdict": "prawda",
+     "note": "Inżynierowie wyliczyli około 125 lat i pękanie, dlatego lano bloki chłodzone rurami z wodą.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): Zapora Hoovera - hasło \"Hoover Dam\"",
+       "https://en.wikipedia.org/wiki/Hoover_Dam"
+      ]
+     ]
+    },
+    {
+     "claim": "Komputer Apollo miał znacznie mniejszą moc obliczeniową niż współczesny smartfon.",
+     "verdict": "prawda",
+     "note": "AGC miał około 2 KB pamięci RAM i zegar około 1 MHz, czyli o rzędy wielkości mniej niż telefon.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): komputer pokładowy Apollo - hasło \"Apollo Guidance Computer\"",
+       "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+      ]
+     ]
+    },
+    {
+     "claim": "Burdż Chalifa ma 828 m i stoi na prawie 200 betonowych palach.",
+     "verdict": "prawda",
+     "note": "Fundament ma 192 pale o średnicy 1,5 m i długości 43 m.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): Burdż Chalifa - hasło \"Burj Khalifa\"",
+       "https://en.wikipedia.org/wiki/Burj_Khalifa"
+      ]
+     ]
+    },
+    {
+     "claim": "Siatka pod Golden Gate uratowała 19 robotników.",
+     "verdict": "prawda",
+     "note": "Uratowani utworzyli \"Half Way to Hell Club\".",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): most Golden Gate - hasło \"Golden Gate Bridge\"",
+       "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+      ]
+     ]
+    },
+    {
+     "claim": "Magnesy LHC chłodzi się do około -271°C, a w 2012 r. potwierdzono bozon Higgsa.",
+     "verdict": "prawda",
+     "note": "CERN podaje 1,9 K (-271,3°C); odkrycie ogłoszono 4 lipca 2012 r.",
+     "p": 8,
+     "src": [
+      [
+       "CERN: Wielki Zderzacz Hadronów",
+       "https://home.cern/science/accelerators/large-hadron-collider"
+      ],
+      [
+       "Wikipedia (ang.): Wielki Zderzacz Hadronów - hasło \"Large Hadron Collider\"",
+       "https://en.wikipedia.org/wiki/Large_Hadron_Collider"
+      ]
+     ]
+    },
+    {
+     "claim": "ISS krąży z prędkością prawie 28 000 km/h, a budowę zaczęto w 1998 r.",
+     "verdict": "prawda",
+     "note": "Pierwszy moduł Zaria wystartował w listopadzie 1998 r.; prędkość orbitalna to około 28 000 km/h.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Międzynarodowa Stacja Kosmiczna - hasło \"International Space Station\"",
+       "https://en.wikipedia.org/wiki/International_Space_Station"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny, ale powierzchowny przegląd: kolejność rankingu nie jest uzasadniona, a koszty ludzkie i spory (np. warunki pracy na kolei) ledwie wspomniane."
+  },
+  {
    "id": "LUzZdtHhSqQ",
    "title_pl": "Strony, których używają mądrzy ludzie, a przeciętni nigdy o nich nie słyszeli",
    "title": "Websites Smart People Use That Average People Never Heard Of",
