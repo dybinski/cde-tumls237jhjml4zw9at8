@@ -344,6 +344,1109 @@
    "bias": "Rady oparte głównie na własnym doświadczeniu autora, bez źródeł; poza tym wyważony, bez sprzedaży diet i suplementów."
   },
   {
+   "id": "yVLKtB7Lfyk",
+   "title_pl": "Triki z Wi-Fi, których używają fachowcy, by podwoić prędkość",
+   "title": "Wi Fi Tricks Insiders Use That Double Their Speed",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=yVLKtB7Lfyk",
+   "date": "2026-10-27",
+   "duration": 560,
+   "views": 71307,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Top 10 trików na szybsze Wi-Fi: miejsce routera, anteny, kanały 1, 6 i 11, zakłócenia, bufferbloat, mesh, MoCA i test z VPN.",
+   "intro": "Ranking 10 trików, które według autora znają instalatorzy sieci. Od ustawienia routera i anten, przez kanały i zakłócenia od mikrofalówki i USB 3.0, po bufferbloat, mesh, MoCA i dławienie łącza przez operatora. Porady są w większości trafne, ale część liczb to szacunki autora.",
+   "points": [
+    {
+     "t": "10. Router w szafce",
+     "d": "Router schowany w szafce albo za telewizorem traci zasięg. Najlepiej postawić go wysoko, centralnie i na otwartej przestrzeni."
+    },
+    {
+     "t": "9. Ustawienie anten",
+     "d": "Anteny promieniują prostopadle do swojej osi, więc pionowe najlepiej pokrywają jedno piętro. Przy dwóch piętrach autor radzi jedną antenę pionowo, a drugą poziomo, przy trzech kąty 0, 45 i 90°."
+    },
+    {
+     "t": "8. Kuchenka mikrofalowa",
+     "d": "Mikrofalówka działa w paśmie 2,4 GHz z mocą ponad 1000 W, a router ma ok. 0,1 W, więc podczas podgrzewania Wi-Fi się dławi. Pomaga pasmo 5 GHz, choć ma mniejszy zasięg."
+    },
+    {
+     "t": "7. Zatłoczone kanały",
+     "d": "Aplikacja typu Wi-Fi Analyzer pokazuje, na których kanałach nadają sąsiedzi. W paśmie 2,4 GHz nie nakładają się tylko kanały 1, 6 i 11; kanał ustawia się ręcznie w panelu routera, zwykle pod 192.168.1.1 lub 192.168.0.1."
+    },
+    {
+     "t": "6. Stary sprzęt spowalnia wszystkich",
+     "d": "Jedno urządzenie w starym standardzie 802.11g, sprzed ok. 2010 r., zmusza router do trybu mieszanego. Według autora obniża to prędkość nawet o 50%, więc takie urządzenie warto przenieść do sieci gościnnej."
+    },
+    {
+     "t": "5. Zakłócenia od USB 3.0",
+     "d": "Porty i kable USB 3.0 emitują szum w okolicach 2,5 GHz, co opisał raport z 2012 r. Pomaga odsunięcie dysku lub huba od routera albo przejście na 5 GHz."
+    },
+    {
+     "t": "4. Bufferbloat",
+     "d": "Przepełnione bufory routera dają lagi, gdy ktoś w domu pobiera duże pliki. Autor radzi włączyć SQM lub QoS i ustawić limit na 80 do 90% prędkości z umowy."
+    },
+    {
+     "t": "3. Wzmacniacz zamiast mesh",
+     "d": "Zwykły wzmacniacz odbiera i nadaje na tym samym kanale, więc tnie prędkość o połowę. Lepszy jest system mesh z osobnym łączem między węzłami."
+    },
+    {
+     "t": "2. MoCA przez kabel antenowy",
+     "d": "Adaptery MoCA przesyłają sieć istniejącym kablem koncentrycznym z prędkością gigabitową i według autora nawet o 50% mniejszym opóźnieniem. Trzeba dołożyć filtr PoE za ok. 5 dolarów, by sygnał nie wyciekał na zewnątrz."
+    },
+    {
+     "t": "1. Dławienie przez operatora",
+     "d": "Niektórzy operatorzy spowalniają streaming lub gry. Test: zmierz prędkość z VPN i bez; w przykładzie autora wzrosła z 40 do 180 Mb/s, co sugeruje celowe dławienie."
+    }
+   ],
+   "conclusion": "Większość problemów z Wi-Fi da się naprawić za darmo w kilka minut; autor zachęca do subskrypcji.",
+   "factchecks": [
+    {
+     "claim": "W paśmie 2,4 GHz nie nakładają się tylko kanały 1, 6 i 11.",
+     "verdict": "prawda",
+     "note": "Kanały mają ok. 22 MHz szerokości i są co 5 MHz, więc standardowy zestaw bez nakładania to 1, 6 i 11.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): lista kanałów WLAN - hasło \"List of WLAN channels\"",
+       "https://en.wikipedia.org/wiki/List_of_WLAN_channels"
+      ]
+     ]
+    },
+    {
+     "claim": "Mikrofalówka pracuje w tym samym paśmie co Wi-Fi 2,4 GHz.",
+     "verdict": "prawda",
+     "note": "Domowe kuchenki działają na ok. 2,45 GHz, w paśmie ISM 2,4 do 2,5 GHz.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): kuchenka mikrofalowa - hasło \"Microwave oven\"",
+       "https://en.wikipedia.org/wiki/Microwave_oven"
+      ]
+     ]
+    },
+    {
+     "claim": "USB 3.0 zakłóca Wi-Fi 2,4 GHz, co opisał raport z 2012 r.",
+     "verdict": "prawda",
+     "note": "Raport USB-IF z kwietnia 2012 r. opisuje spadki przepustowości Wi-Fi i Bluetooth przy urządzeniach USB 3.0.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): zakłócenia radiowe USB 3.0 - hasło \"USB 3.0\"",
+       "https://en.wikipedia.org/wiki/USB_3.0"
+      ]
+     ]
+    },
+    {
+     "claim": "Bufferbloat powoduje lagi przy obciążonym łączu.",
+     "verdict": "prawda",
+     "note": "To opóźnienie wynikające z nadmiernego buforowania pakietów w routerze; obniża też przepustowość.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): bufferbloat - hasło \"Bufferbloat\"",
+       "https://en.wikipedia.org/wiki/Bufferbloat"
+      ]
+     ]
+    },
+    {
+     "claim": "Wzmacniacz Wi-Fi obniża prędkość o połowę.",
+     "verdict": "prawda",
+     "note": "Repeater z jednym radiem nadaje każdą transmisję dwa razy, więc przepustowość spada co najmniej o 50%.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): wzmacniacz sieci bezprzewodowej - hasło \"Wireless repeater\"",
+       "https://en.wikipedia.org/wiki/Wireless_repeater"
+      ]
+     ]
+    },
+    {
+     "claim": "MoCA daje gigabit po kablu koncentrycznym.",
+     "verdict": "prawda",
+     "note": "MoCA 2.0 daje do 1 Gb/s rzeczywistej przepustowości, nowsze wersje więcej.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): MoCA - hasło \"Multimedia over Coax Alliance\"",
+       "https://en.wikipedia.org/wiki/Multimedia_over_Coax_Alliance"
+      ]
+     ]
+    },
+    {
+     "claim": "VPN pozwala wykryć i obejść dławienie łącza.",
+     "verdict": "prawda",
+     "note": "Wikipedia wymienia VPN jako sposób na dławienie; wynik 40 do 180 Mb/s to jednak tylko przykład autora.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): dławienie przepustowości - hasło \"Bandwidth throttling\"",
+       "https://en.wikipedia.org/wiki/Bandwidth_throttling"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny poradnik bez sponsora, ale liczby jak 50% czy 40 do 180 Mb/s to przykłady autora, a nie pomiary."
+  },
+  {
+   "id": "BsFx3ZZh91U",
+   "title_pl": "Już to widzieliśmy: tak było tuż przed inwazją Rosji na Ukrainę",
+   "title": "We’ve Seen This Before… Right Before Russia Invaded Ukraine",
+   "channel": "The Military Show",
+   "url": "https://www.youtube.com/watch?v=BsFx3ZZh91U",
+   "date": "2026-10-26",
+   "duration": 1112,
+   "views": 3580677,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Geografia",
+    "Historia"
+   ],
+   "about": "Rosja zapełnia bazy sprzętem blisko NATO, Białoruś się militaryzuje, a Kaliningrad dostaje radary. Czy to zapowiedź ataku?",
+   "intro": "Kanał The Military Show zestawia doniesienia z października 2026 r.: Rosja zapełnia bazy nowymi czołgami blisko krajów bałtyckich i Finlandii, Białoruś przechodzi na tryb wojenny, a w Kaliningradzie rośnie infrastruktura. Autor uspokaja, że sprzęt jest w magazynach, i pokazuje, jak NATO planuje obronę.",
+   "points": [
+    {
+     "t": "Nowe czołgi w magazynach",
+     "d": "Według RFE/RL do 22. bazy rezerwy czołgów w Buju trafiają nowe T-90M i BTR-82A, ok. 500 km od NATO. Kyiv Post pisze też o bazach blisko Estonii, Łotwy i 185 km od Finlandii."
+    },
+    {
+     "t": "Produkcja rośnie",
+     "d": "Na początku inwazji Rosja robiła 66 do 85 T-90M rocznie, a według Military Watch Magazine z lipca 2025 r. już do 300. Straty czołgów do 20 października to według autora 12 425."
+    },
+    {
+     "t": "Inne bazy",
+     "d": "Baza 349 w Topczysze ma od czerwca 2026 r. 78 T-72B3 i ponad 100 BMP-2, a w Karelii stoją Malwy i Giacynty-K. Według United24 większość to sprzęt nowy lub odnowiony."
+    },
+    {
+     "t": "Bez ataku od razu",
+     "d": "Sprzęt stoi w magazynach, a drony ograniczyły ataki pancerne, więc autor nie widzi groźby natychmiastowej inwazji. Bazy budowane są dla ok. 115 000 żołnierzy."
+    },
+    {
+     "t": "Białoruś",
+     "d": "48-stronicowy raport twierdzi, że Białoruś może wesprzeć operację do wiosny 2027 r. Łukaszenka mówi o przygotowaniach do wojny, a w każdej radzie wiejskiej powstają milicje."
+    },
+    {
+     "t": "Kaliningrad",
+     "d": "Według UA.News pod Gwardiejskiem powstaje radar o zasięgu do 3000 km, jedna z 20 podobnych instalacji. Dane z radarów mają trafiać do systemów S-400."
+    },
+    {
+     "t": "Słabości Rosji",
+     "d": "Według The Guardian Rosji brakuje ok. 6000 rekrutów miesięcznie, a według United24 w 2026 r. straciła 350 000 żołnierzy. NATO ma ok. 3 razy więcej ludzi i 5 razy więcej samolotów."
+    },
+    {
+     "t": "Plan NATO",
+     "d": "Gen. Grynkewich przedstawił plan: zablokować, osłabić i rozbić atak. Adm. Vandier ostrzega, że NATO brakuje głębi przemysłowej, a spóźnienie to jego koszmar."
+    }
+   ],
+   "conclusion": "Sygnały są niepokojące, ale nie oznaczają bliskiego ataku; NATO musi szybciej zbroić się i produkować.",
+   "factchecks": [
+    {
+     "claim": "Do bazy w Buju trafiają nowe T-90M, ok. 500 km od NATO.",
+     "verdict": "prawda",
+     "note": "Radio Swoboda porównało zdjęcia z 18.10.2025 i 3.10.2026; baza leży ok. 500 km od Estonii i Łotwy.",
+     "p": 0,
+     "src": [
+      [
+       "Radio Swoboda (ros.): nowe czołgi w bazach",
+       "https://www.svoboda.org/a/zapasy-dlya-novoy-voyny-rossiya-napolnyaet-novymi-tankami-bazy-hraneniya/33877890.html"
+      ],
+      [
+       "Kyiv Post: arsenały przy granicach NATO",
+       "https://www.kyivpost.com/post/87513"
+      ]
+     ]
+    },
+    {
+     "claim": "Sprzęt jest w magazynach, a nie w jednostkach.",
+     "verdict": "prawda",
+     "note": "iStories i Kyiv Post podkreślają, że sprzęt nie trafił do jednostek i nie jest gotowy do natychmiastowego użycia.",
+     "p": 3,
+     "src": [
+      [
+       "Kyiv Post: arsenały przy granicach NATO",
+       "https://www.kyivpost.com/post/87513"
+      ]
+     ]
+    },
+    {
+     "claim": "Na początku inwazji Rosja miała 66 do 85 T-90M.",
+     "verdict": "półprawda",
+     "note": "CIT podaje 66 do 85 T-90M dostarczonych do jednostek do 2022 r., czyli łącznie, a nie rocznie.",
+     "p": 1,
+     "src": [
+      [
+       "Radio Swoboda (ros.): nowe czołgi w bazach",
+       "https://www.svoboda.org/a/zapasy-dlya-novoy-voyny-rossiya-napolnyaet-novymi-tankami-bazy-hraneniya/33877890.html"
+      ]
+     ]
+    },
+    {
+     "claim": "Grynkewich: zablokować, osłabić, rozbić.",
+     "verdict": "prawda",
+     "note": "Przedstawił tę teorię zwycięstwa 12.10.2026 na Warsaw Security Forum.",
+     "p": 7,
+     "src": [
+      [
+       "Stars and Stripes: plan Grynkewicza",
+       "https://www.stripes.com/theaters/europe/2026-10-12/nato-grynkewich-russia-forces-23131099.html"
+      ],
+      [
+       "American Rhetoric: przemówienie Grynkewicza",
+       "https://www.americanrhetoric.com/speeches/alexusgrynkewichtheoryofvictoryNATO.htm"
+      ]
+     ]
+    },
+    {
+     "claim": "Vandier: spóźnienie to mój koszmar, brakuje głębi przemysłowej.",
+     "verdict": "prawda",
+     "note": "Powiedział to w wywiadzie dla CBC z 19.10.2026.",
+     "p": 7,
+     "src": [
+      [
+       "CBC: wyścig NATO z czasem",
+       "https://www.cbc.ca/news/politics/nato-russia-technology-deterrence-ukraine-war-9.7384617"
+      ]
+     ]
+    }
+   ],
+   "bias": "Alarmistyczny tytuł, ale treść jest wyważona; autor miesza jednak źródła różnej jakości, np. Military Watch Magazine i United24."
+  },
+  {
+   "id": "R5j-e5KOqu0",
+   "title_pl": "Przetestowałem 28 konsolek retro: oto prawda",
+   "title": "I Tested 28 RETRO HANDHELDS... This is the Truth 💀",
+   "channel": "Dan Does Nostalgia ",
+   "url": "https://www.youtube.com/watch?v=R5j-e5KOqu0",
+   "date": "2026-10-25",
+   "duration": 2081,
+   "views": 18729,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Gry"
+   ],
+   "about": "Dan po teście 28 konsolek retro: najlepsze budżetowe, najlepszy stosunek ceny do jakości, do Switcha i jego ulubiona.",
+   "intro": "Dan przetestował 28 przenośnych konsol do emulacji i mówi, które warto kupić: od tanich Anbernic po Retroid Pocket 5, Mangmi Pocket Max, RG477V i swoją ulubioną AYN Odin 2 Portal. Mówi chaotycznie i bez scenariusza, a w opisie daje linki do sklepów.",
+   "points": [
+    {
+     "t": "Budżetowo: Anbernic",
+     "d": "RG35XX SP (ok. 75 dolarów) i RG34XX (ok. 60) mają Bluetooth i wyjście HDMI i radzą sobie do N64 i PS1. Do telewizora wystarczy kabel micro HDMI za ok. 10 dolarów."
+    },
+    {
+     "t": "Unikaj najtańszych",
+     "d": "R36S za 30 dolarów to według autora zabawka. Jego pierwszą konsolką była RG35XX Plus."
+    },
+    {
+     "t": "Najlepszy stosunek ceny do jakości",
+     "d": "Retroid Pocket 5 kosztuje ok. 200 dolarów, często w promocji, i ma ekran OLED 60 Hz. Działa do PS2, a Switch bywa różnie i wymaga zabawy ze sterownikami."
+    },
+    {
+     "t": "Większy ekran",
+     "d": "Mangmi Pocket Max ma ten sam procesor, ale ekran OLED 7 cali (ok. 18 cm) i 144 Hz, za ok. 100 dolarów więcej. Autor poleca go raczej do gier PC."
+    },
+    {
+     "t": "Do Switcha",
+     "d": "Pionowy RG477V to konsolka, której autor używa najczęściej; jest też pozioma wersja RG477M. Autor woli układ pionowy, bo w poziomych ręce są daleko od siebie."
+    },
+    {
+     "t": "Ulubiona: Odin 2 Portal",
+     "d": "AYN Odin 2 Portal kupisz tylko na stronie AYN: dostawa trwała 3 miesiące, kosztowała 40 dolarów i wiązała się ze spamem mailowym. Do tego AYN wypuszcza już Odin 3 Portal."
+    },
+    {
+     "t": "Inne",
+     "d": "RG DS Plus nadaje się praktycznie tylko do Nintendo DS. Do gier PC wystarczy ROG Ally z Ryzen Z2 A, a autor nie poleca nawet Steam Decka."
+    },
+    {
+     "t": "Konsole stacjonarne i konkurs",
+     "d": "Według autora dobrych konsol stacjonarnych do emulacji już nie ma, ostatnią była Kinhank X5. Swój Odin 2 Portal odda jednemu widzowi bez warunków subskrypcji."
+    }
+   ],
+   "conclusion": "Dla większości wystarczy tani Anbernic albo Retroid Pocket 5, a Odin 2 Portal to wybór dla wymagających.",
+   "factchecks": [
+    {
+     "claim": "Retroid Pocket 5 ma ekran OLED 5,5 cala (ok. 14 cm) 60 Hz.",
+     "verdict": "prawda",
+     "note": "Producent podaje 5,5 cala AMOLED 1080p 60 Hz i Snapdragon 865; cena startowa 219 dolarów.",
+     "p": 2,
+     "src": [
+      [
+       "GoRetroid: Retroid Pocket 5",
+       "https://www.goretroid.com/products/retroid-pocket-5-handheld"
+      ],
+      [
+       "Liliputing: premiera Retroid Pocket 5",
+       "https://liliputing.com/retroid-pocket-5-is-a-219-handheld-game-console-with-a-5-5-inch-display-snapdragon-865-and-android-or-linux-support/"
+      ]
+     ]
+    },
+    {
+     "claim": "RG35XX SP i RG34XX to tanie konsolki Anbernic.",
+     "verdict": "prawda",
+     "note": "RG35XX SP (maj 2024 r.) to klapka w stylu GBA SP, RG34XX (grudzień 2024 r.) jest pozioma w stylu GBA.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Anbernic - hasło \"Anbernic\"",
+       "https://en.wikipedia.org/wiki/Anbernic"
+      ]
+     ]
+    },
+    {
+     "claim": "Odin 2 Portal to mocna konsola AYN z dużym ekranem OLED.",
+     "verdict": "prawda",
+     "note": "Ma ekran OLED 7 cali (ok. 18 cm) 120 Hz i Snapdragon 8 Gen 2, ten sam układ co Odin 2.",
+     "p": 5,
+     "src": [
+      [
+       "Liliputing: zapowiedź Odin 2 Portal",
+       "https://liliputing.com/ayn-odin-2-portal-handheld-game-console-with-7-inch-120-hz-oled-display-coming-soon/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Szczere, osobiste opinie z linkami do sklepów AliExpress i Amazon; ceny w dolarach szybko się zmieniają."
+  },
+  {
+   "id": "4X95GdkGNQQ",
+   "title_pl": "Nowy Grok Bot jest szalony: 5 botów, które robią marketing",
+   "title": "NEW Grok Bot is INSANE!",
+   "channel": "Julian Goldie SEO",
+   "url": "https://www.youtube.com/watch?v=4X95GdkGNQQ",
+   "date": "2026-10-25",
+   "duration": 388,
+   "views": 16433,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Julian Goldie pokazuje 5 botów Grok Bot do marketingu: wideo, karuzele, leady, odpowiedzi i SEO, z gotowymi promptami.",
+   "intro": "Julian Goldie pokazuje 5 botów Grok Bot, które według niego prowadzą mu marketing: wideo, karuzele na Instagram, szukanie leadów, szybkie odpowiedzi i artykuły SEO. Każdy działa według harmonogramu i czeka na akceptację przed publikacją. Film jest w dużej mierze reklamą płatnej społeczności autora.",
+   "points": [
+    {
+     "t": "Bot to pracownik z własnym komputerem",
+     "d": "Każdy bot ma nazwę, zadanie i komputer w chmurze, więc nie tylko pisze tekst, ale otwiera przeglądarkę, używa aplikacji i zapisuje pliki. Działa według harmonogramu, także przy zamkniętym laptopie."
+    },
+    {
+     "t": "Plik zadania zamiast ogólnika",
+     "d": "Polecenie w stylu „zrób mi treści” daje ogólne wyniki. Autor radzi jedną stronę opisu: firma, klienci, zadanie krok po kroku, zasady i godziny pracy, a napisać ją może ChatGPT lub Claude."
+    },
+    {
+     "t": "1. Bot do wideo",
+     "d": "Z tematu robi research, pisze 60-sekundowy scenariusz i czeka na akceptację. Potem tworzy lektora, obraz i montaż, sprawdza dźwięk i jakość i oddaje plik bez publikacji."
+    },
+    {
+     "t": "2. Bot do karuzel",
+     "d": "Dwa razy w tygodniu proponuje pomysły, a po wyborze robi 7-slajdową karuzelę na Instagram z podpisem. Publikuje przez narzędzie Blotato dopiero po komendzie autora."
+    },
+    {
+     "t": "3. Bot do leadów",
+     "d": "W dni robocze o 7:00 szuka 10 firm pasujących do idealnego klienta, sprawdza ich strony i pisze osobiste maile wskazujące konkretny problem. Zapisuje je tylko jako szkice."
+    },
+    {
+     "t": "4. Bot do odpowiedzi",
+     "d": "Pilnuje skrzynki i w ciągu minuty szkicuje odpowiedź nowemu klientowi z 2 terminami z kalendarza. Przed każdą umówioną rozmową przygotowuje jednostronicowy brief."
+    },
+    {
+     "t": "5. Bot do SEO",
+     "d": "Codziennie o 9:00 znajduje frazę, której strona jeszcze nie pokrywa, sprawdza 5 najwyżej pozycjonowanych wyników i pisze lepszy artykuł z FAQ. Zapisuje go jako szkic."
+    },
+    {
+     "t": "Zacznij od jednego",
+     "d": "Autor radzi nie budować 5 botów naraz, tylko zacząć od tego, który rozwiązuje największy problem, i dopiero potem dodawać kolejne."
+    }
+   ],
+   "conclusion": "Pięć botów działa jak zespół marketingowy, ale autor kieruje po prompty i szkolenia do swojej płatnej społeczności.",
+   "factchecks": [
+    {
+     "claim": "Każdy bot ma komputer w chmurze i pracuje przy zamkniętym laptopie.",
+     "verdict": "półprawda",
+     "note": "Praca w tle przy zamkniętym laptopie się zgadza, ale komputer jest jeden na użytkownika i wszystkie boty go współdzielą.",
+     "p": 0,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Boty działają według harmonogramu.",
+     "verdict": "prawda",
+     "note": "Rutyny uruchamiają się o ustalonej porze albo po zdarzeniu, np. mailu lub wywołaniu webhooka.",
+     "p": 0,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: umiejętności i rutyny",
+       "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+      ]
+     ]
+    },
+    {
+     "claim": "Przed wysyłką lub publikacją bot może czekać na akceptację.",
+     "verdict": "prawda",
+     "note": "Można dodać reguły Ask first dla wysyłania, publikowania czy kupowania; wtedy bot pokazuje kartę akceptacji.",
+     "p": null,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: akceptacje i bezpieczeństwo",
+       "https://docs.x.ai/grok-bot/approvals-security-and-privacy"
+      ]
+     ]
+    }
+   ],
+   "bias": "Film reklamuje płatną społeczność AI Profit Boardroom i usługi SEO autora; wyniki botów nie są pokazane z liczbami."
+  },
+  {
+   "id": "d4h2rbePFT8",
+   "title_pl": "Grok Bot dostał wielką aktualizację: funkcja Pages",
+   "title": "Grok Bot Just Got a MASSIVE AI Upgrade!",
+   "channel": "Julian Goldie SEO",
+   "url": "https://www.youtube.com/watch?v=d4h2rbePFT8",
+   "date": "2026-10-25",
+   "duration": 485,
+   "views": 24508,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Julian Goldie omawia funkcję Pages w Grok Bot: raporty, notatki i dashboardy, które bot tworzy i aktualizuje.",
+   "intro": "Julian Goldie omawia nowość w Grok Bot, czyli strony (Pages): raporty, notatki i dashboardy tworzone przez bota, które można razem edytować i trzymać na bieżąco. Przypomina, czym jest Grok Bot, omawia 3 rodzaje stron i daje 4 rady. Duża część filmu to reklama jego społeczności.",
+   "points": [
+    {
+     "t": "Czym są Pages",
+     "d": "Bot buduje do czytania raport, notatkę albo dashboard zamiast długiej odpowiedzi w czacie. Stronę można dalej poprawiać razem z botem i prosić, by ją aktualizował."
+    },
+    {
+     "t": "Czym jest Grok Bot",
+     "d": "To aplikacja z AI-współpracownikami od zespołu Groka. Bot ma własny komputer w chmurze, loguje się do narzędzi i pyta przed wrażliwymi krokami."
+    },
+    {
+     "t": "Raport, notatka, dashboard",
+     "d": "Raport mówi, co się wydarzyło, notatka wyjaśnia lub proponuje, a dashboard pokazuje aktualny stan. W połączeniu z rutyną bot może sam budować i odświeżać np. cotygodniowy raport z pytań klientów."
+    },
+    {
+     "t": "Cztery rady",
+     "d": "Bądź konkretny w poleceniu, podłącz swoje narzędzia, używaj opcji utrzymywania strony na bieżąco i zawsze przeglądaj wynik przed użyciem."
+    },
+    {
+     "t": "Reklama społeczności",
+     "d": "Autor zachęca do płatnego AI Profit Boardroom z 4 rozmowami na żywo w tygodniu i 30-dniowym planem oraz do darmowego AI Success Lab, który według niego ma 93 700 członków."
+    }
+   ],
+   "conclusion": "Pages zmieniają odpowiedzi bota w trwałe dokumenty, które można rozwijać; po więcej autor odsyła do swoich społeczności.",
+   "factchecks": [
+    {
+     "claim": "Grok Bot tworzy strony: raporty, notatki i dashboardy.",
+     "verdict": "prawda",
+     "note": "Dokumentacja opisuje stronę jako raport, notatkę, dashboard lub tracker z tabelami i wykresami, zapisany w bibliotece bota.",
+     "p": 0,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: pliki i wyniki",
+       "https://docs.x.ai/grok-bot/files-and-results"
+      ]
+     ]
+    },
+    {
+     "claim": "Pokazane raz zadanie bot zapisuje jako rutynę.",
+     "verdict": "prawda",
+     "note": "Funkcja Teach a task zapisuje pokazany raz proces jako umiejętność, którą rutyna może uruchamiać według planu.",
+     "p": 2,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: umiejętności i rutyny",
+       "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+      ],
+      [
+       "x.ai: strona Grok Bot",
+       "https://x.ai/bot"
+      ]
+     ]
+    },
+    {
+     "claim": "Każdy bot ma własny komputer w chmurze.",
+     "verdict": "półprawda",
+     "note": "Komputer w chmurze jest jeden na użytkownika; boty mają na nim osobne ekrany i współdzielą pliki oraz loginy.",
+     "p": 1,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    }
+   ],
+   "bias": "Film to w dużej mierze reklama społeczności autora; o samej funkcji Pages mówi ogólnie i bez przykładu użycia."
+  },
+  {
+   "id": "3e44xTBY_ek",
+   "title_pl": "Dlaczego Grok Bot przejmuje rynek: 10 trików",
+   "title": "Why Grok Bot Is Taking Over (10 Hacks)",
+   "channel": "Moritz | AI Systems",
+   "url": "https://www.youtube.com/watch?v=3e44xTBY_ek",
+   "date": "2026-10-22",
+   "duration": 1481,
+   "views": 87984,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Moritz pokazuje zasady pracy z Grok Bot i triki: import pamięci, 1Password, przeglądarka, X, programowanie, Composio, webhook, Pages, mail.",
+   "intro": "Moritz twierdzi, że przeniósł do Grok Bot większość pracy z Claude Code i ChatGPT. Najpierw podaje 3 zasady pracy z botami, a potem triki: import pamięci, hasła przez 1Password, przeglądarka, połączenie z X, programowanie przez Cursor, Composio, most z webhookiem, strony i własna skrzynka mailowa.",
+   "points": [
+    {
+     "t": "Jeden bot na jedno zadanie",
+     "d": "Bota traktuje się jak nowego pracownika z jedną rolą. Autor ma szefa sztabu, a pod nim boty do treści i innych zadań."
+    },
+    {
+     "t": "Autonomia krok po kroku",
+     "d": "Najpierw plan, potem praca z akceptacją na kolejnych etapach, a po 1 do 2 tygodni zaufania więcej swobody. Samo „prowadź moje SEO” to za mało wskazówek."
+    },
+    {
+     "t": "Źródło prawdy zamiast pamięci",
+     "d": "Wbudowana pamięć według autora jeszcze zawodzi. Bot od sponsoringu prowadzi więc stronę w Notion ze stanem każdej umowy i z niej korzysta."
+    },
+    {
+     "t": "Import pamięci i umiejętności",
+     "d": "Można poprosić ChatGPT lub Claude o wyeksportowanie wszystkiego, co o tobie wie, do pliku i wrzucić go botowi. Bot może też za zgodą sięgnąć do lokalnych folderów i zaimportować z nich pamięć i umiejętności."
+    },
+    {
+     "t": "Hasła przez 1Password",
+     "d": "Autor tworzy w 1Password osobny sejf udostępniony botowi i wrzuca tam tylko wybrane hasła. Karty płatnicze trzeba jednak dodać do wbudowanego Vault."
+    },
+    {
+     "t": "Przeglądarka i ciasteczka",
+     "d": "Wbudowana przeglądarka to według autora słaby punkt, gorszy niż w Codex. Autor przeniósł do niej ciasteczka z własnego Chrome, by od razu być zalogowanym, choć sam przyznaje, że to ryzyko."
+    },
+    {
+     "t": "Połączenie z X",
+     "d": "Bot przeszukuje publiczne posty na X bez konfiguracji API, a od niedawna czyta i odpisuje na wiadomości prywatne. Oznaczenie @bot pod postem przekazuje go botowi, np. do zapisania jako strona."
+    },
+    {
+     "t": "Programowanie przez Cursor",
+     "d": "Bot zleca zadania w projektach Cursor, lokalnie lub w chmurze, nawet z wybranym modelem. Lokalnie może też sterować Claude Code i przeglądarką na komputerze autora."
+    },
+    {
+     "t": "Composio i most z webhookiem",
+     "d": "Composio daje te same połączenia w kilku narzędziach i więcej funkcji, np. dla Arkuszy Google. Rutyna z webhookiem pozwala przesyłać polecenia z ChatGPT lub Claude do Grok Bot."
+    },
+    {
+     "t": "Strony, mail i drobiazgi",
+     "d": "Bot tworzy strony z raportami, które można udostępniać, i ma własny adres mailowy. Można też zgłosić błąd zespołowi i edytować szkic wiadomości przed wysłaniem."
+    }
+   ],
+   "conclusion": "Autor używa Grok Bot także prywatnie, np. do sznurówek, sprawy z ubezpieczeniem i księgowości, i zaprasza do swojego kursu.",
+   "factchecks": [
+    {
+     "claim": "Bot może za zgodą wykonywać polecenia na twoim komputerze.",
+     "verdict": "prawda",
+     "note": "Służy do tego ustawienie Execution on this computer; domyślnie bot pyta za każdym razem.",
+     "p": 3,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Hasła z 1Password są dostępne dla bota bez ich odczytywania.",
+     "verdict": "prawda",
+     "note": "Boty logują się danymi z Vault lub podłączonego menedżera haseł bez widzenia wartości.",
+     "p": 4,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ],
+      [
+       "Dokumentacja Grok Bot: Vault",
+       "https://docs.x.ai/grok-bot/vault"
+      ]
+     ]
+    },
+    {
+     "claim": "Oznaczenie @bot na X przekazuje post botowi.",
+     "verdict": "prawda",
+     "note": "Dokumentacja opisuje oznaczanie @bot w poście lub odpowiedzi jako sposób przekazania zadania.",
+     "p": 6,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: @bot na X",
+       "https://docs.x.ai/grok-bot/tag-on-x"
+      ]
+     ]
+    },
+    {
+     "claim": "Rutynę można uruchamiać webhookiem.",
+     "verdict": "prawda",
+     "note": "Rutyny ruszają według planu albo po zdarzeniu, w tym po wywołaniu webhooka.",
+     "p": 8,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: umiejętności i rutyny",
+       "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+      ]
+     ]
+    },
+    {
+     "claim": "Bot dostaje własny adres mailowy.",
+     "verdict": "prawda",
+     "note": "Aplikacja Email daje botom ich własny adres zamiast podłączania istniejącego konta.",
+     "p": 9,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: komputer i aplikacje",
+       "https://docs.x.ai/grok-bot/computer-and-apps"
+      ]
+     ]
+    }
+   ],
+   "bias": "Entuzjastyczny przegląd z reklamą darmowego poradnika i płatnego kursu autora; kopiowanie ciasteczek z własnej przeglądarki to ryzykowna rada."
+  },
+  {
+   "id": "hGguYFncLUI",
+   "title_pl": "Przetestowałem Grok Bot: czego nie mówią inni",
+   "title": "I Tested Grok Bot - Here's What They're NOT Telling You",
+   "channel": "Serop | AI Automation",
+   "url": "https://www.youtube.com/watch?v=hGguYFncLUI",
+   "date": "2026-10-15",
+   "duration": 1178,
+   "views": 27704,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Serop testuje Grok Bot bez sponsora: chwali prostotę i autonomię, krytykuje brak wglądu w działanie, pamięć i rozliczenia.",
+   "intro": "Serop zapowiada uczciwą recenzję bez sponsora, bo według niego wiele filmów o Grok Bot to płatna promocja. Pokazuje boty z własnym komputerem, pamięć, czaty grupowe i przykłady z biznesu. Chwali prostotę, ale martwi go brak wglądu w to, co boty robią i ile to kosztuje.",
+   "points": [
+    {
+     "t": "Boty zamiast czatów",
+     "d": "Grok Bot wygląda jak ChatGPT czy Claude Code, ale zamiast rozmów ma boty. Każdy ma wirtualny komputer z Chrome i terminalem, nad którym można przejąć kontrolę."
+    },
+    {
+     "t": "Podłączanie narzędzi",
+     "d": "Bot łączy się z mailem, Slackiem i harmonogramami. Autor podłączył GitHub, a bot sam otworzył pull request; wszystko działa w chmurze."
+    },
+    {
+     "t": "Pamięć wspólna dla botów",
+     "d": "Bot sam decyduje, co zapamiętać na stałe, a część wiedzy dzielą wszystkie boty: inny bot znał cel autora, czyli 50 tys. dolarów miesięcznych przychodów. Minus: pamięci nie da się przejrzeć ani edytować."
+    },
+    {
+     "t": "Brak wyboru modelu",
+     "d": "Autor twierdzi, że jest skazany na modele Grok i nie może przejść na modele OpenAI czy Anthropic. Przy cięższym programowaniu może to według niego przeszkadzać."
+    },
+    {
+     "t": "Nie widać myślenia",
+     "d": "Autor nie widzi toku rozumowania ani wywołań narzędzi, tylko wynik, chyba że każe botowi pracować na ekranie. Przy poczcie czy obsłudze klientów to go niepokoi."
+    },
+    {
+     "t": "Niejasne rozliczenia",
+     "d": "Widzi tylko ogólne zużycie, np. 40% miesięcznego limitu, bez podziału na zadania i modele. Chciałby tańszych modeli do prostych zadań."
+    },
+    {
+     "t": "Czaty grupowe",
+     "d": "Boty mogą pracować razem w grupie, np. marketingowej. Ryzyko: dzielą jeden komputer, więc mogą nadpisywać sobie pliki, a sposób ich współpracy narzuca aplikacja."
+    },
+    {
+     "t": "Przykłady użycia",
+     "d": "Bot szukał lotów Berlin do Cali w Google Flights, filmów na YouTube z wynikiem ponad stan i sponsorów wydarzeń w Berlinie na Luma. Autor ocenia te zadania jako dobre zastosowanie do researchu."
+    },
+    {
+     "t": "Dyscyplina w liczbie botów",
+     "d": "Łatwo stworzyć za dużo botów i stracić orientację. Autor radzi jednego generalistę do jednorazowych zadań, a wyspecjalizowane boty tylko do powtarzalnych procesów."
+    }
+   ],
+   "conclusion": "Potężny i bardzo przyjazny system, dobry do researchu i analiz, ale autor nie powierzyłby mu jeszcze kontaktu z klientami.",
+   "factchecks": [
+    {
+     "claim": "W Grok Bot można używać tylko modeli Grok.",
+     "verdict": "fałsz",
+     "note": "Wyboru modelu nie ma, ale Grok Bot sam dobiera model do zadania i może to być też model zewnętrznego dostawcy.",
+     "p": 3,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Pamięci bota nie da się przejrzeć.",
+     "verdict": "półprawda",
+     "note": "Nie ma edytora pamięci, ale dokumentacja radzi zapytać bota, co o tobie pamięta; wspólne są tylko niektóre fakty, np. imię.",
+     "p": 2,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Nie widać, jakich narzędzi używa bot.",
+     "verdict": "półprawda",
+     "note": "Według dokumentacji w rozmowie widać aktywność narzędzi, pracę na komputerze i prośby o akceptację, choć nie tok rozumowania.",
+     "p": 4,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: czat i współpraca",
+       "https://docs.x.ai/grok-bot/chat-and-collaboration"
+      ]
+     ]
+    },
+    {
+     "claim": "Nie ma sposobu na ustawienie zabezpieczeń przed groźnymi akcjami.",
+     "verdict": "fałsz",
+     "note": "Są reguły Ask first, np. dla wysyłania, usuwania czy kupowania, oraz Auto Review dla wrażliwych akcji.",
+     "p": null,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: akceptacje i bezpieczeństwo",
+       "https://docs.x.ai/grok-bot/approvals-security-and-privacy"
+      ]
+     ]
+    },
+    {
+     "claim": "Wszystkie boty dzielą jeden komputer.",
+     "verdict": "prawda",
+     "note": "Komputer jest jeden na użytkownika, każdy bot ma na nim osobny ekran.",
+     "p": 6,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    }
+   ],
+   "bias": "Najbardziej krytyczna recenzja z tej grupy, ale autor reklamuje własną płatną usługę AI makeover, a kilka zarzutów jest nieścisłych."
+  },
+  {
+   "id": "8lNK7gjUCEs",
+   "title_pl": "Tajna wojna Vsauce z AI",
+   "title": "Vsauce's Secret War on AI",
+   "channel": "TDT",
+   "url": "https://www.youtube.com/watch?v=8lNK7gjUCEs",
+   "date": "2026-10-08",
+   "duration": 758,
+   "views": 850724,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Media",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Dlaczego Vsauce prawie przestał wrzucać filmy, jak ludzcy twórcy wygrywają z algorytmem i czemu farmy treści AI tego nie powtórzą.",
+   "intro": "Autor kanału TDT zadaje pytanie, jak wybić się na YouTube, gdy filmów jest więcej niż kiedykolwiek, a Vsauce od ponad roku nie wrzucił pełnego filmu. Opisuje 3 strategie wyróżnienia się, historię Vsauce i jego naśladowców oraz zalew treści AI. Wniosek: przetrwa pasja, a nie produkcja masowa.",
+   "points": [
+    {
+     "t": "Rekordy YouTube",
+     "d": "Rekordzista NameLook ma 4,8 mln filmów, ale tylko ok. 5,9 mln wyświetleń i 65 tys. subskrypcji. MrBeast ma 520 mln subskrypcji, a T-Series 358 mld wyświetleń, przy ok. 8,3 mld ludzi na świecie."
+    },
+    {
+     "t": "Strategia 1: bomba",
+     "d": "Jeden film o wiele lepszy od reszty, który przyciąga widzów do całego kanału."
+    },
+    {
+     "t": "Strategia 2: osobowość",
+     "d": "Ludzie wracają dla twórcy, a nie dla tematu, jak u Markipliera czy Jacksepticeye."
+    },
+    {
+     "t": "Strategia 3: fioletowa krowa",
+     "d": "Według Setha Godina trzeba być wyjątkowym, by się wyróżnić. Vsauce zrobił to pytaniami jak „Czy można dotknąć Marsa?” albo „Jaka jest prędkość ciemności?”."
+    },
+    {
+     "t": "Wyżej zawieszona poprzeczka",
+     "d": "Michael Stevens mówi, że pytań mu nie brakuje; chciał przeskoczyć poprzeczkę, którą sam sobie ustawił. Dziś każdy film to miesiące pracy, a robienie treści pod algorytm według niego prowadzi do wypalenia."
+    },
+    {
+     "t": "Algorytm dopasowuje się do niego",
+     "d": "Stevens wciąż robi shorty, podcast i Curiosity Box. Zamiast uczyć się algorytmu, uczy algorytm siebie, więc każdy jego film i tak odnosi sukces."
+    },
+    {
+     "t": "Zalew treści AI",
+     "d": "Farmy treści AI masowo przerabiają to, co już działa. Autor uważa, że YouTube uratuje pasja twórców, bo ludzie przychodzą oglądać ludzi."
+    }
+   ],
+   "conclusion": "Twórcy wygrywają tym, czego nie da się skopiować: wyjątkowością i pasją, a nie liczbą filmów.",
+   "factchecks": [
+    {
+     "claim": "MrBeast ma 520 mln subskrypcji.",
+     "verdict": "prawda",
+     "note": "Według Wikipedii w listopadzie 2026 r. miał 525 mln, więc w czasie filmu 520 mln było zgodne.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): najczęściej subskrybowane kanały - hasło \"List of most-subscribed YouTube channels\"",
+       "https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels"
+      ]
+     ]
+    },
+    {
+     "claim": "T-Series ma 358 mld wyświetleń.",
+     "verdict": "półprawda",
+     "note": "T-Series jest liderem wyświetleń, ale Wikipedia podaje ponad 343 mld, nieco mniej niż w filmie.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): najczęściej oglądane kanały - hasło \"List of most-viewed YouTube channels\"",
+       "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels"
+      ]
+     ]
+    },
+    {
+     "claim": "Purple Cow to idea Setha Godina.",
+     "verdict": "prawda",
+     "note": "Książkę Purple Cow: Transform Your Business by Being Remarkable wydał w 2003 r.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): Seth Godin - hasło \"Seth Godin\"",
+       "https://en.wikipedia.org/wiki/Seth_Godin"
+      ]
+     ]
+    },
+    {
+     "claim": "Vsauce stworzył Michael Stevens.",
+     "verdict": "prawda",
+     "note": "Marka działa od 2010 r.; kanał główny ma ok. 25 mln subskrypcji.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Vsauce - hasło \"Vsauce\"",
+       "https://en.wikipedia.org/wiki/Vsauce"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ciekawy esej o twórczości, ale autor na koniec reklamuje koszulki przeciw grafice AI, a liczby podaje bez źródeł."
+  },
+  {
+   "id": "8xXhE25vJZY",
+   "title_pl": "Grok Bot 101: oficjalne warsztaty dla początkujących",
+   "title": "Grok Bot 101",
+   "channel": "Grok",
+   "url": "https://www.youtube.com/watch?v=8xXhE25vJZY",
+   "date": "2026-10-06",
+   "duration": 3401,
+   "views": 108717,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Oficjalne warsztaty SpaceX AI: idea AI-współpracownika, boty z komputerem, uczenie zadań, umiejętności i zespół botów od naklejek.",
+   "intro": "Nagranie warsztatów prowadzonych przez Martina, inżyniera z SpaceX AI, i Cliffa. Pokazują, skąd wziął się Grok Bot, a potem na żywo budują zespół 3 botów, który projektuje naklejki, zbiera głosy widzów w Formularzach Google i szuka drukarni. To materiał producenta, więc bez krytyki.",
+   "points": [
+    {
+     "t": "Od chatbota do współpracownika",
+     "d": "Najpierw były chatboty, potem agenci, a Grok Bot ma być pierwszym AI-współpracownikiem. Rozmawia się jak w iMessage: boty po lewej, jedna ciągła rozmowa zamiast nowego czatu do każdego zadania."
+    },
+    {
+     "t": "Pamięć i własny komputer",
+     "d": "Dwie podstawy to trwała pamięć i komputer, na którym bot używa stron jak człowiek. Może np. zarezerwować lot na stronie linii lotniczej, która nie ma API."
+    },
+    {
+     "t": "Przykłady prowadzących",
+     "d": "Martin ma boty do pracy, np. do przygotowania rozmów z klientami. Prywatny bot Bobo śledzi premiery butów, kontuzje w jego ligach fantasy i występy ulubionej tenisistki rodziców."
+    },
+    {
+     "t": "Nauka przez pokazanie",
+     "d": "Martin raz pokazuje botowi Maya, jak zrobić formularz Google, a bot zapisuje to jako umiejętność. Według prowadzących skraca to kolejne podejścia i oszczędza zużycie."
+    },
+    {
+     "t": "Boty rozmawiają ze sobą",
+     "d": "Maya zbiera głosy w formularzu, a Dex dostaje polecenie zaprojektowania 8 naklejek według wytycznych z Figmy. Łącznik Figma MCP jest w marketplace."
+    },
+    {
+     "t": "Jeden komputer, osobne ekrany",
+     "d": "Prowadzący odpowiadają na pytania widzów: boty użytkownika działają na jednej maszynie w chmurze, a pamięcią i kontekstem zarządza aplikacja."
+    },
+    {
+     "t": "Szef sztabu",
+     "d": "Na koniec Martin tworzy czat grupowy i awansuje Bobo na szefa sztabu dla Dex, Mayi i bota zakupowego Penny. Pozostałe boty streszczają mu w czacie, co zrobiły w sprawie naklejek."
+    },
+    {
+     "t": "Reguły akceptacji",
+     "d": "W ustawieniach można dodać reguły, kiedy bot ma pytać o zgodę, np. przed utworzeniem formularza Google."
+    }
+   ],
+   "conclusion": "Według prowadzących boty używają każdego narzędzia nawet bez łącznika, pamiętają, jak pracujesz, i pytają o zgodę tam, gdzie tego chcesz.",
+   "factchecks": [
+    {
+     "claim": "Wszystkie boty działają na jednym komputerze, każdy na własnym ekranie.",
+     "verdict": "prawda",
+     "note": "Komputer w chmurze jest jeden na użytkownika; jeden bot prowadzi naraz jedno zadanie na swoim ekranie.",
+     "p": 5,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Bot zapisuje pokazane zadanie jako umiejętność.",
+     "verdict": "prawda",
+     "note": "Teach a task nagrywa proces w przeglądarce i zapisuje go jako umiejętność do powtórzenia.",
+     "p": 3,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: umiejętności i rutyny",
+       "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+      ]
+     ]
+    },
+    {
+     "claim": "Można ustawić, przed czym bot ma pytać o zgodę.",
+     "verdict": "prawda",
+     "note": "Reguły Ask first zawsze wywołują kartę akceptacji, np. przed wysyłaniem czy publikowaniem.",
+     "p": 7,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: akceptacje i bezpieczeństwo",
+       "https://docs.x.ai/grok-bot/approvals-security-and-privacy"
+      ]
+     ]
+    }
+   ],
+   "bias": "Oficjalne warsztaty producenta: pokazują wyłącznie zalety, bez kosztów i ograniczeń. Transkrypt ma luki, więc część szczegółów pominięto."
+  },
+  {
+   "id": "q1IwR88mhaA",
+   "title_pl": "Jedyny poradnik Grok Bot, jakiego potrzebujesz: jak zacząć",
+   "title": "The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners",
+   "channel": "Charlie Chang",
+   "url": "https://www.youtube.com/watch?v=q1IwR88mhaA",
+   "date": "2026-09-30",
+   "duration": 841,
+   "views": 433930,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Technika",
+    "Sztuczna inteligencja"
+   ],
+   "about": "Charlie Chang krok po kroku: instalacja, pierwszy bot asystent, łączenie Gmaila, uczenie zadań, rutyny, czaty grupowe i marketplace.",
+   "intro": "Charlie Chang pokazuje Grok Bot od zera: pobranie aplikacji, plan, pierwszy bot jako asystent, łączenie Gmaila i innych aplikacji, uczenie przez pokazanie, rutyny, kilka botów naraz i marketplace z gotowymi botami. To praktyczny przegląd, ale z linkami afiliacyjnymi i reklamą jego społeczności.",
+   "points": [
+    {
+     "t": "Instalacja i plan",
+     "d": "Aplikację pobiera się z x.ai/bot, a korzystanie wymaga płatnego planu; autor mówi, że ma Grok Plus za 100 dolarów miesięcznie. Według niego dostęp dają też niektóre plany Cursor, SuperGrok i Teams."
+    },
+    {
+     "t": "Pierwszy bot: asystent",
+     "d": "Autor tworzy bota asystenta i pokazuje ustawienia: zużycie, rozliczenia i możliwość aktualizacji lub resetu komputera bota."
+    },
+    {
+     "t": "Łączenie aplikacji",
+     "d": "Gmaila podłącza się w czacie albo przez Composio lub Zapier MCP. W marketplace są też Slack, Notion i menedżer haseł, przez który bot loguje się bez widzenia haseł."
+    },
+    {
+     "t": "Własny ekran i nauka",
+     "d": "Każdy bot ma ekran z Chrome, a przycisk uczenia pozwala raz pokazać zadanie. Autor kazał mu szukać na Amazonie soundbarów do 500 dolarów i dostał 3 propozycje z linkami."
+    },
+    {
+     "t": "Wiele botów i rutyny",
+     "d": "Obok asystenta autor ma m.in. szefa sztabu, boty do badań, finansów, newslettera i LinkedIn; boty piszą do siebie. Rutyny działają według planu, np. o 9:00 podsumowanie Slacka i maili."
+    },
+    {
+     "t": "Czaty grupowe i wspólny komputer",
+     "d": "W czacie grupowym autor pyta asystenta, bota finansowego i COO o zaległe faktury. Bot finansowy może mieć dostęp do QuickBooks, a wszystkie boty dzielą jeden komputer z Linuksem."
+    },
+    {
+     "t": "Marketplace",
+     "d": "Gotowe boty innych osób można zaimportować do swojego konta. Bot potrafi też za autora rozmawiać z czatami obsługi klienta."
+    }
+   ],
+   "conclusion": "Autor uważa Grok Bot za pracownika, który działa wolniej od człowieka, ale doprowadza zadania do końca.",
+   "factchecks": [
+    {
+     "claim": "Grok Bot wymaga płatnego planu.",
+     "verdict": "prawda",
+     "note": "Na The X Subscription jest w planach Premium (30 dolarów), Super (100) i Ultra (200); Free i Plus go nie mają.",
+     "p": 0,
+     "src": [
+      [
+       "x.ai: cennik planów",
+       "https://x.ai/pricing"
+      ],
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Autor ma Grok Plus za 100 dolarów miesięcznie.",
+     "verdict": "fałsz",
+     "note": "Plus kosztuje 8 dolarów i nie ma Grok Bot; 100 dolarów to plan Super.",
+     "p": 0,
+     "src": [
+      [
+       "x.ai: cennik planów",
+       "https://x.ai/pricing"
+      ]
+     ]
+    },
+    {
+     "claim": "Dostęp dają też plany Cursor i SuperGrok.",
+     "verdict": "prawda",
+     "note": "Dotyczy starszych płatnych planów Cursor i Teams; można też podpiąć indywidualny SuperGrok lub X Premium+.",
+     "p": 0,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Wszystkie boty dzielą jeden komputer, pliki i logowania.",
+     "verdict": "prawda",
+     "note": "Komputer jest przypisany do użytkownika, a nie do bota; dokumentacja ostrzega, by nie traktować botów jako granicy bezpieczeństwa.",
+     "p": 5,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ]
+     ]
+    },
+    {
+     "claim": "Bot loguje się przez menedżer haseł bez widzenia haseł.",
+     "verdict": "prawda",
+     "note": "Boty logują się danymi z Vault, menedżera haseł lub bezpiecznego formularza bez widzenia wartości.",
+     "p": 2,
+     "src": [
+      [
+       "Dokumentacja Grok Bot: FAQ",
+       "https://docs.x.ai/grok-bot/faq"
+      ],
+      [
+       "Dokumentacja Grok Bot: Vault",
+       "https://docs.x.ai/grok-bot/vault"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny poradnik krok po kroku, ale autor promuje swoją darmową społeczność i linki afiliacyjne, a o kosztach i ograniczeniach mówi mało."
+  },
+  {
    "id": "yTvakY_xVJk",
    "title_pl": "Dlaczego Rzymianie nigdy nie przekroczyli równika",
    "title": "Why the Romans Could Never Cross the Equator",
@@ -760,7 +1863,7 @@
    "points": [
     {
      "t": "10. Najgorszy rok w historii (536)",
-     "d": "W 536 r. gęsta mgła zasłoniła słońce na 18 miesięcy, a temperatura na półkuli północnej spadła o 2,5°C. Plony padły, w Chinach latem spadł śnieg. Prokopiusz pisał, że słońce świeciło jak księżyc. Rdzenie lodowe z Grenlandii i Antarktydy pokazują popiół wulkaniczny, ale nie wiadomo, który wulkan; w 541 r. przyszła dżuma Justyniana."
+     "d": "W 536 r. gęsta mgła zasłoniła słońce na 18 miesięcy, a temperatura na półkuli północnej spadła o 2,5°C; plony padły, w Chinach latem spadł śnieg. Rdzenie lodowe z Grenlandii i Antarktydy pokazują popiół wulkaniczny, ale nie wiadomo, który wulkan. W 541 r. przyszła dżuma Justyniana."
     },
     {
      "t": "9. Jezioro Szkieletów (Roopkund)",
@@ -768,11 +1871,11 @@
     },
     {
      "t": "8. Upadek epoki brązu",
-     "d": "Ok. 1200 r. p.n.e. w ciągu kilkudziesięciu lat upadli Mykeńczycy i Hetyci, a Egipt ledwo przetrwał. Proponowane przyczyny: trzęsienia ziemi, susza, Ludy Morza, choroby, ale żadna nie wystarcza sama. Najlepsza teoria według autora to zerwanie łańcuchów dostaw (miedź z Cypru, zboże z Egiptu, drewno z Libanu). Ludność Grecji spadła o ok. 75%."
+     "d": "Ok. 1200 r. p.n.e. w ciągu kilkudziesięciu lat upadli Mykeńczycy i Hetyci, a Egipt ledwo przetrwał; ludność Grecji spadła o ok. 75%. Trzęsienia ziemi, susza, Ludy Morza i choroby osobno nie wystarczają. Najlepsza teoria według autora to zerwanie łańcuchów dostaw (miedź z Cypru, zboże z Egiptu, drewno z Libanu)."
     },
     {
      "t": "7. Rzymski dwunastościan",
-     "d": "W Europie znaleziono ponad 100 pustych brązowych obiektów o 12 pięciokątnych ściankach, każda z otworem innej wielkości, od piłki golfowej do grejpfruta. Żaden rzymski tekst, obraz ani rzeźba ich nie pokazuje. Teorie: świeczniki, przyrządy miernicze, kości do gry, narzędzia do dziergania rękawiczek. Często zakopywano je z monetami."
+     "d": "W Europie znaleziono ponad 100 pustych brązowych obiektów o 12 pięciokątnych ściankach z otworami od piłki golfowej do grejpfruta, często zakopanych z monetami. Żaden rzymski tekst, obraz ani rzeźba ich nie pokazuje. Teorie: świeczniki, przyrządy miernicze, kości do gry, narzędzia do dziergania rękawiczek."
     },
     {
      "t": "6. Miedziany Zwój",
@@ -780,11 +1883,11 @@
     },
     {
      "t": "5. Zamknięte grobowce Kofun",
-     "d": "Japonia ma ponad 160 tys. kurhanów kofun z lat 300-700. Największy, Daisen, ma większą powierzchnię niż Wielka Piramida i kształt dziurki od klucza otoczonej wodą. Agencja Dworu Cesarskiego nie pozwala na wykopaliska \"z szacunku dla zmarłych\". Część historyków podejrzewa, że wykopaliska pokazałyby powiązania z Koreą lub Chinami."
+     "d": "Japonia ma ponad 160 tys. kurhanów kofun z lat 300-700, a największy, Daisen, ma większą powierzchnię niż Wielka Piramida. Agencja Dworu Cesarskiego nie pozwala na wykopaliska \"z szacunku dla zmarłych\". Część historyków podejrzewa, że pokazałyby powiązania z Koreą lub Chinami."
     },
     {
      "t": "4. Sylfion",
-     "d": "Roślina rosła tylko na wąskim pasie wybrzeża dzisiejszej Libii i nie dało się jej uprawiać gdzie indziej. Rzymianie płacili za nią srebrem na wagę i używali jako leku na wszystko i przyprawy. Juliusz Cezar trzymał ok. 680 kg w skarbcu. Ostatnią łodygę w I w. dostał Neron, a dokładny gatunek jest nieznany."
+     "d": "Roślina rosła tylko na wąskim pasie wybrzeża dzisiejszej Libii i nie dało się jej uprawiać gdzie indziej. Rzymianie płacili za nią srebrem na wagę, a Juliusz Cezar trzymał ok. 680 kg w skarbcu. Ostatnią łodygę w I w. dostał Neron, a dokładny gatunek jest nieznany."
     },
     {
      "t": "3. Zaginione miasto Akad",
@@ -792,7 +1895,7 @@
     },
     {
      "t": "2. Zniknięcie Normanów z Grenlandii",
-     "d": "Ok. 985 r. Eryk Rudy nazwał lodową wyspę Grenlandią, żeby przyciągnąć osadników; w szczycie żyło tam ok. 5000 Normanów. Ostatni zapis z 1408 r. to opis ślubu, a w XVI w. Europejczycy zastali ruiny. Teoria: mała epoka lodowa, odrzucenie sposobów Inuitów, upadek rynku kości morsa i stopniowy wyjazd młodych na Islandię."
+     "d": "Ok. 985 r. Eryk Rudy nazwał lodową wyspę Grenlandią, żeby przyciągnąć osadników, a w szczycie żyło tam ok. 5000 Normanów. Ostatni zapis z 1408 r. to opis ślubu, a w XVI w. Europejczycy zastali ruiny. Teoria: mała epoka lodowa, odrzucenie sposobów Inuitów, upadek rynku kości morsa i wyjazd młodych na Islandię."
     },
     {
      "t": "1. Sumeryjska lista królów",
@@ -968,7 +2071,7 @@
     },
     {
      "t": "7. Instynkt stadny",
-     "d": "Patrzysz w niebo, bo patrzą inni. Gdy plemię zaczynało uciekać, kto pytał dlaczego, zostawał zjedzony; grupa dawała jedzenie i ochronę. Mózg nagradza dopasowanie się dopaminą. Dziś przez to kupujemy akcje GameStop za radą Reddita, nosimy modne brzydkie buty i wierzymy w fałszywe newsy."
+     "d": "Gdy plemię zaczynało uciekać, kto pytał dlaczego, zostawał zjedzony, a grupa dawała jedzenie i ochronę. Dlatego mózg nagradza dopasowanie się dopaminą. Dziś przez to kupujemy akcje GameStop za radą Reddita, nosimy modne brzydkie buty i wierzymy w fałszywe newsy."
     },
     {
      "t": "6. Przymus odwzajemnienia",
@@ -976,7 +2079,7 @@
     },
     {
      "t": "5. Strach przed nieznanym",
-     "d": "Ciemny pokój czy obce jedzenie przyspieszają tętno. Szelest w krzakach mógł być drapieżnikiem, a nowa jagoda trucizną; przeżyli ostrożni. Mózg zalewa nas hormonami stresu przy nowościach. Dziś zamawiamy to samo danie od 10 lat, nie próbujemy nowych aplikacji i zostajemy w pracy, której nie znosimy."
+     "d": "Szelest w krzakach mógł być drapieżnikiem, a nowa jagoda trucizną, więc przeżyli ostrożni. Dlatego mózg zalewa nas hormonami stresu przy nowościach. Dziś zamawiamy to samo danie od 10 lat i zostajemy w pracy, której nie znosimy."
     },
     {
      "t": "4. Potrzeba kontroli",
@@ -988,7 +2091,7 @@
     },
     {
      "t": "2. Obsesja statusu",
-     "d": "Ktoś ma lepsze auto albo ładniejsze życie na Instagramie i czujesz się gorzej. W plemieniu wysoki status oznaczał lepsze jedzenie, partnerów i posłuch, a niski resztki i brak potomstwa. Mózg nagradza awans i karze spadek stresem. Dziś kupujemy rzeczy ponad stan i publikujemy podkoloryzowane życie."
+     "d": "W plemieniu wysoki status oznaczał lepsze jedzenie, partnerów i posłuch, a niski resztki i brak potomstwa. Dlatego mózg nagradza awans i karze spadek stresem, gdy ktoś ma lepsze auto czy ładniejszy Instagram. Dziś kupujemy rzeczy ponad stan i publikujemy podkoloryzowane życie."
     },
     {
      "t": "1. Potrzeba sprawiedliwości",
@@ -1121,15 +2224,15 @@
     },
     {
      "t": "8. Moneta z Empire State Building nie zabije",
-     "d": "Opór powietrza sprawia, że moneta koziołkuje i po ok. 15 m osiąga prędkość graniczną ok. 40 km/h, wolniej niż przeciętny rowerzysta. Uderzenie przypomina pstryczka. W próżni osiągnęłaby ponad 320 km/h. Autor dodaje, że groźniejszy byłby spadający długopis, który leci jak strzała."
+     "d": "Opór powietrza sprawia, że moneta koziołkuje i po ok. 15 m osiąga prędkość graniczną ok. 40 km/h, wolniej niż przeciętny rowerzysta, więc uderzenie przypomina pstryczka. W próżni osiągnęłaby ponad 320 km/h. Autor dodaje, że groźniejszy byłby spadający długopis."
     },
     {
      "t": "7. Piorun uderza w to samo miejsce",
-     "d": "Empire State Building dostaje ok. 25 uderzeń rocznie, a strażnik parku Roy Sullivan przeżył 7 uderzeń; po 4. koledzy unikali go w czasie burz. Pioruny trafiają w te same wysokie obiekty, np. samotne drzewo. Mogą też uderzyć kilometry od burzy, przy czystym niebie (\"grom z jasnego nieba\")."
+     "d": "Empire State Building dostaje ok. 25 uderzeń rocznie, a strażnik parku Roy Sullivan przeżył 7 uderzeń. Pioruny trafiają w te same wysokie obiekty, np. samotne drzewo. Mogą też uderzyć kilometry od burzy, przy czystym niebie."
     },
     {
      "t": "6. Wikingowie nie nosili hełmów z rogami",
-     "d": "Rogi wymyślili XIX-wieczni kostiumolodzy operowi, bo wyglądały dramatycznie. W walce byłyby uchwytem dla wroga i zaczepiałyby o gałęzie. Znalezione hełmy wikingów są proste, czasem z osłoną nosa. Rogate hełmy z Danii są o 3000 lat starsze i były ceremonialne, jak korona."
+     "d": "Rogi wymyślili XIX-wieczni kostiumolodzy operowi, bo wyglądały dramatycznie, a w walce byłyby uchwytem dla wroga. Znalezione hełmy wikingów są proste, czasem z osłoną nosa. Rogate hełmy z Danii są o 3000 lat starsze i były ceremonialne."
     },
     {
      "t": "5. Golenie nie zagęszcza włosów",
@@ -1137,7 +2240,7 @@
     },
     {
      "t": "4. Można pływać zaraz po jedzeniu",
-     "d": "Mama mówiła, żeby czekać 30 minut, a zasadę egzekwowali nawet ratownicy. Według autora nie ma ani jednego udokumentowanego utonięcia z tego powodu; ciało radzi sobie z trawieniem i pływaniem naraz. Po dużym posiłku może złapać lekki skurcz jak przy bieganiu. Pływacy jedzą podczas treningów, a Czerwony Krzyż to potwierdza."
+     "d": "Według autora nie ma ani jednego udokumentowanego utonięcia z powodu pływania po jedzeniu, choć zasady 30 minut pilnowali nawet ratownicy. Po dużym posiłku można najwyżej złapać lekki skurcz jak przy bieganiu. Pływacy jedzą podczas treningów, a Czerwony Krzyż to potwierdza."
     },
     {
      "t": "3. Głowa nie traci połowy ciepła",
@@ -1149,7 +2252,7 @@
     },
     {
      "t": "1. Połknięta guma nie zostaje na 7 lat",
-     "d": "Guma przechodzi przez przewód pokarmowy jak inne jedzenie, tylko się nie rozkłada, podobnie jak ziarna kukurydzy, i wychodzi w 1-2 dni. Żołądek ciągle się porusza, więc nic się nie przykleja. Problem może być tylko przy połykaniu dużych ilości. Grecy żuli żywicę, a Majowie chicle."
+     "d": "Guma przechodzi przez przewód pokarmowy jak inne jedzenie, tylko się nie rozkłada, podobnie jak ziarna kukurydzy, i wychodzi w 1-2 dni. Żołądek ciągle się porusza, więc nic się nie przykleja. Problem może być tylko przy połykaniu dużych ilości."
     }
    ],
    "conclusion": "Większość \"oczywistych\" faktów z dzieciństwa to mity, które przetrwały, bo brzmią przekonująco albo powtarzali je rodzice.",
@@ -1324,7 +2427,7 @@
    "points": [
     {
      "t": "9. Obgryzanie paznokci",
-     "d": "Paznokcie zbierają zarazki z klamek, telefonów i klawiatur, a obgryzanie przenosi je do ust. Zęby przednie się wyszczerbiają i przesuwają, a dentysta rozpozna obgryzacza po zębach. Zerwane skórki otwierają drogę do zanokcicy. Według autora obgryzacze mają więcej infekcji żołądka i jelit, a nawyk wiąże się z lękiem."
+     "d": "Paznokcie zbierają zarazki z klamek, telefonów i klawiatur, a obgryzanie przenosi je do ust i wyszczerbia przednie zęby. Zerwane skórki otwierają drogę do zanokcicy. Według autora obgryzacze mają więcej infekcji żołądka i jelit, a nawyk wiąże się z lękiem."
     },
     {
      "t": "8. Tłumienie kichnięć",
@@ -1332,15 +2435,15 @@
     },
     {
      "t": "7. Patyczki do uszu",
-     "d": "Patyczek nie czyści, tylko wpycha woskowinę głębiej, a uszy oczyszczają się same, przesuwając ją na zewnątrz. Zbita woskowina zmniejsza słyszenie i bywa usuwana na SOR. Błona bębenkowa jest cienka jak folia spożywcza, a ranki i uwięziona wilgoć sprzyjają infekcjom. Rada: myć tylko małżowinę myjką."
+     "d": "Patyczek nie czyści, tylko wpycha woskowinę głębiej, a uszy oczyszczają się same; zbita woskowina zmniejsza słyszenie i bywa usuwana na SOR. Błona bębenkowa jest cienka jak folia spożywcza, a ranki i wilgoć sprzyjają infekcjom. Rada: myć tylko małżowinę myjką."
     },
     {
      "t": "6. Przewodnienie",
-     "d": "Hiponatremia: przy szybkim piciu dużej ilości wody nerki nie nadążają, sodu jest za mało i komórki puchną. Mózg nie ma gdzie się rozszerzyć, więc pojawia się ból głowy, dezorientacja, drgawki, a nawet śmierć. 9-letnia dziewczynka zmuszona do picia za karę ledwo przeżyła; umierali też maratończycy. Rada: pij, gdy chce ci się pić."
+     "d": "Hiponatremia: przy szybkim piciu dużej ilości wody nerki nie nadążają, sodu jest za mało i komórki, także mózgu, puchną. Skutki to ból głowy, dezorientacja, drgawki, a nawet śmierć; 9-letnia dziewczynka zmuszona do picia za karę ledwo przeżyła. Rada: pij, gdy chce ci się pić."
     },
     {
      "t": "5. Słuchawki",
-     "d": "Ślimak ucha ma tysiące komórek rzęsatych, które nie odrastają. Rozmowa to ok. 60 dB, słuchawki dają 105 dB i więcej, głośniej niż piła łańcuchowa. Powyżej 85 dB słuch się uszkadza, przy 100 dB w ok. 15 minut, bez bólu. Według autora wielu nastolatków ma słuch 50-latków, a aparat słuchowy go nie przywraca."
+     "d": "Komórki rzęsate w ślimaku ucha nie odrastają. Rozmowa to ok. 60 dB, słuchawki dają 105 dB i więcej, a powyżej 85 dB słuch się uszkadza, przy 100 dB w ok. 15 minut, bez bólu. Według autora wielu nastolatków ma słuch 50-latków, a aparat słuchowy go nie przywraca."
     },
     {
      "t": "4. Lampki nocne",
@@ -1508,7 +2611,7 @@
    "points": [
     {
      "t": "10. Drgnięcia przy zasypianiu",
-     "d": "Ma to ok. 70% ludzi. Gdy mięśnie się rozluźniają, mózg bierze to za spadanie i wysyła sygnał alarmowy, który budzi szarpnięciem. Część osób widzi przy tym upadek albo słyszy huk. Autor podaje hipotezę, że to pozostałość po spaniu na drzewach; zmęczenie i stres to nasilają."
+     "d": "Ma to ok. 70% ludzi: gdy mięśnie się rozluźniają, mózg bierze to za spadanie i budzi nas szarpnięciem, czasem z obrazem upadku lub hukiem. Autor podaje hipotezę, że to pozostałość po spaniu na drzewach. Zmęczenie i stres to nasilają."
     },
     {
      "t": "9. Syndrom fantomowych wibracji",
@@ -1516,7 +2619,7 @@
     },
     {
      "t": "8. Pasożyty sterujące",
-     "d": "Toxoplasma gondii ma być u ok. 30% ludzi. U myszy sprawia, że lubią zapach kociego moczu i idą prosto do kota. U ludzi według autora zwiększa skłonność do ryzyka i zmienia reakcje na strach; tworzy cysty w mózgu, a w rejonach z większym zarażeniem jest więcej wypadków. Źródłem są koty."
+     "d": "Toxoplasma gondii ma być u ok. 30% ludzi, a źródłem są koty. U myszy sprawia, że lubią zapach kociego moczu i idą prosto do kota. U ludzi według autora tworzy cysty w mózgu, zwiększa skłonność do ryzyka, a w rejonach z większym zarażeniem jest więcej wypadków."
     },
     {
      "t": "7. Paraliż senny",
@@ -1536,7 +2639,7 @@
     },
     {
      "t": "3. Zespół Capgrasa",
-     "d": "Mózg rozpoznaje wygląd osoby i osobno uczucia wobec niej. Gdy te części przestają się komunikować, twarz mamy jest rozpoznana, ale ciepło znika i pojawia się pewność, że to oszust. Każda drobna zmiana, np. fryzura, staje się \"dowodem\". Wywołać to może uraz mózgu, udar lub niektóre leki."
+     "d": "Mózg rozpoznaje wygląd osoby i osobno uczucia wobec niej. Gdy te części przestają się komunikować, twarz mamy jest rozpoznana, ale ciepło znika i pojawia się pewność, że to oszust, a drobna zmiana, np. fryzura, staje się \"dowodem\". Wywołać to może uraz mózgu, udar lub niektóre leki."
     },
     {
      "t": "2. Jamais vu",
@@ -1544,7 +2647,7 @@
     },
     {
      "t": "1. Roztocza w rzęsach",
-     "d": "Prawie każdy dorosły ma w mieszkach rzęs roztocza, które jedzą martwy naskórek i łój. W dzień siedzą w mieszkach, w nocy wychodzą na twarz i się rozmnażają, a samice składają jaja w mieszkach. Odchody gromadzą do śmierci i uwalniają naraz. Około 60. roku życia mają je prawie wszystkie mieszki."
+     "d": "Prawie każdy dorosły ma w mieszkach rzęs roztocza, które jedzą martwy naskórek i łój. W nocy wychodzą na twarz i się rozmnażają, a odchody gromadzą do śmierci i uwalniają naraz. Około 60. roku życia mają je prawie wszystkie mieszki."
     }
    ],
    "conclusion": "Ciało i mózg robią mnóstwo dziwnych rzeczy bez naszej wiedzy, a wiele z nich to ślady dawnej ewolucji.",
@@ -1727,11 +2830,11 @@
    "points": [
     {
      "t": "10. Gangkhar Puensum (Bhutan)",
-     "d": "Najwyższa niezdobyta góra świata w Bhutanie, ok. 7560 m (24 800 stóp). Od 1994 r. Bhutan zakazuje wspinaczki, bo góry uważa się za siedziby duchów. Wcześniej wyprawy z lat 80. według autora nie mogły nawet znaleźć góry przez złe mapy, a szczytu nie ma na wyraźnych zdjęciach."
+     "d": "Najwyższa niezdobyta góra świata, ok. 7560 m. Od 1994 r. Bhutan zakazuje wspinaczki, bo góry uważa się za siedziby duchów. Według autora wyprawy z lat 80. nie mogły nawet znaleźć góry przez złe mapy."
     },
     {
      "t": "9. Jaskinia Kryształów (Meksyk)",
-     "d": "Jaskinia pod Meksykiem z kryształami wielkości autobusów szkolnych. W środku ok. 58°C i prawie 100% wilgotności, a powietrze zawiera siarkowodór. Naukowcy wchodzą na ok. 10 minut w kombinezonach chłodzących. Kryształy rosły setki tysięcy lat, a w środku znaleziono uśpione od tysięcy lat mikroby."
+     "d": "Jaskinia pod Meksykiem z kryształami wielkości autobusów szkolnych, w środku ok. 58°C, prawie 100% wilgotności i siarkowodór. Naukowcy wchodzą na ok. 10 minut w kombinezonach chłodzących. Kryształy rosły setki tysięcy lat, a znaleziono w nich uśpione mikroby."
     },
     {
      "t": "8. Podwodne jaskinie Jukatanu",
@@ -1751,7 +2854,7 @@
     },
     {
      "t": "4. Serce pustyni Namib",
-     "d": "Morze wydm Namib, część wyższa od Empire State Building, obszar wielkości stanu Maryland. Wydmy ciągle się przesuwają, więc mapy szybko się dezaktualizują. W dzień piasek może stopić buty, w nocy jest mróz, nie ma wody ani dróg. To obiekt UNESCO, więc wnętrze jest chronione."
+     "d": "Morze wydm Namib zajmuje obszar wielkości stanu Maryland, a część wydm jest wyższa od Empire State Building. Wydmy ciągle się przesuwają, więc mapy szybko się dezaktualizują. W dzień piasek może stopić buty, w nocy jest mróz, nie ma wody ani dróg, a wnętrze chroni UNESCO."
     },
     {
      "t": "3. Sandy Island",
@@ -1763,7 +2866,7 @@
     },
     {
      "t": "1. Pustynia Takla Makan (Chiny)",
-     "d": "\"Pustynia śmierci\", większa od Wielkiej Brytanii, z środkiem, w którym według autora nie był żaden człowiek. Nie ma tam wody, a dookoła są wysokie góry. Nazwa ma znaczyć \"miejsce, z którego się nie wraca\". Jedwabny Szlak szedł tylko brzegami, a pod piaskiem mogą być zaginione miasta."
+     "d": "\"Pustynia śmierci\", większa od Wielkiej Brytanii, bez wody i otoczona wysokimi górami; według autora w jej środku nie był żaden człowiek. Nazwa ma znaczyć \"miejsce, z którego się nie wraca\". Jedwabny Szlak szedł tylko brzegami, a pod piaskiem mogą być zaginione miasta."
     }
    ],
    "conclusion": "Mimo satelitów i GPS wciąż są miejsca, do których człowiek nie dotarł, głównie przez zakazy, ekstremalne warunki albo zwykłe trudności w dojściu.",
@@ -1963,7 +3066,7 @@
     },
     {
      "t": "4. Mięsień dłoniowy długi",
-     "d": "Pomaga zginać nadgarstek, ale tę pracę i tak wykonują inne mięśnie. Według autora nie ma go ok. 14% ludzi. Przodkom mógł się przydawać przy przeskakiwaniu z drzewa na drzewo. Chirurdzy pobierają jego ścięgno do przeszczepów bez szkody dla ręki."
+     "d": "Pomaga zginać nadgarstek, ale tę pracę i tak wykonują inne mięśnie, a według autora nie ma go ok. 14% ludzi. Przodkom mógł się przydawać przy przeskakiwaniu z drzewa na drzewo. Chirurdzy pobierają jego ścięgno do przeszczepów bez szkody dla ręki."
     },
     {
      "t": "3. Zęby mądrości",
@@ -2111,7 +3214,7 @@
     },
     {
      "t": "4. Fibromialgia",
-     "d": "Przewlekła choroba z bólem w całym ciele, zmęczeniem mimo snu i nadwrażliwością na dotyk. Jest niewidoczna, więc chorych bierze się za przewrażliwionych. Opisują ją jak oparzenie słoneczne całego ciała, do tego mgła mózgowa i wahania nastroju. Według autora nie ma lekarstwa."
+     "d": "Przewlekła choroba z bólem w całym ciele, zmęczeniem mimo snu, nadwrażliwością na dotyk i mgłą mózgową; chorzy opisują ją jak oparzenie słoneczne całego ciała. Jest niewidoczna, więc chorych bierze się za przewrażliwionych. Według autora nie ma lekarstwa."
     },
     {
      "t": "3. Gympie-gympie",
@@ -2263,7 +3366,7 @@
     },
     {
      "t": "5. Mechanizm z Antykithiry",
-     "d": "Ok. 100 lat temu nurkowie znaleźli przy greckiej wyspie Antykithira wrak, a w nim bryłę brązu i drewna, według autora pierwszy analogowy komputer. Przewidywał zaćmienia, prowadził kalendarz i wskazywał termin igrzysk. Coś równie złożonego pojawia się dopiero ok. 1200 lat później; nie wiadomo, kto go zrobił."
+     "d": "Ok. 100 lat temu nurkowie znaleźli przy greckiej wyspie Antykithira wrak z bryłą brązu i drewna, według autora pierwszym analogowym komputerem. Przewidywał zaćmienia, prowadził kalendarz i wskazywał termin igrzysk. Coś równie złożonego pojawia się dopiero ok. 1200 lat później."
     },
     {
      "t": "4. Stal damasceńska",
@@ -2271,7 +3374,7 @@
     },
     {
      "t": "3. Kamienne kule z Kostaryki",
-     "d": "Ponad 300 okrągłych kamiennych kul, niektóre do 15 ton i ponad 2 m średnicy, zrobiła nieistniejąca już kultura Diquís. Cel nieznany: drogowskazy do domu wodza albo astronomia. Kamień przywożono z daleka, a kule obijano kamieniami i polerowano piaskiem. W latach 30. XX w. przy karczowaniu pod banany część rozbito, szukając złota."
+     "d": "Ponad 300 kamiennych kul, niektóre do 15 ton i ponad 2 m średnicy, zrobiła nieistniejąca już kultura Diquís, obijając je kamieniami i polerując piaskiem. Cel nieznany: drogowskazy do domu wodza albo astronomia. W latach 30. XX w. przy karczowaniu pod banany część rozbito, szukając złota."
     },
     {
      "t": "2. Sacsayhuamán (Peru)",
@@ -2439,7 +3542,7 @@
    "points": [
     {
      "t": "Znamiona",
-     "d": "Akcja w XV w.: sąsiad widzi znamię i krzyczy \"czarownica\". Znamiona nazywano znakiem diabła i wierzono, że są znieczulone magią, więc łowcy czarownic kłuli je igłami. Brak bólu oznaczał winę, a niektórzy używali chowanych igieł. Reakcję na ból też uznawano za udawanie."
+     "d": "W XV w. znamiona nazywano znakiem diabła i wierzono, że są znieczulone magią. Łowcy czarownic kłuli je igłami, a brak bólu oznaczał winę; niektórzy używali chowanych igieł. Reakcję na ból też uznawano za udawanie."
     },
     {
      "t": "Lunatykowanie",
@@ -2575,6 +3678,134 @@
    ],
    "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze).",
    "channel": "Chill Dude Explains"
+  },
+  {
+   "id": "dvWtaHFG7QI",
+   "title_pl": "Twoje ulubione zespoły zapłaciły za sławę: historia payoli",
+   "title": "Your Favorite Bands Paid To Be Famous",
+   "channel": "Bandsplaining",
+   "url": "https://www.youtube.com/watch?v=dvWtaHFG7QI",
+   "date": "2022-03-19",
+   "duration": 2045,
+   "views": 377934,
+   "transcript": "whisper",
+   "added": "2026-11-03",
+   "tags": [
+    "Historia",
+    "Muzyka"
+   ],
+   "about": "Historia płacenia za granie muzyki: od Tin Pan Alley i Alana Freeda po śledztwo Spitzera i płatne playlisty na Spotify.",
+   "intro": "Bandsplaining opowiada historię payoli, czyli płacenia za granie piosenek. Od wydawców nut z XIX w., przez skandal DJ-ów z 1959 r. i niezależnych promotorów, po ugody wytwórni z 2005 r. i płatne playlisty. Pyta też, czy dziś, przy zalewie muzyki, payola jest zła.",
+   "points": [
+    {
+     "t": "Zalew muzyki",
+     "d": "Na Spotify trafia 60 000 utworów dziennie, a 20% nikt nigdy nie odtworzy. Dlatego płacenie za uwagę wciąż kusi."
+    },
+    {
+     "t": "Tin Pan Alley",
+     "d": "Piosenka After the Ball sprzedała się w 1892 r. w 2 mln egzemplarzy nut. Wydawcy płacili śpiewakom, np. Charles Harris dał 10 dolarów tenorowi Evanowi Williamsowi, i kupowali klakierów, a przed I wojną obiecali z tym skończyć."
+    },
+    {
+     "t": "Alan Freed i Maybellene",
+     "d": "Maybellene Chucka Berry'ego z 1955 r. wyrosło z piosenki Ida Red, a współautorstwo dostali DJ Alan Freed i Russ Fratto. Freed spopularyzował nazwę rock and roll."
+    },
+    {
+     "t": "Skandal z 1959 r.",
+     "d": "Po aferze z teleturniejami Oren Harris wszczął śledztwo, a FCC mogła odbierać licencje; zamieszanych było 200 do 250 DJ-ów. Freed wziął co najmniej 30 000 dolarów, ostatni raz nadawał w WABC 23 listopada 1959 r. i zmarł 5 lat później."
+    },
+    {
+     "t": "Prawo z 1960 r.",
+     "d": "Poprawki do ustawy o komunikacji uczyniły payolę przestępstwem zagrożonym do roku więzienia i 10 000 dolarów grzywny."
+    },
+    {
+     "t": "Niezależni promotorzy",
+     "d": "W 1974 r. CBS News ujawniło payolę w CBS Records, a w 1977 r. promotor zeznał, że DJ-e żądali 14 000 dolarów za granie Earth, Wind & Fire. Promotor Joe Isgro wysyłał dyrektorom stacji koperty z 3000 do 5000 dolarów tygodniowo."
+    },
+    {
+     "t": "Spitzer i ugody",
+     "d": "W 1997 r. Interscope płaciło za Limp Bizkit w radiu w Portland, ujawniając to na antenie. Śledztwo Spitzera wykazało, że Epic zapłacił 4000 dolarów za Franz Ferdinand, a wytwórnie zawarły ugody."
+    },
+    {
+     "t": "Era playlist",
+     "d": "Według źródła z branży wytwórnie płaciły 2 do 10 tys. dolarów za miejsce na popularnej playliście Spotify. Dziś są SubmitHub, MusoSoup i Spotify Discovery Mode, gdzie artysta oddaje część tantiem za promocję."
+    }
+   ],
+   "conclusion": "Payola nigdy nie zniknęła, tylko zmieniła formę; autor przedstawia 3 poglądy na to, czy to zło, czy cena widoczności.",
+   "factchecks": [
+    {
+     "claim": "After the Ball sprzedało się w 1892 r. w 2 mln egzemplarzy nut.",
+     "verdict": "prawda",
+     "note": "W 1892 r. ponad 2 mln, łącznie ponad 5 mln; to rekord Tin Pan Alley.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): After the Ball - hasło \"After the Ball (song)\"",
+       "https://en.wikipedia.org/wiki/After_the_Ball_(song)"
+      ]
+     ]
+    },
+    {
+     "claim": "Maybellene powstało z Ida Red, a Freed dostał współautorstwo.",
+     "verdict": "prawda",
+     "note": "Wikipedia potwierdza oba fakty; udział Freeda w autorstwie uważa się za formę payoli.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Maybellene - hasło \"Maybellene\"",
+       "https://en.wikipedia.org/wiki/Maybellene"
+      ]
+     ]
+    },
+    {
+     "claim": "Freed zmarł 5 lat po skandalu.",
+     "verdict": "prawda",
+     "note": "Zmarł 20 stycznia 1965 r. w wieku 43 lat.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): Alan Freed - hasło \"Alan Freed\"",
+       "https://en.wikipedia.org/wiki/Alan_Freed"
+      ]
+     ]
+    },
+    {
+     "claim": "Po śledztwie payola stała się przestępstwem.",
+     "verdict": "prawda",
+     "note": "Wikipedia opisuje ją jako wykroczenie (misdemeanor); programowanie przejęli dyrektorzy stacji.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): payola - hasło \"Payola\"",
+       "https://en.wikipedia.org/wiki/Payola"
+      ]
+     ]
+    },
+    {
+     "claim": "Śledztwo Spitzera zakończyło się ugodami wytwórni.",
+     "verdict": "prawda",
+     "note": "Sony BMG (2005) zapłaciło 10 mln, Warner 5 mln, a Universal (2006) 12 mln dolarów.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): payola - hasło \"Payola\"",
+       "https://en.wikipedia.org/wiki/Payola"
+      ]
+     ]
+    },
+    {
+     "claim": "Spotify Discovery Mode to promocja za niższe tantiemy.",
+     "verdict": "prawda",
+     "note": "Spotify ogłosiło w 2020 r., że artyści mogą wskazać utwory do rekomendacji w zamian za niższą stawkę.",
+     "p": 7,
+     "src": [
+      [
+       "Spotify: ogłoszenie z 2020 r.",
+       "https://newsroom.spotify.com/2020-11-02/amplifying-artist-input-in-your-personalized-recommendations/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Dobrze udokumentowana historia, wyważona w ocenie; film jest z 2022 r., więc liczby o streamingu mogą być nieaktualne."
   }
  ]
 }
