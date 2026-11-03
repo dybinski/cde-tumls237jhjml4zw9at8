@@ -3784,6 +3784,112 @@
    "bias": "Gość jasno mówi, które tezy są jego, np. pierwszeństwo Krakowa i sprzedaż jeńców z grodów, ale to interpretacje dyskutowane przez badaczy."
   },
   {
+   "id": "NDrQaNmJP2g",
+   "title_pl": "Prof. Marek Demiański o ciemnej materii, czarnych dziurach i końcu wszechświata",
+   "title": "Zderzenia galaktyk, ciemna materia, czy fizyka rozumie wszechświat? II prof. Marek Demiański",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=NDrQaNmJP2g",
+   "date": "2026-03-29",
+   "duration": 4264,
+   "views": 361793,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-03",
+   "tags": [
+    "Kosmos",
+    "Fizyka",
+    "Nauka"
+   ],
+   "about": "Astrofizyk z UW o tym, jak mało wiemy o wszechświecie, czarnych dziurach w centrach galaktyk, zderzeniach galaktyk i dalekiej przyszłości kosmosu.",
+   "intro": "Patrycjusz Wyżga rozmawia z prof. Markiem Demiańskim, astrofizykiem związanym z Uniwersytetem Warszawskim (marzec 2026). Mowa o ciemnej materii i energii, kwantowej grawitacji i teorii strun, czarnej dziurze w centrum Drogi Mlecznej, gwiazdach neutronowych i pochodzeniu złota, przyszłym zderzeniu z Andromedą, pomyśle Penrose'a i o prof. Andrzeju Trautmanie.",
+   "points": [
+    {
+     "t": "Znamy tylko 5%",
+     "d": "Zwykła materia, z której zbudowane są gwiazdy i my, to ok. 5% zawartości wszechświata. Resztę stanowią ciemna materia i ciemna energia. Gość codziennie rano sprawdza nowe prace, licząc na przełom."
+    },
+    {
+     "t": "Teoria strun ucichła",
+     "d": "Połączenia fizyki kwantowej z ogólną teorią względności szuka wiele grup. Teoria strun straciła rozgłos, bo nie dała przewidywania, które dałoby się sprawdzić obserwacją, tak jak zaćmienie Słońca potwierdziło teorię Einsteina."
+    },
+    {
+     "t": "Czarna dziura w naszym centrum",
+     "d": "Gwiazdy w centrum Drogi Mlecznej krążą po elipsach wokół czegoś bardzo masywnego, co nie świeci. To czarna dziura o masie ok. 4 mln Słońc. W innych galaktykach są kolosy rzędu miliardów mas Słońca."
+    },
+    {
+     "t": "Gęstsze niż jądro atomu",
+     "d": "Jądra atomowe mają gęstość ok. 10^14 g/cm³. Gwiazda neutronowa ma średnicę ok. 20 km, a w jej centrum gęstość jest jeszcze większa."
+    },
+    {
+     "t": "Skąd złoto",
+     "d": "Pierwiastki cięższe od żelaza powstają w wybuchach gwiazd, ale obserwacje fal grawitacyjnych pokazały, że bardzo wydajnie tworzą się też przy zlewaniu gwiazd neutronowych. Tak powstaje m.in. złoto, platyna i uran."
+    },
+    {
+     "t": "Andromeda i rozszerzanie",
+     "d": "Wszechświat się rozszerza, ale grawitacja trzyma galaktyki, a nawet nas, w całości. Dlatego Droga Mleczna może zbliżać się do Andromedy i kiedyś się z nią zderzyć. To odległa perspektywa."
+    },
+    {
+     "t": "Przeciętna gwiazda, przeciętna galaktyka",
+     "d": "Słońce to raczej mniejsza gwiazda, a nasza galaktyka jest dość typowa i leżymy z dala od jej centrum. Galaktyk są setki miliardów, każda ma setki miliardów gwiazd, a planet jest dużo."
+    },
+    {
+     "t": "Zimny koniec i pomysł Penrose'a",
+     "d": "W dalekiej przyszłości czarne dziury pochłoną materię, a potem wyparują przez promieniowanie. Zostanie zimna pustka, nie śmierć cieplna. Roger Penrose sądzi, że z niej może narodzić się nowy wszechświat."
+    },
+    {
+     "t": "Od pięciu cząstek do zoo",
+     "d": "Gdy gość kończył studia, znano pięć cząstek: elektron, proton, neutron, foton i neutrino. Zderzacze odkryły ich wiele więcej. Natura pozwala na dualizm korpuskularno-falowy, choć to nieintuicyjne."
+    },
+    {
+     "t": "Mars i mgławice",
+     "d": "Ulubione obiekty gościa to Mars, gdzie łazikiem steruje jego była studentka, oraz mgławice z końcowych etapów życia gwiazd. Słońce kiedyś spuchnie, ale to sprawa miliardów lat."
+    },
+    {
+     "t": "Trautman i fale grawitacyjne",
+     "d": "Rozmowa oddaje hołd prof. Andrzejowi Trautmanowi, który jako młody naukowiec przekonywał, że fale grawitacyjne istnieją, wbrew wątpliwościom samego Einsteina. Doczekał się ich wykrycia."
+    }
+   ],
+   "conclusion": "Spokojna, przystępna rozmowa doświadczonego astrofizyka. Dużo podstaw kosmologii, mało sensacji.",
+   "factchecks": [
+    {
+     "claim": "Czarna dziura w centrum Drogi Mlecznej ma ok. 4 mln mas Słońca.",
+     "verdict": "prawda",
+     "note": "Pomiary orbit gwiazd dają ok. 4,1 do 4,3 mln mas Słońca (Sagittarius A*).",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Sagittarius A* - hasło \"Sagittarius A*\"",
+       "https://en.wikipedia.org/wiki/Sagittarius_A*"
+      ]
+     ]
+    },
+    {
+     "claim": "Słońce pochłonie Ziemię za ok. 4 mld lat.",
+     "verdict": "przesada",
+     "note": "Życie zniknie wcześniej, ale ewentualne pochłonięcie Ziemi przez czerwonego olbrzyma przewiduje się za ok. 7,6 mld lat, i to niepewnie.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Przyszłość Ziemi - hasło \"Future of Earth\"",
+       "https://en.wikipedia.org/wiki/Future_of_Earth"
+      ]
+     ]
+    },
+    {
+     "claim": "Złoto i platyna powstają m.in. przy zlewaniu się gwiazd neutronowych.",
+     "verdict": "prawda",
+     "note": "Potwierdziły to obserwacje fal grawitacyjnych i kilonowej z 2017 r. (proces r).",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): Zlewanie gwiazd neutronowych - hasło \"Neutron star merger\"",
+       "https://en.wikipedia.org/wiki/Neutron_star_merger"
+      ]
+     ]
+    }
+   ],
+   "bias": "Gość wprost oddziela wiedzę od własnych przypuszczeń. Odcinek ma partnera reklamowego (Audioteka)."
+  },
+  {
    "id": "nVTnC6ZDQZg",
    "title_pl": "Dr Tomasz Miller o czasie, podróżach w czasie, entropii i nieskończonościach",
    "title": "Największe tajemnice wszechświata - Dr Tomasz Miller, didaskalia#178",
@@ -5819,124 +5925,6 @@
    "bias": "Ranking częściowo subiektywny, autor przyznaje to sam. Na końcu reklama jego aplikacji MacroFactor z kodem rabatowym."
   },
   {
-   "id": "umvWM1f0_lA",
-   "title_pl": "Kamil Janicki o życiu chłopów pańszczyźnianych w dawnej Polsce",
-   "title": "95% Polaków pochodzi od chłopa. Jak wyglądało życie chłopów pańszczyźnianych? - didaskalia#118",
-   "channel": "didaskalia",
-   "url": "https://www.youtube.com/watch?v=umvWM1f0_lA",
-   "date": "2025-02-16",
-   "duration": 6705,
-   "views": 760643,
-   "section": "Didaskalia",
-   "transcript": "youtube",
-   "added": "2026-11-03",
-   "tags": [
-    "Historia",
-    "Polska",
-    "Społeczeństwo"
-   ],
-   "about": "Historyk Kamil Janicki opisuje pańszczyznę od środka: pracę, podatki, ucieczki, jedzenie, higienę i życie kobiet na wsi.",
-   "intro": "Prawie 2-godzinna rozmowa Patrycjusza Wyżgi z Kamilem Janickim (luty 2025), autorem książki Życie w chłopskiej chacie i kanału Wielka Historia. Gość przekonuje, że większość Polaków ma przodków chłopów pańszczyźnianych, i na podstawie poradników szlacheckich, instrukcji spowiedniczych i pamiętników chłopskich opisuje, jak wyglądała ich codzienność, oraz skąd wzięły się mity o dobrym folwarku.",
-   "points": [
-    {
-     "t": "Jak narastała pańszczyzna",
-     "d": "W XV wieku, przy wysokich cenach zboża, chłop godził się na dzień pracy w tygodniu zamiast wyższego czynszu. Jego syn robił już dwa, wnuk trzy. Według Janickiego w XVIII wieku norma dla rodziny dochodziła do 9 dni w tygodniu."
-    },
-    {
-     "t": "Przemoc i kombinowanie",
-     "d": "Przemoc była codzienną metodą kontroli, a poradniki szlacheckie radziły np. wybijać okna opornym. Chłop nie mógł odmówić, więc pracował powoli, psuł narzędzia i brał na pańskie pole najgorszy sprzęt i najsłabsze zwierzęta."
-    },
-    {
-     "t": "Zbiegostwo",
-     "d": "Według Janickiego najczęstszym tematem sejmików były ucieczki chłopów. Schwytanym podcinano ścięgna lub znakowano twarz. Ratunkiem było to, że nie było policji, więc chłop mógł uciec do innego pana albo do miasta."
-    },
-    {
-     "t": "Sprzedaż ludzi",
-     "d": "Sprzedawano nie tylko całe wsie, ale i pojedynczych ludzi. Dom, krowa i stodoła formalnie należały do pana, który mógł je odebrać. Kto się zestarzał i nie mógł pracować, szedł na żebry."
-    },
-    {
-     "t": "Kto płacił podatki",
-     "d": "Szlachta i duchowieństwo podatków nie płaciły, więc ciężar spadał na chłopów, którzy sprzedawali płody z własnych, kurczących się pól. Koszyczki wielkanocne wywodzi on m.in. z danin w jajach."
-    },
-    {
-     "t": "Tyrania rozproszona",
-     "d": "W carskiej Rosji zabicie własnego poddanego mogło zostać ukarane, a w Polsce, jak mówi gość, nad szlachcicem nie było kontroli. Każdy był małym tyranem. Dobra kościelne działały tak samo, a skargi do konsystorza niewiele zmieniały."
-    },
-    {
-     "t": "Uzasadnienia",
-     "d": "Szlachta wierzyła, że pochodzi od Sarmatów, którzy podbili chłopów, albo że chłopi to potomkowie przeklętego Chama. Jeszcze w XX-leciu międzywojennym pisano o chłopach jako o innym typie antropologicznym."
-    },
-    {
-     "t": "Higiena, chaty i skanseny",
-     "d": "Okna miały ok. 30 na 30 cm, dym z paleniska krążył po izbie, a w kącie stała kałuża. Mebli prawie nie było. Skanseny pokazują wieś po uwłaszczeniu i chaty najbogatszych, więc według Janickiego to ładne kłamstwo."
-    },
-    {
-     "t": "Głód i jedzenie",
-     "d": "Przednówek co roku oznaczał głód aż do początku XX wieku. Kuchnia była prawie wegetariańska, i to nie tylko chłopska. Ludzie umierali z głodu jeszcze w drugiej połowie XIX wieku."
-    },
-    {
-     "t": "Kobiety",
-     "d": "Kobiety pracowały więcej niż mężczyźni. Odrabiały osobną pańszczyznę i przędły dla dworu, a po śmierci męża brały ślub po miesiącu lub dwóch, by gospodarstwo działało. Instrukcje spowiednicze pokazują skalę przemocy domowej."
-    },
-    {
-     "t": "Chłop nie był Polakiem",
-     "d": "Za I Rzeczypospolitej narodem politycznym była tylko szlachta. Nowoczesne poczucie narodowe rodziło się w drugiej połowie XIX wieku. Mit dobrego folwarku stworzyło według gościa XIX-wieczne ziemiaństwo."
-    }
-   ],
-   "conclusion": "Mocna, oparta na źródłach opowieść o tym, jak żyła większość naszych przodków. Warto pamiętać, że Janicki stawia tezy ostro.",
-   "factchecks": [
-    {
-     "claim": "W XVIII w. typowa rodzina chłopska miała odrabiać 9 dni pańszczyzny w tygodniu.",
-     "verdict": "przesada",
-     "note": "Źródła podają, że w skrajnych przypadkach było to 8 dniówek tygodniowo z łanu, co w praktyce brało cały czas gospodarza.",
-     "p": 0,
-     "src": [
-      [
-       "Wikipedia (ang.): pańszczyzna w Polsce - hasło \"Serfdom in Poland\"",
-       "https://en.wikipedia.org/wiki/Serfdom_in_Poland"
-      ]
-     ]
-    },
-    {
-     "claim": "Pańszczyzna trwała na ziemiach polskich do drugiej połowy XIX w.",
-     "verdict": "prawda",
-     "note": "W zaborze pruskim zniesiono ją w latach 1807-1816, w Galicji w 1848 r., a w Królestwie Polskim w 1864 r.",
-     "p": 7,
-     "src": [
-      [
-       "Wikipedia (ang.): pańszczyzna w Polsce - hasło \"Serfdom in Poland\"",
-       "https://en.wikipedia.org/wiki/Serfdom_in_Poland"
-      ]
-     ]
-    },
-    {
-     "claim": "Szlachta wierzyła, że pochodzi od Sarmatów.",
-     "verdict": "prawda",
-     "note": "Sarmatyzm zakładał, że szlachta Rzeczypospolitej pochodzi od starożytnych Sarmatów.",
-     "p": 6,
-     "src": [
-      [
-       "Wikipedia (ang.): sarmatyzm - hasło \"Sarmatism\"",
-       "https://en.wikipedia.org/wiki/Sarmatism"
-      ]
-     ]
-    },
-    {
-     "claim": "Po dobrym XV wieku przyszła mała epoka lodowa, która doprowadziła do katastrofy.",
-     "verdict": "półprawda",
-     "note": "Ochłodzenie trwało mniej więcej od 1300 do 1850 r. Zaostrzało kryzysy rolnicze, ale nie było jedyną ich przyczyną.",
-     "p": 0,
-     "src": [
-      [
-       "Wikipedia (ang.): mała epoka lodowa - hasło \"Little Ice Age\"",
-       "https://en.wikipedia.org/wiki/Little_Ice_Age"
-      ]
-     ]
-    }
-   ],
-   "bias": "Janicki celowo idzie pod prąd szkolnej narracji, używa mocnych porównań (do niewolnictwa), część liczb podaje z pamięci i uogólnia z najgorszych przypadków."
-  },
-  {
    "id": "2sWFexuc7MI",
    "title_pl": "Miejsca na Ziemi, gdzie nie stanął żaden człowiek",
    "title": "Places on Earth No Human Has Ever Visited",
@@ -6373,122 +6361,110 @@
    "bias": "Rzetelny, z modelem i wykresem; transkrypt miejscami nieczytelny. Na końcu reklama serwisu Nebula."
   },
   {
-   "id": "EFmpZqlVKsU",
-   "title_pl": "Biblista prof. Marcin Majewski o autorach Biblii, apokryfach i błędach tłumaczeń",
-   "title": "Ewangelia Judasza, błędy w Biblii, czy Mojżesz miał rogi? - prof. Marcin Majewski - didaskalia#101",
+   "id": "aP8KsI2Ugc8",
+   "title_pl": "Prof. Piotr Rutkowski o profilaktyce raka, czerniaku i opalaniu",
+   "title": "Uwarunkowania genetyczne odpowiadają za 5 proc. zachorowań na nowotwory- prof. Piotr Rutkowski",
    "channel": "didaskalia",
-   "url": "https://www.youtube.com/watch?v=EFmpZqlVKsU",
-   "date": "2024-11-03",
-   "duration": 5530,
-   "views": 1775468,
+   "url": "https://www.youtube.com/watch?v=aP8KsI2Ugc8",
+   "date": "2024-06-09",
+   "duration": 4187,
+   "views": 119360,
    "section": "Didaskalia",
    "transcript": "youtube",
    "added": "2026-11-03",
    "tags": [
-    "Historia",
-    "Religia",
-    "Języki"
+    "Zdrowie",
+    "Medycyna",
+    "Nauka"
    ],
-   "about": "Biblista z UJ i UPJPII tłumaczy, jak bada się Biblię, czym są apokryfy i skąd się wzięły rogi Mojżesza oraz spory o Dekalog.",
-   "intro": "Półtoragodzinna rozmowa Patrycjusza Wyżgi z prof. Marcinem Majewskim (listopad 2024). Biblista, który tłumaczy też teksty ugaryckie pisane pismem klinowym, opowiada o tym, jak naukowo bada się Biblię: kto napisał jej księgi, czym różnią się kanony różnych wyznań, co zawierają Ewangelia Tomasza, Księga Henocha i Ewangelia Judasza, oraz o słynnych błędach tłumaczy.",
+   "about": "Chirurg onkolog o tym, że większość nowotworów można wyleczyć, jak ich unikać, jak rozpoznać czerniaka i jak bezpiecznie korzystać ze słońca.",
+   "intro": "Patrycjusz Wyżga rozmawia z prof. Piotrem Rutkowskim, chirurgiem onkologiem z Narodowego Instytutu Onkologii i prezesem Polskiego Towarzystwa Onkologicznego (2024). Mowa o czynnikach ryzyka, badaniach przesiewowych, szczepieniu przeciw HPV, czerniaku, kremach z filtrem, solariach oraz nowych lekach i szczepionkach.",
    "points": [
     {
-     "t": "Nie znamy większości autorów",
-     "d": "Wiele ksiąg powstawało przez stulecia, jak Księga Izajasza. Podpisany autor to wyjątek, np. Syrach. Część listów Pawła nie jest jego, a autor Ewangelii Mateusza raczej nie był naocznym świadkiem."
+     "t": "Rak to nie wyrok",
+     "d": "Większość nowotworów da się dziś wyleczyć. W Polsce szansa na wyleczenie przekracza 50%, w Norwegii zbliża się do 70%. Wcześnie wykryty nowotwór skóry to według gościa najprostsza choroba do wyleczenia."
     },
     {
-     "t": "Jak się bada Biblię",
-     "d": "Dwa filary to historia z archeologią oraz literaturoznawstwo: gatunki, narracja, wpływ tekstów na siebie. Jeśli tekst powstał 800 lat po opisywanym wydarzeniu, wchodzimy w domenę legendy i przesłania, a nie kroniki."
+     "t": "Geny to mały udział",
+     "d": "Nowotwory uwarunkowane dziedzicznie to ok. 5% przypadków. Większość wynika z czynników zewnętrznych, na które mamy wpływ."
     },
     {
-     "t": "Języki i rękopisy",
-     "d": "Z hebrajskiego łatwiej przejść na aramejski, ugarycki i fenicki. Nie mamy autografów, tylko odpisy. XX wiek przyniósł rewolucję: zwoje z Qumran są czasem o 1000 lat starsze od wcześniej znanych rękopisów."
+     "t": "Tytoń i e-papierosy",
+     "d": "Gość wiąże z tytoniem 30 do 40% nowotworów, m.in. płuc, krtani, jamy ustnej, nerki i żołądka. Niepokoi go, że ok. 70% młodzieży ma kontakt z e-papierosami. Pomaga też ruch i rozsądna dieta."
     },
     {
-     "t": "Ewangelia Tomasza",
-     "d": "Zbiór powiedzeń Jezusa, którego ostateczną redakcję datuje się na II wiek. Prawie połowa jest porównywalna z Ewangeliami kanonicznymi. Odróżnia ją od fantastycznej Ewangelii dzieciństwa Tomasza."
+     "t": "Szczepienie przeciw HPV",
+     "d": "Szczepionka przeciw wirusowi brodawczaka może zapobiec tysiącom nowotworów, m.in. raka szyjki macicy. Jest dobrze przebadana. W Finlandii zaszczepionych jest ok. 90% dzieci, w Polsce znacznie mniej."
     },
     {
-     "t": "Księga Henocha",
-     "d": "Rozwija opowieść o synach Bożych, którzy współżyli z ludźmi i spłodzili olbrzymów. Tłumaczy pochodzenie zła i przyczynę potopu. Dziś ten fragment Księgi Rodzaju czyta się jako tekst mitologiczny."
+     "t": "Badania, z których nie korzystamy",
+     "d": "Mamografia, cytologia (zastępowana testem HPV DNA) i kolonoskopia są dostępne, ale zgłasza się mało osób. Przegląd samochodu robimy obowiązkowo, a o własne zdrowie nie dbamy."
     },
     {
-     "t": "Ewangelia Judasza",
-     "d": "Tekst opublikowany w 2006 r. odwraca role: Judasz przyjmuje najcięższe zadanie, bo Jezus powierza mu tajemnicę. Dla kanonicznych Ewangelii pozostaje najczarniejszą postacią."
+     "t": "Abecadło czerniaka",
+     "d": "A: asymetria, B: nierówne brzegi, C: różne kolory, D: średnica ponad ok. 5 mm, E: ewolucja, czyli zmiana. Najważniejsze jest E. Wystarczy co kilka miesięcy przez 5 minut obejrzeć swoją skórę."
     },
     {
-     "t": "Kanon zależy od wspólnoty",
-     "d": "Samarytanie uznają tylko Pięcioksiąg, Biblia hebrajska ma 24 księgi, a Żydzi w Aleksandrii przyjmowali więcej. Prawosławni mają najszerszy kanon. Spór o Apokalipsę św. Jana trwał cztery wieki."
+     "t": "Dermatoskop",
+     "d": "Kontrola u dermatologa jest szybka i bezbolesna. Lekarz ogląda znamiona przez dermatoskop, czyli lupę ze spolaryzowanym światłem."
     },
     {
-     "t": "Morze Trzcin i rogi Mojżesza",
-     "d": "Hebrajskie jam suf to raczej morze trzcin, nie Czerwone. Rogi to skutek przekładu: słowo keren to róg, ale czasownik karan znaczy świecić, a Wulgata przetłumaczyła promieniejącą twarz jako rogatą."
+     "t": "Jak się przygotować do słońca",
+     "d": "Na słońcu można przebywać długo, jeśli się przygotujemy: kapelusz lub czapka z daszkiem ok. 7,5 cm, ubranie, cień i krem z filtrem co najmniej 30, nałożony ok. 15 minut przed wyjściem."
     },
     {
-     "t": "Inne pułapki tłumaczy",
-     "d": "Hebrajskie isz i greckie anthropos tłumaczone jako mężczyzna wykluczają kobiety z ludzkości. Hebrajskie ben oznacza też wnuka i dalszego potomka. Spór o Piotra jako skałę dotyczy słów Petros i Petra."
+     "t": "Solarium jako fabryka czerniaka",
+     "d": "W Polsce osoby poniżej 18 lat nie mogą korzystać z solariów. Australia zakazała ich zupełnie, bo szacowano, że odpowiadały za połowę czerniaków u osób poniżej 40 lat."
     },
     {
-     "t": "Dekalog i list do Efezjan",
-     "d": "Katolicy nie wykreślili zakazu obrazów, tylko połączyli go z pierwszym przykazaniem i podzielili ostatnie. Tekst Biblii jest wspólny dla wszystkich. Słowa o poddaniu żon trzeba czytać z wezwaniem do wzajemnego poddania."
+     "t": "Opalenizna a witamina D",
+     "d": "Intensywne opalanie nie gwarantuje witaminy D: w badaniu surferów z Hawajów część miała jej niedobór. Opalenizna to obrona skóry przed uszkodzeniem."
     },
     {
-     "t": "Łazarz i natura Biblii",
-     "d": "Wskrzeszenia Łazarza nie ma u Marka, Mateusza i Łukasza, bo Ewangelia Jana, najpóźniejsza, mocniej podkreśla boskość Jezusa. Według Majewskiego Biblia jest w pełni słowem Bożym i w pełni ludzkim, a nauka nie konkuruje z wiarą."
+     "t": "Rewolucja w leczeniu",
+     "d": "Immunoterapia i leczenie celowane (np. przy mutacji BRAF) sprawiły, że wśród chorych z przerzutami czerniaka 5 lat przeżywa ponad 50%, a kiedyś ok. 2%. Polscy pacjenci uczestniczą w badaniach szczepionek mRNA."
     }
    ],
-   "conclusion": "Rzetelne wprowadzenie do naukowej biblistyki od kogoś, kto czyta te teksty w oryginale, z szacunkiem dla wierzących i niewierzących.",
+   "conclusion": "Rzeczowa, praktyczna rozmowa o profilaktyce. Najwięcej konkretów o skórze i słońcu.",
    "factchecks": [
     {
-     "claim": "Ewangelię Judasza znaleziono koło Nag Hammadi i wydano w 2006 r.",
-     "verdict": "półprawda",
-     "note": "Wydana w 2006 r., ale kodeks znaleziono w latach 70. w grobowcu koło Maghaghi, nie w Nag Hammadi.",
-     "p": 5,
-     "src": [
-      [
-       "Wikipedia (ang.): Ewangelia Judasza - hasło \"Gospel of Judas\"",
-       "https://en.wikipedia.org/wiki/Gospel_of_Judas"
-      ]
-     ]
-    },
-    {
-     "claim": "Hebrajskie jam suf oznacza morze trzcin, a nie Morze Czerwone.",
+     "claim": "Nowotwory uwarunkowane dziedzicznie to ok. 5% przypadków.",
      "verdict": "prawda",
-     "note": "Dosłownie morze trzcin, co zauważył już Raszi w XI w. Sama lokalizacja pozostaje sporna.",
-     "p": 7,
+     "note": "Szacunki mówią o ok. 5 do 10% nowotworów wynikających z dziedzicznych wad genetycznych.",
+     "p": 1,
      "src": [
       [
-       "Wikipedia (ang.): Jam Suf - hasło \"Yam Suph\"",
-       "https://en.wikipedia.org/wiki/Yam_Suph"
+       "Wikipedia (ang.): Nowotwór - hasło \"Cancer\"",
+       "https://en.wikipedia.org/wiki/Cancer"
       ]
      ]
     },
     {
-     "claim": "Mojżesza z rogami zobaczymy w Bazylice Świętego Piotra w Rzymie.",
-     "verdict": "fałsz",
-     "note": "Najsłynniejszy rogaty Mojżesz, Michała Anioła, stoi w bazylice San Pietro in Vincoli (św. Piotra w Okowach).",
-     "p": 7,
+     "claim": "Z tytoniem związanych jest 30 do 40% wszystkich nowotworów.",
+     "verdict": "przesada",
+     "note": "Częściej podawane jest ok. 25 do 30% zgonów z powodu nowotworów. Górna granica gościa jest zawyżona.",
+     "p": 2,
      "src": [
       [
-       "Wikipedia (ang.): Mojżesz Michała Anioła - hasło \"Moses (Michelangelo)\"",
-       "https://en.wikipedia.org/wiki/Moses_(Michelangelo)"
+       "Wikipedia (ang.): Nowotwór - hasło \"Cancer\"",
+       "https://en.wikipedia.org/wiki/Cancer"
       ]
      ]
     },
     {
-     "claim": "W 90 r. rabini w Jamni ustalili kanon Biblii hebrajskiej.",
-     "verdict": "nie da się sprawdzić",
-     "note": "Majewski sam mówi o pół-legendzie. Hipoteza synodu w Jamni została dziś w dużej mierze odrzucona.",
-     "p": 6,
+     "claim": "Australia całkowicie zakazała komercyjnych solariów.",
+     "verdict": "prawda",
+     "note": "Zakaz komercyjnych solariów obowiązuje w Australii od 2015 r.",
+     "p": 8,
      "src": [
       [
-       "Wikipedia (ang.): synod w Jamni - hasło \"Council of Jamnia\"",
-       "https://en.wikipedia.org/wiki/Council_of_Jamnia"
+       "Wikipedia (ang.): Solarium - hasło \"Indoor tanning\"",
+       "https://en.wikipedia.org/wiki/Indoor_tanning"
       ]
      ]
     }
    ],
-   "bias": "Gość jest teologiem katolickim i to widać w ocenach, np. że nauka nie podważa wiary. Wypowiedzi o tłumaczeniach i kanonie są jednak wyważone i podają stanowiska różnych wyznań."
+   "bias": "Gość mówi z perspektywy lekarza i prezesa towarzystwa onkologicznego, więc mocno akcentuje sukcesy polskiej onkologii. Rady są zgodne z typowymi zaleceniami."
   },
   {
    "id": "GBX3rgsmQbw",
