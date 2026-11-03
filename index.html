@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="referrer" content="no-referrer">
+<link rel="icon" href="data:,">
 <title>Chill Dude Explains - streszczenia i factcheck</title>
 <style>
 :root{--bg:#0f1115;--card:#181b22;--card2:#1f232c;--tx:#e8e8ea;--mut:#9aa0ab;--ac:#6cb6ff;--bd:#2a2f3a;
@@ -96,7 +97,7 @@ function card(v){
  var vs=ORDER.filter(function(k){return cnt[k]}).map(function(k){return '<span class="b '+VC[k]+'">'+cnt[k]+'× '+esc(k)+'</span>'}).join('');
  var h='<article class="card'+(r?' read':'')+'" id="v-'+esc(v.id)+'"><div class="top"><div>'+
  '<h2><a href="'+esc(v.url)+'" target="_blank" rel="noopener">'+esc(v.title)+'</a></h2>'+
- '<div class="meta"><span>'+fdate(v.date)+'</span><span>'+fdur(v.duration)+'</span><span>'+fviews(v.views)+'</span>'+(r?'<span>✓ przeczytane</span>':'')+'</div>'+
+ '<div class="meta"><span>'+fdate(v.date)+'</span><span>'+fdur(v.duration)+' min</span><span>'+fviews(v.views)+'</span>'+(r?'<span>✓ przeczytane</span>':'')+'</div>'+
  '<div class="tags">'+(v.tags||[]).map(function(t){return '<span class="tag" data-tag="'+esc(t)+'">'+esc(t)+'</span>'}).join('')+'</div></div>'+
  '<button class="rb'+(r?' on':'')+'" data-id="'+esc(v.id)+'">'+(r?'Oznacz jako nieprzeczytane':'Oznacz jako przeczytane')+'</button></div>'+
  '<p class="about">'+esc(v.about)+'</p><div class="vsum">'+vs+'</div>'+
