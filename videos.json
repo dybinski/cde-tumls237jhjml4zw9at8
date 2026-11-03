@@ -166,7 +166,8 @@
      ]
     }
    ],
-   "bias": "Analogia luźna i wybiórcza: wojenny program rządu to nie prywatne inwestycje. Sponsor Hostinger chwalony jako platforma AI, co kłóci się z tematem filmu."
+   "bias": "Analogia luźna i wybiórcza: wojenny program rządu to nie prywatne inwestycje. Sponsor Hostinger chwalony jako platforma AI, co kłóci się z tematem filmu.",
+   "section": "Historia"
   },
   {
    "id": "1qEPZT1FQs0",
@@ -229,7 +230,8 @@
      ]
     }
    ],
-   "bias": "Satyra wyrwana z kontekstu: argument Jobsa z 2010 r. dotyczył ekranu jako jedynego sposobu obsługi, a nowy MacBook ma nadal gładzik i klawiaturę."
+   "bias": "Satyra wyrwana z kontekstu: argument Jobsa z 2010 r. dotyczył ekranu jako jedynego sposobu obsługi, a nowy MacBook ma nadal gładzik i klawiaturę.",
+   "section": "Technologie"
   },
   {
    "id": "xB-Gkb7mvlM",
@@ -341,7 +343,8 @@
      ]
     }
    ],
-   "bias": "Rady oparte głównie na własnym doświadczeniu autora, bez źródeł; poza tym wyważony, bez sprzedaży diet i suplementów."
+   "bias": "Rady oparte głównie na własnym doświadczeniu autora, bez źródeł; poza tym wyważony, bez sprzedaży diet i suplementów.",
+   "section": "Sport"
   },
   {
    "id": "yVLKtB7Lfyk",
@@ -488,7 +491,8 @@
      ]
     }
    ],
-   "bias": "Rzetelny poradnik bez sponsora, ale liczby jak 50% czy 40 do 180 Mb/s to przykłady autora, a nie pomiary."
+   "bias": "Rzetelny poradnik bez sponsora, ale liczby jak 50% czy 40 do 180 Mb/s to przykłady autora, a nie pomiary.",
+   "section": "Technologie"
   },
   {
    "id": "BsFx3ZZh91U",
@@ -612,7 +616,8 @@
      ]
     }
    ],
-   "bias": "Alarmistyczny tytuł, ale treść jest wyważona; autor miesza jednak źródła różnej jakości, np. Military Watch Magazine i United24."
+   "bias": "Alarmistyczny tytuł, ale treść jest wyważona; autor miesza jednak źródła różnej jakości, np. Military Watch Magazine i United24.",
+   "section": "Pozostałe"
   },
   {
    "id": "R5j-e5KOqu0",
@@ -708,7 +713,8 @@
      ]
     }
    ],
-   "bias": "Szczere, osobiste opinie z linkami do sklepów AliExpress i Amazon; ceny w dolarach szybko się zmieniają."
+   "bias": "Szczere, osobiste opinie z linkami do sklepów AliExpress i Amazon; ceny w dolarach szybko się zmieniają.",
+   "section": "Pozostałe"
   },
   {
    "id": "4X95GdkGNQQ",
@@ -800,7 +806,8 @@
      ]
     }
    ],
-   "bias": "Film reklamuje płatną społeczność AI Profit Boardroom i usługi SEO autora; wyniki botów nie są pokazane z liczbami."
+   "bias": "Film reklamuje płatną społeczność AI Profit Boardroom i usługi SEO autora; wyniki botów nie są pokazane z liczbami.",
+   "section": "Technologie"
   },
   {
    "id": "d4h2rbePFT8",
@@ -884,7 +891,8 @@
      ]
     }
    ],
-   "bias": "Film to w dużej mierze reklama społeczności autora; o samej funkcji Pages mówi ogólnie i bez przykładu użycia."
+   "bias": "Film to w dużej mierze reklama społeczności autora; o samej funkcji Pages mówi ogólnie i bez przykładu użycia.",
+   "section": "Technologie"
   },
   {
    "id": "3e44xTBY_ek",
@@ -1012,7 +1020,8 @@
      ]
     }
    ],
-   "bias": "Entuzjastyczny przegląd z reklamą darmowego poradnika i płatnego kursu autora; kopiowanie ciasteczek z własnej przeglądarki to ryzykowna rada."
+   "bias": "Entuzjastyczny przegląd z reklamą darmowego poradnika i płatnego kursu autora; kopiowanie ciasteczek z własnej przeglądarki to ryzykowna rada.",
+   "section": "Technologie"
   },
   {
    "id": "hGguYFncLUI",
@@ -1132,7 +1141,8 @@
      ]
     }
    ],
-   "bias": "Najbardziej krytyczna recenzja z tej grupy, ale autor reklamuje własną płatną usługę AI makeover, a kilka zarzutów jest nieścisłych."
+   "bias": "Najbardziej krytyczna recenzja z tej grupy, ale autor reklamuje własną płatną usługę AI makeover, a kilka zarzutów jest nieścisłych.",
+   "section": "Technologie"
   },
   {
    "id": "8lNK7gjUCEs",
@@ -1232,7 +1242,8 @@
      ]
     }
    ],
-   "bias": "Ciekawy esej o twórczości, ale autor na koniec reklamuje koszulki przeciw grafice AI, a liczby podaje bez źródeł."
+   "bias": "Ciekawy esej o twórczości, ale autor na koniec reklamuje koszulki przeciw grafice AI, a liczby podaje bez źródeł.",
+   "section": "Technologie"
   },
   {
    "id": "8xXhE25vJZY",
@@ -1324,7 +1335,8 @@
      ]
     }
    ],
-   "bias": "Oficjalne warsztaty producenta: pokazują wyłącznie zalety, bez kosztów i ograniczeń. Transkrypt ma luki, więc część szczegółów pominięto."
+   "bias": "Oficjalne warsztaty producenta: pokazują wyłącznie zalety, bez kosztów i ograniczeń. Transkrypt ma luki, więc część szczegółów pominięto.",
+   "section": "Technologie"
   },
   {
    "id": "q1IwR88mhaA",
@@ -1444,7 +1456,8 @@
      ]
     }
    ],
-   "bias": "Rzetelny poradnik krok po kroku, ale autor promuje swoją darmową społeczność i linki afiliacyjne, a o kosztach i ograniczeniach mówi mało."
+   "bias": "Rzetelny poradnik krok po kroku, ale autor promuje swoją darmową społeczność i linki afiliacyjne, a o kosztach i ograniczeniach mówi mało.",
+   "section": "Technologie"
   },
   {
    "id": "yTvakY_xVJk",
@@ -1640,7 +1653,8 @@
      ]
     }
    ],
-   "bias": "Rzetelny i ostrożny film; uproszczenia przy hipotezach (Partowie, tarcze Blemmiów) i dość skrajny kontrast \"lękliwy Rzym kontra ufne Chiny\"."
+   "bias": "Rzetelny i ostrożny film; uproszczenia przy hipotezach (Partowie, tarcze Blemmiów) i dość skrajny kontrast \"lękliwy Rzym kontra ufne Chiny\".",
+   "section": "Historia"
   },
   {
    "id": "LUzZdtHhSqQ",
@@ -1843,7 +1857,8 @@
      ]
     }
    ],
-   "bias": "Clickbaitowy tytuł; sensacyjne podanie akt FBI (Elvis, UFO) bez kontekstu, a narzędzia jak ImportYeti i Privacy.com działają głównie w USA."
+   "bias": "Clickbaitowy tytuł; sensacyjne podanie akt FBI (Elvis, UFO) bez kontekstu, a narzędzia jak ImportYeti i Privacy.com działają głównie w USA.",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "NxQU8EmHxiw",
@@ -2046,7 +2061,8 @@
     }
    ],
    "bias": "Dobrze dobrane tematy, ale przesadza z \"nierozwiązanymi zagadkami\": dla kilku (Roopkund, sylfion, lista królów) jest postęp, który film pomija lub umniejsza.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "XSl4ZTtjS7Q",
@@ -2194,7 +2210,8 @@
     }
    ],
    "bias": "Jednostronny: każde zachowanie wyjaśnia psychologią ewolucyjną w formie \"opowieści\", bez alternatyw (kultura, uczenie się). Brak źródeł; traktuj jako ciekawostkę, nie wiedzę.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "kDfP5vAbOS0",
@@ -2407,7 +2424,8 @@
     }
    ],
    "bias": "Rzetelny, w większości zgodny z nauką. Jedyny wyraźny błąd: wiek hełmów z Viksø. Ton prześmiewczy wobec rodziców, ale bez tendencyjności.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "wztjGaAiqME",
@@ -2590,7 +2608,8 @@
     }
    ],
    "bias": "Straszy (\"cichy zabójca\") i podaje kilka przesadzonych liczb (kichnięcie, 15 h siedzenia). Rady są w większości sensowne, ale ryzyka są wyolbrzymione.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "19UC0V9Ul2M",
@@ -2809,7 +2828,8 @@
     }
    ],
    "bias": "Sensacyjny język (\"mózg zjada sam siebie\"); korelacje podane jak pewniki, a mit o nużeńcach jest już obalony.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "2sWFexuc7MI",
@@ -3025,7 +3045,8 @@
     }
    ],
    "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "7bOQ7fLCqgI",
@@ -3173,7 +3194,8 @@
     }
    ],
    "bias": "Uproszczona wizja ewolucji jako \"usuwania zbędnych części\". Jedna liczba (brak wyrostka) jest wyssana z palca, a wyrostek opisany według przestarzałej wiedzy.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "UTz2Xg4oMxs",
@@ -3329,7 +3351,8 @@
     }
    ],
    "bias": "Ranking subiektywny (bólu nie da się obiektywnie porównać). Punkt o osie-katu jest w dużej mierze zmyślony; reszta zgodna z faktami.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "ziYuxvxAw3U",
@@ -3521,7 +3544,8 @@
     }
    ],
    "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją, a film sugeruje nawet zaginione maszyny.",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "hmHhsg7h4g0",
@@ -3677,7 +3701,8 @@
     }
    ],
    "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze).",
-   "channel": "Chill Dude Explains"
+   "channel": "Chill Dude Explains",
+   "section": "Chill Dude Explains"
   },
   {
    "id": "dvWtaHFG7QI",
@@ -3805,7 +3830,8 @@
      ]
     }
    ],
-   "bias": "Dobrze udokumentowana historia, wyważona w ocenie; film jest z 2022 r., więc liczby o streamingu mogą być nieaktualne."
+   "bias": "Dobrze udokumentowana historia, wyważona w ocenie; film jest z 2022 r., więc liczby o streamingu mogą być nieaktualne.",
+   "section": "Ciekawostki"
   }
  ]
 }
