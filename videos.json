@@ -71,7 +71,8 @@
        "Science: najgorszy rok w historii",
        "https://www.science.org/content/article/why-536-was-worst-year-be-alive"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Roopkund: dwie grupy zginęły ok. 1000 lat od siebie, wszyscy od gradu.",
@@ -86,7 +87,8 @@
        "Wikipedia (ang.): jezioro Roopkund - hasło \"Roopkund\"",
        "https://en.wikipedia.org/wiki/Roopkund"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Upadek epoki brązu: upadły niemal wszystkie państwa naraz.",
@@ -97,7 +99,8 @@
        "Wikipedia (ang.): upadek epoki brązu - hasło \"Late Bronze Age collapse\"",
        "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Rzymskie dwunastościany: żaden tekst o nich nie wspomina.",
@@ -108,7 +111,8 @@
        "Wikipedia (ang.): rzymski dwunastościan - hasło \"Roman dodecahedron\"",
        "https://en.wikipedia.org/wiki/Roman_dodecahedron"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Miedziany Zwój: 1952, 64 skrytki, niczego nie znaleziono.",
@@ -119,7 +123,8 @@
        "Wikipedia (ang.): Miedziany Zwój - hasło \"Copper Scroll\"",
        "https://en.wikipedia.org/wiki/Copper_Scroll"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Kofun: ponad 160 tys. kurhanów, Daisen większy od Wielkiej Piramidy, zakaz badań.",
@@ -134,7 +139,8 @@
        "Wikipedia (ang.): kurhany kofun - hasło \"Kofun\"",
        "https://en.wikipedia.org/wiki/Kofun"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Sylfion był wart srebra, a tożsamość rośliny zaginęła na zawsze.",
@@ -149,7 +155,8 @@
        "Miski 2021, Plants (PMC)",
        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7825337/"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Lokalizacja Akadu jest nieznana.",
@@ -160,7 +167,8 @@
        "Wikipedia (ang.): miasto Akad - hasło \"Akkad (city)\"",
        "https://en.wikipedia.org/wiki/Akkad_(city)"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Grenlandia: ostatni zapis 1408 r., 5000 osadników, odrzucili sposoby Inuitów.",
@@ -175,7 +183,8 @@
        "Smithsonian: dlaczego zniknęli",
        "https://www.smithsonianmag.com/history/why-greenland-vikings-vanished-180962119/"
       ]
-     ]
+     ],
+     "p": 8
     },
     {
      "claim": "Liczb panowań z Sumeryjskiej listy królów nikt nie wyjaśnił.",
@@ -186,7 +195,8 @@
        "Wikipedia (ang.): Sumeryjska lista królów - hasło \"Sumerian King List\"",
        "https://en.wikipedia.org/wiki/Sumerian_King_List"
       ]
-     ]
+     ],
+     "p": 9
     }
    ],
    "bias": "Dobrze dobrane tematy, ale przesadza z \"nierozwiązanymi zagadkami\": dla kilku (Roopkund, sylfion, lista królów) jest postęp, który film pomija lub umniejsza."
@@ -255,7 +265,8 @@
        "Yetish i in. 2015, Current Biology (DOI)",
        "https://doi.org/10.1016/j.cub.2015.09.046"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Mózg nagradza konformizm (układ nagrody).",
@@ -270,7 +281,8 @@
        "Wikipedia (ang.): instynkt stadny - hasło \"Herd mentality\"",
        "https://en.wikipedia.org/wiki/Herd_mentality"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Reguła wzajemności działa, a sprzedawcy używają jej przez darmowe próbki.",
@@ -281,7 +293,8 @@
        "Wikipedia (ang.): reguła wzajemności - hasło \"Reciprocity (social psychology)\"",
        "https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Strata boli ok. dwa razy mocniej niż równy zysk.",
@@ -296,7 +309,8 @@
        "Gal i Rucker 2018, krytyka (DOI)",
        "https://doi.org/10.1002/jcpy.1047"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Poczucie sprawiedliwości jest wrodzone i ewolucyjnie stare.",
@@ -311,7 +325,8 @@
        "Wikipedia (ang.): gra w ultimatum - hasło \"Ultimatum game\"",
        "https://en.wikipedia.org/wiki/Ultimatum_game"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Strach przed nieznanym, potrzeba kontroli i status jako ewolucyjne pozostałości.",
@@ -326,7 +341,8 @@
        "Wikipedia (ang.): krytyka wyjaśnień typu \"just-so story\" - hasło \"Just-so story\"",
        "https://en.wikipedia.org/wiki/Just-so_story"
       ]
-     ]
+     ],
+     "p": null
     }
    ],
    "bias": "Jednostronny: każde zachowanie wyjaśnia psychologią ewolucyjną w formie \"opowieści\", bez alternatyw (kultura, uczenie się). Brak źródeł; traktuj jako ciekawostkę, nie wiedzę."
@@ -404,7 +420,8 @@
        "Hoover i Milich 1994, J Abnorm Child Psychol",
        "https://link.springer.com/article/10.1007/BF02168088"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Mit 10% mózgu; mózg to 2% masy i 20% energii.",
@@ -419,7 +436,8 @@
        "Scientific American: mit 10%",
        "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Moneta osiąga prędkość graniczną ok. 40 km/h i nie zabije.",
@@ -434,7 +452,8 @@
        "Wikipedia (ang.): prędkość graniczna - hasło \"Terminal velocity\"",
        "https://en.wikipedia.org/wiki/Terminal_velocity"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Empire State Building: ok. 25 uderzeń pioruna rocznie; Roy Sullivan przeżył 7 uderzeń.",
@@ -449,7 +468,8 @@
        "Wikipedia (ang.): Roy Sullivan",
        "https://en.wikipedia.org/wiki/Roy_Sullivan"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Rogate hełmy z Danii są o 3000 lat starsze od wikingów.",
@@ -464,7 +484,8 @@
        "Smithsonian: hełmy mają prawie 3000 lat",
        "https://www.smithsonianmag.com/smart-news/iconic-viking-horned-helmets-actually-3000-years-old-180979339/"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Golenie nie zmienia grubości ani tempa wzrostu włosów.",
@@ -475,7 +496,8 @@
        "Mayo Clinic: golenie a odrost włosów",
        "https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/hair-removal/faq-20058427"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Pływanie zaraz po jedzeniu nie jest groźne; Czerwony Krzyż to potwierdza.",
@@ -486,7 +508,8 @@
        "Wikipedia (ang.): lista powszechnych mitów (pływanie po jedzeniu) - hasło \"List of common misconceptions\"",
        "https://en.wikipedia.org/wiki/List_of_common_misconceptions_about_science,_technology,_and_mathematics"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Mit 40-45% ciepła tracone przez głowę pochodzi z wojskowego podręcznika; głowa to ok. 10% powierzchni.",
@@ -497,7 +520,8 @@
        "BMJ 2008: świąteczne mity medyczne (DOI)",
        "https://doi.org/10.1136/bmj.a2769"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Złote rybki pamiętają przez miesiące, uczą się sztuczek i rozróżniają muzykę.",
@@ -512,7 +536,8 @@
        "Shinozuka i in. 2013, muzyka a złote rybki (PubMed)",
        "https://pubmed.ncbi.nlm.nih.gov/23796771/"
       ]
-     ]
+     ],
+     "p": 8
     },
     {
      "claim": "Połknięta guma wychodzi w 1-2 dni, nie zostaje 7 lat.",
@@ -527,7 +552,8 @@
        "Mayo Clinic: połknięta guma",
        "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/digestion/faq-20058446"
       ]
-     ]
+     ],
+     "p": 9
     }
    ],
    "bias": "Rzetelny, w większości zgodny z nauką. Jedyny wyraźny błąd: wiek hełmów z Viksø. Ton prześmiewczy wobec rodziców, ale bez tendencyjności."
@@ -595,7 +621,8 @@
        "Tang i in. 2013, PLOS One",
        "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0059970"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Tłumione kichnięcie może uszkodzić gardło i uszy.",
@@ -606,7 +633,8 @@
        "BMJ Case Reports 2018 (PubMed)",
        "https://pubmed.ncbi.nlm.nih.gov/29335355/"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Patyczki wpychają woskowinę i mogą uszkodzić błonę bębenkową.",
@@ -621,7 +649,8 @@
        "AAO-HNS: wytyczne o woskowinie",
        "https://www.enthealth.org/conditions/earwax-cerumen/"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Zbyt dużo wody może zabić (hiponatremia).",
@@ -632,7 +661,8 @@
        "Wikipedia (ang.): zatrucie wodne - hasło \"Water intoxication\"",
        "https://en.wikipedia.org/wiki/Water_intoxication"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Powyżej 85 dB grozi uszkodzenie słuchu, przy 100 dB po ok. 15 minutach; nastolatki mają słuch 50-latków.",
@@ -647,7 +677,8 @@
        "WHO: głuchota i utrata słuchu",
        "https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Przyćmione światło nocą tuczy myszy.",
@@ -658,7 +689,8 @@
        "Fonken i in. 2010, PNAS (DOI)",
        "https://doi.org/10.1073/pnas.1008734107"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Przeciętny pracownik biurowy siedzi do 15 godzin dziennie; \"siedzenie to nowe palenie\".",
@@ -673,7 +705,8 @@
        "Ekelund i in. 2016, Lancet (DOI)",
        "https://doi.org/10.1016/S0140-6736(16)30370-1"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Obgryzacze paznokci mają istotnie więcej infekcji przewodu pokarmowego.",
@@ -684,7 +717,8 @@
        "Wikipedia (ang.): obgryzanie paznokci - hasło \"Nail biting\"",
        "https://en.wikipedia.org/wiki/Nail_biting"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Częste wstrzymywanie moczu osłabia dno miednicy i prowadzi do nietrzymania.",
@@ -699,7 +733,8 @@
        "Kettering Health: jak długo można wstrzymywać mocz",
        "https://ketteringhealth.org/how-long-should-i-hold-my-pee/"
       ]
-     ]
+     ],
+     "p": 8
     }
    ],
    "bias": "Straszy (\"cichy zabójca\") i podaje kilka przesadzonych liczb (kichnięcie, 15 h siedzenia). Rady są w większości sensowne, ale ryzyka są wyolbrzymione."
@@ -772,7 +807,8 @@
        "Wikipedia (ang.): drgawki hipnagogiczne - hasło \"Hypnic jerk\"",
        "https://en.wikipedia.org/wiki/Hypnic_jerk"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Fantomowe wibracje zgłasza do 90% użytkowników.",
@@ -787,7 +823,8 @@
        "Wikipedia (ang.): syndrom fantomowych wibracji - hasło \"Phantom vibration syndrome\"",
        "https://en.wikipedia.org/wiki/Phantom_vibration_syndrome"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Toxoplasma jest u ok. 30% ludzi i zmienia osobowość oraz zwiększa ryzyko wypadków.",
@@ -802,7 +839,8 @@
        "CDC: toksoplazmoza",
        "https://www.cdc.gov/toxoplasmosis/about/index.html"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Paraliż senny: świadomość przy zablokowanych mięśniach REM, halucynacje postaci, ucisk w klatce.",
@@ -817,7 +855,8 @@
        "Sharpless i Barber 2011 (PubMed)",
        "https://pubmed.ncbi.nlm.nih.gov/21571556/"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Kichanie od światła jest dziedziczne.",
@@ -828,7 +867,8 @@
        "Wikipedia (ang.): odruch kichania na światło - hasło \"Photic sneeze reflex\"",
        "https://en.wikipedia.org/wiki/Photic_sneeze_reflex"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "W jelitach jest ok. 500 mln neuronów, więcej niż w mózgu kota.",
@@ -843,7 +883,8 @@
        "Liczba neuronów w jelitowym układzie nerwowym (PubMed)",
        "https://pubmed.ncbi.nlm.nih.gov/35929768/"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Jelita produkują 90% serotoniny, co steruje nastrojem.",
@@ -858,7 +899,8 @@
        "Caltech: bakterie a serotonina jelit",
        "https://www.caltech.edu/about/news/microbes-help-produce-serotonin-gut-46495"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Autofagia w neuronach głodu wzmacnia uczucie głodu.",
@@ -873,7 +915,8 @@
        "Wikipedia (ang.): autofagia - hasło \"Autophagy\"",
        "https://en.wikipedia.org/wiki/Autophagy"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Zespół Capgrasa i jamais vu (wywoływane wielokrotnym pisaniem słowa).",
@@ -888,6 +931,10 @@
        "Wikipedia (ang.): jamais vu",
        "https://en.wikipedia.org/wiki/Jamais_vu"
       ]
+     ],
+     "p": [
+      7,
+      8
      ]
     },
     {
@@ -903,7 +950,8 @@
        "Smith i in. 2022, Molecular Biology and Evolution",
        "https://doi.org/10.1093/molbev/msac125"
       ]
-     ]
+     ],
+     "p": 9
     }
    ],
    "bias": "Sensacyjny język (\"mózg zjada sam siebie\"); korelacje podane jak pewniki, a mit o nużeńcach jest już obalony."
@@ -976,7 +1024,8 @@
        "Wikipedia (ang.): Gangkhar Puensum",
        "https://en.wikipedia.org/wiki/Gangkhar_Puensum"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Jaskinia Kryształów: 58°C, prawie 100% wilgotności, toksyczne powietrze, wizyty ok. 10 minut.",
@@ -991,7 +1040,8 @@
        "National Geographic: mikroby z Naica",
        "https://www.nationalgeographic.com/science/article/crystal-caves-mine-microbes-mexico-boston-aaas-aliens-science"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Cenoty Jukatanu: tysiące połączonych jaskiń, ślepe ryby, ofiary Majów.",
@@ -1006,7 +1056,8 @@
        "Wikipedia (ang.): cenoty - hasło \"Cenote\"",
        "https://en.wikipedia.org/wiki/Cenote"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "W Góry Gwiezdne nigdy nie wszedł żaden człowiek.",
@@ -1021,7 +1072,8 @@
        "Wikipedia (ang.): kopalnia Ok Tedi - hasło \"Ok Tedi Mine\"",
        "https://en.wikipedia.org/wiki/Ok_Tedi_Mine"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Rów Nowych Hebrydów: Everest by się w nim zmieścił; nikt tam nie był, były tylko roboty.",
@@ -1036,7 +1088,8 @@
        "Guinness: najwięcej odwiedzonych rowów",
        "https://www.guinnessworldrecords.com/world-records/752796-most-deep-sea-trenches-visited-by-an-individual"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Tsingy: nazwa znaczy \"gdzie nie można chodzić boso\"; wnętrze nietknięte.",
@@ -1051,7 +1104,8 @@
        "UNESCO: suche lasy Andrefana (dawniej Tsingy de Bemaraha)",
        "https://whc.unesco.org/en/list/494/"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Namib: wydmy wyższe od Empire State Building, obszar wielkości Maryland, wnętrza nigdy nie odwiedzono.",
@@ -1066,7 +1120,8 @@
        "Wikipedia (ang.): pustynia Namib - hasło \"Namib\"",
        "https://en.wikipedia.org/wiki/Namib"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Sandy Island: \"odkrytą\" przez Jamesa Cooka wyspę obalili Australijczycy w 2012.",
@@ -1077,7 +1132,8 @@
        "Wikipedia (ang.): Sandy Island (Nowa Kaledonia) - hasło \"Sandy Island (New Caledonia)\"",
        "https://en.wikipedia.org/wiki/Sandy_Island,_New_Caledonia"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Lądolód pokrywa ok. 80% Grenlandii, a wnętrze północnej Grenlandii jest nietknięte przez człowieka.",
@@ -1092,7 +1148,8 @@
        "Wikipedia (ang.): odwiert lodowy NorthGRIP - hasło \"NorthGRIP\"",
        "https://en.wikipedia.org/wiki/North_Greenland_Ice_Core_Project"
       ]
-     ]
+     ],
+     "p": 8
     },
     {
      "claim": "Takla Makan: większa od Wielkiej Brytanii, w środku nie było człowieka, nazwa znaczy \"miejsce bez powrotu\".",
@@ -1107,7 +1164,8 @@
        "Wikipedia (ang.): autostrada przez pustynię Tarym - hasło \"Tarim Desert Highway\"",
        "https://en.wikipedia.org/wiki/Tarim_Desert_Highway"
       ]
-     ]
+     ],
+     "p": 9
     }
    ],
    "bias": "Tytuł wprowadza w błąd: większość miejsc była odwiedzana; uczciwiej byłoby \"miejsca słabo zbadane\". Transkrypt z Whisper."
@@ -1184,7 +1242,8 @@
        "Smith i in. 2009, J Evol Biol (PubMed)",
        "https://pubmed.ncbi.nlm.nih.gov/19678866/"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Coraz więcej ludzi rodzi się bez wyrostka (nawet 1 na 5).",
@@ -1195,7 +1254,8 @@
        "Opis przypadku agenezji wyrostka (PMC)",
        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8043782/"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Część ludzi nie ma mięśnia dłoniowego długiego.",
@@ -1206,7 +1266,8 @@
        "Wikipedia (ang.): mięsień dłoniowy długi - hasło \"Palmaris longus\"",
        "https://en.wikipedia.org/wiki/Palmaris_longus_muscle"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "U części ludzi zęby mądrości się nie rozwijają.",
@@ -1221,7 +1282,8 @@
        "Wikipedia (ang.): zęby mądrości - hasło \"Wisdom tooth\"",
        "https://en.wikipedia.org/wiki/Wisdom_tooth"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Narząd Jacobsona, kość ogonowa, mięśnie przywłosowe i uszne to struktury szczątkowe.",
@@ -1236,7 +1298,8 @@
        "Wikipedia (ang.): narząd lemieszowo-nosowy (Jacobsona) - hasło \"Vomeronasal organ\"",
        "https://en.wikipedia.org/wiki/Vomeronasal_organ"
       ]
-     ]
+     ],
+     "p": null
     },
     {
      "claim": "Te części ciała \"znikną kiedyś\".",
@@ -1247,7 +1310,8 @@
        "Wikipedia (ang.): szczątkowość narządów - hasło \"Vestigiality\"",
        "https://en.wikipedia.org/wiki/Vestigiality"
       ]
-     ]
+     ],
+     "p": null
     }
    ],
    "bias": "Uproszczona wizja ewolucji jako \"usuwania zbędnych części\". Jedna liczba (brak wyrostka) jest wyssana z palca, a wyrostek opisany według przestarzałej wiedzy."
@@ -1320,7 +1384,8 @@
        "Wikipedia (ang.): poneratoksyna - hasło \"Poneratoxin\"",
        "https://en.wikipedia.org/wiki/Poneratoxin"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Mrówka-pocisk: ból do 24 h; rytuał rękawic 10 minut, 20 razy.",
@@ -1335,7 +1400,8 @@
        "Wikipedia (ang.): skala bólu użądleń Schmidta - hasło \"Schmidt sting pain index\"",
        "https://en.wikipedia.org/wiki/Schmidt_sting_pain_index"
       ]
-     ]
+     ],
+     "p": 8
     },
     {
      "claim": "Meduza Irukandji występuje od Hawajów po Florydę.",
@@ -1350,7 +1416,8 @@
        "Wikipedia (ang.): meduza Carukia barnesi - hasło \"Carukia barnesi\"",
        "https://en.wikipedia.org/wiki/Carukia_barnesi"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Gympie-gympie: ból może trwać miesiące.",
@@ -1365,7 +1432,8 @@
        "Gilding i in. 2020, Science Advances (DOI)",
        "https://doi.org/10.1126/sciadv.abb8828"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Ryba kamień to najbardziej jadowita ryba świata.",
@@ -1376,7 +1444,8 @@
        "Wikipedia (ang.): ryby kamienne (Synanceia) - hasło \"Stonefish\"",
        "https://en.wikipedia.org/wiki/Stonefish"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Kamienie nerkowe, klasterowe bóle głowy, tężec, fibromialgia bez lekarstwa.",
@@ -1395,7 +1464,8 @@
        "WHO: tężec",
        "https://www.who.int/news-room/fact-sheets/detail/tetanus"
       ]
-     ]
+     ],
+     "p": null
     }
    ],
    "bias": "Ranking subiektywny (bólu nie da się obiektywnie porównać). Punkt o osie-katu jest w dużej mierze zmyślony; reszta zgodna z faktami."
@@ -1468,7 +1538,8 @@
        "Wikipedia (ang.): Puchar Likurga - hasło \"Lycurgus Cup\"",
        "https://en.wikipedia.org/wiki/Lycurgus_Cup"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Elastyczne szkło rzymskie.",
@@ -1479,7 +1550,8 @@
        "Wikipedia (ang.): szkło elastyczne (vitrum flexile) - hasło \"Flexible glass\"",
        "https://en.wikipedia.org/wiki/Flexible_glass"
       ]
-     ]
+     ],
+     "p": 1
     },
     {
      "claim": "Ogień grecki wynaleźli Rzymianie, a jego przepis zaginął.",
@@ -1490,7 +1562,8 @@
        "Wikipedia (ang.): ogień grecki - hasło \"Greek fire\"",
        "https://en.wikipedia.org/wiki/Greek_fire"
       ]
-     ]
+     ],
+     "p": 2
     },
     {
      "claim": "Skrzypiec Stradivariego nie da się odtworzyć i brzmią wyjątkowo.",
@@ -1505,7 +1578,8 @@
        "Wikipedia (ang.): instrumenty Stradivariego - hasło \"Stradivarius\"",
        "https://en.wikipedia.org/wiki/Stradivarius"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Mechanizm z Antykithiry: znaleziony ok. 100 lat temu, przewidywał zaćmienia, niezrównany przez wieki.",
@@ -1520,7 +1594,8 @@
        "Freeth i in. 2021, Scientific Reports",
        "https://www.nature.com/articles/s41598-021-84310-w"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Stal damasceńska to zaginiony sekret.",
@@ -1535,7 +1610,8 @@
        "Reibold i in. 2006, Nature",
        "https://www.nature.com/articles/444286a"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Kule z Kostaryki: ponad 300, do kilkunastu ton, cel nieznany.",
@@ -1550,7 +1626,8 @@
        "UNESCO: osady wodzów Diquís z kamiennymi kulami",
        "https://whc.unesco.org/en/list/1453/"
       ]
-     ]
+     ],
+     "p": 6
     },
     {
      "claim": "Bloki Sacsayhuamán ważą po 100-120 ton.",
@@ -1561,7 +1638,8 @@
        "Wikipedia (ang.): Sacsayhuamán",
        "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Nie wiadomo, jak zbudowano piramidy.",
@@ -1576,7 +1654,8 @@
        "Fall i in. 2014, PRL (DOI)",
        "https://doi.org/10.1103/PhysRevLett.112.175502"
       ]
-     ]
+     ],
+     "p": 8
     }
    ],
    "bias": "Tendencyjny tytuł: większość pozycji naukowcy dobrze rozumieją, a film sugeruje nawet zaginione maszyny."
@@ -1649,7 +1728,8 @@
        "Wikipedia (ang.): procesy czarownic w epoce nowożytnej - hasło \"Witch trials in the early modern period\"",
        "https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period"
       ]
-     ]
+     ],
+     "p": null
     },
     {
      "claim": "\"Znak diabła\" i kłucie igłami, także chowanymi.",
@@ -1664,7 +1744,8 @@
        "Wikipedia (ang.): znak diabła - hasło \"Devil's mark\"",
        "https://en.wikipedia.org/wiki/Devil%27s_mark"
       ]
-     ]
+     ],
+     "p": 0
     },
     {
      "claim": "Leworęczni byli oskarżani o czary, a ich zeznania nie miały wagi w sądzie.",
@@ -1675,7 +1756,8 @@
        "Wikipedia (ang.): uprzedzenia wobec leworęcznych - hasło \"Bias against left-handed people\"",
        "https://en.wikipedia.org/wiki/Bias_against_left-handed_people"
       ]
-     ]
+     ],
+     "p": 3
     },
     {
      "claim": "Ziewanie było objawem dżumy, stąd znak krzyża przy ziewaniu.",
@@ -1686,7 +1768,8 @@
        "Wikipedia (ang.): ziewanie (kultura) - hasło \"Yawn\"",
        "https://en.wikipedia.org/wiki/Yawn"
       ]
-     ]
+     ],
+     "p": 4
     },
     {
      "claim": "Koty kojarzono z diabłem; ich tępienie nasiliło dżumę.",
@@ -1701,7 +1784,8 @@
        "Wikipedia (ang.): czarny kot - hasło \"Black cat\"",
        "https://en.wikipedia.org/wiki/Black_cat"
       ]
-     ]
+     ],
+     "p": 5
     },
     {
      "claim": "Kobiety piwowarki (alewives) dały początek stereotypowi czarownicy z kotłem, miotłą i kotem.",
@@ -1712,7 +1796,8 @@
        "Wikipedia (ang.): piwowarki (alewives) - hasło \"Alewife (trade)\"",
        "https://en.wikipedia.org/wiki/Alewife_(trade)"
       ]
-     ]
+     ],
+     "p": 7
     },
     {
      "claim": "Lunatykowanie, gwizdanie, kichnięcie kota, ser, jajka z dwoma żółtkami jako powody oskarżeń.",
@@ -1723,7 +1808,8 @@
        "Wikipedia (ang.): czary (przesądy ludowe) - hasło \"Witchcraft\"",
        "https://en.wikipedia.org/wiki/Witchcraft"
       ]
-     ]
+     ],
+     "p": null
     }
    ],
    "bias": "Rozrywkowy, bez źródeł. Większość punktów to anegdoty z internetu podane jako fakty, a epoka jest pomylona (to głównie XVI-XVII wiek, nie średniowiecze)."
