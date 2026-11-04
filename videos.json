@@ -166,6 +166,192 @@
    "bias": "Komediowy ranking USA-centryczny; trendy podaje jak twarde daty i procenty, a część liczb (gotówka 2010, -90% swobody dzieci) jest uproszczona lub niesprawdzalna z filmu."
   },
   {
+   "id": "VqGMHpquXG8",
+   "title_pl": "Jak sprawdzić, kto ujawnia sekrety?",
+   "title": "Jak sprawdzić, KTO ujawnia SEKRETY?",
+   "channel": "Kacper Szurek",
+   "url": "https://www.youtube.com/watch?v=VqGMHpquXG8",
+   "date": "2026-11-04",
+   "duration": 1039,
+   "views": 10292,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-05",
+   "tags": [
+    "Technika",
+    "Historia",
+    "Psychologia"
+   ],
+   "about": "Pułapki na kreta: znakowane maile, niewidzialne znaki, żółte kropki drukarek, fikcyjne miasta, adresy pułapki, honeypoty i proszek UV.",
+   "intro": "Kacper Szurek pokazuje, jak firmy, służby i zwykli ludzie wykrywają, kto wynosi tajne informacje. Zasada jest jedna: każdy odbiorca dostaje nieco inną, unikalnie oznaczoną wersję, a wyciek zdradza źródło. Przykłady sięgają od Tesli i II wojny światowej po antywirusy, tabloidy i spam.",
+   "points": [
+    {
+     "t": "Znakowane maile w Tesli",
+     "d": "Według autora tajne dane Tesli wyciekały do prasy, więc pracownicy dostali pozornie identyczne maile. Każdy miał podwójną spację w innym miejscu, więc kopia lub zdjęcie tekstu wskazywały źródło."
+    },
+    {
+     "t": "Niewidzialne znaki i odcień koloru",
+     "d": "W tekście można ukryć niewidoczne znaki, które kopiują się do schowka i niosą identyfikator osoby. Inny sposób: jeden wyraz w kolorze prawie czarnym, nie do odróżnienia dla oka, ale wykrywalny dla komputera."
+    },
+    {
+     "t": "Fałszywa definicja antywirusa",
+     "d": "Firma zauważyła, że konkurent wykrywa jej generatory kluczy pod nazwą w stylu \"Nie kradnij naszego programu\". Dodała do bazy definicję nieistniejącej aplikacji i po kilku tygodniach konkurent zaczął wykrywać ją pod tą samą nazwą."
+    },
+    {
+     "t": "Żółte kropki drukarek",
+     "d": "Dziennikarze The Intercept poprosili agencję rządową o potwierdzenie dokumentu. Drukarka zostawiła na nim żółte kropki z godziną wydruku i numerem seryjnym, co pozwoliło namierzyć i aresztować informatorkę."
+    },
+    {
+     "t": "Czerwone paliwo",
+     "d": "Tańsze paliwo rolnicze i opałowe barwi się markerami. Testy wykrywają nawet małe stężenie, więc mieszanie go z droższym nie ma sensu, a użycie w autach na drogach publicznych grozi wysoką grzywną."
+    },
+    {
+     "t": "Rzęsa w kopercie",
+     "d": "Alianci podrzucili w Hiszpanii zwłoki fikcyjnego oficera z fałszywymi planami inwazji na Sardynię zamiast Sycylii. Admiralicja dyskretnie żądała zwrotu, a brak włożonej do koperty rzęsy dowiódł, że ją otwarto."
+    },
+    {
+     "t": "Kardashian i żona piłkarza",
+     "d": "Kim Kardashian rozesłała znajomym różne fałszywe zdjęcia noworodka, ale TMZ dostał dwa, więc plan nie wypalił. Żona legendy futbolu publikowała zmyślone historie i blokowała wszystkich poza jedną osobą, która jako jedyna je oglądała, a historie trafiały do The Sun."
+    },
+    {
+     "t": "Fikcyjne miasta i słowa",
+     "d": "Twórcy map wstawiali nieistniejące miejscowości, jak Argleton, a słowniki wymyślone słowa. Gdy pojawiały się u konkurencji, były dowodem kopiowania."
+    },
+    {
+     "t": "Adresy pułapki na spam",
+     "d": "Organizacje kupują domeny, generują adresy, których nikt nie używa, i rozsiewają je po forach i blogach. Kto wyśle na nie reklamę, wysyła bez zgody, więc jego serwer trafia na listę spamu."
+    },
+    {
+     "t": "Honeypoty",
+     "d": "Fałszywy WordPress zbiera adresy IP i treść ataków, co pozwala łatać błędy i chronić innych klientów. Fałszywa podatność na SQL injection może też podawać bez końca losowe rekordy, by marnować zasoby atakujących."
+    },
+    {
+     "t": "Proszek UV w szatni",
+     "d": "Gdy nie można zamontować kamer, na banknoty lub portfel nanosi się proszek niewidoczny w zwykłym świetle. W ultrafiolecie świeci na zielono na rękach i ubraniu złodzieja."
+    }
+   ],
+   "conclusion": "Prosta unikalna różnica w każdej kopii wystarczy, by wskazać źródło wycieku, choć nie każda pułapka się udaje.",
+   "factchecks": [
+    {
+     "claim": "Tesla wykryła kreta mailami różniącymi się spacjami",
+     "verdict": "prawda",
+     "note": "Musk opisał tę metodę, a Wikipedia podaje przypadek z Tesli z 2008 r.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): pułapka kanarkowa - hasło \"Canary trap\"",
+       "https://en.wikipedia.org/wiki/Canary_trap"
+      ]
+     ]
+    },
+    {
+     "claim": "Żółte kropki drukarki pomogły namierzyć informatorkę The Intercept",
+     "verdict": "prawda",
+     "note": "Sprawa Reality Winner z 2017 r.; kropki kodują datę, godzinę i numer seryjny.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): Reality Winner",
+       "https://en.wikipedia.org/wiki/Reality_Winner"
+      ],
+      [
+       "Wikipedia (ang.): kod identyfikacji drukarki - hasło \"Machine Identification Code\"",
+       "https://en.wikipedia.org/wiki/Machine_Identification_Code"
+      ]
+     ]
+    },
+    {
+     "claim": "Tańsze paliwo jest barwione, by wykryć nadużycia podatkowe",
+     "verdict": "prawda",
+     "note": "Barwniki i markery w paliwie o niższej akcyzie stosuje wiele państw.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): barwniki paliwowe - hasło \"Fuel dye\"",
+       "https://en.wikipedia.org/wiki/Fuel_dye"
+      ]
+     ]
+    },
+    {
+     "claim": "W kopercie operacji Mincemeat umieszczono rzęsę",
+     "verdict": "prawda",
+     "note": "Rzęsy brakowało po zwrocie; zwłoki należały do mężczyzny otrutego trutką na szczury.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): operacja Mincemeat - hasło \"Operation Mincemeat\"",
+       "https://en.wikipedia.org/wiki/Operation_Mincemeat"
+      ]
+     ]
+    },
+    {
+     "claim": "Żona piłkarza wykryła kreta, blokując wszystkich poza jedną osobą",
+     "verdict": "prawda",
+     "note": "To Coleen Rooney i sprawa \"Wagatha Christie\" z 2019 r.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Coleen Rooney",
+       "https://en.wikipedia.org/wiki/Coleen_Rooney"
+      ]
+     ]
+    },
+    {
+     "claim": "Kim Kardashian rozesłała fałszywe zdjęcia noworodka",
+     "verdict": "nie da się sprawdzić",
+     "note": "Brak pewnego źródła potwierdzającego tę historię.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): pułapka kanarkowa - hasło \"Canary trap\"",
+       "https://en.wikipedia.org/wiki/Canary_trap"
+      ]
+     ]
+    },
+    {
+     "claim": "Mapy zawierały fikcyjne miasta, np. Argleton",
+     "verdict": "półprawda",
+     "note": "Argleton istniał w Google Maps, ale nie wiadomo, czy był celową pułapką.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): Argleton",
+       "https://en.wikipedia.org/wiki/Argleton"
+      ],
+      [
+       "Wikipedia (ang.): fikcyjne hasła - hasło \"Fictitious entry\"",
+       "https://en.wikipedia.org/wiki/Fictitious_entry"
+      ]
+     ]
+    },
+    {
+     "claim": "Adresy pułapki służą do wykrywania spamerów",
+     "verdict": "prawda",
+     "note": "Spamtrapy to standardowe narzędzie list blokujących.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Spamtrap",
+       "https://en.wikipedia.org/wiki/Spamtrap"
+      ]
+     ]
+    },
+    {
+     "claim": "Honeypoty zbierają dane o atakach i marnują czas atakujących",
+     "verdict": "prawda",
+     "note": "To opisane zastosowania honeypotów badawczych i produkcyjnych.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): honeypot - hasło \"Honeypot (computing)\"",
+       "https://en.wikipedia.org/wiki/Honeypot_(computing)"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny i lekki przegląd. Historia o antywirusach bez nazw i źródeł, w środku reklama szkolenia autora."
+  },
+  {
    "id": "zOJmrekJx30",
    "title_pl": "Sztuczki flirtu tak skuteczne, że wydają się oszustwem",
    "title": "Flirting Tricks So Effective They Feel Like Cheating",
