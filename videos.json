@@ -1,6 +1,148 @@
 {
  "videos": [
   {
+   "id": "-Zh94z4L3DQ",
+   "title_pl": "Scamy AI, które używają Twojego głosu przeciwko Tobie",
+   "title": "Scams That Use Your Own Voice Against You",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=-Zh94z4L3DQ",
+   "date": "2026-11-06",
+   "duration": 532,
+   "views": 634,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika",
+    "Psychologia",
+    "Mity"
+   ],
+   "about": "Od klonowania głosu dziecka po vishing i przelewy firmowe: jak AI zamienia Twój głos w narzędzie oszustwa.",
+   "intro": "Chill Dude Explains tłumaczy, jak tanie narzędzia do klonowania głosu zamieniają nagrania z TikToka, Instagrama czy poczty głosowej w broń. Wystarczy kilka sekund audio, by AI odwzorowało wysokość, rytm i manieryzmy, a potem powiedziało cokolwiek.\n\nFilm to odliczanie od 9 do 1: od fałszywego porwania i harvestu głosu na \"rozmowie kwalifikacyjnej\", przez vishing i biometrię bankową, aż po podszywanie się pod szefa przy przelewie. Cel: pokazać, że panic i zaufanie do uszu są dziś główną luką.",
+   "points": [
+    {
+     "t": "9-8: koszmarny telefon i reguła 3 sekund",
+     "d": "**Według autora wystarczy ok. 3 sekund Twojego głosu, by darmowa aplikacja zrobiła klon mówiący cokolwiek.** Scamer ściąga film ze szkolnego spektaklu albo story z \"dzień dobry\", wrzuca do AI i dzwoni: słyszysz krzyk dziecka, potem mężczyznę żądającego pieniędzy i zakazującego rozłączenia.\n\nAutor przytacza Jennifer De Stefano z Arizony (2023): usłyszała szloch 15-letniej córki; dziewczyna była bezpieczna na wyjeździe narciarskim. Klasyczny scam na dziadków dostaje upgrade: babcia w Kanadzie według filmu przelała 9000 USD, bo \"wnuk\" prosił o kaucję z klonu z filmiku urodzinowego."
+    },
+    {
+     "t": "7: fałszywa rozmowa o pracę",
+     "d": "**Oferta pracy na prawdziwym portalu, potem \"pierwsza runda\" tylko głosem na platformie nagrywającej - to harvest studia, nie rekrutacja.** Przez 45 minut mówisz imię, doświadczenie i pełne zdania bez szumu; AI potrzebuje według autora ok. 30 sekund czystego audio, a Ty dajesz kwadrans materiału studyjnego.\n\nGłos trafia potem na czarny rynek pod scamy finansowe. Czerwone flagi: brak wideo, pełna automatyzacja, zero kontaktu z żywym rekruterem. Szukasz pracy, więc jesteś w trybie \"zrobić wrażenie\", nie \"podejrzyj\"."
+    },
+    {
+     "t": "6-5: vishing i hasło głosowe banku",
+     "d": "**Vishing (voice phishing): SMS \"od banku\" z numerem do oddzwonienia; automat prosi, byś powiedział imię i frazę w stylu \"autoryzuję transakcję\".** Nagrywają Cię i odtwarzają to prawdziwemu bankowi. Prawdziwy bank według autora nie wyśle SMS-em numeru do oddzwonienia - dzwonisz na numer z karty.\n\nCzęść banków używa biometrii głosowej jako hasła (\"My voice is my password\"). Autor powołuje się na test Vice z 2023: sklonowany głos dziennikarza przeszedł system za pierwszym razem. Rada: zapytaj bank, czy masz voice ID, wypisz się i wymuś PIN albo drugie hasło."
+    },
+    {
+     "t": "4 i 3: fałszywy dowód i słowo bezpieczeństwa",
+     "d": "**Klon może \"przyznać się\" do przestępstwa albo grozić - nagranie idzie na policję, do sieci albo do pracodawcy.** Autor podkreśla, że prawo wciąż ufa audio, a większość komisariatów nie ma narzędzi forensycznych; ciężar dowodu spada na Ciebie (timestampy, lokalizacja, prawnik).\n\nObrona rodzinna bez techu: wspólne tajne słowo, którego nie ma w internecie (nie imię psa). Prawdziwy bliski je poda; scam będzie naciskał na pośpiech. Potem oddzwaniasz na numer, który już masz, nie na ten z połączenia."
+    },
+    {
+     "t": "2-1: odcisk emocji i hijack firmowy",
+     "d": "**Nowoczesne AI według autora nie kopiuje tylko słów, lecz \"odcisk emocji\": strach, pęknięty głos, krótki oddech.** Cel to kilka sekund amygdala hijack, gdy reakcja wyprzedza myślenie - matka słyszy nie treść, tylko emocję znaną od lat.\n\nNumer 1: cichy uczestnik Zoomu nagrywa szefów, potem dzwoni do finansów sklonowanym głosem CEO z pilnym przelewem \"tylko między nami\". Autor podaje Hongkong: menedżer przelał ok. 35 mln USD po klonie dyrektora z publicznych wywiadów. Rada firmowa: żaden przelew tylko telefonicznie; waiting room i weryfikacja uczestników."
+    }
+   ],
+   "conclusion": "Autor chce, byś przestał ufać uszom w panice: głos da się sklonować z publicznych sekund, a pośpiech jest częścią ataku. Słowo bezpieczeństwa w rodzinie, oddzwanianie na znany numer i drugi kanał przy przelewach to według niego najtańsza tarcza.",
+   "factchecks": [
+    {
+     "claim": "Jennifer DeStefano (Arizona, 2023) dostała telefon z \"porwaną\" córką - głos sklonowany AI.",
+     "verdict": "półprawda",
+     "note": "Incydent i zeznanie w Senacie USA są potwierdzone; użycie AI jest jej przekonaniem, nie wyrokiem sądu.",
+     "p": 0,
+     "src": [
+      [
+       "NBC News: sprawa Jennifer DeStefano",
+       "https://www.nbcnews.com/tech/security/ai-voice-cloning-scam-kidnapping-jennifer-destefano-rcna78947"
+      ],
+      [
+       "The Guardian: zeznanie o scamie AI",
+       "https://www.theguardian.com/us-news/2023/jun/14/ai-kidnapping-scam-senate-hearing-jennifer-destefano"
+      ],
+      [
+       "CNN: virtual kidnapping i AI",
+       "https://www.cnn.com/2023/04/29/us/ai-scam-calls-kidnapping-cec"
+      ]
+     ]
+    },
+    {
+     "claim": "Do sklonowania głosu wystarczą ok. 3 sekundy nagrania.",
+     "verdict": "półprawda",
+     "note": "Krótkie próbki reklamują narzędzia consumer; skuteczny bypass banku w teście Vice wymagał minut mowy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): audio deepfake",
+       "https://en.wikipedia.org/wiki/Audio_deepfake"
+      ],
+      [
+       "azfamily: ekspert ASU o 3 sekundach",
+       "https://www.azfamily.com/2023/04/10/ive-got-your-daughter-scottsdale-mom-warns-close-encounter-with-ai-voice-cloning-scam/"
+      ]
+     ]
+    },
+    {
+     "claim": "Dziennikarz Vice w 2023 wszedł do konta bankowego sklonowanym głosem.",
+     "verdict": "prawda",
+     "note": "Joseph Cox (Motherboard) przeszedł Voice ID Lloyds własnym klonem z ElevenLabs.",
+     "p": 2,
+     "src": [
+      [
+       "Vice: How I Broke Into a Bank Account With an AI-Generated Voice",
+       "https://www.vice.com/en/article/how-i-broke-into-a-bank-account-with-an-ai-generated-voice/"
+      ],
+      [
+       "Biometric Update: opis testu",
+       "https://www.biometricupdate.com/202302/journalist-uses-ai-voice-to-break-into-own-bank-account"
+      ]
+     ]
+    },
+    {
+     "claim": "Vishing to phishing głosowy: nagrane zgody odtwarza się bankowi.",
+     "verdict": "prawda",
+     "note": "Voice phishing to uznana technika: spoofing numeru i wyłudzenie haseł albo autoryzacji.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): voice phishing",
+       "https://en.wikipedia.org/wiki/Voice_phishing"
+      ]
+     ]
+    },
+    {
+     "claim": "W Hongkongu menedżer przelał ok. 35 mln USD po sklonowanym głosie dyrektora.",
+     "verdict": "prawda",
+     "note": "Sprawa ok. 2020: deepfake głos dyrektora + maile; osobno jest późniejszy scam wideo na ok. 25 mln USD.",
+     "p": 4,
+     "src": [
+      [
+       "MIT AI Risk: incydent Hongkong 35 mln USD",
+       "https://airisk.mit.edu/ai-incidents/147-reported-ai-cloned-voice-used-to-deceive-hong-kong-bank"
+      ],
+      [
+       "Wikipedia (ang.): deepfake",
+       "https://en.wikipedia.org/wiki/Deepfake"
+      ]
+     ]
+    },
+    {
+     "claim": "Scam na dziadków z klonem głosu wnuka to realny wariant classic grandparent scam.",
+     "verdict": "prawda",
+     "note": "Grandparent scam istnieje od lat; AI voice cloning jest udokumentowanym upgrade'em tej metody.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): grandparent scam",
+       "https://en.wikipedia.org/wiki/Grandparent_scam"
+      ],
+      [
+       "Futurism: klon głosu vs bank",
+       "https://futurism.com/the-byte/journalist-clones-voice-break-into-bank"
+      ]
+     ]
+    }
+   ],
+   "bias": "Katalog scare-content: anegdoty i rady bez metodologii; \"3 sekundy\" i czarny rynek uproszczone. Brak danych o skali vs klasyczne scamy."
+  },
+  {
    "id": "yY4Z-E1ieII",
    "title_pl": "Co wolno władzy, a zwykłym ludziom nie",
    "title": "Things That Are Legal For Them But Not For Us",
@@ -245,6 +387,92 @@
     }
    ],
    "bias": "Jednostronny katalog nadużyć władzy w USA bez kontrargumentów o kontroli i reformach; liczby i anegdoty czasem uproszczone pod efekt."
+  },
+  {
+   "id": "vWafgMfVWWw",
+   "title_pl": "Tanie hobby, które robią Cię ciekawszym",
+   "title": "Inexpensive Hobbies That Make You More Interesting",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=vWafgMfVWWw",
+   "date": "2026-11-05",
+   "duration": 632,
+   "views": 18484,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Psychologia",
+    "Historia",
+    "Nauka"
+   ],
+   "about": "Ranking 10 niedrogich hobby: od krzemienia i cyfrowej archeologii po kryptografię, ptaki i magnet fishing.",
+   "intro": "Chill Dude Explains robi ranking tanich hobby, które dają historię do opowiedzenia zamiast kolejnego scrollowania. Każdy punkt to hobby z niskim progiem wejścia (często poniżej kilkudziesięciu dolarów) i konkretnym \"dlaczego warto\".\n\nLista idzie od 10. do 1.: od ręcznego łupania krzemienia, przez Wayback Machine, szyfry i birdwatching, aż po magnet fishing. Cel: pokazać, że ciekawość nie wymaga drogiego sprzętu.",
+   "points": [
+    {
+     "t": "10-9: flintknapping i cyfrowa archeologia",
+     "d": "**Flintknapping to łupanie krzemienia lub obsydianu w ostrza ostrzejsze według autora od skalpeli.** Fizyka fali uderzeniowej pozwala kontrolować odłupki; materiały kosztują ok. 15-20 USD, ale początkujący dużo się tną. Badania według filmu łączą to z obszarami mózgu od języka i planowania.\n\nCyfrowa archeologia: po kasacji GeoCities (2009) Archive Team uratował ok. 650 GB stron. Narzędzie to Wayback Machine (setki miliardów zrzutów od 1996) - czytasz martwe fora jak skamieliny."
+    },
+    {
+     "t": "Środek listy: szyfry i ptaki",
+     "d": "**Kryptografia zaczyna się od ołówka i papieru, a kończy na rozumieniu haseł i szyfrowania.** Autor wspomina nierozwiązane zagadki jako motywację do myślenia wzorcami.\n\nBirdwatching: gołębie jako żywe dinozaury; sójki, przedrzeźniacze i kruki z pamięcią twarzy. Anegdota: kobieta w Seattle po przypadkowym uderzeniu kruka była atakowana przez stado przez 2 lata."
+    },
+    {
+     "t": "1: magnet fishing",
+     "d": "**Magnet fishing: neodymowy magnes na linie wrzucasz do rzeki i wyciągasz metalowe sekrety.** Start ok. 30-50 USD (magnes, lina, rękawice). Zwykle śruby i wózki, czasem sejfy, broń, a w Holandii ktoś według autora wyciągnął bombę z II wojny.\n\nPuenta: rzeki to stare śmietniki cywilizacji; hobby łączy historię z czasem na świeżym powietrzu."
+    }
+   ],
+   "conclusion": "Autor sprzedaje prostą tezę: tanie hobby z rzemiosłem, historią albo zagadką robi Cię ciekawszym rozmówcą niż kolejna subskrypcja. Nie trzeba bogatego ekwipunku - wystarczy ciekawość i trochę ryzyka.",
+   "factchecks": [
+    {
+     "claim": "Obsydianowe ostrza bywają ostrzejsze od stalowych skalpeli.",
+     "verdict": "prawda",
+     "note": "Krawędź obsydianu może mieć grubość rzędu kilku nanometrów; bywa w mikrochirurgii eksperymentalnej.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): obsydian",
+       "https://en.wikipedia.org/wiki/Obsidian"
+      ],
+      [
+       "Wikipedia (ang.): flintknapping",
+       "https://en.wikipedia.org/wiki/Flintknapping"
+      ]
+     ]
+    },
+    {
+     "claim": "Wayback Machine archiwizuje sieć od 1996; GeoCities skasowano w 2009.",
+     "verdict": "prawda",
+     "note": "Internet Archive uruchomił Wayback z danymi od 1996; Yahoo zamknął GeoCities USA w 2009.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Wayback Machine",
+       "https://en.wikipedia.org/wiki/Wayback_Machine"
+      ],
+      [
+       "Wikipedia (ang.): GeoCities",
+       "https://en.wikipedia.org/wiki/GeoCities"
+      ]
+     ]
+    },
+    {
+     "claim": "Kruki rozpoznają twarze ludzi i potrafią trzymać uraz.",
+     "verdict": "prawda",
+     "note": "Badania na wronach i krukach pokazują pamięć twarzy i przekazywanie informacji w stadzie.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): crow",
+       "https://en.wikipedia.org/wiki/Crow"
+      ],
+      [
+       "PubMed: rozpoznawanie twarzy u wron",
+       "https://pubmed.ncbi.nlm.nih.gov/21613592/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ranking rozrywkowy: liczby i anegdoty (bomba, Seattle) bez źródeł w filmie. Magnet fishing bagatelizuje ryzyko niewybuchów."
   },
   {
    "id": "78OCnXhh2tY",
@@ -2671,6 +2899,142 @@
    "bias": "Format top-10 upraszcza inżynierię i kontekst ekologii (odkrywki węgla). Ton podziwu dla skali; sponsoring w transkrypcie niewidoczny."
   },
   {
+   "id": "V3JuO5eH8E8",
+   "title_pl": "Dziwne gadżety wellness, które naprawdę działają",
+   "title": "Weird Wellness Gadgets That Actually Do Something",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=V3JuO5eH8E8",
+   "date": "2026-11-01",
+   "duration": 684,
+   "views": 50269,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Psychologia",
+    "Technika"
+   ],
+   "about": "Ranking gadżetów: mata z kolcami, korektor postawy, buty kompresyjne, neurofeedback, float tank, kombinezon EMS.",
+   "intro": "Chill Dude Explains przegląda dziwne gadżety wellness, które wyglądają jak rekwizyty z low-budget sci-fi, ale mają sens fizjologiczny. Format: od 10. do 1., przy każdym: jak działa, co czujesz i jakie ryzyko.\n\nTematy: ból i stres (mata z kolcami, float), postawa, regeneracja nóg, trening mózgu EEG oraz elektryczna stymulacja mięśni. Cel: oddzielić gadżet od placebo bez obiecywania cudów.",
+   "points": [
+    {
+     "t": "Mata z kolcami i korektor postawy",
+     "d": "**Mata z tysiącami plastikowych kolców boli przez ok. minutę, potem mózg poddaje się i zalewa endorfinami.** Autor tłumaczy to teorią bramki bólu: sygnały ucisku zamykają drogę chronicznemu bólowi; spada też kortyzol.\n\nKorektor postawy wibruje przy garbieniu (akcelerometr). Przeciwdziała adaptacji nerwowej, przez którą nie zauważasz, że stajesz się \"krewetką\" nad klawiaturą; cel to wytrenować czucie pozycji."
+    },
+    {
+     "t": "Kompresja, EEG, float",
+     "d": "**Buty kompresyjne pompują nogi od dołu (sekwencyjna kompresja) i wspomagają powrót krwi oraz limfy po wysiłku.** Opaska EEG czyta fale: beta = burza w apce, alpha = spokój; to klasyczny neurofeedback.\n\nFloat tank: ciemna, cicha wanna z gęstą solą Epsom - mózg traci bodźce zewnętrzne. Metafora autora: force quit 47 kart przeglądarki."
+    },
+    {
+     "t": "1: kombinezon EMS i ryzyko",
+     "d": "**Kombinezon EMS omija mózg i stymuluje mięśnie elektrodami; według filmu 20 min może aktywować do 90% włókien vs 30-40% na siłowni.** NASA używa EMS przeciw zanikowi u astronautów.\n\nOstrzeżenie: zbyt mocno = rabdomioliza (rozpad mięśni, zagrożenie nerek). Zaczynać wolno z trenerem."
+    }
+   ],
+   "conclusion": "Autor broni gadżetów, które mają mechanizm (ból i bramka, feedback, kompresja, EMS), nie magię. Równocześnie podkreśla: EMS bez głowy jest niebezpieczne, a mata z kolcami nadal boli - tylko potem robi się znośnie.",
+   "factchecks": [
+    {
+     "claim": "Teoria bramki bólu tłumaczy ulgę przy silnym ucisku.",
+     "verdict": "prawda",
+     "note": "Gate control theory (Melzack i Wall) to klasyczny model modulacji bólu.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): gate control theory",
+       "https://en.wikipedia.org/wiki/Gate_control_theory"
+      ]
+     ]
+    },
+    {
+     "claim": "Neurofeedback trenuje fale mózgowe przez natychmiastowy feedback.",
+     "verdict": "prawda",
+     "note": "Metoda kliniczna z dowodami m.in. przy ADHD i lęku; jakość badań bywa mieszana.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): neurofeedback",
+       "https://en.wikipedia.org/wiki/Neurofeedback"
+      ]
+     ]
+    },
+    {
+     "claim": "Zbyt intensywne EMS może wywołać rabdomiolizę.",
+     "verdict": "prawda",
+     "note": "Opisy przypadków łączą agresywne sesje EMS z rabdomiolizą.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): electrical muscle stimulation",
+       "https://en.wikipedia.org/wiki/Electrical_muscle_stimulation"
+      ],
+      [
+       "Wikipedia (ang.): rhabdomyolysis",
+       "https://en.wikipedia.org/wiki/Rhabdomyolysis"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ton sprzedażowy gadżetów; liczby (90% włókien) bez cytowań. EMS i float przedstawione optymistycznie mimo kosztów."
+  },
+  {
+   "id": "HOOb5tJRhPA",
+   "title_pl": "Perfumy-sygnatury dla tych, co chcą pachnieć inaczej",
+   "title": "10/10 Signature Fragrances For Those Who Want To Stand Out | Men’s Cologne/Perfume Review 2026",
+   "channel": "School of Scent",
+   "url": "https://www.youtube.com/watch?v=HOOb5tJRhPA",
+   "date": "2026-11-01",
+   "duration": 664,
+   "views": 15281,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [],
+   "about": "School of Scent: animaliczne i skórzane DNA (YSL Kouros, Fahrenheit, klony Tuscan Leather) poza masowym freshem.",
+   "intro": "School of Scent broni trudniejszych perfum, które nie wszystkim się spodobają, ale budują rozpoznawalną sygnaturę - zwłaszcza jesienią i zimą. Kontrast: masowy fresh vs angażujące, polarizujące DNA.\n\nLista obejmuje m.in. YSL Kouros (animalic lat 80.), warianty w stylu Fahrenheit oraz skórzano-dymne kompozycje a la Tuscan Leather. Ton: nie bój się animaliki, spróbuj w sklepie.",
+   "points": [
+    {
+     "t": "Kouros i animalika",
+     "d": "**YSL Kouros to według autora mistrzostwo animaliczne: piżmowo-cywetowe, a jednocześnie czyste lawendowo-barbershopowe ramy lat 80.** Hyper-męski zapach z epoki mocnego przykrywania dymu. Wydajność ok. 10 h, projekcja średnia-głośna - kilka psikań wystarczy.\n\nCel listy: otworzyć horyzont poza bezpiecznym designer fresh."
+    },
+    {
+     "t": "Fahrenheit i skóra",
+     "d": "**Fahrenheit i podobne: zieleń, liść fiołka, paliwowa ostrość, skóra - sexy bad-boy, ale zadbany.** Autor lubi je jako historię i charakter.\n\nRasasi La Yuqawam (ok. 90-95% podobieństwa do Tuscan Leather według filmu): elegancka, dymno-skórzana, bursztynowa; mocna projekcja - w biurze oszczędnie."
+    },
+    {
+     "t": "Dla kogo ta lista",
+     "d": "**To nie są bezpieczne compliment monsters na pierwszą randkę w upale.** Raczej zimniejsza pogoda i osoba gotowa na to, że nie każdy pokiwa z uznaniem.\n\nNa koniec honorowe wzmianki i pytanie: grasz bezpiecznie czy lubisz dziwne DNA?"
+    }
+   ],
+   "conclusion": "School of Scent namawia: sygnatura ma Cię wyróżniać, nie tylko zbierać łatwe komplementy. Animalika i skóra wymagają próbek w sklepie i lekkiej ręki przy atomizerze.",
+   "factchecks": [
+    {
+     "claim": "YSL Kouros (1981) to klasyczny męski zapach z nutami animalicznymi.",
+     "verdict": "prawda",
+     "note": "Kouros Pierre'a Bourdona jest ikoną głośnej, civetowo-piżmowej szkoły lat 80.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Kouros (perfume)",
+       "https://en.wikipedia.org/wiki/Kouros_(perfume)"
+      ]
+     ]
+    },
+    {
+     "claim": "Dior Fahrenheit ma profil z liściem fiołka i nutą benzynową.",
+     "verdict": "prawda",
+     "note": "Fahrenheit jest znany z nietypowej, ostro-zielonej i skórzanej kompozycji.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Fahrenheit (perfume)",
+       "https://en.wikipedia.org/wiki/Fahrenheit_(perfume)"
+      ]
+     ]
+    }
+   ],
+   "bias": "Subiektywny gust autora; procenty klonu Tuscan Leather bez ślepych testów. Film zachęca do zakupów mocnych flakonów."
+  },
+  {
    "id": "OE4reSHHj_8",
    "title_pl": "Mało znane strony, które robią cię niebezpiecznie mądrym",
    "title": "Obscure Websites That Will Make You Dangerously Smart",
@@ -4347,6 +4711,88 @@
    "bias": "Romantyzacja Camelot i \"geniuszu\" EDC. Mało krytyki polityki; fokus na obiekty luksusowe i narrację gentlemana."
   },
   {
+   "id": "i8beLcndoOw",
+   "title_pl": "Trendy zdrowotne, które brzmią jak wymysł, a działają",
+   "title": "Health Trends That Sound Made Up But Actually Work",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=i8beLcndoOw",
+   "date": "2026-10-25",
+   "duration": 567,
+   "views": 31848,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Psychologia",
+    "Nauka"
+   ],
+   "about": "Od laughter yoga i jednego orzecha brazylijskiego po coffee nap, tapowanie ust i zanurzenie twarzy w lodowatej wodzie.",
+   "intro": "Chill Dude Explains zbiera dziwne triki zdrowotne, które brzmią jak internetowy mit, a mają prosty mechanizm biologiczny. Ranking od 10. do 1.: każdy punkt to procedura i dlaczego ciało reaguje.\n\nWśród nich: wymuszony śmiech, precyzyjna dawka selenu, jedzenie niedominującą ręką, coffee nap, oddychanie nosem w nocy i zanurzenie twarzy w lodzie przy panice.",
+   "points": [
+    {
+     "t": "Śmiech, selen, niedominująca ręka",
+     "d": "**Laughter yoga (od 1995, Indie): mózg nie odróżnia fałszywego śmiechu od prawdziwego i puszcza endorfiny.** Według filmu 10 minut obniża kortyzol; często fałszywy śmiech przechodzi w prawdziwy przez absurd sytuacji.\n\nJeden orzech brazylijski dziennie: ogrom selenu dla tarczycy; więcej grozi toksycznością. Jedzenie niedominującą ręką spowalnia posiłek - mózg potrzebuje ok. 20 min na sytość; badanie według autora: ok. 30% mniej jedzenia."
+    },
+    {
+     "t": "Coffee nap i oddychanie nosem",
+     "d": "**Coffee nap: wypijasz kawę i od razu drzemiesz ok. 20 min.** Kofeina działa z opóźnieniem; drzemka czyści adenozynę, potem kofeina blokuje jej receptory. Za długa drzemka pogarsza samopoczucie.\n\nTapowanie ust na noc ma wymusić oddychanie nosem (filtr, nawilżenie). Mouth breathing suszy i pomija filtr nosa."
+    },
+    {
+     "t": "1: lodowate zanurzenie twarzy",
+     "d": "**Przy panice zanurzasz twarz w misce z lodowatą wodą: odpala się ssaczy odruch nurkowy.** Tętno spada, krew idzie do ważnych narządów, układ nerwowy wraca z trybu alarmu w sekundy.\n\nTerapeuci lęku według autora przepisują to jako narzędzie kliniczne: logika nie dochodzi do mózgu w panic mode, a zimno tak."
+    }
+   ],
+   "conclusion": "Wspólny motyw: wykorzystaj biologiczne \"bugi\" (fałszywy śmiech, timing kofeiny, odruch nurkowy) zamiast czekać na skomplikowane rozwiązanie. Proste nie znaczy placebo - ale dawki (selen) i czas (20 min drzemki) mają znaczenie.",
+   "factchecks": [
+    {
+     "claim": "Orzech brazylijski ma wyjątkowo dużo selenu; nadmiar jest toksyczny.",
+     "verdict": "prawda",
+     "note": "Jeden orzech często pokrywa lub przekracza RDA; chroniczny nadmiar powoduje selenozę.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Brazil nut",
+       "https://en.wikipedia.org/wiki/Brazil_nut"
+      ],
+      [
+       "Wikipedia (ang.): selenium",
+       "https://en.wikipedia.org/wiki/Selenium"
+      ]
+     ]
+    },
+    {
+     "claim": "Coffee nap poprawia czujność lepiej niż sama kawa lub sama drzemka.",
+     "verdict": "prawda",
+     "note": "Badania nad caffeine nap pokazują synergię krótkiej drzemki z kofeiną.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): power nap",
+       "https://en.wikipedia.org/wiki/Power_nap"
+      ],
+      [
+       "PubMed: caffeine and nap alertness",
+       "https://pubmed.ncbi.nlm.nih.gov/9401427/"
+      ]
+     ]
+    },
+    {
+     "claim": "Zimno na twarz uruchamia mammalian dive reflex i spowalnia tętno.",
+     "verdict": "prawda",
+     "note": "Odruch nurkowy u ssaków: bradykardia przy zimnej wodzie na twarz.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): diving reflex",
+       "https://en.wikipedia.org/wiki/Diving_reflex"
+      ]
+     ]
+    }
+   ],
+   "bias": "Uproszczone \"badania pokazują\" bez cytowań; mouth taping przedstawione entuzjastycznie mimo kontrowersji bezpieczeństwa."
+  },
+  {
    "id": "1xWbPuZWtR0",
    "title_pl": "Leniwe sposoby, by uczyć się dwa razy szybciej",
    "title": "Lazy Ways To Learn Anything Twice As Fast",
@@ -4868,6 +5314,149 @@
    "bias": "Sponsoring Patreona i sample autora; porównanie Avatara oparte na jego egzemplarzu i subiektywnej ocenie brzmienia. Ton entuzjastyczno-historyczny."
   },
   {
+   "id": "sh9MAPj4XZY",
+   "title_pl": "Zawody tak nowe, że jeszcze nie mają nazwy",
+   "title": "Jobs So New They Don't Have a Name Yet",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=sh9MAPj4XZY",
+   "date": "2026-10-22",
+   "duration": 690,
+   "views": 31627,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika",
+    "Nauka",
+    "Psychologia"
+   ],
+   "about": "Od sprzątacza śmieci orbitalnych i technika sztucznej macicy po bioprinter chef i menedżera cyfrowych duchów.",
+   "intro": "Chill Dude Explains listuje zawody na styku sci-fi i już powstających technologii: sprzątanie orbity, sztuczne macice, edycja pamięci, druk jedzenia, ochrona interfejsów mózg-komputer i post mortem social media.\n\nTon jest pół żartem, pół ostrzeżeniem: te role brzmią absurdalnie, ale odpowiadają na realne problemy (Kessler, wcześniaki, Neuralink, cmentarze na Facebooku).",
+   "points": [
+    {
+     "t": "Śmieci orbitalne i sztuczne macice",
+     "d": "**Janitor orbity ma łapać ponad 27 000 dużych odłamków pędzących z prędkością orbitalną.** Energia kinetyczna małego bolca jak granat. Misja ESA ClearSpace-1 ma złapać jeden obiekt i spalić go w atmosferze. Syndrom Kesslera (1978): łańcuch zderzeń może zamknąć orbitę.\n\nTechnik sztucznej macicy: bio-bag z 2017 utrzymywał wcześniacze jagnięta; człowiek pilnuje płynów, tlenu i sterylności."
+    },
+    {
+     "t": "Pamięć, druk jedzenia, BCI",
+     "d": "**Edycja pamięci: u myszy optogenetyka kasuje konkretny strach bez reszty wspomnień.** Autor ekstrapoluje przyszły zawód memory editor.\n\nBioprinter chef układa warstwy białek i tłuszczów jak drukarka 3D - problem to smak niczego; NASA myśli o kartridżach na Marsa. Specjalista anty-hijackingu BCI: skoro chip czyta mózg, ktoś musi bronić przed kradzieżą sygnału."
+    },
+    {
+     "t": "1: digital ghost manager",
+     "d": "**Ok. 8000 użytkowników Facebooka umiera dziennie; według szacunku z filmu do 2070 martwi mogą przewyższyć żywych.** Rodziny płacą za utrzymanie profilu: urodziny, throwbacki, głos zmarłego.\n\nZawód wymaga idealnego naśladowania stylu - błąd wychodzi od razu. Autor: śmierć nie usprawiedliwia spadku engagement."
+    }
+   ],
+   "conclusion": "Film nie rekrutuje do tych prac - pokazuje, że technologia tworzy role opiekunów systemów na granicy życia, śmierci i orbity. Najmocniejsza puenta: internet staje się cmentarzem, a ktoś już wystawia faktury za duchy.",
+   "factchecks": [
+    {
+     "claim": "Syndrom Kesslera: łańcuch zderzeń śmieci może uczynić orbitę niebezpieczną.",
+     "verdict": "prawda",
+     "note": "Model Donalda Kesslera z 1978 jest standardem w dyskusji o debris.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Kessler syndrome",
+       "https://en.wikipedia.org/wiki/Kessler_syndrome"
+      ],
+      [
+       "Wikipedia (ang.): space debris",
+       "https://en.wikipedia.org/wiki/Space_debris"
+      ]
+     ]
+    },
+    {
+     "claim": "W 2017 pokazano biobag utrzymujący wcześniacze jagnięta.",
+     "verdict": "prawda",
+     "note": "Zespół z CHOP opisał system sztucznej macicy u jagniąt.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): artificial womb",
+       "https://en.wikipedia.org/wiki/Artificial_womb"
+      ]
+     ]
+    },
+    {
+     "claim": "Optogenetyka pozwala manipulować konkretnymi engramami pamięci u myszy.",
+     "verdict": "prawda",
+     "note": "Prace m.in. z MIT pokazują aktywację lub wygaszanie określonych wspomnień światłem.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): optogenetics",
+       "https://en.wikipedia.org/wiki/Optogenetics"
+      ]
+     ]
+    }
+   ],
+   "bias": "Spekulacja zawodów wyprzedza rynek; liczby Facebooka bez źródła w napisach. Ton clickbaitowy przy realnych technologiach."
+  },
+  {
+   "id": "awV7FP9sAHE",
+   "title_pl": "Co się stało z metalowymi pożarowymi schodami pożarowymi",
+   "title": "Whatever Happened to Fire Escapes?",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=awV7FP9sAHE",
+   "date": "2026-10-20",
+   "duration": 1087,
+   "views": 1031264,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika",
+    "Historia"
+   ],
+   "about": "Practical Engineering: skąd wzięły się fire escapes w USA, katastrofy które je wymusiły i dlaczego dziś znikają z nowych budynków.",
+   "intro": "Grady Hillhouse (Practical Engineering) opowiada historię amerykańskich zewnętrznych schodów pożarowych - od kamienic XIX w. po dzisiejsze przepisy. Pytanie: dlaczego kiedyś były wszędzie, a nowe budynki ich prawie nie mają?\n\nFilm łączy chronologię katastrof (m.in. Triangle Shirtwaist 1911), ekonomię tanich zewnętrznych drabinek zamiast przebudowy klatek oraz ewolucję nowoczesnych, wewnętrznych dróg ewakuacji.",
+   "points": [
+    {
+     "t": "XIX w.: pożary kamienic bez wyjścia",
+     "d": "**W połowie XIX w. gęste tenementy w USA paliły się jak pułapki: drabiny straży sięgały tylko kilku pięter.** Po pożarze piekarni w 1860 (sześciopiętrowy budynek, 10 ofiar) prasa i prawo w Nowym Jorku zaczęły wymagać ognioodpornej klatki albo zewnętrznej drogi ucieczki - także w istniejących budynkach.\n\nPrzebudowa wewnętrznych schodów była droga, więc właściciele wybierali tanie zewnętrzne konstrukcje. Egzekucja bywała słaba, ale tam gdzie modernizowano - prawie zawsze na zewnątrz."
+    },
+    {
+     "t": "Triangle Shirtwaist 1911",
+     "d": "**Pożar fabryki Triangle Shirtwaist zabił ponad 140 osób, głównie młode robotnice.** Drzwi były zablokowane, zewnętrzne wyjścia niewystarczające. Tragedia przyspieszyła reformy budowlane i bezpieczeństwa pracy w USA.\n\nFire escape stał się ikoną miejskiego krajobrazu, ale też symbolem kompromisu: lepiej coś niż nic, choć konstrukcje bywały wąskie, zardzewiałe i zastawione."
+    },
+    {
+     "t": "Dlaczego znikają",
+     "d": "**Współczesne kodeksy wolą chronione, wewnętrzne drogi ewakuacji, tryskacze i kompartmentację niż rustykalne metalowe drabiny.** Zewnętrzne schody korodują, zamarzają, bywają nielegalnie zabudowane balkonami.\n\nAutor pokazuje też dziwne XIX-wieczne pomysły (rury, zjeżdżalnie, kosze). Puenta inżynierska: lepszy system to taki, którego mieszkańcy używają codziennie (klatka), a nie tylko w panice."
+    }
+   ],
+   "conclusion": "Fire escape to artefakt epoki, w której prawo wymusiło tanią zewnętrzną ucieczkę zamiast przebudowy wnętrz. Dziś inżynieria poszła w sprinklery i chronione klatki - mniej romantycznie, bezpieczniej.",
+   "factchecks": [
+    {
+     "claim": "Pożar Triangle Shirtwaist (1911) zabił ponad 140 osób.",
+     "verdict": "prawda",
+     "note": "Oficjalnie 146 ofiar; kluczowa katastrofa dla prawa pracy i przepisów budowlanych w USA.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Triangle Shirtwaist Factory fire",
+       "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire"
+      ]
+     ]
+    },
+    {
+     "claim": "Po połowie XIX w. Nowy Jork wymagał zewnętrznej lub ognioodpornej drogi ucieczki w tenementach.",
+     "verdict": "prawda",
+     "note": "Kolejne nowojorskie tenement acts narzucały poprawę wyjść ewakuacyjnych.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): fire escape",
+       "https://en.wikipedia.org/wiki/Fire_escape"
+      ],
+      [
+       "Wikipedia (ang.): Tenement House Act",
+       "https://en.wikipedia.org/wiki/New_York_State_Tenement_House_Act"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa USA i Practical Engineering; sponsorowane wzmianki o tourach/książce na końcu nie dotyczą meritum."
+  },
+  {
    "id": "hGguYFncLUI",
    "title_pl": "Przetestowałem Grok Bot: czego nie mówią inni",
    "title": "I Tested Grok Bot - Here's What They're NOT Telling You",
@@ -4987,6 +5576,67 @@
    ],
    "bias": "Najbardziej krytyczna recenzja z tej grupy, ale autor reklamuje własną płatną usługę AI makeover, a kilka zarzutów jest nieścisłych.",
    "section": "Technologie"
+  },
+  {
+   "id": "Jxu7Lrxu7nE",
+   "title_pl": "Historia baklawy - króla słodyczy",
+   "title": "The History of Baklava - The King of Sweets",
+   "channel": "Tasting History with Max Miller",
+   "url": "https://www.youtube.com/watch?v=Jxu7Lrxu7nE",
+   "date": "2026-10-13",
+   "duration": 1676,
+   "views": 1257264,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Historia",
+    "Natura"
+   ],
+   "about": "Tasting History: skąd wzięła się baklava, spory o pochodzenie i przepis historyczny odtworzony przez Maxa Millera.",
+   "intro": "Max Miller (Tasting History) bierze baklavę: warstwy ciasta, orzechy, syrop. Pytanie odcinka: kto \"wynalazł\" króla słodyczy - Grecy, Turcy, Persowie, Asyryjczycy?\n\nFormat klasyczny kanału: kontekst historyczny z cytatami, potem gotowanie przybliżonej wersji z źródeł i degustacja.",
+   "points": [
+    {
+     "t": "Spór o rodowód",
+     "d": "**Wiele kultur Bliskiego Wschodu i Bałkanów rości sobie baklavę.** Miller zbiera tropy: cienkie ciasta w tradycjach osmańskich pałaców, orzechowe nadzienia, syropy miodowe/cukrowe.\n\nRaczej ewolucja niż jeden wynalazca - słodycz podróżowała z imperiami."
+    },
+    {
+     "t": "Technika warstw",
+     "d": "**Klucz to bardzo cienkie ciasto (filo) i naprzemienne warstwy tłuszczu oraz orzechów, na koniec syrop.** Historyczne przepisy różnią się tłuszczem (masło vs oliwa) i rodzajem orzechów.\n\nMiller pokazuje praktyczne pułapki: suszenie ciasta, równe krojenie przed pieczeniem, moment polania syropem."
+    },
+    {
+     "t": "Degustacja i wniosek",
+     "d": "**Efekt: chrupiące warstwy i słodki, ciężki środek - deser odświętny, nie codzienny snack.** Autor podkreśla, że \"autentyczność\" zależy od rodziny i regionu bardziej niż od jednej kanonicznej wersji.\n\nPuenta Tasting History: gotując, jesz spór historiograficzny w syropie."
+    }
+   ],
+   "conclusion": "Baklava nie ma jednego ojca - ma długi łańcuch kuchni pałacowych i domowych. Miller zamiast wyłaniać zwycięzcę narodowego, każe upiec warstwy i zrozumieć technikę.",
+   "factchecks": [
+    {
+     "claim": "Baklava to deser warstwowy z ciasta filo, orzechów i syropu znany w kuchniach osmańskich i sąsiednich.",
+     "verdict": "prawda",
+     "note": "Etymologia i rozprzestrzenienie wiążą się z regionem osmańskim/bliskowschodnim; szczegóły pochodzenia sporne.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): baklava",
+       "https://en.wikipedia.org/wiki/Baklava"
+      ]
+     ]
+    },
+    {
+     "claim": "Ciasto filo jest ultracienkie i wymaga szybkiej pracy, by nie wyschło.",
+     "verdict": "prawda",
+     "note": "Filo/yufka to papierowo cienkie płaty; w kuchni trzyma się je pod wilgotną ściereczką.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): filo",
+       "https://en.wikipedia.org/wiki/Filo"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rozrywkowy format gotowania; narodowe spory o \"pierwszą baklavę\" są streszczone pod kątem anegdoty."
   },
   {
    "id": "38bJK7W7SZ8",
@@ -5577,6 +6227,66 @@
    "section": "Technologie"
   },
   {
+   "id": "5_B1Mq02wcI",
+   "title_pl": "Ukryta inżynieria reduktorów ciśnienia",
+   "title": "The Hidden Engineering of Pressure Regulators",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=5_B1Mq02wcI",
+   "date": "2026-10-06",
+   "duration": 994,
+   "views": 1953136,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Practical Engineering tłumaczy, jak działają regulatory ciśnienia w gazie i wodzie oraz czemu błąd przy nich kończy się wybuchem.",
+   "intro": "Grady Hillhouse rozkłada na czynniki pierwsze urządzenie, które od połowy XIX w. prawie się nie zmieniło: reduktor ciśnienia. Bez niego gaz i woda w domu byłyby albo za słabe, albo zabójczo mocne.\n\nFilm idzie od katastrofy Merrimack Valley (2018), przez prostą płytkę z otworem, po sprężynowy zawór, który utrzymuje stałe ciśnienie wyjściowe mimo zmian przepływu.",
+   "points": [
+    {
+     "t": "Stawka: Merrimack Valley 2018",
+     "d": "**Błąd przy wymianie rur w Massachusetts sprawił, że regulatory nie ścisnęły ciśnienia gazu - ponad 100 budynków uszkodzonych, 22 ranne, 1 ofiara.** System redukował ciśnienie na poziomie dzielnicy, nie przy każdym liczniku.\n\nAutor: stawki przy regulacji ciśnienia gazu są ekstremalnie wysokie, mimo że sama fizyka wydaje się prosta."
+    },
+    {
+     "t": "Dlaczego sama kryza nie wystarcza",
+     "d": "**Każda przeszkoda w rurze obniża ciśnienie przy przepływie, ale przy zerowym przepływie ciśnienie za otworem wyrównuje się z wlotowym.** Krzywa ciśnienie-przepływ nie jest płaska - dom potrzebuje stabilnego PSI niezależnie od tego, ile kuchenek właśnie działa.\n\nStąd potrzeba aktywnego zaworu, nie tylko stałej kryzy."
+    },
+    {
+     "t": "Jak działa klasyczny regulator",
+     "d": "**Sprężyna i membrana ustawiają żądane ciśnienie wyjściowe; gdy rośnie zbyt wysoko, zawór przymyka dopływ.** Konstrukcja z połowy XIX w. wciąż siedzi przy licznikach gazu i wodociągach.\n\nAutor pokazuje też, czemu utrzymanie ustawienia i wentylacja membrany są krytyczne - mały błąd instalacji = duże ciśnienie w kuchenkach."
+    }
+   ],
+   "conclusion": "Reduktor ciśnienia to nudny bohater infrastruktury: wygląda jak żeliwna puszka, a chroni całe dzielnice. Katastrofy przypominają, że \"proste\" urządzenia wymagają poprawnego montażu i konserwacji.",
+   "factchecks": [
+    {
+     "claim": "Eksplozje gazu w Merrimack Valley (2018) wynikły z błędów przy pracach na sieci i regulatorach.",
+     "verdict": "prawda",
+     "note": "NTSB i relacje mediów wskazują na nadmierne ciśnienie gazu po pracach Columbia Gas.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): 2018 Merrimack Valley gas explosions",
+       "https://en.wikipedia.org/wiki/2018_Merrimack_Valley_gas_explosions"
+      ]
+     ]
+    },
+    {
+     "claim": "Regulatory ciśnienia gazu używają membrany i sprężyny do utrzymania stałego ciśnienia wylotowego.",
+     "verdict": "prawda",
+     "note": "To standardowa zasada działania gas pressure regulator.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): pressure regulator",
+       "https://en.wikipedia.org/wiki/Pressure_regulator"
+      ]
+     ]
+    }
+   ],
+   "bias": "Nacisk na USA i jeden głośny wypadek; reklama wcześniejszego odcinka PE o tej katastrofie."
+  },
+  {
    "id": "q1IwR88mhaA",
    "title_pl": "Jedyny poradnik Grok Bot, jakiego potrzebujesz: jak zacząć",
    "title": "The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners",
@@ -5778,6 +6488,126 @@
     }
    ],
    "bias": "Eksperyment i uproszczenia mechanizmu; autor przyznaje spory w literaturze. Sponsor: Bluedot (kursy AI safety). Sklep z pluszakiem na końcu."
+  },
+  {
+   "id": "crevoo9ktOo",
+   "title_pl": "8 zasad męskiego stylu, które warto łamać",
+   "title": "8 Menswear Rules You Should Break",
+   "channel": "He Spoke Style",
+   "url": "https://www.youtube.com/watch?v=crevoo9ktOo",
+   "date": "2026-09-28",
+   "duration": 708,
+   "views": 77647,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Psychologia"
+   ],
+   "about": "He Spoke Style: skąd wzięły się reguły (białe po Labor Day, pasek=buty, skarpety, zegarek do smokingu) i kiedy je łamać.",
+   "intro": "He Spoke Style tłumaczy, że można znać wszystkie zasady menswear i nadal nie mieć stylu - bo styl to nie checklista. Film bierze 8 klasycznych reguł: skąd są, po co istnieją i kiedy je łamać.\n\nPrzykłady: zakaz bieli po Labor Day, idealne dopasowanie paska do butów, skarpety, zegarek do black tie. Wniosek: najpierw zrozum funkcję reguły, potem zdecyduj.",
+   "points": [
+    {
+     "t": "Biel po Labor Day",
+     "d": "**Zakaz bieli po Labor Day rósł z podziału strój kurortowy vs miejski i z sygnałów klasowych kto zna konwenanse.** Autor nie wyrzuca koloru z szafy przez datę w kalendarzu.\n\nKremowy flanel zimą na tle navy i charcoal wygląda elegancko; białe lniane spodnie w styczniu - nie. Liczy się tkanina i kontekst, nie data."
+    },
+    {
+     "t": "Pasek ma równać buty?",
+     "d": "**Dokładne dopasowanie brązów jest prawie niemożliwe (odcień, wykończenie, starzenie skóry) i często wygląda gorzej niż bliskie tony.** Analogia: krawat i poszetka z identycznej tkaniny bywają zestawem z katalogu, nie stylowymi.\n\nCzarny nadal najłatwiej spinać; w brązach dąż do harmonii, nie do xeroxa."
+    },
+    {
+     "t": "Skarpety, zegarek, marynarka",
+     "d": "**Kolorowe skarpety mają sens w looku preppy; na holiday black tie autor latami nosi jaskrawoczerwone - świadomie źle.** Zegarek do smokingu: estetyka minimalizmu plus etykieta nie spoglądaj na czas; on i tak czasem zakłada.\n\nNa kamerze zostawia zapiętą marynarkę siedząc (broadcast practice), choć klasycznie przy siadaniu się rozpina. Puenta: przestań panikować o checklistę i noś ubrania."
+    }
+   ],
+   "conclusion": "Reguły są mapą, nie kajdankami. Łamanie ma sens dopiero gdy wiesz, co reguła robi dla outfitu - inaczej to tylko chaos z butów i paska w różnych brązach.",
+   "factchecks": [
+    {
+     "claim": "No white after Labor Day to amerykańska konwencja sezonowa, nie prawo fizyki.",
+     "verdict": "prawda",
+     "note": "Historycznie wiązana z przejściem z letniego stroju kurortowego do miejskiego.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Labor Day",
+       "https://en.wikipedia.org/wiki/Labor_Day"
+      ]
+     ]
+    },
+    {
+     "claim": "W black tie tradycyjnie unika się rzucających się akcesoriów.",
+     "verdict": "prawda",
+     "note": "Dress code black tie celuje w jednolity, formalny wygląd.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): black tie",
+       "https://en.wikipedia.org/wiki/Black_tie"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa autora (czerwone skarpety do black tie) jest świadomie subiektywna; film promuje też inne playlisty kanału."
+  },
+  {
+   "id": "naujBF9lMLw",
+   "title_pl": "15 drobiazgów, które robią prawdziwego dżentelmena",
+   "title": "15 Little Things Only True Gentlemen Do (That Have a Big Impact)",
+   "channel": "Gentleman's Gazette",
+   "url": "https://www.youtube.com/watch?v=naujBF9lMLw",
+   "date": "2026-09-27",
+   "duration": 795,
+   "views": 107993,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Psychologia"
+   ],
+   "about": "Gentleman's Gazette: parasol dla towarzysza, pytanie zanim dasz radę, umiar w imionach, tempo kroku, kartki z podziękowaniem.",
+   "intro": "Gentleman's Gazette argumentuje, że dżentelmena poznaje się nie po wielkim geście, tylko po małych nawykach powtarzanych bez oczekiwania oklasków. Film wymienia 15 takich detali.\n\nZakres: od praktycznej troski (parasol), przez etykietę rozmowy i chodzenia, po pisanie podziękowań i ubiór dopasowany do okazji - bez celebryckiego flexu.",
+   "points": [
+    {
+     "t": "Troska i rozmowa",
+     "d": "**Parasol bierzesz na wszelki wypadek - głównie by chronić towarzysza, nawet kosztem własnego zmoknięcia.** To foresight, nie gadżet.\n\nZanim dasz radę, pytasz: czy chcesz opinii, czy tylko ucha? Imiona w rozmowie używasz rzadko, na początku i w ważnym momencie; co drugie zdanie brzmi jak manipulacja z podręcznika sprzedaży."
+    },
+    {
+     "t": "Obecność fizyczna i wdzięczność",
+     "d": "**Wstajesz przy pierwszym spotkaniu; idąc, dopasowujesz tempo do drugiej osoby (obcasy, starszy wiek, spacer).** Wyprzedzanie o kilka metrów czyta się jako \"wolę być gdzie indziej\".\n\nOdręczne podziękowanie waży więcej niż szybki SMS - czas i papier sygnalizują, że gest był ważny."
+    },
+    {
+     "t": "Strój do kontekstu",
+     "d": "**Znać różnicę między lunchem outdoor a kolacją o 20:00: ani overdress, ani niedbałość, przy zachowaniu własnego stylu.** Według autorów mistrzostwo to równowaga autentyczności i okazji.\n\nPuenta: żaden pojedynczy nawyk nie buduje reputacji - buduje je suma drobiazgów powtarzanych tak często, że stają się odruchem."
+    }
+   ],
+   "conclusion": "GG sprzedaje etykietę jako codzienną uważność na innych, nie jako kostium. Jeśli masz poprawić jedną rzecz: pytaj zanim doradzisz i nie zostawiaj ludzi w tyle na chodniku.",
+   "factchecks": [
+    {
+     "claim": "Używanie imienia zwiększa poczucie uwagi w rozmowie (z umiarem).",
+     "verdict": "prawda",
+     "note": "Efekt personalizacji jest znany w komunikacji; nadużycie brzmi sztucznie.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): etiquette",
+       "https://en.wikipedia.org/wiki/Etiquette"
+      ]
+     ]
+    },
+    {
+     "claim": "Odręczne podziękowania są odbierane jako bardziej osobiste niż wiadomość cyfrowa.",
+     "verdict": "prawda",
+     "note": "Wyższy koszt sygnału (czas, papier) zwiększa wiarygodność wdzięczności.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): thank-you note",
+       "https://en.wikipedia.org/wiki/Thank-you_note"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa klasycznej etykiety GG; część rad łatwiej stosować w miejskim, zamożniejszym kontekście. Film promuje własne poradniki."
   },
   {
    "id": "v-ZAKS02Gm4",
@@ -6202,6 +7032,71 @@
    "bias": "Rzetelny i z humorem, z podanymi źródłami książkowymi; opinia o podziale linii to zdanie autora."
   },
   {
+   "id": "k3Q9UWWiPsQ",
+   "title_pl": "Pompa \"perpetuum mobile\", która naprawdę działa",
+   "title": "The \"Perpetual Motion\" Pump That Actually Works",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=k3Q9UWWiPsQ",
+   "date": "2026-08-31",
+   "duration": 990,
+   "views": 4315682,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Steve Mould o pompie hydraulicznej ram: wykorzystuje uderzenie wodne, nie łamie praw termodynamiki.",
+   "intro": "Steve Mould tłumaczy hydraulic ram pump - urządzenie, które wygląda jak perpetuum mobile, bo podnosi wodę wyżej bez prądu. Działa od XIX/XVIII-wiecznych pomysłów po dzisiejsze instalacje off-grid.\n\nKlucz: nie tworzy energii z niczego. Korzysta z pędu i ściśliwości wody (uderzenie wodne / water hammer), by część przepływu wypchnąć wyżej.",
+   "points": [
+    {
+     "t": "Dlaczego wygląda na oszustwo",
+     "d": "**Pompa nie ma silnika, a mimo to podnosi wodę powyżej źródła.** Intuicja krzyczy: łamie energię. Mould rozbraja to: większość wody spływa niżej; tylko ułamek idzie do góry, ale z zyskiem wysokości.\n\nBilans energetyczny się zgadza - to transformacja, nie darmowy lunch."
+    },
+    {
+     "t": "Water hammer jako napęd",
+     "d": "**Gdy zawór nagle zamyka przepływ, fala ciśnienia (hydraulic transient) daje krótki \"kopniak\".** Ta energia otwiera zawór tłoczący do zbiornika wyżej.\n\nWoda jest prawie nieściśliwa, więc fala idzie szybko (jak dźwięk w cieczy, z korektą na elastyczność rur)."
+    },
+    {
+     "t": "Zastosowania",
+     "d": "**Tam gdzie jest stały spadek strumienia, ram pump może zasilać farmę bez prądu.** Mould buduje/analizuje model i tłumaczy, czemu \"kilka osób naprawdę to rozumie\" - bo to dynamika fal, nie zwykła hydrostatyka.\n\nNa końcu typowa wstawka sponsorska KiwiCo."
+    }
+   ],
+   "conclusion": "Ram pump uczy pokory wobec intuicji: wygląda magicznie, jest klasyczną inżynierią XIX w. Perpetuum mobile nie - sprytny trade-off przepływu za wysokość tak.",
+   "factchecks": [
+    {
+     "claim": "Hydraulic ram używa uderzenia wodnego do podnoszenia części wody wyżej bez zewnętrznego napędu.",
+     "verdict": "prawda",
+     "note": "Ram pump to uznana technologia od XVIII/XIX w.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): hydraulic ram",
+       "https://en.wikipedia.org/wiki/Hydraulic_ram"
+      ],
+      [
+       "Wikipedia (ang.): water hammer",
+       "https://en.wikipedia.org/wiki/Water_hammer"
+      ]
+     ]
+    },
+    {
+     "claim": "Urządzenie nie łamie zasady zachowania energii: większość wody spływa niżej.",
+     "verdict": "prawda",
+     "note": "Sprawność to stosunek energii potencjalnej podniesionej frakcji do energii strumienia zasilającego.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): hydraulic ram",
+       "https://en.wikipedia.org/wiki/Hydraulic_ram"
+      ]
+     ]
+    }
+   ],
+   "bias": "Sponsoring KiwiCo na końcu; model stołowy upraszcza straty rzeczywistej instalacji."
+  },
+  {
    "id": "O5jyzM9oG6E",
    "title_pl": "Antyczna osoba, o której wiemy najwięcej: Augustyn",
    "title": "The Ancient Person We Know Most About",
@@ -6276,6 +7171,71 @@
     }
    ],
    "bias": "Kryterium \"najwięcej wiemy\" waży objętość tekstu chrześcijańskiego (lepsza transmisja). Sponsor: Incogni. Ton akademicko-popularyzatorski."
+  },
+  {
+   "id": "NvkZaWLe0Sk",
+   "title_pl": "Wymiennik, który idzie \"poza\" równowagę temperatur",
+   "title": "This Device Goes Past Equilibrium",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=NvkZaWLe0Sk",
+   "date": "2026-08-22",
+   "duration": 802,
+   "views": 2122595,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Steve Mould o przeciwprądowym wymienniku ciepła: jak gorące wychodzi zimniejsze niż zimne wlotowe bez łamania II zasady.",
+   "intro": "Steve Mould zaczyna od absurdu: herbata z słomki wychodzi zimna, napój zimny - gorący, bo słomki się \"przeplatają\". Potem pokazuje counterflow heat exchanger - bez pomp ciepła - i kacze nogi jako biologię tej samej idei.\n\nCel: zrozumieć, czemu temperatury mogą \"minąć się\" wzdłuż urządzenia, nie łamiąc drugiej zasady termodynamiki.",
+   "points": [
+    {
+     "t": "Paradoks równości",
+     "d": "**W wymienniku współprądowym płyny dążą do wspólnej temperatury i na tym koniec.** W przeciwprądzie gorący i zimny płyną w przeciwne strony: lokalnie zawsze ciepło idzie z cieplejszego do zimniejszego.\n\nGlobalnie wylot \"gorącego\" może być zimniejszy niż wylot \"zimnego\" - bo porównywane są różne końce."
+    },
+    {
+     "t": "Wykres wzdłuż rury",
+     "d": "**Mould pokazuje wykres: czerwona i niebieska linia temperatur wzdłuż kanałów oraz ścianka między nimi.** Im wolniejszy przepływ, tym bliżej idealnego wymiennika.\n\nNigdzie nie pchamy ciepła pod górę gradientu lokalnego - stąd zgodność z II zasadą."
+    },
+    {
+     "t": "Kacze nogi i przemysł",
+     "d": "**Nogi ptaków wodnych używają przeciwprądu, by nie tracić ciepła ciała w zimnej wodzie.** Te same zasady siedzą w industrii (odzysk ciepła, LNG, chemia).\n\nPuenta: intuicja \"nie wolno wyjść poza równowagę\" dotyczy izolowanej pary w jednym miejscu, nie całego przeciwprądu."
+    }
+   ],
+   "conclusion": "Counterflow to sprytna geometria, nie magiczna lodówka. Gdy zrozumiesz lokalny gradient, \"niemożliwe\" temperatury wylotowe stają się oczywiste.",
+   "factchecks": [
+    {
+     "claim": "Przeciwprądowy wymiennik ciepła może schłodzić gorący strumień poniżej temperatury wylotu zimnego.",
+     "verdict": "prawda",
+     "note": "To standardowa zaleta countercurrent vs concurrent exchange.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): countercurrent exchange",
+       "https://en.wikipedia.org/wiki/Countercurrent_exchange"
+      ],
+      [
+       "Wikipedia (ang.): heat exchanger",
+       "https://en.wikipedia.org/wiki/Heat_exchanger"
+      ]
+     ]
+    },
+    {
+     "claim": "Ptaki wodne stosują przeciwprąd w nogach do oszczędzania ciepła.",
+     "verdict": "prawda",
+     "note": "Klasyczny przykład biologicznego countercurrent heat exchange.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): countercurrent exchange",
+       "https://en.wikipedia.org/wiki/Countercurrent_exchange"
+      ]
+     ]
+    }
+   ],
+   "bias": "Sponsoring Jane Street na końcu; demo z barwnikami upraszcza straty rzeczywiste."
   },
   {
    "id": "2GTROfhZIxY",
@@ -6370,6 +7330,67 @@
     }
    ],
    "bias": "Klasyczny, brytyjsko-amerykański punkt widzenia i drogie marki. To raczej inspiracja niż lista zakupów, choć sporo rzeczy pokazanych jest jak w katalogu."
+  },
+  {
+   "id": "hp3rkKHWwEc",
+   "title_pl": "Ukryte bizantyjskie ruiny Stambułu",
+   "title": "Istanbul's Hidden Byzantine Ruins",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=hp3rkKHWwEc",
+   "date": "2026-08-15",
+   "duration": 575,
+   "views": 120631,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Historia",
+    "Geografia"
+   ],
+   "about": "toldinstone: poza Hagia Sophiją - Great Palace, cisterny, sfendone hipodromu i warstwy \"House of Four Eras\".",
+   "intro": "Garrett Ryan (toldinstone) oprowadza po Stambule poza checklistą turysty: Hagia Sophia, Cysterna Bazyliki, Hipodrom. Pyta, gdzie jeszcze widać Konstantynopol Konstantyna i Justyniana.\n\nFilm pokazuje warstwy miasta (rzymskie, bizantyjskie, osmańskie, republikańskie) na jednym budynku, resztki Wielkiego Pałacu pod Sultanahmet oraz fundamenty zakrętu hipodromu z cysterną.",
+   "points": [
+    {
+     "t": "House of Four Eras",
+     "d": "**Na tylnej fasadzie \"Domu Czterech Epok\" widać granitowe kolumny późnorzymskiej cysterny, łuki bizantyjskie, fragment osmańskiej łaźni i dom z czasów republiki tureckiej.** Autor: najbardziej niezwykłe jest to, jak zwyczajny jest ten budynek w tkance miasta.\n\nStambuł stoi na grecko-rzymsko-bizantyjskim palimpseście - najczytelniejszym w dzielnicy Sultanahmet."
+    },
+    {
+     "t": "Wielki Pałac pod dzielnicą",
+     "d": "**Przez tysiąc lat teren dzisiejszego Sultanahmet zajmował Wielki Pałac cesarzy - pawilony, ogrody, kaplice.** Po zdobyciu osmańskim ruiny tonęły pod nową zabudową; pożar 1912 odsłonił fragmenty, większość znów zabudowano.\n\nFragmenty mozaik i murów wciąż wychodzą przy remontach - miasto dosłownie mieszka na pałacu."
+    },
+    {
+     "t": "Sfendone hipodromu",
+     "d": "**Słynny Hipodrom rozebrano na budulec we wczesnym okresie osmańskim; zostały zabytki na spinie.** Mało kto wie, że potężne fundamenty sfendone (zakrzywiony koniec) wciąż stoją i dźwigają późniejszą szkołę.\n\nPod spodem: duża, zachowana cysterna (ok. V w.), wciąż z wodą - sklepienia zamurowano po trzęsieniu."
+    }
+   ],
+   "conclusion": "Konstantynopol nie zniknął - został wmurowany w codzienne ściany Stambułu. Ryan zachęca: zejdź z głównego placu i czytaj warstwy cegły.",
+   "factchecks": [
+    {
+     "claim": "Wielki Pałac Konstantynopola leżał na obszarze dzisiejszego Sultanahmet.",
+     "verdict": "prawda",
+     "note": "Great Palace of Constantinople zajmował teren SE od Hagia Sophii / hipodromu.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Great Palace of Constantinople",
+       "https://en.wikipedia.org/wiki/Great_Palace_of_Constantinople"
+      ]
+     ]
+    },
+    {
+     "claim": "Fundamenty sfendone hipodromu są nadal widoczne w Stambule.",
+     "verdict": "prawda",
+     "note": "Substruktury zakrętu hipodromu przetrwały i są znane w literaturze archeologicznej/turystycznej.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Hippodrome of Constantinople",
+       "https://en.wikipedia.org/wiki/Hippodrome_of_Constantinople"
+      ]
+     ]
+    }
+   ],
+   "bias": "Lekka promocja tourów i książki autora na końcu; fokus na \"ukryte\" kosztem pełnej chronologii dzielnicy."
   },
   {
    "id": "qoS5NDf3Xfk",
@@ -6488,6 +7509,191 @@
     }
    ],
    "bias": "Brak stronniczości. Rozmowa bardzo gawędziarska, z licznymi dygresjami i drobnymi pomyłkami w datach i liczbach. Wątki o AI i obcych to opinie gościa."
+  },
+  {
+   "id": "YTZ_nUQC6DA",
+   "title_pl": "Penny loafers: od norweskiego rybaka do Ivy League",
+   "title": "How a Norwegian Fisherman Created an American Classic (Penny Loafers)",
+   "channel": "Gentleman's Gazette",
+   "url": "https://www.youtube.com/watch?v=YTZ_nUQC6DA",
+   "date": "2026-08-09",
+   "duration": 694,
+   "views": 15539,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Historia"
+   ],
+   "about": "Gentleman's Gazette: historia mokasynów Weejun i penny loafer od Aurland i Tverangera po campusy lat 50.",
+   "intro": "Gentleman's Gazette tłumaczy, skąd wzięły się penny loafers - najbardziej amerykański but studentów Ivy League. Spoiler: DNA jest norweskie i robocze.\n\nOpowieść łączy fiord Aurland ok. 1910 (rybacy, mokre doki, problem zamarzających sznurówek) z kampusem 1955 (chino, marynarki, monety w pasku). Cel: pokazać, że ponadczasowy design wychodzi z funkcji, nie z trendu.",
+   "points": [
+    {
+     "t": "Tess z Aurland i Nils Tveranger",
+     "d": "**Norwescy rybacy nosili wsuwane tess: elastyczna skóra, łatwe zdejmowanie, przyczepność na mokrym drewnie.** Sznurówki na mrozie były katastrofą.\n\nNils Tveranger (ur. 1874) uczył się szewstwa w USA, wrócił ok. 1894 do Aurland i połączył lokalne wsuwki z cechami mokasynów rdzennych Amerykanów - najpierw jeszcze ze sznurówkami, potem coraz bliżej pure slip-on."
+    },
+    {
+     "t": "Weejun i mit pensówki",
+     "d": "**Amerykański G.H. Bass spopularyzował model Weejun (od Norwegian); pasek ze szczeliną był dekoracją.** Legenda, że studenci wkładali pensy na telefon, jest według filmu fałszywa: rozmowa kosztowała więcej niż 2 centy, a automaty Bella nie brały pensów.\n\nBardziej wiarygodny motyw: miedziany błysk na oxbloodowej skórze. Nazwa penny loafer wygrała jako kategoria stylu East Coast casual."
+    },
+    {
+     "t": "Dlaczego przetrwały",
+     "d": "**Konstrukcja mokasynowa daje elastyczność, której brakuje sztywnym eleganckim butom z termoplastikiem.** Dlatego te same buty działają w porcie, na kampusie i w biurze.\n\nPuenta GG: funkcjonalny design przeżywa modny, bo użyteczność nie czyta kalendarza trendów."
+    }
+   ],
+   "conclusion": "Penny loafer to but rybaka w garniturze smart casual. Szczelina na monetę zaczęła jako ozdoba; przetrwała konstrukcja, nie legenda o telefonie.",
+   "factchecks": [
+    {
+     "claim": "G.H. Bass Weejun spopularyzował norweski loafer w USA.",
+     "verdict": "prawda",
+     "note": "Weejuns są klasycznym amerykańskim penny loaferem inspirowanym norweskimi wsuwkami.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): loafer (shoe)",
+       "https://en.wikipedia.org/wiki/Loafer_(shoe)"
+      ],
+      [
+       "Wikipedia (ang.): G.H. Bass & Co.",
+       "https://en.wikipedia.org/wiki/G.H._Bass_%26_Co."
+      ]
+     ]
+    },
+    {
+     "claim": "Aurland w Norwegii ma tradycję lokalnych loaferów.",
+     "verdict": "prawda",
+     "note": "Region Aurland jest znany z tradycyjnych norweskich slip-onów wiązanych z historią Weejun.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Aurland",
+       "https://en.wikipedia.org/wiki/Aurland"
+      ]
+     ]
+    }
+   ],
+   "bias": "Narracja romantyzuje rybaka i Ivy League; dyskusja o rdzennych mokasynach jest skrócona. Film kończy się lekką autopromocją stylizacji GG."
+  },
+  {
+   "id": "ti2qiU_JTUQ",
+   "title_pl": "Dysk Eulera ma zły kształt (i co z tego)",
+   "title": "The Euler Disc Is The Wrong Shape",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=ti2qiU_JTUQ",
+   "date": "2026-08-01",
+   "duration": 1200,
+   "views": 1301653,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Steve Mould o tym, czemu gruby dysk kręci się długo, jak kształt i krawędź wpływają na spin i produkt Singularity Disc.",
+   "intro": "Steve Mould porównuje monetę, klasyczny \"Euler disc\" i tajemniczy dysk pośredni. Otwiera minutami nieciętego spinningu - świadomy protest przeciwko TikTokizacji uwagi.\n\nPotem wchodzi w fizykę: rozkład masy, zaokrąglenie krawędzi, straty energii i dlaczego stożek z wolframu byłby drogi. Na końcu własny Singularity Disc (preorder).",
+   "points": [
+    {
+     "t": "Dlaczego gruby dysk kręci się dłużej",
+     "d": "**Duży moment bezwładności i sposób kontaktu z podłożem opóźniają upadek w precesję.** Moneta pada szybko; gruby dysk \"śpiewa\" i zwalnia dramatycznie pod koniec (efekt Eulera).\n\nMould testuje intuicję, że rozmiar liniowo wydłuża czas - i pokazuje, że geometria krawędzi bywa ważniejsza."
+    },
+    {
+     "t": "Kształt i krawędź",
+     "d": "**Zaokrąglenie krawędzi mocno zmienia zachowanie; przy większym dysku jedna strona jest bardziej round niż druga.** Rozkład masy (bliżej obwodu) pomaga, ale obróbka stożka z wolframu jest droga (materiał + skrawanie).\n\nStąd iteracje prototypów zamiast \"najcięższego możliwego\" metalu."
+    },
+    {
+     "t": "Singularity i produkt",
+     "d": "**Autor żartuje o matematycznej osobliwości w geometrii zabawki i sprzedaje własny dysk w batchach po 300.** Transparentny preorder z datami dostaw.\n\nEdukacyjny trzon: małe zmiany kształtu = duże zmiany dynamiki tarcia i precesji."
+    }
+   ],
+   "conclusion": "Euler disc uczy, że \"oczywisty\" kształt nie jest optymalny. Mould łączy cierpliwość widza, fizykę kontaktu i - tak - własny produkt.",
+   "factchecks": [
+    {
+     "claim": "Efekt dysku Eulera to długie, przyspieszająco-zwalniające wirowanie dysku z charakterystycznym dźwiękiem.",
+     "verdict": "prawda",
+     "note": "Zjawisko opisane i popularnie demonstrowane jako Euler's disc.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Euler's disc",
+       "https://en.wikipedia.org/wiki/Euler%27s_disc"
+      ]
+     ]
+    },
+    {
+     "claim": "Geometria krawędzi i rozkład masy wpływają na czas wirowania.",
+     "verdict": "prawda",
+     "note": "Straty energii zależą od kontaktu i momentu bezwładności - zgodnie z analizami dysku.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Euler's disc",
+       "https://en.wikipedia.org/wiki/Euler%27s_disc"
+      ]
+     ]
+    }
+   ],
+   "bias": "Duża część finału to preorder własnej zabawki Metmo; wnioski fizyczne są mimo to poprawne."
+  },
+  {
+   "id": "cK0FhoO3w7U",
+   "title_pl": "Jak zrobić muzykę gier z lat 90. (tutorial)",
+   "title": "90s Video Game Music Tutorial",
+   "channel": "Alex Ball",
+   "url": "https://www.youtube.com/watch?v=cK0FhoO3w7U",
+   "date": "2026-07-30",
+   "duration": 644,
+   "views": 51299,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Alex Ball pokazuje workflow emulacji soundtracków lat 90./2000 na JD-990 i XV-5080: sample rate, warstwy, automatyka.",
+   "intro": "Alex Ball uczy, jak odtworzyć estetykę muzyki gier komputerowych z lat 90. i wczesnych 2000. Powód praktyczny: coraz częściej dostaje zlecenia na spoof/hołd dla tych franczyz - stały się landmarkami kultury.\n\nTutorial opiera się na Rolandzie JD-990 (1993) i XV-5080: perkusja, basy, sekwencje, sample gitar, potem świadome \"zepsucie\" przez resampling niskim bitrate jak na kartridżach.",
+   "points": [
+    {
+     "t": "Ograniczenia pamięci kartridża",
+     "d": "**Godzinny soundtrack w wysokiej jakości zająłby setki MB - kartridże tego nie miały.** Stąd niskie sample rate i powtórne użycie banków z JD-990 / odpowiedników.\n\nBall najpierw buduje pełne patche, potem emuluje resampling, żeby dostać \"tani\" charakter epoki."
+    },
+    {
+     "t": "Warstwy jak w Tekkenie i co.",
+     "d": "**Na XV-5080 (do 32 części multitimbral) składa bas z pitch-fallem, sync z tremolem głośności, mid i high sekwencje, organy i gitary power/funk.** Część brzmień według niego brzmi znajomo z konkretnych gier.\n\nAutomatyka głośności i rytmiczne wycinanie dają puls bez osobnego efektu sidechain."
+    },
+    {
+     "t": "Po co to dziś",
+     "d": "**Muzyka z lat 90./2000 przestała być \"lekko nieaktualna\" - stała się cytatem kulturowym w TV i reklamach.** Ball wskazuje też Roland Cloud (JV-1080, XV-5080, JD) i scenę reverse-engineerującą JD-990.\n\nWniosek dla producentów: zestaw narzędzi + świadome ograniczenie jakości = wiarygodny pastisz."
+    }
+   ],
+   "conclusion": "Tutorial nie romantyzuje biedy bitów - pokazuje przepis: bogate warstwy analog-modelingu, potem celowe \"zabrudzenie\" jak na kartridżu. Stary dźwięk gier to dziś język cytatów, nie tylko nostalgia.",
+   "factchecks": [
+    {
+     "claim": "Roland JD-990 (1993) to rackowy syntezator/ROM-pler używany w produkcji lat 90.",
+     "verdict": "prawda",
+     "note": "JD-990 był flagowym rackiem serii JD, popularnym w studiach i gamedev-adjacent production.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Roland JD-990",
+       "https://en.wikipedia.org/wiki/Roland_JD-990"
+      ]
+     ]
+    },
+    {
+     "claim": "XV-5080 oferuje rozbudowaną multitimbralność typową dla ROMplerów Rolanda.",
+     "verdict": "prawda",
+     "note": "XV-5080 to 128-głosowy / wielopartyjny sound module z końca lat 90./2000.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Roland XV-5080",
+       "https://en.wikipedia.org/wiki/Roland_XV-5080"
+      ]
+     ]
+    }
+   ],
+   "bias": "Workflow pod konkretny hardware Rolanda; inne ścieżki (trackery, VST chiptune) pominięte. Lekka promocja Roland Cloud."
   },
   {
    "id": "B3lGOPPBRFg",
@@ -7082,6 +8288,70 @@
     }
    ],
    "bias": "Rzetelny, ale powierzchowny przegląd: kolejność rankingu nie jest uzasadniona, a koszty ludzkie i spory (np. warunki pracy na kolei) ledwie wspomniane."
+  },
+  {
+   "id": "mpmUHfohUYI",
+   "title_pl": "Roland JP-8000: maszyna trance i supersaw",
+   "title": "Roland JP-8000: The Trance Machine",
+   "channel": "Alex Ball",
+   "url": "https://www.youtube.com/watch?v=mpmUHfohUYI",
+   "date": "2026-07-16",
+   "duration": 1205,
+   "views": 215133,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Alex Ball o Rolandzie JP-8000 (1996): supersaw, sekwencer fraz, porównanie z JD-800 i odpowiedź na Lead/Prophecy.",
+   "intro": "Alex Ball, kanał o historii syntezatorów, bierze na warsztat Rolanda JP-8000 z 1996 - instrument, który stał się synonimem trance dzięki falom supersaw.\n\nPokazuje kontekst lat 90. (powrót pokręteł po JD-800, konkurencja z Lead/Prophecy z 1995), rozkład oscillatorów i filtrów oraz rzadki prototyp z innego napisu na panelu.",
+   "points": [
+    {
+     "t": "Kontekst 1996 i nazwa JP",
+     "d": "**JP-8000 to 8-głosowy polysynth Rolanda; nazwa nawiązuje do klasycznego JP-8.** Wcześniej JD-800 przywrócił pokrętła na panel; rynek analog-modelingu nabierał tempa (Lead, Prophecy 1995).\n\nPóźniejszy rack JP-8080 dostał m.in. vocoder. Ball gra na pożyczonym egzemplarzu Andy'ego Bousa - w tym na prototypie."
+    },
+    {
+     "t": "Supersaw i inne fale",
+     "d": "**Supersaw: wiele detunowanych pił, słodki punkt daje \"club heaven\" trance.** Ale synth ma też trójkąt z LFO, szum z filtrem, feedback (skok do mono), square z PWM, sync, ring i cross-mod - rzeczy mniej znane niż supersaw.\n\nFiltr: low-pass i high-pass. Instrument oferował też real-time phrase sequencing typowy dla epoki."
+    },
+    {
+     "t": "Dziedzictwo trance",
+     "d": "**Dźwięk JP-8000 zdefiniował brzmienie europejskiego trance przełomu wieków.** Ball podkreśla, że warto eksplorować \"gnarne\" opcje poza jednym presetem supersaw.\n\nDla muzyków: to nie tylko nostalgia - to lekcja, jak jeden przebojowy waveform może zasłonić resztę architektury synthu."
+    }
+   ],
+   "conclusion": "JP-8000 wygrał historię supersawem, ale pod maską ma agresywny sync, ring i feedback. Ball zachęca: kręć dalej niż jednym pokrętłem detune.",
+   "factchecks": [
+    {
+     "claim": "Roland JP-8000 (1996) spopularyzował falę supersaw w muzyce trance.",
+     "verdict": "prawda",
+     "note": "Supersaw z JP-8000/8080 jest powszechnie cytowany jako kluczowy dźwięk trance lat 90./2000.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Roland JP-8000",
+       "https://en.wikipedia.org/wiki/Roland_JP-8000"
+      ],
+      [
+       "Wikipedia (ang.): supersaw",
+       "https://en.wikipedia.org/wiki/Supersaw"
+      ]
+     ]
+    },
+    {
+     "claim": "JP-8000 jest 8-głosowym syntezatorem wirtualno-analogowym Rolanda.",
+     "verdict": "prawda",
+     "note": "Oficjalna specyfikacja: 8-voice VA synth z 1996/97.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Roland JP-8000",
+       "https://en.wikipedia.org/wiki/Roland_JP-8000"
+      ]
+     ]
+    }
+   ],
+   "bias": "Entuzjastyczny ton kolekcjonera; demo na pożyczonym/prototypowym egzemplarzu może nie reprezentować każdego egzemplarza seryjnego."
   },
   {
    "id": "LUzZdtHhSqQ",
@@ -7704,6 +8974,72 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "DosxcZTjFwE",
+   "title_pl": "Rzymska kopalnia złota, która zjadła góry",
+   "title": "The Roman Gold Mine that Ate Mountains",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=DosxcZTjFwE",
+   "date": "2026-07-10",
+   "duration": 549,
+   "views": 147066,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Historia",
+    "Geografia",
+    "Technika"
+   ],
+   "about": "toldinstone o Las Médulas w Hiszpanii: hydrauliczne płukanie gór aqueduktami dla złota Imperium.",
+   "intro": "Garrett Ryan stoi w Las Médulas w północno-zachodniej Hiszpanii, gdzie \"brakuje góry\" - Rzymianie 2000 lat temu spłukali ją wodą z sześciu aqueduktów, by wydobyć złoto.\n\nFilm tłumaczy, po co Imperium potrzebowało złota (żołd, trybuty, splendor) i jak działała technika ruina montium: kanały, zbiorniki, nagłe spuszczenie wody kruszące skałę.",
+   "points": [
+    {
+     "t": "Złoto jako paliwo Imperium",
+     "d": "**Od Augusta po Bizancjum Rzym płacił żołnierzy i urzędników złotem; Attyla brał trybut w złocie; cesarzowe błyszczały złotogłowiem.** Źródła: łupy (Cezar w Galii), skarby (Dacja), i kopalnie.\n\nLas Médulas to spektakularny przykład przemysłowej skali wydobycia w prowincji Hispania."
+    },
+    {
+     "t": "Ruina montium",
+     "d": "**Górnicy prowadzili tunele i nagle wpuszczali zgromadzoną wodę - hydrauliczny wstrząs rozsadzał zbocze.** Namuł płukano, złoto oddzielano. Krajobraz dziś: czerwone iglice i kaniony - blizna po rzymskim \"praniu\" góry.\n\nSześć aqueduktów dostarczało wodę z daleka; bez logistyki wodnej nie byłoby skali."
+    },
+    {
+     "t": "Dziedzictwo krajobrazu",
+     "d": "**UNESCO chroni Las Médulas jako krajobraz kulturowy - piękny właśnie dlatego, że jest raną przemysłową.** Ryan pokazuje, że \"naturalny\" widok jest w istocie antycznym open-pit.\n\nWniosek: potęga Rzymu miała adres geograficzny i koszt ekologiczny mierzony w znikających górach."
+    }
+   ],
+   "conclusion": "Las Médulas to wizytówka rzymskiej inżynierii hydrologicznej i jednocześnie pomnik wyczerpania zasobów. Złote monety Imperium dosłownie wypłukano z hiszpańskich zboczy.",
+   "factchecks": [
+    {
+     "claim": "Las Médulas to rzymska kopalnia złota w NW Hiszpanii używająca hydraulicznego wydobycia.",
+     "verdict": "prawda",
+     "note": "Stanowisko UNESCO; klasyczny przykład ruina montium.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Las Médulas",
+       "https://en.wikipedia.org/wiki/Las_M%C3%A9dulas"
+      ],
+      [
+       "UNESCO: Las Médulas",
+       "https://whc.unesco.org/en/list/803/"
+      ]
+     ]
+    },
+    {
+     "claim": "Rzymskie państwo opierało monetę i żołd m.in. na złocie.",
+     "verdict": "prawda",
+     "note": "Aureus/solidus i płatności imperialne w złocie są dobrze poświadczone.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): aureus",
+       "https://en.wikipedia.org/wiki/Aureus"
+      ]
+     ]
+    }
+   ],
+   "bias": "Narracja \"Rzym zjadł górę\" jest mocna retorycznie; mniej miejsca na lokalną siłę roboczą i późniejsze losy złoża."
+  },
+  {
    "id": "PNq74gruSLc",
    "title_pl": "Pustynnienie Polski: hydrolog Piotr Bednarek o rzekach, rowach i retencji",
    "title": "Czy da się zatrzymać pustynnienie Polski? Jeśli tak, to jak? II Piotr Bednarek",
@@ -8142,6 +9478,71 @@
     }
    ],
    "bias": "Rzetelny i uczciwy materiał. Autor przyznaje, że sam nie odróżnia bawełny dotykiem, a drogi sweter kupił w lumpeksie. Bez sponsora."
+  },
+  {
+   "id": "IFqI11SIGXo",
+   "title_pl": "Jak metan trafia do solidnej stali",
+   "title": "Steel Absorbs Gas Like a Sponge",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=IFqI11SIGXo",
+   "date": "2026-05-31",
+   "duration": 1087,
+   "views": 1461337,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Steve Mould: high temperature hydrogen attack - wodór wnikający w stal tworzy metan, bąble i pęknięcia; kontekst Haber-Bosch.",
+   "intro": "Steve Mould startuje od bloku stali pełnego bąbli metanu i pytania: skąd gaz w \"solidzie\"? Wątkiem przewodnim jest przemysł nawozowy (Haber-Bosch), który karmi połowę ludzkości i pracuje na wodorze pod ciśnieniem.\n\nFilm tłumaczy dyfuzję wodoru w sieci żelaza, reakcję z węglem (cementyt) do CH4 i dlaczego metan już nie ucieka - high temperature hydrogen attack (HTHA).",
+   "points": [
+    {
+     "t": "Po co w ogóle wodór pod ciśnieniem",
+     "d": "**Rośliny potrzebują azotu \"utrwalonego\"; powietrze ma N2 z silnym wiązaniem potrójnym.** Bakterie i pioruny nie wystarczają dla 8 mld ludzi - stąd Haber-Bosch: wodór + azot -> amoniak do nawozów.\n\nInstalacje te pchają wodór w stalowe rury i reaktory w wysokiej temperaturze."
+    },
+    {
+     "t": "Od H do CH4 w metalu",
+     "d": "**Atomowy wodór dyfunduje między jonami żelaza; węgiel siedzi głównie na granicach ziaren jako cementyt.** Gdy H \"zabiera\" C, powstaje metan - cząsteczka za duża, by wrócić tą samą drogą.\n\nMetan zbiera się w bąble, łączy w szczeliny wzdłuż granic ziaren - stal traci wytrzymałość, czasem katastrofalnie."
+    },
+    {
+     "t": "Detekcja i stawkę",
+     "d": "**Istnieją urządzenia wykrywające taki problem, bo w kilku branżach to ryzyko śmiertelne.** Mould łączy chemię materiałową z geo-ekonomią jedzenia.\n\nPuenta: niewidoczny gaz w metalu to uboczny efekt tego samego procesu, który napełnia magazyny nawozów."
+    }
+   ],
+   "conclusion": "HTHA pokazuje cenę przemysłowej chemii: wodór, który żywi pola, potrafi od środka zjadać stal. Bąbel metanu w bloku to nie ciekawostka - to mechanizm awarii.",
+   "factchecks": [
+    {
+     "claim": "Proces Habera-Boscha produkuje amoniak do nawozów i wspiera wyżywienie ogromnej części ludzkości.",
+     "verdict": "prawda",
+     "note": "Szacunki często mówią o rzędzie połowy populacji zależnej od syntetycznych nawozów.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Haber process",
+       "https://en.wikipedia.org/wiki/Haber_process"
+      ]
+     ]
+    },
+    {
+     "claim": "High temperature hydrogen attack tworzy metan w stali i osłabia ją bąblami/pęknięciami.",
+     "verdict": "prawda",
+     "note": "HTHA to znane zjawisko materiałowe w przemyśle wodorowym/rafineryjnym.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): hydrogen embrittlement",
+       "https://en.wikipedia.org/wiki/Hydrogen_embrittlement"
+      ],
+      [
+       "Wikipedia (ang.): cementite",
+       "https://en.wikipedia.org/wiki/Cementite"
+      ]
+     ]
+    }
+   ],
+   "bias": "Sponsoring Incogni na końcu; uproszczenie metalurgii ziaren dla narracji wideo."
   },
   {
    "id": "Woz8RYQnbhU",
@@ -9568,6 +10969,71 @@
     }
    ],
    "bias": "Dwa długie bloki reklamują MacroFactor i zapowiedź MacroFactor Workouts (styczeń 2026). Tip o \"talii\" to głównie redukcja, nie trening barków."
+  },
+  {
+   "id": "4-eqMGKNS4E",
+   "title_pl": "Latarnia Aleksandrii: najwyższa starożytna wieża",
+   "title": "The Lighthouse of Alexandria | The Tallest Ancient Tower",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=4-eqMGKNS4E",
+   "date": "2025-11-07",
+   "duration": 540,
+   "views": 60700,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Historia",
+    "Technika"
+   ],
+   "about": "toldinstone o Faros: budowa, funkcja nawigacyjna, trzęsienia ziemi i zniknięcie jednego z Siedmiu Cudów.",
+   "intro": "Garrett Ryan opisuje Latarnię na Faros w Aleksandrii - według starożytnych jedną z najwyższych wież świata antycznego i jeden z Siedmiu Cudów.\n\nOdcinek idzie od kontekstu portu Ptolemeuszy, przez konstrukcję i światło, po serie trzęsień, które zamieniły cud w ruinę i później w kamień wtórnie użyty.",
+   "points": [
+    {
+     "t": "Po co Faros",
+     "d": "**Aleksandria potrzebowała widocznego znaku dla statków na płaskim egipskim wybrzeżu bez naturalnych landmarków.** Latarnia na wyspie Faros prowadziła do portów i reklamowała potęgę Ptolemeuszy.\n\nWysokość w źródłach bywa wyolbrzymiana, ale rząd wielkości setek stóp czynił ją dominantą horyzontu."
+    },
+    {
+     "t": "Budowa i światło",
+     "d": "**Wieża miała stopnie/tarasy, na szczycie ogień i prawdopodobnie lustra wzmacniające sygnał.** Wejście i rampy obsługiwały dowóz paliwa.\n\nAutor ostrożnie oddziela to, co wiemy z opisów i monet, od późniejszych legend o \"palącym okręty\" zwierciadle."
+    },
+    {
+     "t": "Upadek",
+     "d": "**Seria trzęsień ziemi (zwłaszcza XIV w.) obaliła resztki; Kamienie poszły m.in. do fortu Qaitbay.** Dziś nurkowie i archeolodzy znajdą bloki w porcie.\n\nPuenta: cud zniknął nie przez jedną bitwę, tylko przez geologię i recycling budowlany."
+    }
+   ],
+   "conclusion": "Faros był infrastrukturą i propagandą naraz. Gdy ziemia się zatrzęsła, Aleksandria straciła zarówno cud, jak i latarnię w dosłownym sensie.",
+   "factchecks": [
+    {
+     "claim": "Latarnia Aleksandrii na Faros należała do antycznych Siedmiu Cudów.",
+     "verdict": "prawda",
+     "note": "Standardowa lista cudów obejmuje Pharos of Alexandria.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): Lighthouse of Alexandria",
+       "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+      ],
+      [
+       "Wikipedia (ang.): Seven Wonders of the Ancient World",
+       "https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World"
+      ]
+     ]
+    },
+    {
+     "claim": "Trzęsienia ziemi doprowadziły do ruin Farosu; kamień użyto później m.in. w forcie.",
+     "verdict": "prawda",
+     "note": "Źródła łączą upadek z trzęsieniami XIV w.; fort Qaitbay powstał na miejscu z wtórnym użyciem kamienia.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): Lighthouse of Alexandria",
+       "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rekonstrukcje wysokości i luster są niepewne; film musi upraszczać spory filologiczne."
   },
   {
    "id": "DzjWEn2BS_k",
@@ -12076,6 +13542,70 @@
    "bias": "Przejrzysta makieta i dobra dydaktyka; wzmianka o igrzyskach i Nebula/WTC tylko w promo na końcu. Bez lokalnych norm liczbowych."
   },
   {
+   "id": "ekpqLDu8kb8",
+   "title_pl": "Jakie prawa rządzą wszechświatem? Tomasz Miller",
+   "title": "Jakie prawa rządzą wszechświatem? - dr Tomasz Miller - didaskalia#110",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=ekpqLDu8kb8",
+   "date": "2024-12-29",
+   "duration": 7239,
+   "views": 540952,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Nauka"
+   ],
+   "about": "Didaskalia: fizyk matematyczny dr Tomasz Miller o prawach przyrody, czarnych dziurach, entropii i śmierci cieplnej wszechświata.",
+   "intro": "Patrycjusz Wyżga rozmawia z dr. Tomaszem Millerem (fizyk matematyczny, Centrum Kopernika UJ) o tym, jakimi regułami gra wszechświat. To długa rozmowa bez ściany wzorów: raczej obrazy i intuicje.\n\nWątki: skąd biorą się \"prawa\", co zostaje po śmierci gwiazd (neutronówki, czarne dziury), strzałka czasu i daleki scenariusz śmierci cieplnej. Pojawia się też reklama platformy stron WWW (odu) na wstępie.",
+   "points": [
+    {
+     "t": "Prawa jako język przyrody",
+     "d": "**Miller traktuje matematykę jako język, którym fizyka opisuje regularności świata - nie zawsze tożsamość z \"rzeczywistością samą w sobie\".** Rozmowa krąży wokół tego, co znaczy, że coś jest prawem: powtarzalność, przewidywanie, granice modeli.\n\nGość pilnuje granicy między tym, co wynika z równań, a spekulacją (np. wieloświaty trudno dostępne empirycznie)."
+    },
+    {
+     "t": "Gwiazdy, neutronówki, czarne dziury",
+     "d": "**Gdy gwiazda nie ma już paliwa, zapada się; po supernowej zostaje gwiazda neutronowa albo - przy dużej masie - czarna dziura.** Miller opisuje czarną dziurę jako obiekt \"z czasu i przestrzeni\": materia w pewnym sensie wypada z dostępnego wszechświata, zostaje zakrzywienie.\n\nTo obrazowa ścieżka od codziennej grawitacji do ekstremum relativistycznego."
+    },
+    {
+     "t": "Śmierć cieplna i puenta",
+     "d": "**Daleki scenariusz: gwiazdy gasną, zostają czarne dziury, niebo czarne i zimne - śmierć cieplna.** Cytat w duchu Feynmana: jeśli ci się nie podoba, znajdź sobie inny wszechświat.\n\nWyżga trzyma rozmowę przy fascynacji naturą zamiast checklisty haseł popularnonaukowych."
+    }
+   ],
+   "conclusion": "Miller nie sprzedaje easy-answers o sensie kosmosu - pokazuje, że \"prawa\" to skuteczne opisy, a ekstremalne obiekty i entropia rysują horyzont, na którym intuicja codzienna się kończy.",
+   "factchecks": [
+    {
+     "claim": "Po supernowej może powstać gwiazda neutronowa lub czarna dziura zależnie od masy.",
+     "verdict": "prawda",
+     "note": "Standardowy przebieg ewolucji masywnych gwiazd w astrofizyce.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): neutron star",
+       "https://en.wikipedia.org/wiki/Neutron_star"
+      ],
+      [
+       "Wikipedia (ang.): stellar evolution",
+       "https://en.wikipedia.org/wiki/Stellar_evolution"
+      ]
+     ]
+    },
+    {
+     "claim": "Śmierć cieplna wszechświata to scenariusz maksymalnej entropii / wygaszenia procesów.",
+     "verdict": "prawda",
+     "note": "Klasyczna hipoteza kosmologiczna związana z II zasadą termodynamiki.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): heat death of the universe",
+       "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
+      ]
+     ]
+    }
+   ],
+   "bias": "Wstęp z reklamą odu; długi format rozmowy upraszcza spory interpretacyjne kwantów i kosmologii."
+  },
+  {
    "id": "2sWFexuc7MI",
    "title_pl": "Miejsca na Ziemi, gdzie nie stanął żaden człowiek",
    "title": "Places on Earth No Human Has Ever Visited",
@@ -12865,6 +14395,248 @@
    "bias": "Dukaj spekuluje literacko i inwestycyjnie (chce kupować biotech). Ton elitarystyczny (arystokracja merytokracji). Brak reklam produktów w treści; Didaskalia mają sponsorów kanału."
   },
   {
+   "id": "SgyUoY0IZ7A",
+   "title_pl": "Najlepsze i najgorsze ćwiczenia na barki (ranking)",
+   "title": "The Best And Worst Shoulder Exercises",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A",
+   "date": "2024-09-10",
+   "duration": 799,
+   "views": 8109153,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Siłownia",
+    "Trening"
+   ],
+   "about": "Jeff Nippard układa tier list ćwiczeń na przednie, boczne i tylne głowy barków i wybiera najlepsze oraz najgorsze.",
+   "intro": "Jeff Nippard, trener i kulturysta naturalny, rankinguje popularne ćwiczenia barków od S (super) do F (fail). Kryteria S: duże napięcie w rozciągnięciu, komfort bez bólu barku oraz prosta progresja ciężaru lub powtórzeń.\n\nBarki mają trzy głowy - przednią, boczną i tylną - traktowane niemal jak osobne mięśnie. Film idzie po ruchach, ujawnia po jednym numerze 1 na każdą głowę i na koniec wybiera absolutnego zwycięzcę oraz najsłabszą opcję.",
+   "points": [
+    {
+     "t": "Kryteria i faworyzowanie bocznych",
+     "d": "**Żeby wejść do S, ćwiczenie musi dawać napięcie w rozciągnięciu, dobrze leżeć i dać się dociążać.** Nippard lekko faworyzuje boczne głowy, bo budują \"X-frame\" (talię wciętą względem barków), a przednie i tak dostają dużo bodźca z wyciskań klatki.\n\nZapowiada też książkę The Muscle Ladder (programy, technika, żywienie) - to wstawka reklamowa w środku rankingu."
+    },
+    {
+     "t": "Wznosy bokiem: hantle vs pochylenie",
+     "d": "**Klasyczne wznosy bokiem z hantlami daje B, bo na dole (w największym rozciągnięciu) napięcie jest prawie zerowe.** Szczyt napięcia wypada dopiero przy ramionach pod kątem 90 stopni, gdy mięsień jest już skrócony.\n\nJeśli oprzesz się o ławkę lub stojak i pochylisz tułów, krzywa oporu przesuwa się i boczny bark dostaje więcej napięcia w rozciągnięciu - wtedy Nippard podnosi wariant do A."
+    },
+    {
+     "t": "Wyciskania i wznosy przodem",
+     "d": "**Pionowe wyciskanie (np. na maszynie) jest jego typowym wyborem na przednie barki - A+ i numer 1 na tę głowę.** Wznosy przodem w każdej wersji (hantel, wyciąg, maszyna) lądują w D: przy obecnym wyciskaniu w planie przednie barki i tak są już przeciążone względem bocznych i tylnych."
+    },
+    {
+     "t": "S-tier na boczne: wyciąg i maszyna",
+     "d": "**Wznosy bokiem na wyciągu (uchwyt D lub mankiety) idą prosto do S i to jego ulubione ćwiczenie na boczne barki.** Maszynowe wznosy bokiem też S: gładki opór i łatwa progresja.\n\nWersja z gumami to C (trudniej dociążać). Wiosłowanie sztangą wzdłuż tułowia (upright row) uznaje za przesadnie znienawidzone - przy dobrej pozycji rąk w bok może zasłużyć na S."
+    },
+    {
+     "t": "Tylne barki i werdykt końcowy",
+     "d": "**Reverse fly na maszynie to S i numer 1 na tylne barki; face pull z liną to solidne A.** Odchylone reverse fly z hantlami mają ten sam problem krzywej oporu co klasyczne laterale.\n\nNajgorsze z praktycznego powodu: wznosy przodem (redundantne). Najlepsze overall: wznosy bokiem na wyciągu - budują boczną głowę, której zwykle brakuje do szerokiej sylwetki."
+    }
+   ],
+   "conclusion": "Nippard stawia na napięcie w rozciągnięciu i prostą progresję, a nie na \"uczucie palenia\". Boczne i tylne barki trzeba celować osobno; przednie zwykle wystarczy wyciskanie.",
+   "factchecks": [
+    {
+     "claim": "Przednie barki dostają dużo bodźca z ćwiczeń klatki.",
+     "verdict": "prawda",
+     "note": "Wyciskania angażują przedni delt; wiele programów ogranicza osobne wznosy przodem.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): mięsień naramienny - \"Deltoid muscle\"",
+       "https://en.wikipedia.org/wiki/Deltoid_muscle"
+      ]
+     ]
+    },
+    {
+     "claim": "Boczna głowa barku unosi ramię w bok (abdukcja).",
+     "verdict": "prawda",
+     "note": "To podstawowa funkcja części środkowej mięśnia naramiennego.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): mięsień naramienny - \"Deltoid muscle\"",
+       "https://en.wikipedia.org/wiki/Deltoid_muscle"
+      ],
+      [
+       "Wikipedia (ang.): abdukcja (anatomia)",
+       "https://en.wikipedia.org/wiki/Abduction_(kinesiology)"
+      ]
+     ]
+    },
+    {
+     "claim": "Face pull dobrze celuje w tylne barki przy niższej linie.",
+     "verdict": "prawda",
+     "note": "Przy linii na wysokości klatki/twarzy i torze \"w bok i do tyłu\" tylny delt jest mocno zaangażowany.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): face pull",
+       "https://en.wikipedia.org/wiki/Face_pull"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ranking oparty też na odczuciach autora; wstawka reklamuje książkę The Muscle Ladder. Brak własnych danych EMG w tym odcinku."
+  },
+  {
+   "id": "y0ccZAG2-48",
+   "title_pl": "Lenistwo jest naturalne - Tomasz Rożek o ruchu dzieci",
+   "title": "\"Lenistwo jest naturalne\" Tomasz Rożek - didaskalia#82",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=y0ccZAG2-48",
+   "date": "2024-07-07",
+   "duration": 4178,
+   "views": 116381,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Nauka",
+    "Psychologia"
+   ],
+   "about": "Didaskalia: Rożek o tym, czemu ewolucja premiuje lenistwo i aktywność naraz, oraz o spadku sprawności polskich dzieci.",
+   "intro": "Patrycjusz Wyżga gości Tomasza Rożka (fizyk, Nauka. To Lubię) przy okazji książki o sporcie z Anną Lewandowską. Temat dnia: fizyczność dzieci i paradoks lenistwa.\n\nRożek łączy statystyki sprawności (rzut, chwyt, kozłowanie) z ewolucją: organizm oszczędza energię, ale historycznie aktywność była warunkiem przetrwania. Dziś ekrany i nadmiar kalorii odwracają wektor.",
+   "points": [
+    {
+     "t": "Sprawność polskich dzieci",
+     "d": "**Według Rożka ok. 90-94% dzieci w klasach 1-3 nie potrafi poprawnie rzucić i złapać piłki; ok. 74% starszych nie kozłuje w ruchu.** To nie moralitet, tylko pomiar motoryki.\n\nRównolegle: Polska wśród krajów UE z szybkim przyrostem nadwagi u dzieci - wiele przyczyn naraz, więc trudniej \"zacisnąć pasek\" na jednym wrogu."
+    },
+    {
+     "t": "Ewolucyjny paradoks lenistwa",
+     "d": "**W nas siedzi mechanizm premiujący oszczędzanie ruchu (lenistwo) i mechanizm premiujący aktywność, gdy trzeba zdobyć jedzenie.** Przez większość historii jedzenia brakowało; dziś globalnie więcej ludzi umiera z przejedzenia niż z głodu - mówi Rożek.\n\nFirmy tech zatrudniają ekspertów, by trzymać dzieci i dorosłych przy ekranie jak najdłużej - środowisko selekcyjne się zmieniło."
+    },
+    {
+     "t": "Co z tym robić",
+     "d": "**Książka i rozmowa idą w stronę zrozumienia \"jak działa sport\", nie w stronę zawstydzania.** Aktywność trzeba projektować świadomie, bo nie wynika już sama z walki o kalorie.\n\nPuenta: naturalne nie znaczy pożądane w świecie appów i dostawy jedzenia."
+    }
+   ],
+   "conclusion": "Rożek: lenistwo ma sens ewolucyjny, ale w 2020+ jest pułapką. Najpierw zmierz motorykę dzieci, potem buduj środowisko ruchu - bo geny nadal liczą kalorie jak w paleolicie.",
+   "factchecks": [
+    {
+     "claim": "Globalnie więcej zgonów wiąże się z otyłością/przejedzeniem niż z niedożywieniem.",
+     "verdict": "półprawda",
+     "note": "W wielu statystykach choroby związane z nadwagą dominują w zgonach, ale niedożywienie wciąż zabija regionalnie; uproszczenie \"globalnie\".",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): obesity",
+       "https://en.wikipedia.org/wiki/Obesity"
+      ],
+      [
+       "WHO: obesity and overweight",
+       "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+      ]
+     ]
+    },
+    {
+     "claim": "Sprawność motoryczna dzieci spada w krajach rozwiniętych przy siedzący trybie życia.",
+     "verdict": "prawda",
+     "note": "Raporty o fitness dziecięcym i screen time wskazują pogorszenie podstawowych umiejętności ruchowych.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): physical fitness",
+       "https://en.wikipedia.org/wiki/Physical_fitness"
+      ],
+      [
+       "Wikipedia (ang.): sedentary lifestyle",
+       "https://en.wikipedia.org/wiki/Sedentary_lifestyle"
+      ]
+     ]
+    }
+   ],
+   "bias": "Promocja książki Nauka To Lubię / sport; procenty sprawności podane z pamięci w rozmowie, bez tabeli na ekranie."
+  },
+  {
+   "id": "kIXcoivzGf8",
+   "title_pl": "Najlepsze i najgorsze ćwiczenia na czworogłowe",
+   "title": "The Best & Worst QUAD Exercises (Ranked Using Science)",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=kIXcoivzGf8",
+   "date": "2024-07-02",
+   "duration": 741,
+   "views": 4018005,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Siłownia",
+    "Trening"
+   ],
+   "about": "Jeff Nippard rankinguje ok. 20 ćwiczeń na quady: przysiady, hack, wypychanie, wykroki, prostowania - z werdyktem S do F.",
+   "intro": "Jeff Nippard ocenia popularne ćwiczenia na czworogłowe uda pod kątem hipertrofii. Do S potrzeba: dużego napięcia w rozciągnięciu, braku bólu kolan i gładkiej progresji.\n\nPrzypomina cztery głowy quada (w tym rectus femoris, który zgina też biodro). Ranking idzie od najgorszych kombinacji, przez typy przysiadów, po izolacje; na końcu wybiera jednego zwycięzcę i absolutnego przegranego.",
+   "points": [
+    {
+     "t": "F-tier: combo i Bosu",
+     "d": "**Przysiad + wyciskanie albo wykrok + uginanie idą do F: quady są dużo silniejsze niż barki i ręce, więc góra ciała pada pierwsza.** Przysiady na Bosu też F - niestabilność zrzuca pracę na kostki i ogranicza napięcie w udach.\n\nDo budowy masy lepiej zwykły przysiad bez piłki."
+    },
+    {
+     "t": "Przysiady: back, front, low-bar",
+     "d": "**Barbell back squat zostaje w S mimo że rectus femoris nie jest maksymalnie aktywowany: nadal buduje potężne quady (widać u powerlifterów).** Front squat ma podobne plusy; low-bar (sztanga niżej) to raczej A, bo nieco mniej nacisku na quady względem tyłu uda i pośladków.\n\nGłębokość i tor sztangi mają znaczenie dla komfortu kolan."
+    },
+    {
+     "t": "Hack, wahadło, Smith, leg press",
+     "d": "**Hack squat i przysiad wahadłowy (pendulum) lądują w S - duże rozciągnięcie i stabilna maszyna.** Smith machine squat też S pod hipertrofię, bo quady dostają podobny bodziec jak w wolnej sztandze przy łatwiejszej kontroli.\n\nWypychanie 45 stopni jest dobre; poziomy leg press to raczej C dla średniozaawansowanych (mniejszy zakres / overload)."
+    },
+    {
+     "t": "Wykroki, prostowania, bułgarskie",
+     "d": "**Wykroki to według niego lepszy builder pośladków niż quadów - jako ćwiczenie na quady B.** Prostowanie nóg (leg extension) A dzięki silnemu rozciągnięciu i dostępności; bułgarskie przysiady (Bulgarian split squat) S - ogromne rozciągnięcie i praca jednej nogi.\n\nMartwy ciąg na quady to C (aktywacja jest, ale dużo mniejsza niż w przysiadzie)."
+    },
+    {
+     "t": "Werdykt: hack vs Bosu",
+     "d": "**Numer 1 overall: hack squat - jego osobisty go-to na quady.** Najgorsze: przysiad na Bosu - wystarczy zdjąć piłkę, by ruch od razu stał się sensowny.\n\nWniosek praktyczny: trzymaj się głębokich, stabilnych ruchów z progresją ciężaru zamiast \"wyzwań równowagi\"."
+    }
+   ],
+   "conclusion": "Na quady wygrywa duże rozciągnięcie pod obciążeniem: hack, głęboki przysiad, bułgarskie. Unikaj niestabilnych gadżetów i combo, które męczą słabsze mięśnie wcześniej niż uda.",
+   "factchecks": [
+    {
+     "claim": "Czworogłowy ma 4 głowy; rectus femoris zgina też biodro.",
+     "verdict": "prawda",
+     "note": "Rectus femoris to jedyna głowa dwustawowa: prostuje kolano i zgina biodro.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): mięsień czworogłowy uda",
+       "https://en.wikipedia.org/wiki/Quadriceps_femoris_muscle"
+      ]
+     ]
+    },
+    {
+     "claim": "W przysiadzie rectus femoris nie jest maksymalnie aktywowany.",
+     "verdict": "półprawda",
+     "note": "Przy zgięciu biodra rectus jest mniej faworyzowany niż w prostowaniu nóg, ale badania i tak pokazują jego wzrost przy przysiadach.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): przysiad (ćwiczenie)",
+       "https://en.wikipedia.org/wiki/Squat_(exercise)"
+      ],
+      [
+       "PubMed: przegląd EMG mięśni w przysiadzie",
+       "https://pubmed.ncbi.nlm.nih.gov/22395215/"
+      ]
+     ]
+    },
+    {
+     "claim": "Hack squat mocno obciąża quady w rozciągnięciu.",
+     "verdict": "prawda",
+     "note": "Maszyna utrzymuje tułów i pozwala zejść głęboko z naciskiem na prostowanie kolana.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): hack squat",
+       "https://en.wikipedia.org/wiki/Hack_squat"
+      ]
+     ]
+    }
+   ],
+   "bias": "Werdykt \"numer 1\" jest też osobistą preferencją (hack). Brak tabeli badań w odcinku - opiera się na anatomii i doświadczeniu coaches."
+  },
+  {
    "id": "aP8KsI2Ugc8",
    "title_pl": "Prof. Piotr Rutkowski o profilaktyce raka, czerniaku i opalaniu",
    "title": "Uwarunkowania genetyczne odpowiadają za 5 proc. zachorowań na nowotwory- prof. Piotr Rutkowski",
@@ -13127,6 +14899,153 @@
     }
    ],
    "bias": "Rzetelny i lekki w tonie; ostrożnie zaznacza, co jest hipotezą. Część czasu zajmuje reklama sponsora."
+  },
+  {
+   "id": "OpRMRhr0Ycc",
+   "title_pl": "Najlepsze i najgorsze ćwiczenia na triceps",
+   "title": "The Best & Worst TRICEPS Exercises (Ranked Using Science)",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc",
+   "date": "2024-05-24",
+   "duration": 893,
+   "views": 9394413,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Siłownia",
+    "Trening"
+   ],
+   "about": "Jeff Nippard rankinguje ćwiczenia na trzy głowy tricepsa; wygrywa prostowanie nad głową na wyciągu.",
+   "intro": "Jeff Nippard robi tier list ok. 20 ruchów na triceps. Do S: napięcie w rozciągnięciu, komfort i prosta progresja. Triceps ma trzy głowy - boczną, przyśrodkową i długą (ta ostatnia buduje ramię \"od tyłu\").\n\nZaczyna od popularnych prostowań na wyciągu, porównuje linę, drążek i chwyt odwrócony, potem idzie w warianty nad głową, skull crushers, dipsy i kickbacki. Na końcu koronuje zwycięzcę.",
+   "points": [
+    {
+     "t": "Prostowania na wyciągu: lina vs drążek",
+     "d": "**Prostowanie liną to B: lepsze \"czucie\" skurczu, ale mniej obciążenia.** W teście przy tym samym ciężarze zrobił 12 powtórzeń liną i 16 drążkiem - lina jest mniej sztywna, część napięcia \"gubi się\" w stabilizacji przedramion.\n\nDrążek to A (blisko S): stabilniej, równe napięcie, łatwa progresja, ale u góry ruchu nie ma dużego rozciągnięcia. Chwyt odwrócony (reverse grip) to C - biomechanicznie mało zmienia, a ogranicza siłę."
+    },
+    {
+     "t": "Overhead = S i faworyt długiej głowy",
+     "d": "**Prostowanie nad głową na wyciągu to pierwsze S: pozycja mocno rozciąga długą głowę.** Badania hipertrofii, które Nippard cytuje w serii, wskazują wyższość wariantu overhead nad prostowaniem w dół.\n\nWersja z liną zachowuje plusy długiej głowy. Jednoręczne prostowanie hantlem nad głową to A - dobre, gdy masz tylko hantle, ale więcej setupu."
+    },
+    {
+     "t": "Skull crushers i złożone",
+     "d": "**Skull crushers (prostowanie leżąc) idą do S: wysokie napięcie przy rozciągniętym tricepsie.** Wariant z hantlami raczej A (trudniej kontrolować).\n\nClose-grip dip i close-grip bench na papierze A/S przez overload, ale Nippard zrzuca je do A: klatka i barki łatwo przejmują ruch, a dipsy nie zawsze dobrze \"leżą\" na łokciach."
+    },
+    {
+     "t": "Kickback najsłabszy; brak F",
+     "d": "**Numer 1 overall: overhead cable tricep extension.** Najgorsze: kickback z hantlem - ma miejsce, ale są wyraźnie lepsze opcje.\n\nW tym odcinku nie dał nikomu F (w przeciwieństwie do rankingu pleców). Puenta: trenuj długą głowę w rozciągnięciu, a medial/lateral domykaj prostowaniami drążkiem."
+    }
+   ],
+   "conclusion": "Na triceps wygrywa rozciągnięcie długiej głowy (overhead) plus stabilne prostowania drążkiem. Kickbacki i chwyt odwrócony to raczej dodatek, nie fundament.",
+   "factchecks": [
+    {
+     "claim": "Triceps ma trzy głowy; długa głowa też prostuje bark (przechodzi przez staw).",
+     "verdict": "prawda",
+     "note": "Long head przyczepia się do łopatki, więc pozycja ramienia zmienia jej długość.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): mięsień trójgłowy ramienia",
+       "https://en.wikipedia.org/wiki/Triceps"
+      ]
+     ]
+    },
+    {
+     "claim": "Trening overhead daje większy przyrost tricepsa niż prostowanie w dół.",
+     "verdict": "prawda",
+     "note": "Maeo i wsp. 2023: większa hipertrofia całego tricepsa w pozycji nad głową.",
+     "p": 1,
+     "src": [
+      [
+       "PubMed: Maeo i wsp. 2023 - overhead vs pushdown",
+       "https://pubmed.ncbi.nlm.nih.gov/35819335/"
+      ]
+     ]
+    },
+    {
+     "claim": "Skull crushers mocno obciążają triceps w rozciągnięciu.",
+     "verdict": "prawda",
+     "note": "Przy zgięciu łokcia nad głową/za głową długa głowa jest wydłużona pod obciążeniem.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): lying triceps extension",
+       "https://en.wikipedia.org/wiki/Lying_triceps_extension"
+      ]
+     ]
+    }
+   ],
+   "bias": "Porównanie liny vs drążek to jeden test na sobie; ranking łączy literaturę z osobistym czuciem. Zero F może wynikać z łagodniejszego tonu odcinka."
+  },
+  {
+   "id": "5tSMLwgeli8",
+   "title_pl": "Dlaczego nie budujemy mieszkań jak w PRL - Marek Bryx",
+   "title": "Nie stać nas na budowanie mieszkań jak w PRL - prof. Marek Bryx - didaskalia#71",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=5tSMLwgeli8",
+   "date": "2024-05-12",
+   "duration": 5742,
+   "views": 106025,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Technika",
+    "Psychologia"
+   ],
+   "about": "Didaskalia: prof. Marek Bryx o rynku mieszkań, mieszkaniach komunalnych, zieleni w mieście i cenach metra.",
+   "intro": "Patrycjusz Wyżga rozmawia z prof. Markiem Bryxem (ekonomia/nieruchomości) o tym, czemu dziś nie da się powtórzyć skali budownictwa z epoki silnych dopłat państwowych i co zamiast tego buduje dobre miasto.\n\nWątki: mieszkanie nie tylko jako towar, potrzeba segmentu komunalnego i socjalnego, zieleń, dojazdy, dlaczego duże miasta puchną, a małe się wyludniają, oraz relacja ceny m2 do pensji.",
+   "points": [
+    {
+     "t": "Mieszkanie nie tylko towar",
+     "d": "**Bryx: na rynku potrzeba różnorodności - najem, kupno, ale też komunalne i socjalne dla osób, którym trzeba pomóc.** Zarazem odrzuca roszczenie \"państwo ma mi dać mieszkanie\" jako jedyny model - praca i własne ułatwianie sobie życia zostają w grze.\n\nSocjalizm według niego rozwiązał dostępność ogromnym dofinansowaniem, na które dziś nas nie stać w tej skali."
+    },
+    {
+     "t": "Dlaczego nie tanieje w centrach",
+     "d": "**Mieszkania w centrach dużych miast raczej nie będą systematycznie taniały: mało terenu, droższe materiały i robocizna, instytucje trzymają działki.** Relatywnie do średniej płacy metr od lat kosztuje podobny ułamek (ok. 0,7 m2 za średnią - rząd wielkości z rozmowy).\n\nDuże miasta są źródłem zarobków, więc młodzi głosują nogami - małe się wyludniają."
+    },
+    {
+     "t": "Zieleń i miasto do życia",
+     "d": "**Twarde zasady planowania: zieleń, dojazd do pracy, szkoły, odpoczynek psychiczny - drzewa rosną wolno, więc sadzić wcześnie.** Bryx mówi studentom: chroniąc środowisko, chronimy siebie (tlen, hałas, zdrowie).\n\nPrzykłady warszawskie: otwarte ogrody i skróty vs zamknięte ogrodzenia utrudniające spacer z wózkiem."
+    }
+   ],
+   "conclusion": "Nie wrócimy do PRL-owskiego tempa na starych dopłatach. Sensowna polityka mieszkaniowa to mix rynku, segmentu komunalnego i miasta, w którym da się oddychać - dosłownie i w dojeździe.",
+   "factchecks": [
+    {
+     "claim": "Urbanizacja ściąga ludność do większych miast oferujących wyższe zarobki.",
+     "verdict": "prawda",
+     "note": "Klasyczny wzorzec migracji wewnętrznych w Polsce i UE.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): urbanization",
+       "https://en.wikipedia.org/wiki/Urbanization"
+      ],
+      [
+       "Wikipedia (ang.): rural flight",
+       "https://en.wikipedia.org/wiki/Rural_flight"
+      ]
+     ]
+    },
+    {
+     "claim": "Zieleń miejska ma mierzalne korzyści zdrowotne i ekonomiczne.",
+     "verdict": "prawda",
+     "note": "Badania ecosystem services drzew w miastach są cytowane w urbanistyce.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): urban forestry",
+       "https://en.wikipedia.org/wiki/Urban_forestry"
+      ],
+      [
+       "Wikipedia (ang.): ecosystem service",
+       "https://en.wikipedia.org/wiki/Ecosystem_service"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa ekonomisty rynku nieruchomości; liczby m2 za średnią orientacyjne z rozmowy. Krótka dygresja geopolitczna pominięta."
   },
   {
    "id": "7bOQ7fLCqgI",
@@ -13511,6 +15430,88 @@
    "bias": "Ranking subiektywny (bólu nie da się obiektywnie porównać). Punkt o osie-katu jest w dużej mierze zmyślony; reszta zgodna z faktami.",
    "channel": "Chill Dude Explains",
    "section": "Chill Dude Explains"
+  },
+  {
+   "id": "fGm-ef-4PVk",
+   "title_pl": "Najlepsze i najgorsze ćwiczenia na klatkę",
+   "title": "The Best And Worst Chest Exercises (Ranked By Science)",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk",
+   "date": "2024-03-11",
+   "duration": 904,
+   "views": 9964201,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Ciało i zdrowie",
+    "Siłownia",
+    "Trening"
+   ],
+   "about": "Jeff Nippard rankinguje ruchy na klatkę; wygrywa wyciskanie na maszynie, przegrywa plate press.",
+   "intro": "Jeff Nippard ocenia ok. 20 ćwiczeń klatki. Bez dużego rozciągnięcia pod napięciem od razu grozi F. Liczą się też komfort barków i możliwość dokładania ciężaru.\n\nZaczyna od najsłabszych (hex press, plate press), przechodzi przez sztangę, hantle, dipsy i pompki, potem izolacje (pec deck, flye). Na końcu wybiera best of the best i worst of the worst.",
+   "points": [
+    {
+     "t": "F: hex i plate press",
+     "d": "**Hex press (hantle złączone na klatce) idzie do F: ramiona nie odchodzą w bok, więc nie ma głębokiego rozciągnięcia, a triceps przejmuje pracę.** Plate press to jeszcze bardziej niezręczna wersja tego samego pomysłu - też F.\n\nPullover z hantlem: teoretycznie angażuje pecs, ale Nippard i klienci czują głównie najszerszy - D jako ćwiczenie na klatkę."
+    },
+    {
+     "t": "Wyciskania sztangą i hantlami",
+     "d": "**Płaskie wyciskanie sztangą to A (blisko S): łatwy overload, ale sztanga ogranicza rozciągnięcie względem hantli i u części osób męczy barki.** Skos głową w górę też A - badanie według filmu pokazało podobny wzrost środka/dołu jak płaskie plus lepszy górny pec.\n\nHantle płaskie i skośne: A (głębsze rozciągnięcie, ale u zaawansowanych trudniejszy overload)."
+    },
+    {
+     "t": "Maszyna S, dipsy i pompki",
+     "d": "**Wyciskanie na maszynie to pierwsze S: stabilnie, da się pchać blisko upadku, dobre rozciągnięcie.** Dipsy A (ogromne rozciągnięcie, ale barki/klatka łatwo \"kradną\" tor). Deficit push-up A; plyometryczne pompki raczej pod moc, nie pod masę.\n\nGuillotine press (sztanga do szyi) F - zbędne ryzyko."
+    },
+    {
+     "t": "Izolacje i werdykt",
+     "d": "**Pec deck / butterfly to drugie S: siedząco, stabilnie, mocne rozciągnięcie w rozwarciu ramion.** Leżące rozpiętki z hantlami mają sens biomechaniczny; standing cross-body flye bywa F/D gdy traci napięcie.\n\nBest: machine chest press (kategoria). Worst: plate press - \"ćwiczenie influencerskie\", by być innym."
+    }
+   ],
+   "conclusion": "Na klatkę stawiaj na głębokie rozciągnięcie i bezpieczny failure: maszyna + pec deck, ewentualnie sztanga/hantle. Hex/plate press i guillotine to strata czasu albo ryzyko.",
+   "factchecks": [
+    {
+     "claim": "Skos głową w górę buduje też środek/dół klatki podobnie jak płaskie.",
+     "verdict": "półprawda",
+     "note": "Są badania pokazujące podobny wzrost wielu regionów przy skosie, ale kąt i technika mocno wpływają; to nie unieważnia płaskiego wyciskania.",
+     "p": 1,
+     "src": [
+      [
+       "PubMed: porównanie kątów wyciskania i hipertrofii klatki",
+       "https://pubmed.ncbi.nlm.nih.gov/31230110/"
+      ],
+      [
+       "Wikipedia (ang.): bench press",
+       "https://en.wikipedia.org/wiki/Bench_press"
+      ]
+     ]
+    },
+    {
+     "claim": "Dipsy mocno rozciągają klatkę przy pochyleniu tułowia.",
+     "verdict": "prawda",
+     "note": "Przy pochyleniu do przodu i łokciach w bok dipsy mocniej ładują pecs niż wersja wyprostowana pod triceps.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): dip (exercise)",
+       "https://en.wikipedia.org/wiki/Dip_(exercise)"
+      ]
+     ]
+    },
+    {
+     "claim": "Pec deck izoluje przywodzenie ramienia w poziomie (klatka).",
+     "verdict": "prawda",
+     "note": "Ruch to horizontal adduction w stawie barkowym - funkcja mięśnia piersiowego większego.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): pectoralis major",
+       "https://en.wikipedia.org/wiki/Pectoralis_major"
+      ]
+     ]
+    }
+   ],
+   "bias": "S dla maszyny odzwierciedla lubienie bezpiecznego failure; bez maszyn werdykt mniej praktyczny. Badanie skosu bez pełnej bibliografii w napisach."
   },
   {
    "id": "ziYuxvxAw3U",
@@ -14635,6 +16636,66 @@
     }
    ],
    "bias": "Edukacyjny ton E3 Rehab; mało \"jednej listy top 3\". Reklamy produktów brak. Długi survey-format może rozmywać konkretne zalecenia treningowe."
+  },
+  {
+   "id": "uA3EydIQ_yU",
+   "title_pl": "Bralczyk: język polski, poprawność i elegancja",
+   "title": "Język polski na dworach rosyjskich był bardziej elegancki: prof. Jerzy Bralczyk - didaskalia #8",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=uA3EydIQ_yU",
+   "date": "2023-04-30",
+   "duration": 6144,
+   "views": 651081,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-06",
+   "tags": [
+    "Psychologia"
+   ],
+   "about": "Didaskalia z prof. Jerzym Bralczykiem o poprawności językowej, formach na/w Ukrainie i statusie polszczyzny.",
+   "intro": "Patrycjusz Wyżga rozmawia z prof. Jerzym Bralczykiem (UW/UJ, emerytowany) o tym, jak dziś oceniamy poprawność języka. To rozmowa wymagająca: żarty językowe, norma, grzeczność i polityczna poprawność słownictwa.\n\nWśród wątków: historyczny prestiż polszczyzny na wschodnich dworach oraz spór form \"na Ukrainie\" / \"w Ukrainie\" jako przykład, gdzie norma językowa styka się z oczekiwaniami grzeczności.",
+   "points": [
+    {
+     "t": "Poprawność ma wiele warstw",
+     "d": "**Bralczyk rozróżnia poprawność językową od poprawności politycznej (grzecznościowej).** Kiedyś \"polityczny\" znaczyło m.in. grzeczny - stąd łatwo o masło maślane.\n\nRozmowa pokazuje, że norma to nie tylko słownik, ale też relacja z rozmówcą i zmieniające się tabu."
+    },
+    {
+     "t": "Na Ukrainie czy w Ukrainie",
+     "d": "**Według Bralczyka dzisiejsza grzeczność (i oczekiwania mieszkańców Ukrainy) skłania do \"w Ukrainie\".** Tradycyjne \"na\" bywało łączone z nazwami krain; część osób czyta w tym imperialny cień - stąd emocje i petycje.\n\nOn tłumaczy mechanizm, nie wydaje wyroku karnego za nawyk starszego pokolenia."
+    },
+    {
+     "t": "Elegancja i zmiana pokoleniowa",
+     "d": "**Anegdota otwarcia: polszczyzna bywała na dworach wschodnich uważana za bardziej elegancką.** Dziś Bralczyk słucha młodszych rejestrów, których czasem nie czuje, ale komunikacja działa, gdy obie strony chcą.\n\nPuenta: język żyje w użyciu; ekspert może opisać napięcia, rzadko je zatrzymać."
+    }
+   ],
+   "conclusion": "Bralczyk broni uważności: najpierw zrozum, skąd się wzięła forma, potem zdecyduj, czy grzeczność wymaga zmiany nawyku. Poprawność bez empatii robi z normy pałkę.",
+   "factchecks": [
+    {
+     "claim": "W polszczyźnie trwa spór o przyimek przy nazwie Ukraina (na/w).",
+     "verdict": "prawda",
+     "note": "To głośna dyskusja normatywna i obyczajowa ostatnich lat w Polsce.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Ukrainian language",
+       "https://en.wikipedia.org/wiki/Ukrainian_language"
+      ]
+     ]
+    },
+    {
+     "claim": "Jerzy Bralczyk jest znanym polskim językoznawcą i popularyzatorem.",
+     "verdict": "prawda",
+     "note": "Profesor związany z UW; szeroko obecny w mediach jako autorytet językowy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (pl.): Jerzy Bralczyk",
+       "https://pl.wikipedia.org/wiki/Jerzy_Bralczyk"
+      ]
+     ]
+    }
+   ],
+   "bias": "Lekka autopromocja kanału; temat Ukrainy jest w odcinku obecny językowo - streszczenie trzyma się lingwistyki."
   },
   {
    "id": "HDre_o2qz1o",
