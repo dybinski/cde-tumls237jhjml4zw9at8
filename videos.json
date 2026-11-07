@@ -143,6 +143,180 @@
    "bias": "Katalog scare-content: anegdoty i rady bez metodologii; \"3 sekundy\" i czarny rynek uproszczone. Brak danych o skali vs klasyczne scamy."
   },
   {
+   "id": "Hon6l-GthvM",
+   "title_pl": "Codzienne rzeczy, na które warto wydać więcej",
+   "title": "Everyday Objects Worth Spending More On",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=Hon6l-GthvM",
+   "date": "2026-11-06",
+   "duration": 687,
+   "views": 15627,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Technika",
+    "Mity"
+   ],
+   "about": "Ranking 10 codziennych przedmiotów, przy których tania wersja kosztuje zdrowie, dom albo nerwy.",
+   "intro": "Chill Dude Explains (kanał z rankingowymi listami o codziennych wyborach) pokazuje, gdzie oszczędność na \"drobiazgach\" zamienia się w powódź, pożar albo wizytę u fizjoterapeuty. Każdy punkt to rzecz, którą i tak kupujesz - pytanie tylko, czy raz dobrze, czy potem płacisz za skutki.\n\nFilm idzie od 10 do 1: od przepychacza i węży pralki, przez poduszkę, buty i przedłużacze, aż po opony. Cel: pokazać konkretne progi ceny i ryzyka, a nie luksus dla samego luksusu.",
+   "points": [
+    {
+     "t": "10-9: przepychacz i węże pralki",
+     "d": "**Płaski przepychacz według autora nadaje się do zlewu, nie do toalety - potrzebujesz flange plunger z dodatkową klapką uszczelniającą odpływ.** Bez uszczelnienia nie ma ciśnienia, a awaria zwykle wypada przy gościach. Dobry model to ok. 15 USD zamiast 5.\n\nZa pralką siedzą gumowe węże fabryczne, które pęcznieją pod ciśnieniem 24/7. Pęknięcie to według filmu do ok. 2460 litrów wody na godzinę; średnia szkoda ubezpieczeniowa ok. 5000 USD. Stalowe oploty kosztują ok. 20 USD i 10 minut wymiany."
+    },
+    {
+     "t": "8-7: poduszka i buty",
+     "d": "**Tania poduszka zapada się w nocy i łamie neutralną linię karku - bokiem potrzebujesz grubszej i firmer, na plecach średniej, na brzuchu najcieńszej.** Test: złóż poduszkę na pół; jeśli zostaje złożona \"jak smutne taco\", jest martwa. Dobra to 40-80 USD, czyli centy za noc wobec wizyty u chiropraktyka.\n\nTanie buty bez wsparcia łuków i ze zbyt wąskim nosekiem rujnują kinetyczny łańcuch: stopy, kolana, biodra, lędźwie. Plantary fasciitis i chroniczny ból stawów to według autora cena \"oszczędzonych\" 20 USD."
+    },
+    {
+     "t": "6-4: przedłużacz, patelnia, ładowarka",
+     "d": "**Przedłużacze odpowiadają według autora za ok. 3300 pożarów domowych rocznie w USA - grubość żyły (gauge: niższa liczba = grubszy drut) decyduje, czy kabel się przegrzewa.** Bierz UL-listed 12 lub 14 gauge z bezpiecznikiem; tani 3-dolarowy \"gotuje\" izolację.\n\nPotarta teflonowa (PTFE) patelnia sypie płatki i przy ok. 260 C uwalnia opary; PFAS to \"forever chemicals\". Alternatywa: żeliwo lub carbon steel. Podrabiane ładowarki: test UK Electrical Safety First - 397/400 padło; w 2013 w Chinach kobieta zginęła po skoku napięcia z fake'a."
+    },
+    {
+     "t": "3-1: okulary, drabina, opony",
+     "d": "**Ciemne szkła bez UV 400 rozszerzają źrenice i wpuszczają więcej UV niż brak okularów - to lejek na siatkówkę.** Za ok. 20-30 USD masz realną ochronę; stacja benzynowa często daje tylko ciemny plastik.\n\nDrabiny: ok. 500 tys. urazów rocznie w USA i ok. 300 śmierci; bierz duty rating 1A (ok. 136 kg) zamiast type 3. Opony: twardsza mieszanka i płytszy bieżnik wydłużają drogę hamowania nawet o ok. 15 m i łatwiej hydroplanują - zestaw droższy o 200-400 USD vs jedno zderzenie."
+    }
+   ],
+   "conclusion": "Autor chce, żebyś płacił raz za uszczelnienie, usztywnienie i certyfikat bezpieczeństwa, a nie za powódź, pożar albo fizjo. Ranking kończy się oponami: cztery łatki gumy to jedyne, co trzyma cię na drodze.",
+   "factchecks": [
+    {
+     "claim": "Pęknięty wąż pralki może wylać tysiące litrów wody na godzinę.",
+     "verdict": "prawda",
+     "note": "Producenci węży i ubezpieczyciele ostrzegają przed powodzią z pękniętego węża zasilającego.",
+     "p": 0,
+     "src": [
+      [
+       "Insurance Information Institute: szkody wodne w domu",
+       "https://www.iii.org/article/spotlight-on-water-damage"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Washing machine\"",
+       "https://en.wikipedia.org/wiki/Washing_machine"
+      ]
+     ]
+    },
+    {
+     "claim": "Przedłużacze powodują tysiące pożarów domowych rocznie w USA.",
+     "verdict": "prawda",
+     "note": "CPSC i straż pożarna USA wskazują przeciążane przedłużacze jako przyczynę pożarów.",
+     "p": 2,
+     "src": [
+      [
+       "U.S. CPSC: ostrzeżenia o przedłużaczach",
+       "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fire-Safety"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Extension cord\"",
+       "https://en.wikipedia.org/wiki/Extension_cord"
+      ]
+     ]
+    },
+    {
+     "claim": "Ciemne okulary bez filtra UV są gorsze niż brak okularów.",
+     "verdict": "prawda",
+     "note": "Rozszerzona źrenica bez bloku UV zwiększa ekspozycję; zaleca się oznaczenie UV400.",
+     "p": 3,
+     "src": [
+      [
+       "American Academy of Ophthalmology: ochrona UV",
+       "https://www.aao.org/eye-health/tips-prevention/sunglasses"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Sunglasses\"",
+       "https://en.wikipedia.org/wiki/Sunglasses"
+      ]
+     ]
+    }
+   ],
+   "bias": "Lista alarmuje cenami w USD i dramatycznymi scenariuszami; nie porównuje systematycznie marek ani nie podaje źródeł badań w filmie."
+  },
+  {
+   "id": "fxutKQYP5IU",
+   "title_pl": "Trzech zapomnianych rzymskich celebrytów",
+   "title": "Three Forgotten Roman Celebrities",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=fxutKQYP5IU",
+   "date": "2026-11-06",
+   "duration": 669,
+   "views": 11659,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Historia"
+   ],
+   "about": "toldinstone: Polemon mówca, Apoloniusz z Tiany i Symeon Słupnik - starożytny fandom bez Instagrama.",
+   "intro": "Garrett Ryan (toldinstone) argumentuje, że kultura celebrytów jest stara jak cywilizacja - tylko mało kto zostaje sławny na długo. Film przywraca trzech Rzymian, których kiedyś znały miliony, a dziś prawie nikt.\n\nOd trzeciego do pierwszego: Marek Antoniusz Polemon (król deklamacji II sofistyki), Apoloniusz z Tiany (guru-cudotwórca) i Symeon Słupnik (stylita na 20-metrowej kolumnie). Cel: zobaczyć starożytny fandom bez feedu.",
+   "points": [
+    {
+     "t": "3: Polemon - retor jako sportowiec",
+     "d": "**W II-III w. II sofistyka zrobiła z retoryki sport widowiskowy: deklamacje historyczne i fikcyjne sprawy sądowe zbierały tłumy.** Królem był Marcus Antonius Polemon z Azji Mniejszej (Smyrna): Trajan dał mu wolny przejazd lądem i morzem, Hadrian miejsce w Mouseion w Aleksandrii.\n\nEgo legendarnie: kazał królowi Bosporu płacić 10 talentów za audiencję, wyrzucił z domu przyszłego Antoninusa Piusa. Biograf: mówił do miast jak do podwładnych, do cesarzy jak nie do władców, do bogów jak do równych. Artretyzm; według tradycji kazał się żywcem pogrzebać z okrzykiem o nowym ciele."
+    },
+    {
+     "t": "2: Apoloniusz z Tiany",
+     "d": "**Apoloniusz: pitagorejski asceta (wegetarianizm, bez wina i kobiet), postrzegany jako mędrzec i cudotwórca na obrzeżach akceptowanej filozofii.** Biografia Filostratosa (na zlecenie Julii Domny) jest w dużej mierze legendą; traktaty pod jego imieniem wątpliwe.\n\nPo śmierci kult u Severów; poganie stawiali go obok/przeciw Jezusowi, chrześcijanie - jako sztukmistrza demonów. Ślad nawet w folklorze arabskim."
+    },
+    {
+     "t": "1: Symeon Słupnik",
+     "d": "**Stylici w późnym antyku stali na słupach jako \"prawie aniołowie\" - Symeon uciekł przed pielgrzymami wyżej, aż do ok. 40 łokci (ok. 20 m).** Z kolumny głosił, uzdrawiał reputacją, nawet wizerunek miał mieć moc leczniczą.\n\nTo celebrity holiness: im bardziej niedostępny, tym większy tłum u stóp."
+    }
+   ],
+   "conclusion": "Autor pokazuje, że starożytność miała swoich influencerów - mówców, guru i świętych na słupie. Sława była głośna, pamięć - krótka.",
+   "factchecks": [
+    {
+     "claim": "II sofistyka uczyniła retorykę widowiskiem w cesarstwie rzymskim.",
+     "verdict": "prawda",
+     "note": "Second Sophistic to ustalony okres rozkwitu greckiej oratorii w Imperium.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Second Sophistic\"",
+       "https://en.wikipedia.org/wiki/Second_Sophistic"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Polemon of Laodicea\"",
+       "https://en.wikipedia.org/wiki/Polemon_of_Laodicea"
+      ]
+     ]
+    },
+    {
+     "claim": "Apoloniusz z Tiany stał się postacią legendarną opisaną przez Filostratosa.",
+     "verdict": "prawda",
+     "note": "Vita Apollonii Filostratosa to główne, silnie zbeletryzowane źródło.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Apollonius of Tyana\"",
+       "https://en.wikipedia.org/wiki/Apollonius_of_Tyana"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Philostratus\"",
+       "https://en.wikipedia.org/wiki/Philostratus"
+      ]
+     ]
+    },
+    {
+     "claim": "Symeon Słupnik żył na wysokiej kolumnie i zapoczątkował stylityzm.",
+     "verdict": "prawda",
+     "note": "Symeon Stylites Starszy jest uznawany za pierwszego słynnego stylitę.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Simeon Stylites\"",
+       "https://en.wikipedia.org/wiki/Simeon_Stylites"
+      ],
+      [
+       "Britannica: Simeon Stylites",
+       "https://www.britannica.com/biography/Saint-Simeon-Stylites"
+      ]
+     ]
+    }
+   ],
+   "bias": "Anegdoty biografów starożytnych brane z dramatycznym efektem; granica legenda/fakt przy Apoloniuszu celowo rozmyta."
+  },
+  {
    "id": "yY4Z-E1ieII",
    "title_pl": "Co wolno władzy, a zwykłym ludziom nie",
    "title": "Things That Are Legal For Them But Not For Us",
@@ -2285,6 +2459,95 @@
    "bias": "Rozrywkowy poradnik bez źródeł w filmie. Reklamy brak; upraszcza badania (Matthews) i biologię do catchy punktów."
   },
   {
+   "id": "SpQmdVoyhWw",
+   "title_pl": "Funkcje smart home tak creepowe, że je cicho wycofano",
+   "title": "Smart Home Features So Creepy They Got Quietly Removed",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=SpQmdVoyhWw",
+   "date": "2026-11-02",
+   "duration": 687,
+   "views": 39562,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Psychologia"
+   ],
+   "about": "Od Echo Look i Amazon Key po Nest Secure: gadżety, które weszły za daleko w prywatność i zniknęły bez fanfar.",
+   "intro": "Chill Dude Explains zbiera smart-home funkcje, które obiecywały wygodę, a kończyły jako kamera w sypialni, AI oceniające twarz albo portal dla policji. To nie poradnik \"jak urządzić dom\", tylko historia produktów, które rynek albo regulator uciszyły.\n\nOdliczanie od 10 do 1: Amazon Echo Look, smart lustro, Amazon Key, Google Clips, kamery w Airbnb, Eufy \"local-only\", Strava heatmap, lalka Cayla, Ring i Nest Secure. Cel: pokazać, gdzie \"feature\" staje się inwigilacją.",
+   "points": [
+    {
+     "t": "10-8: Echo Look, lustro, Amazon Key",
+     "d": "**Echo Look (Amazon) to kamera w sypialni ze Style Check AI, która fotografowała outfit i oceniała, czy \"pasuje\" - plus pełny Alexa z mikrofonem.** Amazonskie zapewnienia o prywatności nie przekonały; sprzęt cicho zdjęto ze sprzedaży w 2019.\n\nSmart lustra skanowały twarz, rysowały czerwone okręgi na \"wadach\" i proponowały kosmetyki - według autora reklama generująca lęk, nie narzędzie medyczne. Amazon Key (2017): kurier ze smart-zamkiem wchodzi do domu z paczką; wideo z wnętrza lądowało u Amazona."
+    },
+    {
+     "t": "7-5: Google Clips, Airbnb, Eufy",
+     "d": "**Google Clips (2018) to klipsowa kamera AI, która sama decydowała, kiedy filmować rodzinę - bez Twojego \"rec\" w momencie ujęcia.** Google mówiło o przetwarzaniu lokalnym; produkt zniknął w 2019.\n\nAirbnb latami pozwalało na kamery wnętrz przy \"ujawnieniu w ogłoszeniu\"; w 2024 zakazało wszystkich indoor. Eufy (Anker) sprzedawało \"local-only\", a badacz znalazł klatki na AWS i niezaszyfrowane miniatury pod przewidywalnym URL."
+    },
+    {
+     "t": "4-2: Strava, Cayla, Ring",
+     "d": "**Global Heatmap Stravy złożył trasy biegów z całej planety - w pustyniach ujawnił kontury baz wojskowych, bo żołnierze nosili trackery.** Pentagon wydał memo; Strava ograniczyła mapę.\n\nLalka My Friend Cayla: rozmowy dziecka szły nieszyfrowane do chmury; Niemcy (2017) kazały ją zniszczyć jako \"aparat szpiegowski\". Ring: portal Neighbors Public Safety - ponad 2000 departamentów, ponad 11 tys. requestów bez nakazu (2019-2022); portal zamknięto w 2024."
+    },
+    {
+     "t": "1: Nest Secure z ukrytym mikrofonem",
+     "d": "**Nest Secure (2017) miał mikrofon, którego nie było na pudełku ani w instrukcji - przez 2 lata.** W 2019 Google ogłosiło update z Asystentem i tłumaczyło, że mikrofon był \"na przyszłość\" i \"nie włączony\". Po burzy dopisano go w specyfikacji; produkt wycofano w 2020 jako \"decyzję biznesową\"."
+    }
+   ],
+   "conclusion": "Autor pokazuje wzorzec: najpierw feature, potem skandal, na końcu ciche wycofanie bez pogrzebu. Wniosek: jeśli urządzenie musi Cię filmować albo słuchać, by \"pomóc\", to raczej sprzedaje Twoją prywatność.",
+   "factchecks": [
+    {
+     "claim": "Amazon wycofał Echo Look w 2019.",
+     "verdict": "prawda",
+     "note": "Amazon zakończył sprzedaż i później wyłączył usługi Style Check dla Echo Look.",
+     "p": 0,
+     "src": [
+      [
+       "The Verge: koniec Echo Look",
+       "https://www.theverge.com/2019/5/24/18638407/amazon-echo-look-discontinued"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Amazon Echo\"",
+       "https://en.wikipedia.org/wiki/Amazon_Echo"
+      ]
+     ]
+    },
+    {
+     "claim": "Niemcy nakazały zniszczenie lalki My Friend Cayla.",
+     "verdict": "prawda",
+     "note": "Bundesnetzagentur w 2017 uznała Caylę za niedozwolone urządzenie radiowe.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"My Friend Cayla\"",
+       "https://en.wikipedia.org/wiki/My_Friend_Cayla"
+      ],
+      [
+       "BBC: Germany bans talking doll Cayla",
+       "https://www.bbc.com/news/world-europe-39002142"
+      ]
+     ]
+    },
+    {
+     "claim": "Ring umożliwiał policji requesty nagrań bez nakazu.",
+     "verdict": "prawda",
+     "note": "Program requestów Ring/Neighbors był krytykowany; Amazon później go ograniczył.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Amazon Ring\"",
+       "https://en.wikipedia.org/wiki/Amazon_Ring"
+      ],
+      [
+       "EFF: Ring and police",
+       "https://www.eff.org/deeplinks/2020/06/amazon-ring-police"
+      ]
+     ]
+    }
+   ],
+   "bias": "Narracja mocno anty-big-tech; pomija przypadki, gdy funkcje naprawdę pomagały, i upraszcza decyzje korporacji do \"creepy\"."
+  },
+  {
    "id": "T8Oh_R9pR6I",
    "title_pl": "Dr Krzysztof Radtke: polska misja w Mastabie Faraona i pole grobowców pod piaskiem",
    "title": "Miało tam nic nie być. Polacy odkryli podziemne pole grobowców w Egipcie",
@@ -3551,6 +3814,185 @@
    "bias": "Ton \"przemysł cię okłamuje\"; pomija regulacje i poprawę jakości. Zero bezpośrednich reklam w transkrypcie. Uogólnienia (\"99% wasabi\", \"mumia\")."
   },
   {
+   "id": "bkXcvp20m9Q",
+   "title_pl": "Rzeczy poniżej 5 USD, które brzmią jak scam (w dobrym sensie)",
+   "title": "Things Under $5 That Feel Like a Scam In a Good Way",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=bkXcvp20m9Q",
+   "date": "2026-10-30",
+   "duration": 547,
+   "views": 58849,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Mity"
+   ],
+   "about": "Od testera diamentów i drain snake po skrobię: tanie gadżety, które według autora robią robotę za drogie produkty.",
+   "intro": "Chill Dude Explains zbiera rzeczy za kilka dolarów, które wyglądają jak chiński gadżet z reklam, a w praktyce zastępują droższy sprzęt albo nawyk \"kupię kiedyś\". To ranking od 10 do 1, nie laboratorium - autor sprzedaje efekt \"wow\", nie metaanalizę.\n\nLista idzie przez tester diamentów, węża do odpływu, Sugru, przyprawy z bazaru, lusterko martwego pola, alarm pod drzwi, żel krzemionkowy, obieraczkę do czosnku, tester kabli i skrobię. Cel: pokazać, że drogi słoiczek często sprzedaje opakowanie, nie treść.",
+   "points": [
+    {
+     "t": "10-8: tester diamentów, drain snake, Sugru",
+     "d": "**Tester diamentów za ok. 3 USD mierzy odprowadzanie ciepła: prawdziwy diament \"ssie\" ciepło z końcówki, CZ nie - jeden pisk vs dwa.** Nie odróżni diamentu od moissanitu (też przewodzi ciepło), ale złapie szkło. Jubilerskie maszyny robią to samo za ok. 500 USD.\n\nDrain snake (ok. 2 USD) to plastik z haczykami: wyciągasz włosy i tłuszcz, o których myślałeś, że to \"zwolniony odpływ\". Sugru (ok. 4 USD) to masa RTV (room temperature vulcanization) - 30 minut formowania, na noc twardnieje w gumę; łata kable, uchwyty, zawiasy okularów."
+    },
+    {
+     "t": "7-5: przyprawy, lusterko, alarm drzwi",
+     "d": "**Na bazarku indyjskim/bliskowschodnim ta sama przyprawa kosztuje ułamek słoiczka z supermarketu - płacisz za słoik, nie za kumin.** Autor: worek kuminu \"jak mała poduszka\" za ok. 3 USD vs 6 USD za dwie łyżki w szkle.\n\nWypukłe lusterko martwego pola za ok. 3 USD kleisz na boczne - widać Civica przy włączaniu się. Klin-alarm pod drzwi (ok. 5 USD) przy pchnięciu wrzeszczy ok. 120 dB; im mocniej pchają, tym mocniej się wbija."
+    },
+    {
+     "t": "4-2: żel krzemionkowy, czosnek, tester kabli",
+     "d": "**Saszetki \"do not eat\" z butów to żel krzemionkowy - chłonie do ok. 40% własnej masy wody; regenerujesz w piekarniku ok. 120 C przez godzinę.** Chronią sejfy, pigułki, futerały gitar przed wilgocią.\n\nSilikonowa rurka do czosnku: 5 sekund tarcia i skórka spada. Tester kabli za ok. 4 USD: zielone = żywy kabel, czerwone = winowajca - koniec 45-minutowego zgadywania, czy padł brick, gniazdko czy Mercury w retrograde."
+    },
+    {
+     "t": "1: skrobia kukurydziana",
+     "d": "**Pudełko skrobi za ok. 1 USD zagęszcza sos (z zimną wodą), wyciąga tłuszcz z plamy, działa jak suchy szampon i zmiękcza tkaniny w praniu.** Autor: zamiast czterech produktów za ok. 40 USD masz jedno pudełko - trick, który znała prababcia, zanim marketing rozbił go na cztery butelki."
+    }
+   ],
+   "conclusion": "Autor chce, byś przestał płacić za opakowanie i brand, gdy fizyka robi robotę za dolara. Puenta: najdroższy \"scam\" to nawyk kupowania czterech rzeczy zamiast jednej skrobi.",
+   "factchecks": [
+    {
+     "claim": "Sugru twardnieje w temperaturze pokojowej przez wilgoć z powietrza (RTV).",
+     "verdict": "prawda",
+     "note": "Sugru to silikonowa masa RTV-curing; utwardza się wilgocią atmosferyczną.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sugru\"",
+       "https://en.wikipedia.org/wiki/Sugru"
+      ],
+      [
+       "Sugru: jak działa",
+       "https://sugru.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Żel krzemionkowy może wchłaniać znaczną część własnej masy wody.",
+     "verdict": "prawda",
+     "note": "Silica gel to klasyczny desiccant; regeneruje się przez podgrzanie.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Silica gel\"",
+       "https://en.wikipedia.org/wiki/Silica_gel"
+      ],
+      [
+       "Britannica: silica gel",
+       "https://www.britannica.com/science/silica-gel"
+      ]
+     ]
+    },
+    {
+     "claim": "Alarm klinowy pod drzwi może generować ok. 120 dB.",
+     "verdict": "nie da się sprawdzić",
+     "note": "Producenci podają ok. 120 dB, ale film nie cytuje niezależnego pomiaru konkretnego modelu.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Doorstop\"",
+       "https://en.wikipedia.org/wiki/Doorstop"
+      ],
+      [
+       "NIOSH: poziomy dB",
+       "https://www.cdc.gov/niosh/topics/noise/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ton \"scam w dobrym sensie\" i ceny w USD; bez testów porównawczych ani ostrzeżeń o jakości tanich testerów diamentów."
+  },
+  {
+   "id": "MDgPrKUkBgU",
+   "title_pl": "Rzeczy dużo bardziej niebezpieczne, niż myślisz",
+   "title": "Things That Are Much More Dangerous Than You Think",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=MDgPrKUkBgU",
+   "date": "2026-10-29",
+   "duration": 617,
+   "views": 70926,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Mity",
+    "Nauka"
+   ],
+   "about": "Od festiwali i automatów po winogrono w mikrofalówce: codzienne sytuacje, w których lekceważysz ryzyko.",
+   "intro": "Chill Dude Explains zbiera sytuacje, które wyglądają na niewinne, a według autora kończą się tłoczeniem, porażeniem albo wizytą na SOR. To ranking strachu, nie instrukcja \"jak przeżyć\" - każde hasło ma dramatyczną puentę.\n\nOd 10 do 1: festiwale muzyczne, automaty z przekąskami, winogrono w mikrofalówce, \"adopcja\" dzikich zwierząt do TikToka, elektryczność statyczna na stacji, baterie guzikowe, dmuchane zamki i inne codzienne pułapki. Cel: pokazać, że największe ryzyko często siedzi w nawyku, nie w horrorze.",
+   "points": [
+    {
+     "t": "10-8: festiwale, automat, winogrono",
+     "d": "**Festiwal za setki dolarów to według autora jedno z najniebezpieczniejszych miejsc, w które wchodzisz dobrowolnie - tłok, upał, alkohol i panika.** Gdy tłum rusza, indywidualna decyzja znika.\n\nAutomat ze snackami: zamiast odpuścić, trzęsiesz maszyną; przewrócony automat zabija. Winogrono w mikrofalówce: cienka skórka łącząca połówki tworzy łuk i \"plazmę\" - nie metaforyczną, tylko jonizację jak w małej gwiazdzie w kuchni."
+    },
+    {
+     "t": "7-5: TikTok-zwierzęta i stacja benzynowa",
+     "d": "**Ludzie \"adoptują\" dzikie zwierzęta pod filmiki; większość pada w rok od stresu lub infekcji.** To nie cute content, tylko wolno działająca krzywda.\n\nNa stacji: tankujesz, wracasz do auta, potem dotykasz pistoletu - iskry ze statyki mogą zapalić opary. Autor ostrzega, by przed ponownym chwytem pistoletu rozładować ładunek o metal z dala od wlewu."
+    },
+    {
+     "t": "4-2: baterie guzikowe i ciało obce",
+     "d": "**Litowa bateria ok. 20 mm idealnie wchodzi w gardło malucha; w przełyku może wypalić dziurę w tętnicy w mniej niż 4 godziny.** Rada z filmu: zaklejaj komory baterii taśmą, jeśli są małe dzieci.\n\nInne \"niewinne\" przedmioty w domu (magnesy, detergenty) działają podobnie: małe, dostępne, dramatyczne w skutkach, gdy trafią do dziecka."
+    },
+    {
+     "t": "1: dmuchane zamki",
+     "d": "**Dmuchany zamek na urodzinach trzymają często drobne paliki - przy wietrze ok. 40 km/h wystarczy, by konstrukcja uniosła się jak latawiec.** Autor porównuje to do trzymania latawca wykałaczką: gdy oderwie, dzieci lecą razem z nim."
+    }
+   ],
+   "conclusion": "Autor chce, byś przestał lekceważyć \"zwykłe\" sceny: tłok, automat, stację i ogród. Puenta: największe niebezpieczeństwo nie wygląda jak horror - wygląda jak sobotnie popołudnie.",
+   "factchecks": [
+    {
+     "claim": "Połknięta bateria guzikowa może w godzinach uszkodzić przełyk.",
+     "verdict": "prawda",
+     "note": "Toksykolodzy i AAP ostrzegają: litowe baterie guzikowe powodują ciężkie oparzenia przełyku.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Button cell\"",
+       "https://en.wikipedia.org/wiki/Button_cell"
+      ],
+      [
+       "AAP: button battery dangers",
+       "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Button-Battery-Injuries.aspx"
+      ]
+     ]
+    },
+    {
+     "claim": "Iskra ze statyki przy tankowaniu może zapalić opary paliwa.",
+     "verdict": "prawda",
+     "note": "Ostrzeżenia stacji i NFPA dotyczą wyładowań przy powrocie do auta w trakcie tankowania.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Static electricity\"",
+       "https://en.wikipedia.org/wiki/Static_electricity"
+      ],
+      [
+       "API/PEI: refueling fire safety",
+       "https://www.api.org/"
+      ]
+     ]
+    },
+    {
+     "claim": "Dwa połówki winogrona w mikrofalówce mogą stworzyć plazmę.",
+     "verdict": "prawda",
+     "note": "Zjawisko \"grape plasma\" w mikrofalówce jest udokumentowane; to nie metafora.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Plasma (physics)\"",
+       "https://en.wikipedia.org/wiki/Plasma_(physics)"
+      ],
+      [
+       "PNAS: microwave plasma in grapes (kontekst)",
+       "https://www.pnas.org/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Dramatyzuje rzadkie scenariusze bez podania częstości; festiwale i automaty traktuje jak równorzędne zagrożenia."
+  },
+  {
    "id": "1qEPZT1FQs0",
    "title_pl": "Więc MacBooki mają teraz ekrany dotykowe",
    "title": "So, Apple MacBooks have touch screens now",
@@ -4793,6 +5235,92 @@
    "bias": "Uproszczone \"badania pokazują\" bez cytowań; mouth taping przedstawione entuzjastycznie mimo kontrowersji bezpieczeństwa."
   },
   {
+   "id": "XKV2UutCatY",
+   "title_pl": "8 sposobów na silne i zdrowe stopy (z nauką w tle)",
+   "title": "8 Tips To Build Strong and Healthy Feet (Backed by Science)",
+   "channel": "Squat University",
+   "url": "https://www.youtube.com/watch?v=XKV2UutCatY",
+   "date": "2026-10-25",
+   "duration": 887,
+   "views": 1568340,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Trening",
+    "Siłownia"
+   ],
+   "about": "Squat University: od rolla i foot love routine po toe spacers, barefoot shoes i trening równowagi.",
+   "intro": "Dr Aaron Horschig (Squat University) zaczyna od stopy z plemienia bez butów - palce rozstawione - i porównuje ją do stóp w ciasnych butach z hallux valgus i młotkowatymi palcami. Stopy: 26 kości, 33 stawy, ponad 100 mięśni/ścięgien/więzadeł.\n\nFilm dzieli się na kształt (mobilność, splay) i siłę/funkcję. Cel: odzyskać naturalną bazę pod przysiad, bieg i codzienne stanie - bez magii, z prostymi drillami.",
+   "points": [
+    {
+     "t": "Kształt: roll, foot love, spacery",
+     "d": "**Roll podeszwy piłką (lepiej twardsza lacrosse) 1-2 min: badania według autora poprawiają nie tylko lokalną elastyczność, ale łańcuchowo hamstringi i ledźwie.** Potem \"foot love\": palce dłoni między palcami stóp, ruchy pronacji/supinacji, dorsi/plantarflexion - drill od Chrisa Duffina.\n\nToe spacers (Wild Toes Foot Collective, Correctoe, inne): rozstawiają palce, gdy nie możesz chodzić z ręką w stopie. Docelowo but z szerokim toe box - Horschig współtworzył TYR Drop Zero 2 barefoot."
+    },
+    {
+     "t": "Ruch i siła: sway, crunch, toe yoga",
+     "d": "**Ankle sways: skręty tułowia z rolowaniem stopy w inwersję/ewersję, by nauczyć adaptacji do nierównego podłoża.** Toe crunches i chwytanie ręcznika/hacky sacka budują flexję i intrinsici.\n\nToe yoga: naprzemienne unoszenie palców (jak niezależne palce dłoni) - koordynacja, którą zabijają ciasne buty. Potem short foot / ćwiczenia na łuk według progresji z filmu."
+    },
+    {
+     "t": "Równowaga i niestabilne podłoże",
+     "d": "**Progresja: tandem stance, single-leg, heel hover; ręcznik zrolowany jako tania niestabilność; SoleMate (korkowa półkula) do splay + pronacja/inwersja w staniu.** Cel: stopa znów \"chwyta\" i amortyzuje, zamiast być betonową deską w wąskim bucie.\n\nPuenta otwarcia: nowoczesne \"supportive\" buty zbiły palce; da się to odwrócić."
+    }
+   ],
+   "conclusion": "Autor chce, byś traktował stopy jak fundament kinetycznego łańcucha, nie jak wkładki do butów. Plan: mobilność i splay, potem siła i równowaga - codziennie, nie raz na siłowni.",
+   "factchecks": [
+    {
+     "claim": "Stopa ma dziesiątki stawów i ponad sto struktur mięśniowo-ścięgnistych.",
+     "verdict": "prawda",
+     "note": "Anatomia stopy: 26 kości, liczne stawy, bogaty aparat mięśniowo-więzadłowy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Foot\"",
+       "https://en.wikipedia.org/wiki/Foot"
+      ],
+      [
+       "TeachMeAnatomy: bones of the foot",
+       "https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot/"
+      ]
+     ]
+    },
+    {
+     "claim": "Roll podeszwy może wpływać na elastyczność powyżej łańcucha.",
+     "verdict": "półprawda",
+     "note": "Są prace o remote effects self-myofascial release, ale wielkość efektu i trwałość bywają skromne.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Self-myofascial release\"",
+       "https://en.wikipedia.org/wiki/Self-myofascial_release"
+      ],
+      [
+       "PubMed: foam rolling remote effects",
+       "https://pubmed.ncbi.nlm.nih.gov/"
+      ]
+     ]
+    },
+    {
+     "claim": "Szeroki toe box sprzyja naturalnemu rozstawowi palców.",
+     "verdict": "prawda",
+     "note": "Wąska cholewka jest wiązana z hallux valgus i deformacjami; buty barefoot/wide box to powszechna rekomendacja kliniczna.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Hallux valgus\"",
+       "https://en.wikipedia.org/wiki/Hallux_valgus"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Barefoot shoe\"",
+       "https://en.wikipedia.org/wiki/Minimalist_shoe"
+      ]
+     ]
+    }
+   ],
+   "bias": "Silny push barefoot/TYR z kodem zniżkowym; minimalizuje przypadki, gdy stabilne buty są wskazane medycznie."
+  },
+  {
    "id": "1xWbPuZWtR0",
    "title_pl": "Leniwe sposoby, by uczyć się dwa razy szybciej",
    "title": "Lazy Ways To Learn Anything Twice As Fast",
@@ -5390,6 +5918,90 @@
     }
    ],
    "bias": "Spekulacja zawodów wyprzedza rynek; liczby Facebooka bez źródła w napisach. Ton clickbaitowy przy realnych technologiach."
+  },
+  {
+   "id": "syOKDBbQCzM",
+   "title_pl": "10/10 zapachy signature na co dzień (męskie)",
+   "title": "10/10 Signature Fragrances Perfect For Every Day | Men's Cologne/Perfume Review 2026",
+   "channel": "School of Scent",
+   "url": "https://www.youtube.com/watch?v=syOKDBbQCzM",
+   "date": "2026-10-21",
+   "duration": 509,
+   "views": 29923,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Moda"
+   ],
+   "about": "School of Scent: codziennie noszalne signature od klona Mykonos Dreamscape po Xerjoff Torino 22.",
+   "intro": "School of Scent (recenzje perfum, ton \"class is in session\") zbiera zapachy, które według autora są 10/10 jako codzienny signature na chłodniejszy sezon - niekoniecznie najdroższe, ale \"to jestem ja\" bez krzyku.\n\nLista miesza designer, niche i bliski wschód: m.in. Mykonos Dreamscape (klon God of Fire), Lattafa Vintage Radio, Initio, Armani Code Parfum, Guerlain L'Instant Homme EdP, Chanel Antaeus, Essential Parfums, Penhaligon's The Coveted, Xerjoff Torino 22. Cel: wybrać jeden noszalny znak rozpoznawczy.",
+   "points": [
+    {
+     "t": "Wejście: klony i ciepłe drewniane",
+     "d": "**Mykonos Dreamscape to według autora nr 1 klon God of Fire (S.T. Dupont / Humbert Lucas): tropikalne mango, długość 10+ h, średnia projekcja - na sezon, gdy nie chcesz odpuszczać owoców.** Lattafa Vintage Radio i pozycje Initio budują ciepłe, drzewno-amberowe DNA \"bogato, ale na co dzień\".\n\nWątek listy: Middle Eastern entrance dla kogoś, kto chce head-turn bez europejskiego biurowego safe."
+    },
+    {
+     "t": "Designer elegancki: Armani, Guerlain, Chanel",
+     "d": "**Armani Code Parfum: ciemny, kremowy, tonka + pudrowy irys - quiet confidence, nie krzyk.** Guerlain L'Instant Homme EdP według autora jest niedoceniany wobec linii L'Homme Ideal: kakao + elegancja Guerlain, DNA jak Code EDT z kakao.\n\nChanel Antaeus: animaliczny, ale bardziej ogładzony niż Kouros - \"to moja osobowość\" bez wyzwania na siłę."
+    },
+    {
+     "t": "Niche i finał: Wazem, Penhaligon's, Torino 22",
+     "d": "**Essential Parfums Wazem Peril Extrait: bogate drewno-amber, styl Quentin Bisch, mniej \"Ganymede clone\", więcej własnego charakteru.** Penhaligon's The Coveted: nowoczesny barbershop (lawenda, mięta, shaving foam) łatwiejszy na co dzień niż klasyczne barbershopy.\n\nXerjoff Torino 22 zamyka listę: gładki szafran, elegancki, miękka projekcja - bardziej signature niż głośny Tony Iommi Deified."
+    }
+   ],
+   "conclusion": "Autor chce, byś wybrał jeden codzienny signature dopasowany do temperamentu (quiet vs head-turn), a nie gonił każdy 10/10 z TikToka. Klasa skończona - dobierz nos, nie półkę.",
+   "factchecks": [
+    {
+     "claim": "Armani Code to długa linia designerowych męskich zapachów Giorgio Armani.",
+     "verdict": "prawda",
+     "note": "Code (w tym wersje Parfum) to ustalona linia Armani Beauty.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Giorgio Armani\"",
+       "https://en.wikipedia.org/wiki/Giorgio_Armani"
+      ],
+      [
+       "Armani Beauty: Code",
+       "https://www.armanibeauty.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Chanel Antaeus to klasyczny męski zapach z animalicznym charakterem.",
+     "verdict": "prawda",
+     "note": "Antaeus (1981) jest znany z ciepłego, animalicznego profilu w katalogu Chanel.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Chanel\"",
+       "https://en.wikipedia.org/wiki/Chanel"
+      ],
+      [
+       "Fragrantica: Antaeus",
+       "https://www.fragrantica.com/perfume/Chanel/Antaeus-142.html"
+      ]
+     ]
+    },
+    {
+     "claim": "Xerjoff Torino 22 należy do linii z szafranowym/eleganckim profilem.",
+     "verdict": "prawda",
+     "note": "Torino 21/22 to niszowe kompozycje Xerjoff z wyrazistymi nutami korzenno-drzewnymi.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Xerjoff\"",
+       "https://en.wikipedia.org/wiki/Xerjoff"
+      ],
+      [
+       "Xerjoff official",
+       "https://xerjoff.com/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Subiektywne 10/10 i marketing klonów; czasy projekcji bez niezależnych testów panelowych."
   },
   {
    "id": "awV7FP9sAHE",
@@ -6287,6 +6899,176 @@
    "bias": "Nacisk na USA i jeden głośny wypadek; reklama wcześniejszego odcinka PE o tej katastrofie."
   },
   {
+   "id": "oNmxLEHwaqY",
+   "title_pl": "Kwas chlebowy - małe piwo Europy Wschodniej",
+   "title": "Kvass - The Small Beer of Eastern Europe",
+   "channel": "Tasting History with Max Miller",
+   "url": "https://www.youtube.com/watch?v=oNmxLEHwaqY",
+   "date": "2026-10-06",
+   "duration": 1328,
+   "views": 1425022,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Historia",
+    "Natura"
+   ],
+   "about": "Tasting History: Domostroj, książę Włodzimierz, niska zawartość alkoholu i domowy kwas z czerstwego chleba.",
+   "intro": "Max Miller (Tasting History) robi kwas: lekko fermentowany napój Europy Wschodniej \"jak gazowana bochenek z odrobiną alkoholu\". To historia + przepis, nie bar review.\n\nKontekst: Proto-słowiańska nazwa od kwaszenia; ~0,7% alkoholu i kwasowość lepiej trzymały się niż woda; sposób na czerstwy chleb i owoce. Przepis z Domostroju (XVI w., Iwan Groźny), wzmianki u Włodzimierza i cudzoziemców porównujących do penny ale.",
+   "points": [
+    {
+     "t": "Czym jest kwas i po co powstał",
+     "d": "**Kwas to niskoalkoholowy napój z chleba (też mąki, ziaren, owoców, buraków) popularny od Polski po Rosję.** Niska moc i kwasowość pomagały przechowywać płyn; przy okazji ratowano żywność przed zmarnowaniem.\n\nMax podkreśla sustainability avant la lettre: czerstwy chleb + woda + czas = napój."
+    },
+    {
+     "t": "Domostroj i normy społeczne",
+     "d": "**XVI-wieczny Domostroj daje enigmatyczny przepis (miód, chleb, kadź) - Max musi domykać lukę praktyką.** Ten sam tekst: kobieta nie powinna pić wina/miodu/piwa, ale kwas i słabe piwo - tak; przy tym to ona warzy napoje domu.\n\nKwas pili wszyscy: bogaci, biedni, kobiety - bo \"prawie nie alkohol\"."
+    },
+    {
+     "t": "Kroniki i smak",
+     "d": "**Powieść minionych lat: Włodzimierz rozdaje biednym wozy z chlebem, mięsem, miodem i kwasem.** Angielski podróżnik porównuje do penny ale / small beer.\n\nW XX w. przemysł i koncentraty; Max kończy degustacją domowego - bąbelki lekkie, smak chlebowy."
+    }
+   ],
+   "conclusion": "Autor chce, byś zobaczył kwas jako technologię przechowywania i napój społeczny, nie tylko \"rosyjską colę\". Czerstwy chleb zasługuje na drugie życie w butelce.",
+   "factchecks": [
+    {
+     "claim": "Kwas ma zwykle bardzo niską zawartość alkoholu.",
+     "verdict": "prawda",
+     "note": "Tradycyjny kwas chlebowy bywa poniżej 1% ABV, zależnie od fermentacji.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Kvass\"",
+       "https://en.wikipedia.org/wiki/Kvass"
+      ],
+      [
+       "Britannica: kvass",
+       "https://www.britannica.com/topic/kvass"
+      ]
+     ]
+    },
+    {
+     "claim": "Domostroj to XVI-wieczny poradnik gospodarstwa z czasów Iwana IV.",
+     "verdict": "prawda",
+     "note": "Domostroj to zbiór reguł domowych i obyczajowych Rusi Moskiewskiej.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Domostroy\"",
+       "https://en.wikipedia.org/wiki/Domostroy"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Ivan the Terrible\"",
+       "https://en.wikipedia.org/wiki/Ivan_the_Terrible"
+      ]
+     ]
+    },
+    {
+     "claim": "Small beer / penny ale to historyczne niskoalkoholowe piwa.",
+     "verdict": "prawda",
+     "note": "Small beer było codziennym, słabym piwem w Anglii nowożytnej.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Small beer\"",
+       "https://en.wikipedia.org/wiki/Small_beer"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Beer\"",
+       "https://en.wikipedia.org/wiki/Beer"
+      ]
+     ]
+    }
+   ],
+   "bias": "Zachodnie \"exotic Eastern Europe\" framing; uproszczenia historii ZSRR/przemysłu w skrócie końcowym."
+  },
+  {
+   "id": "LxhA4MzpAUE",
+   "title_pl": "Miltone 4EXP - czterogłosowy klon Mellotrona",
+   "title": "Miltone 4EXP - A Four Voice Clone",
+   "channel": "Alex Ball",
+   "url": "https://www.youtube.com/watch?v=LxhA4MzpAUE",
+   "date": "2026-10-01",
+   "duration": 888,
+   "views": 42018,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Muzyka"
+   ],
+   "about": "Alex Ball o boutique Miltone 4EXP ze Splendid: taśmy, MIDI, CV/gate i cena, która odcina 99,9% ludzi.",
+   "intro": "Alex Ball (recenzje syntezatorów i historii gearu) ogląda Miltone 4EXP, który na Splendid w maju przyciągnął wzrok - boutique'owy czterogłosowy klon w duchu Mellotrona. To nie tutorial \"jak nagrać balladę\", tylko tour po tym, co producent faktycznie zbudował.\n\nFilm: panel, MIDI in/thru do polychain, USB pod firmware, dwa wejścia audio, CV/gate na głos, ręczne budowanie (seria ok. 50 sztuk) i cena, która \"odcina 99,9%\". Cel: zrozumieć, czym jest ten obiekt pożądania, zanim klikniesz wishlist.",
+   "points": [
+    {
+     "t": "Co to jest 4EXP",
+     "d": "**Miltone 4EXP to czterogłosowa maszyna taśmowa/klonowa w estetyce Mellotrona - nie softowy plugin, tylko fizyczny instrument z boutique'owej linii.** Na stoisku Splendid wyróżniał się właśnie jako obiekt \"wow\" wśród keyboardzistów.\n\nAlex podkreśla ręczne składanie i limitowaną skalę (ok. 50 sztuk) - stąd dostępność i cena."
+    },
+    {
+     "t": "Złącza i polychain",
+     "d": "**MIDI in/thru pozwala łączyć jednostki w polychain; USB służy do update'ów firmware; są też zewnętrzne wejścia audio oraz CV i gate na każdy z czterech głosów.** To most między światem taśm a modular/DAW.\n\nDla muzyków hardware: instrument ma być grywalny w setupie, nie tylko \"ładny mebel\"."
+    },
+    {
+     "t": "Cena vs 99,9%",
+     "d": "**Według Alexa kwota jest \"thunderous\" i praktycznie eliminuje prawie wszystkich zainteresowanych - zostaje kolekcjoner/studio z budżetem.** Przy 50 sztukach i handbuildzie to raczej artefakt niż masowy product-market fit.\n\nWniosek: oglądasz, by wiedzieć, co istnieje na krańcu rynku tape/mellotron revival - niekoniecznie by kupić."
+    }
+   ],
+   "conclusion": "Autor pokazuje 4EXP jako piękny, drogi, niszowy obiekt mostkujący taśmy z MIDI/CV. Dla większości wystarczy wiedzieć, że taki świat jeszcze istnieje.",
+   "factchecks": [
+    {
+     "claim": "Mellotron to klasyczny instrument taśmowy z lat 60.",
+     "verdict": "prawda",
+     "note": "Mellotron odtwarzał nagrane taśmy per klawisz; ikona rocka progresywnego.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Mellotron\"",
+       "https://en.wikipedia.org/wiki/Mellotron"
+      ],
+      [
+       "Britannica: Mellotron",
+       "https://www.britannica.com/topic/Mellotron"
+      ]
+     ]
+    },
+    {
+     "claim": "MIDI thru umożliwia łańcuchowanie urządzeń.",
+     "verdict": "prawda",
+     "note": "Specyfikacja MIDI przewiduje Thru do przekazywania danych dalej w łańcuchu.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"MIDI\"",
+       "https://en.wikipedia.org/wiki/MIDI"
+      ],
+      [
+       "MIDI Association",
+       "https://www.midi.org/"
+      ]
+     ]
+    },
+    {
+     "claim": "CV/gate to standard sterowania syntezatorów modularnych.",
+     "verdict": "prawda",
+     "note": "Control Voltage i Gate to podstawowy analogowy protokół modularów.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"CV/gate\"",
+       "https://en.wikipedia.org/wiki/CV/gate"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Modular synthesizer\"",
+       "https://en.wikipedia.org/wiki/Modular_synthesizer"
+      ]
+     ]
+    }
+   ],
+   "bias": "Ton entuzjasty boutique gear; mało krytyki brzmienia vs software Mellotron i słaba dostępność dla amatorów."
+  },
+  {
    "id": "q1IwR88mhaA",
    "title_pl": "Jedyny poradnik Grok Bot, jakiego potrzebujesz: jak zacząć",
    "title": "The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners",
@@ -6610,6 +7392,90 @@
    "bias": "Perspektywa klasycznej etykiety GG; część rad łatwiej stosować w miejskim, zamożniejszym kontekście. Film promuje własne poradniki."
   },
   {
+   "id": "c0dGdT1VCho",
+   "title_pl": "Czy Rzymianie wiedzieli, że ich imperium upada?",
+   "title": "Did the Romans Know their Empire was Declining?",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=c0dGdT1VCho",
+   "date": "2026-09-25",
+   "duration": 616,
+   "views": 523259,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Historia"
+   ],
+   "about": "toldinstone: Claudian, Ammianus, Hieronim i Augustyn - jak elity opisywały kryzys bez słowa \"upadek\".",
+   "intro": "Garrett Ryan pyta, czy ludzie w V w. \"wiedzieli\", że Zachód się kończy. Otwiera Claudianem: bogini Roma jako wynędzniała staruszka po odcięciu zboża przez Gildona - a mimo to poeta ogłasza, że porządek wrócił.\n\nFilm przegląda panegiryki pełne wiecznego Rzymu, moralne narzekania Sallustiusza/Ammiana, szok po złupieniu miasta przez Alaryka (410) i odpowiedzi chrześcijańskie (Hieronim, Augustyn). Cel: pokazać lukę między naszą retrospekcją a ówczesnym językiem.",
+   "points": [
+    {
+     "t": "Panegiryk zamiast diagnozy",
+     "d": "**Autorzy związani z dworem wolą celebrować dawny majestat niż przyznać polityczny schyłek.** Claudian powtarza augustiańskie \"nie będzie końca imperium\"; Ausonius opisuje Mozelę pełną willi i winorośli tuż przy zagrożonym Renie - bez \"barbarzyńców w kadrze\".\n\nNawet relacje z najazdów mieszają lęk z wiarą, że system cesarski przetrwa. My mamy 16 wieków perspektywy; oni nie."
+    },
+    {
+     "t": "Upadek jako moralność, nie geopolityka",
+     "d": "**Od II w. p.n.e. elita kontrastuje luksus teraźniejszości z prostotą wczesnej Republiki - Sallustiusz datuje zepsucie od zniszczenia Kartaginy.** To moralny topos, nie miernik siły państwa: w jego czasach Rzym był militarnie u szczytu.\n\nAmmianus powtarza klisze o jedwabiach i niewolnikach, opisuje Julianą i Adrianopol, a w epilogu zakłada, że ktoś napisze dalszą historię - nie wyobraża sobie końca gatunku."
+    },
+    {
+     "t": "410: szok i teologie",
+     "d": "**Złupienie Rzymu przez Alaryka wstrząsa chrześcijanami: Hieronim w Betlejem nie wierzy, że matka narodów stała się grobem.** Poganie mówią \"chrześcijaństwo osłabiło państwo\"; Lactantius wcześniej wiązał trwanie świata z trwaniem miasta.\n\nAugustyn (kontekst filmu) przesuwa akcent: Civitas Dei nie stoi i nie pada z Civitas terrena. Dla senatora Sidoniusza panegiryk jak za Trajana brzmi już jak kostium na ruinach."
+    }
+   ],
+   "conclusion": "Autor pokazuje, że Rzymianie rzadko mówili \"upadamy\" w naszym sensie - mówili o moralności, Opatrzności i wiecznym mieście. Retrospekcja historyka nie była ich codziennym językiem.",
+   "factchecks": [
+    {
+     "claim": "Alaryk złupił Rzym w 410 n.e.",
+     "verdict": "prawda",
+     "note": "Sacco di Roma przez Wizygotów Alaryka to kluczowa data późnego antyku.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sack of Rome (410)\"",
+       "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)"
+      ],
+      [
+       "Britannica: Alaric I",
+       "https://www.britannica.com/biography/Alaric"
+      ]
+     ]
+    },
+    {
+     "claim": "Sallustiusz wiązał moralny schyłek Rzymu z zniszczeniem Kartaginy.",
+     "verdict": "prawda",
+     "note": "W Bellum Catilinae/Iugurthinum Sallustiusz rozwija topos utraty metus hostilis.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sallust\"",
+       "https://en.wikipedia.org/wiki/Sallust"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Third Punic War\"",
+       "https://en.wikipedia.org/wiki/Third_Punic_War"
+      ]
+     ]
+    },
+    {
+     "claim": "Claudian pisał panegiryki na dworze późnego cesarstwa zachodniego.",
+     "verdict": "prawda",
+     "note": "Claudius Claudianus to główny panegirysta dworu Honoriusza/Stilichona.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Claudian\"",
+       "https://en.wikipedia.org/wiki/Claudian"
+      ],
+      [
+       "Britannica: Claudianus",
+       "https://www.britannica.com/biography/Claudianus"
+      ]
+     ]
+    }
+   ],
+   "bias": "Skupienie na literaturze elit; mniej głosu prowincji i archeologii codziennego kryzysu."
+  },
+  {
    "id": "v-ZAKS02Gm4",
    "title_pl": "10 szalonych rozwiązań inżynieryjnych - od Millau po Valencia",
    "title": "The Craziest Solutions Engineers Ever Came Up With",
@@ -6830,6 +7696,90 @@
    "bias": "Brak wyraźnej stronniczości. Gość sam oddziela fakty od hipotez. Rozmowa miejscami gubi się w dygresjach, a w odcinku są reklamy banku i optyka."
   },
   {
+   "id": "WtO96tuwGZU",
+   "title_pl": "Z dziesiątek marynarek noszę głównie te trzy",
+   "title": "I Own Dozens of Jackets, Here Are The Three I Wear Most (& The Ones I Want Next)",
+   "channel": "Gentleman's Gazette",
+   "url": "https://www.youtube.com/watch?v=WtO96tuwGZU",
+   "date": "2026-09-20",
+   "duration": 1196,
+   "views": 40625,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Moda"
+   ],
+   "about": "Gentleman's Gazette / custom clothier: trzy marynarki rotacji plus wishlist na jesień-zimę w Minnesocie.",
+   "intro": "Prowadzący (custom clothing, ok. 10 lat w branży) nie robi katalogu całej szafy - pokazuje trzy marynarki, po które sięga najczęściej, i dlaczego stały się \"signature\". To praktyka kogoś, kto szyje na miarę i mieszka w chłodniejszej Minnesocie.\n\nFilm: detale kroju (kieszenie, guziki 2 vs 3, quarter lining, paski), jak łączy je z denimem i warstwami, oraz 1-2 modele, które chce dorzucić na sezon. Cel: mniej sztuk, więcej świadomych wyborów.",
+   "points": [
+    {
+     "t": "Trzy workhorse'y zamiast kolekcji",
+     "d": "**Autor twierdzi, że przy customie kluczowe są powtarzalne detale, które robią z marynarki \"Twoją\", a nie jednorazowy look.** U niego: często płaskie kieszenie z ticket pocket, 2 guziki przy sport coat vs 3 przy garniturze, pasek/strap dodający charakteru.\n\nJedna z marynarek ma już ok. 4 lata i \"trzyma się\" - argument za jakością materiału i kroju zamiast rotacji fast fashion. Quarter lining ułatwia warstwowanie w chłodzie."
+    },
+    {
+     "t": "Tekstury, denim, zima",
+     "d": "**Herringbone i mieszanki z nutą niebieskiego według autora lepiej znoszą denim i casualowe doły niż kontrastowy brąz \"kostiumowy\".** Na prawdziwy mróz w Minnesocie wyciąga grubszą sport coat z detalami, których nie ma w lżejszych sztukach.\n\nCelowe drobne customizacje (np. 3-roll-2) czyta tylko ktoś, kto patrzy uważnie - ale właśnie one robią różnicę \"intencji\"."
+    },
+    {
+     "t": "Wishlist: windowpane i kolory na wiosnę",
+     "d": "**Na listę dorzuca m.in. czekoladowy brąz z niebieskim windowpane pod jesień-zimę oraz jaśniejsze zestawienia (off-white, zieleń chino/spodni) pod wiosnę-lato.** Nie kupuje \"jeszcze jednej czarnej\" - dokłada lukę w rotacji.\n\nWniosek praktyczny: zanim dorzucisz sztukę, sprawdź, czy wypełnia lukę sezonu i stylu, czy tylko powiela to, co już nosisz."
+    }
+   ],
+   "conclusion": "Autor chce, byś budował małą rotację signature zamiast szafy pełnej \"prawie tych samych\" marynarek. Trzy dobrze dobrane sztuk + jasna wishlist biją przypadkowe zakupy.",
+   "factchecks": [
+    {
+     "claim": "Quarter lining ułatwia warstwowanie i wentylację marynarki.",
+     "verdict": "prawda",
+     "note": "Częściowe podszycie to klasyczny wybór w sport coatach pod komfort i warstwy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Suit\"",
+       "https://en.wikipedia.org/wiki/Suit"
+      ],
+      [
+       "Gentleman's Gazette: sport coat guide",
+       "https://www.gentlemansgazette.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Układ 3-roll-2 to rozpoznawalny detal marynarki.",
+     "verdict": "prawda",
+     "note": "3-roll-2 (trzy guziki, zapinane dwa) to ustalony idiom krawiecki.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sport coat\"",
+       "https://en.wikipedia.org/wiki/Sport_coat"
+      ],
+      [
+       "Permanent Style: button stances",
+       "https://www.permanentstyle.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Herringbone dobrze łączy się z denimem w smart-casual.",
+     "verdict": "prawda",
+     "note": "Teksturalne tweedy/herringbone sport coaty to standardowy pairing z jeansami.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Herringbone (cloth)\"",
+       "https://en.wikipedia.org/wiki/Herringbone_(cloth)"
+      ],
+      [
+       "Gentleman's Gazette: jackets and jeans",
+       "https://www.gentlemansgazette.com/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa kogoś z custom atelier i budżetem na miarę; mniej rad dla off-the-rack w niskiej cenie."
+  },
+  {
    "id": "qJIDOq0ezTs",
    "title_pl": "Trzy niedokończone rzymskie megaprojekty",
    "title": "Three Unfinished Roman Megaprojects",
@@ -7030,6 +7980,91 @@
     }
    ],
    "bias": "Rzetelny i z humorem, z podanymi źródłami książkowymi; opinia o podziale linii to zdanie autora."
+  },
+  {
+   "id": "W7HUNaHeBr0",
+   "title_pl": "Jak naprawić timing hardware z DAW-em",
+   "title": "How to fix timing issues when using hardware with a DAW",
+   "channel": "Alex Ball",
+   "url": "https://www.youtube.com/watch?v=W7HUNaHeBr0",
+   "date": "2026-09-03",
+   "duration": 492,
+   "views": 66377,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Muzyka"
+   ],
+   "about": "Alex Ball: MIDI clock, latency i średnie offsety, gdy 909 i spółka nie trafiają w grida DAW.",
+   "intro": "Alex Ball odpowiada na request: hardware (np. drum machine) gra z DAW-em, a kicki lądują za beatem. Problem nie jest \"złą grą\" - tylko zegarem, routingiem MIDI i latencją audio.\n\nFilm prowadzi testami: zapis kicków w DAW (on time / behind), MIDI clock z routera MOTU, średni offset gdy urządzenia różnią się zachowaniem, i korekta w post. Cel: dojść do 99,9% grywalności, potem dopchnąć ręcznie.",
+   "points": [
+    {
+     "t": "Objaw: kick za griddem",
+     "d": "**Nagrywasz hardware do DAW i widzisz transienty za metrum - jeden kick OK, kolejne spóźnione o różne wartości.** To sygnał, że clock i buffer nie grają w tej samej rzeczywistości czasowej.\n\nAlex pokazuje na przykładzie, jak wygląda \"behind the beat\" vs prawie idealnie - diagnoza wzrokowa przed kręceniem gałkami."
+    },
+    {
+     "t": "MIDI clock i latency",
+     "d": "**Sam MIDI clock z routera (tu MOTU) do maszyny (np. 909) nie kończy tematu - zostaje latency toru audio/interfejsu.** Trzeba zmierzyć, o ile ms tor się spóźnia, i to skompensować.\n\nRóżne urządzenia reagują inaczej na ten sam clock - stąd nie ma jednej magicznej liczby dla całego studio."
+    },
+    {
+     "t": "Średni offset + nudge w post",
+     "d": "**Praktyka Alexa: znajdź średni offset, który ustawia setup na ok. 99,9% \"w czasie\", żeby w ogóle dało się tworzyć - potem drobne nudge w edycji.** Lepiej mieć powtarzalny workflow niż gonić absolutny zero sample.\n\nPodziękowania dla Innerclock Systems - kontekst narzędzi do stabilnego clocka w hybrydowych studio."
+    }
+   ],
+   "conclusion": "Autor chce, byś mierzył i kompensował, zamiast winić \"zły groove\". Hardware z DAW gra, gdy zegar i latency są świadomie ogarnięte.",
+   "factchecks": [
+    {
+     "claim": "MIDI clock synchronizuje tempo urządzeń MIDI.",
+     "verdict": "prawda",
+     "note": "MIDI Beat Clock to standardowa wiadomość synchronizacji tempa.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"MIDI beat clock\"",
+       "https://en.wikipedia.org/wiki/MIDI_beat_clock"
+      ],
+      [
+       "MIDI Association: timing",
+       "https://www.midi.org/"
+      ]
+     ]
+    },
+    {
+     "claim": "Bufor interfejsu audio wprowadza latencję przy monitoringu/nagraniu.",
+     "verdict": "prawda",
+     "note": "Latencja = bufor + konwersja; podstawowy temat hybrydowych setupów.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Audio latency\"",
+       "https://en.wikipedia.org/wiki/Audio_latency"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Digital audio workstation\"",
+       "https://en.wikipedia.org/wiki/Digital_audio_workstation"
+      ]
+     ]
+    },
+    {
+     "claim": "Roland TR-909 to klasyczna drum machine sterowana m.in. MIDI.",
+     "verdict": "prawda",
+     "note": "TR-909 (1983) ma MIDI i jest standardem w studiach elektronicznych.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Roland TR-909\"",
+       "https://en.wikipedia.org/wiki/Roland_TR-909"
+      ],
+      [
+       "Roland: TR-909 history",
+       "https://www.roland.com/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Skupienie na konkretnym torze MOTU/909; mniej o solutionach tylko-USB bez dedykowanego clocka."
   },
   {
    "id": "k3Q9UWWiPsQ",
@@ -7236,6 +8271,92 @@
     }
    ],
    "bias": "Sponsoring Jane Street na końcu; demo z barwnikami upraszcza straty rzeczywiste."
+  },
+  {
+   "id": "r1wwtGgnzg4",
+   "title_pl": "Czy bobry naprawdę są dobre w tamach?",
+   "title": "Are Beavers Actually Good at Dams?",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=r1wwtGgnzg4",
+   "date": "2026-08-18",
+   "duration": 1155,
+   "views": 1346392,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Nauka",
+    "Natura",
+    "Technika"
+   ],
+   "about": "Practical Engineering: tamy bobrów vs ziemne tamy ludzkie - projekt, awarie, łączność z równiną zalewową.",
+   "intro": "Grady Hillhouse wraca wspomnieniem do San Juan Mountains: stawy jak korale na potokach to często dzieło bobrów. Pytanie filmu: czy Castor canadensis to dobry inżynier porównywalny z ludźmi?\n\nPunktacja: filozofia projektu (przegroda + osad), awarie (obok, przez, ponad), cele (habitat vs bezpieczeństwo ludzi w dół) i efekt uboczny - lateral connectivity równiny zalewowej. Cel: szacunek bez romantyzowania.",
+   "points": [
+    {
+     "t": "Projekt: przegroda jak u nas",
+     "d": "**Bobry nie zawsze budują tamy, ale gdy budują - tworzą zaporę zatrzymującą wodę i osad, podobnie jak ziemne tamy ludzi.** Materiały \"z natury\", nie ze specyfikacji - jak geotechnik z błotem.\n\nGrady przyznaje punkty za zbliżoną filozofię: kontroluj energię wody, zanim zniszczy dolinę."
+    },
+    {
+     "t": "Awarie i powódź",
+     "d": "**Tamy bobrów padają: woda dziurawi, omija brzegami, przelewa się przy floodzie.** Ludzkie tamy mają spillwaye i procedury właśnie dlatego, że konsekwencje w dół rzeki są śmiertelne.\n\nRemis w \"trzeba zarządzać ryzykiem\" - różnica w skali ofiar."
+    },
+    {
+     "t": "Mokradła i DNA",
+     "d": "**Niskie tamy bez upustu pchają wodę w bok: łąki, mokradła, łączność lateralna - bonus ekologiczny.** W Patagonii inwazyjne bobry budują mimo braku drapieżników: słyszą szum wody i \"naprawiają\".\n\nWniosek: świetni ecosystem engineers, nie certyfikowani civil engineers."
+    }
+   ],
+   "conclusion": "Autor stawia remis z gwiazdką: bobry wygrywają habitat, ludzie - kontrolę ryzyka. Oba gatunki zmieniają rzekę pod siebie.",
+   "factchecks": [
+    {
+     "claim": "Bobry budują tamy, tworząc stawy i mokradła.",
+     "verdict": "prawda",
+     "note": "Castor jest klasycznym ecosystem engineerem poprzez tamy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Beaver\"",
+       "https://en.wikipedia.org/wiki/Beaver"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Beaver dam\"",
+       "https://en.wikipedia.org/wiki/Beaver_dam"
+      ]
+     ]
+    },
+    {
+     "claim": "Tamy ziemne wymagają przelewów i zarządzania powodzią.",
+     "verdict": "prawda",
+     "note": "Spillway i freeboard to standard bezpieczeństwa zapór.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Spillway\"",
+       "https://en.wikipedia.org/wiki/Spillway"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Embankment dam\"",
+       "https://en.wikipedia.org/wiki/Embankment_dam"
+      ]
+     ]
+    },
+    {
+     "claim": "Bobry wprowadzone w Ameryce Południowej stały się inwazyjne.",
+     "verdict": "prawda",
+     "note": "W Tierra del Fuego bobry silnie zmieniają ekosystemy.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Beavers in Tierra del Fuego\"",
+       "https://en.wikipedia.org/wiki/North_American_beaver"
+      ],
+      [
+       "IUCN invasive species notes",
+       "https://www.iucn.org/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Punktacja \"remis\" jest retoryczna; segment Planet Wild na końcu."
   },
   {
    "id": "2GTROfhZIxY",
@@ -7573,6 +8694,92 @@
     }
    ],
    "bias": "Narracja romantyzuje rybaka i Ivy League; dyskusja o rdzennych mokasynach jest skrócona. Film kończy się lekką autopromocją stylizacji GG."
+  },
+  {
+   "id": "stQfGfUSLQg",
+   "title_pl": "Siatka, która podwaja nośność gruntu",
+   "title": "The Grid That Doubles the Strength of the Ground",
+   "channel": "Practical Engineering",
+   "url": "https://www.youtube.com/watch?v=stQfGfUSLQg",
+   "date": "2026-08-04",
+   "duration": 1108,
+   "views": 994286,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Nauka",
+    "Geografia"
+   ],
+   "about": "Practical Engineering: geokraty i wzmocnienie podłoża na portach, drogach i miękkich gruntach.",
+   "intro": "Grady Hillhouse (Practical Engineering) startuje od Port of Long Beach - bramy kontenerowej Zachodniego Wybrzeża - by zejść pod asfalt: geotechnika pracuje z tym, co dała natura, nie z katalogowym materiałem.\n\nFilm o geosyntetykach/geokratach, które stabilizują słabe grunty pod drogi i place, historii z Corps of Engineers i zastosowaniach od pasów startowych po badania NASA. Cel: zrozumieć, czemu \"siatka w ziemi\" jest inżynierią, nie ogrodzeniem.",
+   "points": [
+    {
+     "t": "Problem: słaby grunt pod ciężarem",
+     "d": "**Inżynier geotechnik nie wybiera sobie betonu ze specyfikacji - dostaje muł, glinę, piasek i musi przenieść obciążenie kontenerów czy ciężarówek.** Klasyczna odpowiedź: warstwy kruszywa (ostre, klinujące się ziarna + frakcje drobne).\n\nGdy podłoże jest za słabe, sam żwir tonie w błocie - potrzeba wzmocnienia."
+    },
+    {
+     "t": "Geokrata / geosiatka",
+     "d": "**Komórkowa siatka (geocell) albo geosiatka rozkłada obciążenie i ogranicza boczne rozpychanie ziaren - według dema w filmie potrafi dramatycznie poprawić nośność nawet słabych gruntów.** Widać to na budowach autostrad.\n\nFilozofia: zmień mechanikę ośrodka, zanim dolejesz metr betonu."
+    },
+    {
+     "t": "Historia i ekstremalne use-case",
+     "d": "**Korzenie praktyki: m.in. potrzeby szybkich dróg i pasów na miękkim gruncie (kontekst Corps of Engineers); NASA badała podobne podejścia pod infrastrukturę poza Ziemią.** Dziś to codzienność civil engineering, nie science fiction.\n\nGrady pokazuje też uproszczenia modelowe (przekładnie, obciążenia), by zobaczyć siły, nie tylko \"czarną kratkę\"."
+    }
+   ],
+   "conclusion": "Autor chce, byś widział drogę jako system grunt-wzmacniacz-nawierzchnia. Siatka w ziemi to cicha infrastruktura, bez której port i autostrada toną.",
+   "factchecks": [
+    {
+     "claim": "Geosyntetyki wzmacniają nośność słabych gruntów pod drogami.",
+     "verdict": "prawda",
+     "note": "Geosiatki i geocelle są standardem w geotechnice drogowej.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Geosynthetics\"",
+       "https://en.wikipedia.org/wiki/Geosynthetics"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Geogrid\"",
+       "https://en.wikipedia.org/wiki/Geogrid"
+      ]
+     ]
+    },
+    {
+     "claim": "Port of Long Beach to jeden z najruchliwszych portów kontenerowych USA.",
+     "verdict": "prawda",
+     "note": "Long Beach/Los Angeles tworzą największy kompleks kontenerowy w USA.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Port of Long Beach\"",
+       "https://en.wikipedia.org/wiki/Port_of_Long_Beach"
+      ],
+      [
+       "Port of Long Beach official",
+       "https://polb.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Kruszywo angularne lepiej się klinuje niż otoczki.",
+     "verdict": "prawda",
+     "note": "Ostrokrawędziste ziarna zwiększają tarcie wewnętrzne warstwy nośnej.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Construction aggregate\"",
+       "https://en.wikipedia.org/wiki/Construction_aggregate"
+      ],
+      [
+       "FHWA: aggregate properties",
+       "https://www.fhwa.dot.gov/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Demo upraszcza \"podwojenie\" nośności bez podania konkretnego współczynnika dla każdego gruntu; marketingowy skrót w tytule."
   },
   {
    "id": "ti2qiU_JTUQ",
@@ -8288,6 +9495,91 @@
     }
    ],
    "bias": "Rzetelny, ale powierzchowny przegląd: kolejność rankingu nie jest uzasadniona, a koszty ludzkie i spory (np. warunki pracy na kolei) ledwie wspomniane."
+  },
+  {
+   "id": "CRS3BiS3XxA",
+   "title_pl": "5 błędów w fizjoterapii, których unikaj",
+   "title": "Avoid These 5 Physical Therapy Mistakes",
+   "channel": "E3 Rehab",
+   "url": "https://www.youtube.com/watch?v=CRS3BiS3XxA",
+   "date": "2026-07-19",
+   "duration": 679,
+   "views": 19530,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Trening"
+   ],
+   "about": "E3 Rehab: imaging nie leczy bólu, strach i \"no pain no gain\" psują rehab, a nawyki biją cudowne ćwiczenie.",
+   "intro": "E3 Rehab (fizjoterapeuci od rehabu opartego na dowodach) rozbija pięć nawyków, które według nich sabotują powrót do sprawności. To nie atak na medycynę - imaging bywa potrzebny przy traumie czy narastającym deficycie neurologicznym.\n\nPięć błędów: poleganie na RTG/MRI, strach przed bólem, ignorowanie bólu, oczekiwanie \"szybkiej poprawki\" i olewanie snu oraz ruchu dziennego. Cel: znaleźć linię między zbyt małym a zbyt dużym obciążeniem.",
+   "points": [
+    {
+     "t": "1: imaging jako wyrocznia",
+     "d": "**Nieprawidłowości w MRI są częste u ludzi bez objawów - np. badanie: 50% osób 40+ ma częściowy rotator cuff tear mimo braku bólu.** Stopień zmian nie zawsze koreluje z objawami ani rokowaniem; \"naprawa obrazu\" nie gwarantuje naprawy problemu (są prace o placebo surgery).\n\nZbędne badanie rodzi lęk, unikanie ruchu i spiralę kolejnych zabiegów. Imaging ma sens, gdy zmienia plan (uraz, złamanie, ciężki deficyt neuro) - ból sam w sobie nie widać na skanie."
+    },
+    {
+     "t": "2-3: strach przed bólem vs boom-bust",
+     "d": "**Strach obniża próg aktywności: ból = \"psuję się\", więc robisz mniej, próg spada, aż nie robisz rzeczy, które lubisz.** W OA, tendinopatiach i wielu stanach ból bywa częścią procesu - wyjątki: np. bieganie na złamanej stopie.\n\nOdwrotność: \"no pain, no gain\" kończy się flare-upem i cyklem boom-bust. Pytania: czy ból w trakcie jest tolerowalny (często 2-4/10)? Czy nazajutrz jest lepiej/gorzej/tak samo? Drugie ważniejsze."
+    },
+    {
+     "t": "4-5: brak magic stick i nawyki",
+     "d": "**\"Jedno ćwiczenie z internetu\" albo pół roku masażu bez zmiany obciążenia rzadko daje trwały efekt - albo nie działa, albo wraca nazajutrz.** Podstawa: modyfikacja prowokujących aktywności, load management, graded exposure, monitoring bólu, styl życia.\n\n4 godziny snu i cały dzień w fotelu nie wygra z żadnym magic stretch. Spacer 30 min i sen często biją lokalne \"sztuczki\"; OA i ścięgna zależą też od zdrowia metabolicznego."
+    }
+   ],
+   "conclusion": "Autorzy chcą, byś przestał szukać cudownego MRI i cudownego ćwiczenia. Rehab to czas, konsekwencja i codzienne nawyki - nie pojedynczy zabieg.",
+   "factchecks": [
+    {
+     "claim": "Zmiany w MRI barku są częste u osób bezobjawowych.",
+     "verdict": "prawda",
+     "note": "Przeglądy pokazują wysoką częstość degeneracyjnych zmian rotator cuff u asymptomatycznych 40+.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Rotator cuff tear\"",
+       "https://en.wikipedia.org/wiki/Rotator_cuff_tear"
+      ],
+      [
+       "PubMed: asymptomatic rotator cuff tears",
+       "https://pubmed.ncbi.nlm.nih.gov/"
+      ]
+     ]
+    },
+    {
+     "claim": "Dla części wskazań operacja nie bije placebo/sham.",
+     "verdict": "prawda",
+     "note": "W wybranych schorzeniach ortopedycznych badania sham surgery podważały przewagę \"prawdziwej\" operacji.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Placebo\"",
+       "https://en.wikipedia.org/wiki/Placebo"
+      ],
+      [
+       "NEJM/Lancet: przykłady sham surgery",
+       "https://www.nejm.org/"
+      ]
+     ]
+    },
+    {
+     "claim": "Sen i aktywność ogólna wpływają na wynik rehabu.",
+     "verdict": "prawda",
+     "note": "Zdrowie metaboliczne, sen i ruch są powiązane z bólem przewlekłym i regeneracją tkanek.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Physical therapy\"",
+       "https://en.wikipedia.org/wiki/Physical_therapy"
+      ],
+      [
+       "CDC: sleep and health",
+       "https://www.cdc.gov/sleep/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Mocny anti-imaging slant bez omówienia konkretnych red flags poza ogólnymi; ton \"internetowe ćwiczenie nie działa\" może zniechęcać do self-care."
   },
   {
    "id": "mpmUHfohUYI",
@@ -9040,6 +10332,91 @@
    "bias": "Narracja \"Rzym zjadł górę\" jest mocna retorycznie; mniej miejsca na lokalną siłę roboczą i późniejsze losy złoża."
   },
   {
+   "id": "1EyN9_QO4_A",
+   "title_pl": "Machanie rękami, które zatrzymuje upadek",
+   "title": "The Arm Spin That Stops a Fall",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=1EyN9_QO4_A",
+   "date": "2026-07-09",
+   "duration": 805,
+   "views": 4455246,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Nauka",
+    "Ciało i zdrowie"
+   ],
+   "about": "Steve Mould: moment pędu kątowego, przyspieszenie kątowe i dlaczego \"śmigło ramion\" ratuje równowagę.",
+   "intro": "Steve Mould pyta, czemu gdy Cię pchają, a nie możesz zrobić kroku w tył, robisz dziwny młyn rękami. Pierwszy odruch: zasada zachowania momentu pędu - ale to dopiero początek.\n\nFilm idzie przez dysk z ujemnym momentem, różnicę między stałą prędkością kątową a przyspieszeniem kątowym (to drugie daje \"skręt\"), robota utrzymującego pion i analogię do receptorów w układzie równowagi. Cel: fizyka odruchu, nie lifehack TikToka.",
+   "points": [
+    {
+     "t": "Moment pędu na start",
+     "d": "**Gdy tułów zaczyna się przewracać, machnięcie ramion w jedną stronę tworzy przeciwny moment - suma może zostać bliska zeru, jak na początku.** Analogia: dysk z \"ujemnym\" momentem kasuje moment drugiego elementu.\n\nTo wyjaśnia kierunek młynka, ale nie całą siłę, którą czujesz w barkach."
+    },
+    {
+     "t": "Przyspieszenie kątowe, nie stałe kręcenie",
+     "d": "**Według Steve'a to angular acceleration produkuje odczuwalny twisting force - stałe kręcenie ze stałą prędkością już nie.** Gdybyś tylko wirował ramionami ze stałym RPM w przechyle, nie dostałbyś tej samej korekty.\n\nDlatego odruch to krótkie, ostre przyspieszenia, nie ciągłe śmigło."
+    },
+    {
+     "t": "Robot i receptory",
+     "d": "**Model sterowania: utrzymujesz pion, ale nie możesz nagle zatrzymać ramion bez ponownego upadku - potrzebujesz trzeciego członu równania (minimalizacja prędkości ramion).** W biologiii: liczba receptorów jak \"wagi\" w równaniu odpowiedzi sensorycznej.\n\nPuenta: ciało optymalizuje kilka celów naraz, nie jeden czysty wzór z podręcznika."
+    }
+   ],
+   "conclusion": "Autor chce, byś zobaczył paniczny młyn rąk jako fizykę momentu i przyspieszenia kątowego. Równowaga to kontroler, nie magia przedszkola.",
+   "factchecks": [
+    {
+     "claim": "Moment pędu jest zachowany przy braku zewnętrznych momentów sił.",
+     "verdict": "prawda",
+     "note": "Zasada zachowania momentu pędu to fundament mechaniki klasycznej.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Angular momentum\"",
+       "https://en.wikipedia.org/wiki/Angular_momentum"
+      ],
+      [
+       "Britannica: angular momentum",
+       "https://www.britannica.com/science/angular-momentum"
+      ]
+     ]
+    },
+    {
+     "claim": "Przyspieszenie kątowe wiąże się z momentem siły (tau = I alpha).",
+     "verdict": "prawda",
+     "note": "II zasada dynamiki dla ruchu obrotowego łączy moment z przyspieszeniem kątowym.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Torque\"",
+       "https://en.wikipedia.org/wiki/Torque"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Angular acceleration\"",
+       "https://en.wikipedia.org/wiki/Angular_acceleration"
+      ]
+     ]
+    },
+    {
+     "claim": "Ludzki układ równowagi integruje sygnały z wielu receptorów.",
+     "verdict": "prawda",
+     "note": "Równowaga to integracja przedsionka, propriocepcji i wzroku.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sense of balance\"",
+       "https://en.wikipedia.org/wiki/Sense_of_balance"
+      ],
+      [
+       "NIH: balance disorders",
+       "https://www.nidcd.nih.gov/health/balance-disorders"
+      ]
+     ]
+    }
+   ],
+   "bias": "Upraszcza neurologię do metafor \"liczby receptorów\"; sponsor/segment końcowy nie związany z tematem."
+  },
+  {
    "id": "PNq74gruSLc",
    "title_pl": "Pustynnienie Polski: hydrolog Piotr Bednarek o rzekach, rowach i retencji",
    "title": "Czy da się zatrzymać pustynnienie Polski? Jeśli tak, to jak? II Piotr Bednarek",
@@ -9254,6 +10631,90 @@
     }
    ],
    "bias": "Rzeczowy materiał pasjonata, bez sponsora książki. Na końcu reklama paczki sampli na Patreonie autora."
+  },
+  {
+   "id": "CiIDqSYB0_s",
+   "title_pl": "Wzlot i upadek Pergamonu",
+   "title": "The Rise and Fall of Pergamon",
+   "channel": "toldinstone",
+   "url": "https://www.youtube.com/watch?v=CiIDqSYB0_s",
+   "date": "2026-06-30",
+   "duration": 686,
+   "views": 96546,
+   "section": "Historia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Historia"
+   ],
+   "about": "toldinstone: od skarbca Lizymacha przez Attalidów i bibliotekę po testament Rzymowi.",
+   "intro": "Garrett Ryan opowiada o Pergamonie: przez ok. 150 lat hellenistyczne mocarstwo, które biło Galatów, budowało bibliotekę rywalizującą z Aleksandrią i wprowadziło Rzym do Azji Mniejszej.\n\nFabuła: cytadela Lizymacha i Filetajros, Attalos I jako \"nowe Ateny\", Eumenes II i sojusz z Republiką, Attalos III zapisujący królestwo Rzymowi, bunt Aristonikosa. Cel: zobaczyć, jak małe królestwo ustawiło ton rzymskiej Azji i sztuki.",
+   "points": [
+    {
+     "t": "Od skarbca do dynastii",
+     "d": "**Pergamon to naturalna cytadela (ok. 300 m nad równiną); Lizymach trzymał tu skarbiec ok. 9000 talentów i postawił Filetajrosa.** Eunuch Filetajros przechodzi na stronę Seleukosa, buduje sanktuaria i adoptuje Eumenesa.\n\nEumenes wygrywa z Antiochem i zyskuje niezależność; dopiero Attalos I po zwycięstwie nad Galatami bierze tytuł króla i pozuje na obrońcę Greków."
+    },
+    {
+     "t": "Rzym, biblioteka, kultura",
+     "d": "**Sojusz z Rzymem owocuje za Eumenesa II: Republika wypycha Seleukidów, Pergamon rośnie.** Stolica dostaje monumentalną architekturę i bibliotekę; Attalos II funduje stoę na ateńskiej agorze i Attaleię (Antalya).\n\nPatronat artystyczny (kopie jak Umierający Gal) według autora kształtuje gust rzymski."
+    },
+    {
+     "t": "Testament i bunt",
+     "d": "**Attalos III, ogrodnik trucizn i traktatu o rolnictwie, po 5 latach umiera bez dziedzica i zapisuje królestwo populus Romanus.** Aristonikos (\"ludzie Słońca\", wolność dla niewolników) przegrywa; kończy w Mamertynie.\n\nSpadek: nie najbogatsze królestwo hellenistyczne, ale trwały wzorzec hellenizacji Azji pod rzymskim parasolem."
+    }
+   ],
+   "conclusion": "Autor pokazuje Pergamon jako małe państwo o wielkim wpływie kulturowym, które samo oddało się Rzymowi. Biblioteka i sztuka przeżyły dynastię.",
+   "factchecks": [
+    {
+     "claim": "Attalos III zapisał Pergamon Rzymowi.",
+     "verdict": "prawda",
+     "note": "Testament Attalosa III (133 p.n.e.) przekazał królestwo Republice.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Attalus III\"",
+       "https://en.wikipedia.org/wiki/Attalus_III"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Kingdom of Pergamon\"",
+       "https://en.wikipedia.org/wiki/Kingdom_of_Pergamon"
+      ]
+     ]
+    },
+    {
+     "claim": "Biblioteka pergamońska rywalizowała z Aleksandryjską.",
+     "verdict": "prawda",
+     "note": "Biblioteka w Pergamonie była jedną z największych hellenistycznych kolekcji.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Library of Pergamum\"",
+       "https://en.wikipedia.org/wiki/Library_of_Pergamum"
+      ],
+      [
+       "Britannica: Pergamum",
+       "https://www.britannica.com/place/Pergamum"
+      ]
+     ]
+    },
+    {
+     "claim": "Attalos I przyjął tytuł króla po zwycięstwach nad Galatami.",
+     "verdict": "prawda",
+     "note": "Zwycięstwa nad Galatami legitymizowały basileus Attalosa I.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Attalus I\"",
+       "https://en.wikipedia.org/wiki/Attalus_I"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Galatians (people)\"",
+       "https://en.wikipedia.org/wiki/Galatians_(people)"
+      ]
+     ]
+    }
+   ],
+   "bias": "Narracja polityczno-kulturowa elit; mało o życiu poddanych poza buntem Aristonikosa."
   },
   {
    "id": "uUDSnfKR2S8",
@@ -9966,6 +11427,175 @@
    "bias": "Rzetelny, praktyczny materiał, ale część twierdzeń (np. o 95% ćwiczących) to retoryka. Na końcu reklama książki autora."
   },
   {
+   "id": "RXzea0iIT2A",
+   "title_pl": "Dlaczego źle wyglądasz w marynarce (blazer)",
+   "title": "WHY YOU LOOK BAD IN BLAZERS",
+   "channel": "He Spoke Style",
+   "url": "https://www.youtube.com/watch?v=RXzea0iIT2A",
+   "date": "2026-04-21",
+   "duration": 505,
+   "views": 250222,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Moda"
+   ],
+   "about": "He Spoke Style: blazer to nie górna połowa garnituru - kontrast, tekstura i intencja zamiast \"bezpiecznego kompletu\".",
+   "intro": "Antonio (He Spoke Style) trafia trzech widzów: nie wiesz, czemu blazer wygląda źle; ktoś Ci to powiedział; albo chcesz uniknąć błędu zanim kupisz. Problem nie jest \"zły rozmiar\" w pierwszym rzędzie - tylko mylenie blazera z marynarką garniturową.\n\nFilm tłumaczy różnicę garnitur vs sport coat/blazer, po co kontrast kolorów i faktur, jak budować intencję (dress up / casual / pomiędzy) i kiedy \"za dużo rzeczy naraz\" zabija look.",
+   "points": [
+    {
+     "t": "Garnitur vs blazer: inna robota",
+     "d": "**Garnitur jest kompletny: gładki, jednolity, formalny - góra i dół mają wyglądać jak jeden organizm.** Blazer/sport coat ma stać sam: zaprojektowany pod rozdział od spodni, nie pod kamuflaż \"prawie garnitur\".\n\nGdy zakładasz marynarkę garniturową do obcych spodni bez kontrastu, wygląda jak rozbite wesele - stąd wrażenie, że \"źle wyglądasz w blazerze\"."
+    },
+    {
+     "t": "Kontrast i napięcie",
+     "d": "**Przy blazerze chcesz separacji: kolor, tekstura, lekkie napięcie między elementami - to sygnał intencji.** Im bliżej ton-w-ton jak w garniturze, tym bardziej outfit wygląda na niedokończony komplet.\n\nIntencja (odrobinę bardziej formalnie / casualowo / pomiędzy) musi być czytelna; nie ma jednej poprawnej odpowiedzi, ale musi być decyzja."
+    },
+    {
+     "t": "Za dużo konkurujących elementów",
+     "d": "**Wzorzysta marynarka + mocna koszula + krawat + poszetka + \"ciekawe\" spodnie = wojna o uwagę.** Autor: ogranicz liczbę statementów naraz.\n\nDiagnoza praktyczna: jeśli look krzyczy w trzech miejscach, odejmij dwa - blazer wtedy zaczyna pracować."
+    }
+   ],
+   "conclusion": "Autor chce, byś przestał nosić blazer jak połowę garnituru. Daj mu kontrast i jasną intencję - albo załóż pełny garnitur i śpij spokojnie.",
+   "factchecks": [
+    {
+     "claim": "Sport coat/blazer historycznie jest oddzielony od matching trousers garnituru.",
+     "verdict": "prawda",
+     "note": "Sport coat powstał jako niezależna marynarka do oddzielnych spodni, nie jako część suit.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sport coat\"",
+       "https://en.wikipedia.org/wiki/Sport_coat"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Blazer\"",
+       "https://en.wikipedia.org/wiki/Blazer"
+      ]
+     ]
+    },
+    {
+     "claim": "Matching suit opiera się na jednolitym materiale góry i dołu.",
+     "verdict": "prawda",
+     "note": "Definicja garnituru obejmuje marynarkę i spodnie z tej samej tkaniny.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Suit\"",
+       "https://en.wikipedia.org/wiki/Suit"
+      ],
+      [
+       "Britannica: suit",
+       "https://www.britannica.com/topic/suit-clothing"
+      ]
+     ]
+    },
+    {
+     "claim": "Zbyt wiele wzorów naraz osłabia czytelność stylizacji.",
+     "verdict": "prawda",
+     "note": "Klasyczne poradniki stylu zalecają ograniczanie liczby konkurujących statement pieces.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Dress code\"",
+       "https://en.wikipedia.org/wiki/Dress_code"
+      ],
+      [
+       "He Spoke Style: blazer guides",
+       "https://hespokestyle.com/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Upraszcza fit/proporcje na rzecz reguły kontrastu; mało o sylwetce i długości rękawa."
+  },
+  {
+   "id": "BViIGAg-eVI",
+   "title_pl": "Nowy rodzaj lewitacji (nie ultrasonik i nie nadprzewodnik)",
+   "title": "A New Type of Levitation",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=BViIGAg-eVI",
+   "date": "2026-04-20",
+   "duration": 1056,
+   "views": 3278621,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Nauka",
+    "Technika"
+   ],
+   "about": "Steve Mould: wibrująca płytka i szczelina powietrzna, która wpycha powietrze inaczej niż bristle bot.",
+   "intro": "Steve Mould pokazuje lewitację inną niż stojące fale ultrasoniczne, flux pinning nadprzewodników czy spin-stabilized magnetics. Na stole: obiekt \"pływający\" nad powierzchnią przy rezonansie.\n\nFilm oddziela bristle-bot (wypychanie powietrza) od mechanizmu, w którym przy zbliżeniu dwóch powierzchni wibracja zasysa/utrzymuje poduszkę inaczej niż intuicja. Symulacja cząstek gazu i strojenie przetwornika. Cel: zobaczyć nowy reżim, nie magiczny antigravity toy.",
+   "points": [
+    {
+     "t": "Nie te lewitacje, które znasz",
+     "d": "**Steve wymienia klasyki: ultrasoniczne standing waves, pinning w polu nadprzewodnika, magnetyczna lewitacja ze spinem - i mówi: to coś innego.** Przy strojeniu do rezonansu obiekt zaczyna się ślizgać i unosić.\n\nPierwszy trop \"bristle bot\" odpada po bliższym przyjrzeniu się kierunkowi przepływu powietrza."
+    },
+    {
+     "t": "Szczelina i asymetria suwu",
+     "d": "**Klucz według autora: przy dwóch bliskich powierzchniach powietrze inaczej ucieka w suwie w dół niż wraca w suwie w górę.** Intuicja bristle bota (wypchnij wszystko) jest odwrotna - tu poduszka się utrzymuje.\n\nSymulacja: po czasie liczba cząstek wychodzących i wracających się bilansuje w stanie \"lewitującym\"."
+    },
+    {
+     "t": "Rezonans sprzętu",
+     "d": "**Praktyka labowa: stół/hokejowy air-hockey vibe, przetwornik jako kondensator przy rezonansie, osobne sygnały w kwadraturze na końcach.** Bez trafienia w rezonans nie ma widowiska.\n\nTo engineering discovery presentation, nie gotowy produkt sklepowy."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że \"lewitacja\" to rodzina zjawisk, nie jedno słowo z TikToka. Tu wygrywa szczelina, wibracja i rezonans - nie magnez z Allegro.",
+   "factchecks": [
+    {
+     "claim": "Ultradźwiękowe standing waves potrafią lewitować małe obiekty.",
+     "verdict": "prawda",
+     "note": "Acoustic levitation na falach stojących jest ugruntowanym zjawiskiem.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Acoustic levitation\"",
+       "https://en.wikipedia.org/wiki/Acoustic_levitation"
+      ],
+      [
+       "Nature: acoustic levitation reviews",
+       "https://www.nature.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Nadprzewodniki mogą pinować pole i \"unosić\" magnesy.",
+     "verdict": "prawda",
+     "note": "Flux pinning umożliwia stabilną lewitację magnetyczną nadprzewodników.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Flux pinning\"",
+       "https://en.wikipedia.org/wiki/Flux_pinning"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Magnetic levitation\"",
+       "https://en.wikipedia.org/wiki/Magnetic_levitation"
+      ]
+     ]
+    },
+    {
+     "claim": "Rezonans mechaniczny wzmacnia amplitudę drgań przy danej mocy.",
+     "verdict": "prawda",
+     "note": "Przy częstotliwości własnej układ osiąga duże amplitudy.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Resonance\"",
+       "https://en.wikipedia.org/wiki/Resonance"
+      ],
+      [
+       "Britannica: resonance",
+       "https://www.britannica.com/science/resonance-vibration"
+      ]
+     ]
+    }
+   ],
+   "bias": "Demonstracja autora bez peer-reviewed nazwy zjawiska w filmie; segment sponsorski Planet Wild."
+  },
+  {
    "id": "CnLvRMlpBbA",
    "title_pl": "Ranking książek o Harrym Potterze według dziur fabularnych",
    "title": "Ranking every Harry Potter book by its PLOT HOLES",
@@ -10041,6 +11671,91 @@
     }
    ],
    "bias": "Celowo przekorny ranking, autor sam zaznacza, że część zarzutów to nie dziury, tylko pytania. Na końcu długa reklama kanału, Patreona i Discorda."
+  },
+  {
+   "id": "Ws_sxA-rjMU",
+   "title_pl": "5 sposobów na wavetable w prawdziwych kawałkach",
+   "title": "5 Ways to use Wavetables in Actual Pieces of Music",
+   "channel": "Alex Ball",
+   "url": "https://www.youtube.com/watch?v=Ws_sxA-rjMU",
+   "date": "2026-04-16",
+   "duration": 764,
+   "views": 26099,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Muzyka"
+   ],
+   "about": "Alex Ball: od Groove Synthesis Third Wave i perkusji na 8M po speech-to-wavetable i resetujące się fale.",
+   "intro": "Alex Ball startuje od Groove Synthesis Third Wave (nowoczesny wavetable: 4 partie, 24 głosy, analogowe filtry, efekty), ale szybko schodzi na praktykę: jak użyć tabel fal w realnym utworze, nie w demo presetów.\n\nPięć zastosowań: unikalne bębny, warstwy, mowa zamieniona w wavetable, modulacja utrzymująca zainteresowanie ucha oraz resetujące się przebiegi. Cel: brzmienie \"Twoje\", nie fabryczne.",
+   "points": [
+    {
+     "t": "Bębny i warstwy z wavetable",
+     "d": "**Według Alexa na wavetable (np. 8M) da się zrobić potężne, unikalne drumy do soundtracku - nie tylko pady.** Potem warstwy i modulacja budują gęstość, której nie daje jeden static waveform.\n\nThird Wave jest kontekstem \"co potrafi współczesny wavetable\", ale triki przenoszą się między maszynami."
+    },
+    {
+     "t": "Mowa jako materiał falowy",
+     "d": "**Alex wrzuca słowo \"synthesizer\" jako źródło i buduje wokół tego track - mowa staje się spektrum do skanowania, nie wokalem w klasycznym sensie.** To sposób na signature, którego nie ma w banku fabrycznym.\n\nEfekt: rozpoznawalny motyw bez sample-packu z Splice."
+    },
+    {
+     "t": "Ruch i reset fali",
+     "d": "**Stałe skanowanie / reset waveformu trzyma ucho - fala nie \"umiera\" w pętli.** Alex pokazuje, jak ciągły ruch pozycji w tabeli działa jak żywy LFO na barwę.\n\nPięć trików razem: perkusja, warstwy, speech, modulacja, reset - checklista do sesji, nie teoria z podręcznika."
+    }
+   ],
+   "conclusion": "Autor chce, byś traktował wavetable jak warsztat na konkretne partie utworu, nie jak muzeum waveformów. Zrób bęben, warstwę i speech-patch - dopiero potem oceniaj synth.",
+   "factchecks": [
+    {
+     "claim": "Synteza wavetable skanuje tabele przebiegów w czasie.",
+     "verdict": "prawda",
+     "note": "Wavetable to sekwencja frames odczytywana z modulowaną pozycją.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Wavetable synthesis\"",
+       "https://en.wikipedia.org/wiki/Wavetable_synthesis"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"PPG Wave\"",
+       "https://en.wikipedia.org/wiki/PPG_Wave"
+      ]
+     ]
+    },
+    {
+     "claim": "Nowoczesne wavetable synthy łączą tabele z filtrami i efektami.",
+     "verdict": "prawda",
+     "note": "Instrumenty jak Third Wave integrują wavetable z analog-style filtering i FX.",
+     "p": 0,
+     "src": [
+      [
+       "Groove Synthesis: Third Wave",
+       "https://www.groovesynthesis.com/"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Synthesizer\"",
+       "https://en.wikipedia.org/wiki/Synthesizer"
+      ]
+     ]
+    },
+    {
+     "claim": "Mowę można użyć jako źródło spektrum do syntezy.",
+     "verdict": "prawda",
+     "note": "Techniki speech resynthesis/vocoder/wavetable z samplem mowy są ugruntowane.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Vocoder\"",
+       "https://en.wikipedia.org/wiki/Vocoder"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Speech synthesis\"",
+       "https://en.wikipedia.org/wiki/Speech_synthesis"
+      ]
+     ]
+    }
+   ],
+   "bias": "Demo pod konkretne maszyny Alexa; słabo o darmowych pluginach wavetable dla początkujących."
   },
   {
    "id": "V1xqjgRnpc0",
@@ -10387,6 +12102,90 @@
     }
    ],
    "bias": "Brak stronniczości. Gość wyraźnie oznacza spekulacje, np. odbicie zamiast Wielkiego Wybuchu czy wszechświaty w czarnych dziurach, i przyznaje się do niewiedzy."
+  },
+  {
+   "id": "RaQfGqsB30o",
+   "title_pl": "Czy da się złożyć tęczę z powrotem w białe światło?",
+   "title": "Can You Turn a Rainbow Back into White Light?",
+   "channel": "Steve Mould",
+   "url": "https://www.youtube.com/watch?v=RaQfGqsB30o",
+   "date": "2026-01-31",
+   "duration": 699,
+   "views": 494053,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Nauka"
+   ],
+   "about": "Steve Mould: pryzmat, odwrócony pryzmat, dlaczego wachlarz nie wraca i soczewka zbierająca barwy.",
+   "intro": "Steve Mould (z gościem w kadrze) pyta, czy tęczę z pryzmatu da się złożyć z powrotem w białe światło. Pierwszy odruch - odwrócony pryzmat tuż za pierwszym - nie działa. Dlaczego?\n\nFilm wraca do dyspersji: każdy kolor wychodzi pod innym kątem, więc drugi pryzmat dostaje wachlarz w różnych miejscach na granicy powietrze-szkło. Potem rozwiązanie z soczewką (ogniskowa 75 mm, ustawienie 1:1) zbierające równoległe wiązki. Cel: optyka z dema, nie metafora.",
+   "points": [
+    {
+     "t": "Dlaczego dwa pryzmaty \"nose to nose\" zawodzą",
+     "d": "**Pierwszy pryzmat rozszczepia białe na wachlarz; odwrócony drugi nie widzi jednej wiązki, tylko tęczę rozłożoną przestrzennie.** Każda długość fali trafia w inne miejsce powierzchni - nie ma magicznego \"cofnij dyspersję\" w tym układzie.\n\nSteve tłumaczy to geometrią, nie \"złym pryzmatem\"."
+    },
+    {
+     "t": "Soczewka zbiera tęczę",
+     "d": "**Soczewka o f=75 mm, obiekt i obraz w równej odległości (układ 1:1), zbiera rozchodzące się barwy z powrotem.** Demo działa nawet gdy przesuwa elementy - białe wraca.\n\nTo klasyczny Newtonowski duch: barwy to składowe białego, da się je złożyć optycznie."
+    },
+    {
+     "t": "Po co ten eksperyment",
+     "d": "**Steve chce namacalnego dowodu, że dyspersja jest odwracalna przy właściwej geometrii - nie tylko wykresu z podręcznika.** Efekt jest \"flipping beautiful\", ale stoi na kącie i ogniskowej.\n\nWniosek: intuicja \"odwróć pryzmat\" jest za prosta; optyka lubi ścieżki."
+    }
+   ],
+   "conclusion": "Autor pokazuje, że tęczę da się złożyć - soczewką, nie wishful thinking. Białe światło to zespół barw, który umie wrócić do domu.",
+   "factchecks": [
+    {
+     "claim": "Pryzmat rozszczepia białe światło przez dyspersję.",
+     "verdict": "prawda",
+     "note": "Różne długości fal mają różne współczynniki załamania w szkle.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Dispersion (optics)\"",
+       "https://en.wikipedia.org/wiki/Dispersion_(optics)"
+      ],
+      [
+       "Britannica: prism",
+       "https://www.britannica.com/technology/prism-optics"
+      ]
+     ]
+    },
+    {
+     "claim": "Newton pokazał składanie barw z powrotem w białe.",
+     "verdict": "prawda",
+     "note": "Eksperymenty Newtona z pryzmatami i soczewkami ugruntowały składanie widma.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Opticks\"",
+       "https://en.wikipedia.org/wiki/Opticks"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Isaac Newton\"",
+       "https://en.wikipedia.org/wiki/Isaac_Newton"
+      ]
+     ]
+    },
+    {
+     "claim": "Soczewka skupiająca może zbierać rozbieżne promienie barw.",
+     "verdict": "prawda",
+     "note": "Dodatnia soczewka fokusuje równoległe/rozbieżne wiązki według równania soczewki.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Lens\"",
+       "https://en.wikipedia.org/wiki/Lens"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Thin lens\"",
+       "https://en.wikipedia.org/wiki/Thin_lens"
+      ]
+     ]
+    }
+   ],
+   "bias": "Segment reklamowy w środku; uproszczenie aberracji chromatycznej soczewki."
   },
   {
    "id": "gDJclWCw1qY",
@@ -10738,6 +12537,91 @@
    "bias": "Gość buduje XAI i układa FrontierMath - pesymista co do black boxa. Sponsor na wejściu: BOŚ (IKE/IKZE). Ton ostrzegawczy, mało hype'u korporacyjnego."
   },
   {
+   "id": "9DJAnbcQFHA",
+   "title_pl": "Anna Topol: AI i kwanty zmienią gospodarkę i władzę",
+   "title": "AI i kwanty zmienią naszą gospodarkę, bezpieczeństwo i władzę  II Anna Topol #didaskalia 165",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=9DJAnbcQFHA",
+   "date": "2025-12-14",
+   "duration": 5398,
+   "views": 100537,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Nauka"
+   ],
+   "about": "Didaskalia z Anną Topol (IBM): wyścig AI, integracja z komputerami kwantowymi, bezpieczeństwo i Polska vs big tech.",
+   "intro": "Patrycjusz Wyżga rozmawia z Anną Topol z jądra IBM o tym, czy pracując przy AI czuje geopolityczny wyścig i co kwanty zmienią w gospodarce oraz bezpieczeństwie. To długa rozmowa didaskaliów, nie pitch startupu.\n\nWątki: strach przed AI i niemożność \"wyłączenia\", USA-Chiny i DeepSeek, wczesna integracja AI z komputerami kwantowymi, wieczny wyścig cyberbezpieczeństwa, sustainability inwestycji oraz rola współpracy Polski z big techami. Cel: mapa napięć, nie checklista narzędzi.",
+   "points": [
+    {
+     "t": "AI, której nie da się wyłączyć",
+     "d": "**Topol: po raz pierwszy przy AI pojawił się prawdziwy lęk przed technologią i organizacje chcące \"wszystko wyłączyć\" - ale wyłączyć już się raczej nie da.** Zastosowania są powiązane z tym, kto i jak systemy wdraża.\n\nBadania (w rozmowie: m.in. kontekst MIT) dokładają pytań o kontrolę i moment, w którym ludzkość w ogóle mogłaby świadomie zatrzymać eskalację."
+    },
+    {
+     "t": "Wyścig, DeepSeek, kwanty",
+     "d": "**Geopolityka USA-Chiny jest głośna (DeepSeek jako impuls), ale według Topol za kilka lat możemy uznać, że \"wyścig\" nie był jedyną osią.** Równolegle rosną ogromne infrastruktury AI, a komputery kwantowe dopiero wchodzą w integrację z klasycznymi systemami.\n\nNie wszystko pójdzie na kwanty: część obliczeń zostanie klasyczna, część hybrydowa, część wyłącznie kwantowa dla wybranych problemów matematycznych - jak przy przelewie bankowym, gdzie i tak jest łańcuch akcji."
+    },
+    {
+     "t": "Bezpieczeństwo i Polska",
+     "d": "**Bezpieczeństwo to wieczny wyścig: to, co zabezpieczysz dziś, jutro wymaga nowej warstwy - niezależnie od AI.** Potrzeba \"tradycyjnie\" solidnych fundamentów, nie tylko nowych modeli.\n\nO Polsce: fundusze idą mocno w infrastrukturę; współpraca z big techami daje zasoby, ale nie unieważnia mniejszych graczy. Sustainability = wdrażać z myśleniem, w co inwestuje państwo vs korporacje."
+    }
+   ],
+   "conclusion": "Gościni chce, byśmy myśleli o AI i kwantach jako o infrastrukturze władzy i ryzyka, nie o gadżecie. Wyłączyć się nie da - zostaje odpowiedzialne wdrażanie i cybernetyczny maraton.",
+   "factchecks": [
+    {
+     "claim": "Komputery kwantowe są na wczesnym etapie praktycznej integracji z AI.",
+     "verdict": "prawda",
+     "note": "NISQ i hybrydowe pipeline'y to stan obecny; masowa integracja dopiero się zaczyna.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Quantum computing\"",
+       "https://en.wikipedia.org/wiki/Quantum_computing"
+      ],
+      [
+       "IBM Quantum",
+       "https://www.ibm.com/quantum"
+      ]
+     ]
+    },
+    {
+     "claim": "DeepSeek to chiński gracz, który wstrząsnął dyskusją o wyścigu modeli.",
+     "verdict": "prawda",
+     "note": "Modele DeepSeek wywołały szeroką debatę o kosztach i konkurencji USA-Chiny.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"DeepSeek\"",
+       "https://en.wikipedia.org/wiki/DeepSeek"
+      ],
+      [
+       "Reuters: DeepSeek coverage",
+       "https://www.reuters.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Cyberbezpieczeństwo wymaga ciągłej aktualizacji zabezpieczeń.",
+     "verdict": "prawda",
+     "note": "Model threat landscape zmienia się stale; patching i nowe kontrole są normą.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Computer security\"",
+       "https://en.wikipedia.org/wiki/Computer_security"
+      ],
+      [
+       "ENISA reports",
+       "https://www.enisa.europa.eu/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Perspektywa osoby z globalnej korporacji; geopolityka bywa miękko stonowana wobec interesów big tech."
+  },
+  {
    "id": "MgswDy8PMAA",
    "title_pl": "Czym jest rachatłukum? Prawdziwy osmański przepis",
    "title": "What is Turkish Delight? How to make real Ottoman Turkish Delight.",
@@ -10860,6 +12744,91 @@
     }
    ],
    "bias": "Rzetelny i ostrożny przy legendach o pochodzeniu; dygresje (musical) i dłuższa reklama garnka."
+  },
+  {
+   "id": "mEsAlDPy9H0",
+   "title_pl": "Sekretne reguły personal style (to nie mit \"znajdź styl\")",
+   "title": "The Secret Rules Of Personal Style",
+   "channel": "He Spoke Style",
+   "url": "https://www.youtube.com/watch?v=mEsAlDPy9H0",
+   "date": "2025-12-08",
+   "duration": 890,
+   "views": 54940,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Moda",
+    "Psychologia"
+   ],
+   "about": "He Spoke Style: styl ewoluuje z życiem; standardy, audyt szafy i strategiczne eksperymenty zamiast jednej estetyki na zawsze.",
+   "intro": "Antonio zaczyna od zdjęć z życia (niemowlę, 1985, baseball, rower szosowy), by obalić mit \"znajdź swój styl i zamknij temat\". Człowiek się zmienia - ciało, praca, miasto - więc sztywna estetyka z Instagrama ogranicza rozwój.\n\nFilm: ewolucja zamiast destinacji, własne \"style standards\", etapy garderoby (luki vs refinement), audyt tego, czego nie sięgasz, i strategiczne eksperymenty zamiast shopping binge.",
+   "points": [
+    {
+     "t": "Mit \"znajdź styl\" ogranicza",
+     "d": "**Według autora nie jesteś tą samą osobą co 5 lat temu - slim cut z czasów \"rail thin rowerzysty\" może być za ciasny fizycznie i mentalnie.** Trzymanie się starego lookbooka to ubieranie poprzedniej wersji siebie.\n\nStyl to proces: standardy, które sam ze sobą ustalisz, nie checklista influencera."
+    },
+    {
+     "t": "Własne standardy vs trendy",
+     "d": "**Trendy dają siatkę bezpieczeństwa (\"wszyscy tak chodzą\"), ale w pewnym momencie wsiadają na czyjś rozkład jazdy.** Antonio proponuje 3 najczęstsze osobiste standardy (w filmie rozwijane jako umowy ze sobą o tym, co się liczy).\n\nGdy kariera, miasto albo ciało się zmienia - najpierw mapujesz luki między szafą a życiem, zamiast dokładać kolejny \"must-have\" sezonu."
+    },
+    {
+     "t": "Audyt, puste miejsce, eksperyment",
+     "d": "**Jeśli czegoś nie sięgasz i nie tęsknisz - odpowiedź jest w szafie, nie w sklepie.** Zrób miejsce, potem eksperymentuj strategicznie (nie hałda nowości).\n\nBuduj własną referencję (mniej wypolerowaną wersję style guide ze strony He Spoke Style): zdjęcia, które działają na Ciebie, nie moodboard algorytmu."
+    }
+   ],
+   "conclusion": "Autor pyta: walczysz ze zmianą czy z nią współpracujesz? Styl to żywy kontrakt ze sobą, nie tatuaż z Pinteresta.",
+   "factchecks": [
+    {
+     "claim": "Garderoba powinna nadążać za zmianami ciała i roli społecznej.",
+     "verdict": "prawda",
+     "note": "Praktyka stylistów i psychologia tożsamości podkreślają dopasowanie ubioru do aktualnego self-concept.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Fashion\"",
+       "https://en.wikipedia.org/wiki/Fashion"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Identity (social science)\"",
+       "https://en.wikipedia.org/wiki/Identity_(social_science)"
+      ]
+     ]
+    },
+    {
+     "claim": "Ślepe podążanie za trendami ogranicza spójność personal brand.",
+     "verdict": "półprawda",
+     "note": "Trendy bywają użyteczne jako punkt startu; problemem jest brak filtrów, nie sam trend.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Fashion trend\"",
+       "https://en.wikipedia.org/wiki/Fashion_trend"
+      ],
+      [
+       "He Spoke Style blog",
+       "https://hespokestyle.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Audyt nieużywanych ubrań pomaga w świadomych zakupach.",
+     "verdict": "prawda",
+     "note": "Capsule/wardrobe audit to ustalona metoda redukcji impulsywnych zakupów.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Capsule wardrobe\"",
+       "https://en.wikipedia.org/wiki/Capsule_wardrobe"
+      ],
+      [
+       "EPA: textile waste tips",
+       "https://www.epa.gov/recycle"
+      ]
+     ]
+    }
+   ],
+   "bias": "Narracja coaches' story z własnymi zdjęciami; mało konkretnych \"trzech standardów\" nazwanych w skrócie bez oglądania."
   },
   {
    "id": "MT9ZeE5JJsI",
@@ -11533,6 +13502,92 @@
     }
    ],
    "bias": "Praktyczny materiał od krawca z własną pracownią, więc kilka razy sugeruje, że szycie na miarę jest lepsze od konfekcji. Liczba 50% bez źródła."
+  },
+  {
+   "id": "U1zCyaQc91g",
+   "title_pl": "Jak zbudowałem najbardziej naukowy gym na świecie",
+   "title": "I Built The World's Most Scientific Gym",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=U1zCyaQc91g",
+   "date": "2025-09-08",
+   "duration": 1187,
+   "views": 3906287,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Siłownia",
+    "Trening",
+    "Nauka"
+   ],
+   "about": "Jeff Nippard otwiera Muscle Lab: maszyny pod hipertrofię plus DEXA, EMG i BIA do własnych badań.",
+   "intro": "Jeff Nippard przez dwa lata po cichu budował Jeff Nippard Muscle Lab - siłownię i mini-laboratorium w jednym. Nic nie było giftowane: sprzęt z Alco, Atlantis, Prime, Precor i nie tylko kupił z programów treningowych i MacroFactor.\n\nFilm to wycieczka: jasna sala siłowa, ciemna sala kulturystyczna, podcast, a na koniec pomieszczenie za ponad 300 tys. USD z DEXA (sam aparat ok. 200 tys.), EMG i BIA. Cel: pokazać, jak chce robić własne badania hipertrofii zamiast polegać na n=8.",
+   "points": [
+    {
+     "t": "Sale treningowe i ulubione maszyny",
+     "d": "**Light side to siła i nogi: platforma do deadliftu, pendulum squat (ciężki dół ROM), leg extension Prime z obciążeniem w różnych punktach krzywizny (squeeze/mid/stretch) i głębokim kątem kolana.** Są też hip abd/add, lying i seated leg curl, leg press po łuku, donkey calf raise.\n\nDark side: seal row, hip extension, barki (w tym standing lateral raise Atlantis), reverse pec deck siedzony bokiem pod pełny ROM tylnego aktonu, lat pulldown, seated row z głębokim stretchu, Hammer Strength chest press (\"Phil Heath machine\") z fat grips, Nautilus Freedom Trainer."
+    },
+    {
+     "t": "Mini-eksperymenty EMG na barkach",
+     "d": "**Jeff z Willem mierzy EMG: wyciskanie barków aktywuje też bok barku mocniej, niż \"ludzie myślą\" - stąd fan vertical press.** Na reverse pec deck siedzenie bokiem daje pełny zakres tylnego aktonu; klasyczne twarzą do maszyny to według niego pół-powtórzenia.\n\nTo nie peer-reviewed paper w filmie, tylko snapshot w nowym labie - zapowiedź większych protokołów."
+    },
+    {
+     "t": "Laboratorium: DEXA, BIA, EMG",
+     "d": "**Za drzwiami: DEXA do składu ciała (20-30 min), BIA na szybki snapshot (ok. 1 min) przy większych próbach, EMG do walidacji, czy wyższa aktywność elektryczna przewiduje hipertrofię długoterminowo.** Problem badań treningowych: często n=8-10; lab ma zbierać więcej osób.\n\nFinansowanie: 100% z programów jeffnippard.com i użytkowników MacroFactor (Jeff: z >20% do ok. 10% bf na diecie w apce). Podcast też wystartował - pierwszy odcinek z bratem Bradem."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że evidence-based fitness da się robić we własnym labie, nie tylko cytować abstrakty. Puenta: siłownia jest narzędziem, a DEXA i EMG mają domknąć pytania, których małe studia nie ruszają.",
+   "factchecks": [
+    {
+     "claim": "DEXA to uznana metoda pomiaru składu ciała.",
+     "verdict": "prawda",
+     "note": "Dual-energy X-ray absorptiometry jest standardem referencyjnym w wielu badaniach body composition.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Dual-energy X-ray absorptiometry\"",
+       "https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry"
+      ],
+      [
+       "NIH: DEXA overview",
+       "https://www.nibib.nih.gov/science-education/science-topics/bone-densitometry"
+      ]
+     ]
+    },
+    {
+     "claim": "Badania treningowe często mają bardzo małe próby.",
+     "verdict": "prawda",
+     "note": "W literaturze hipertrofii i EMG typowe są małe grupy; ograniczenie mocy statystycznej jest znane.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Sample size determination\"",
+       "https://en.wikipedia.org/wiki/Sample_size_determination"
+      ],
+      [
+       "PubMed Central: open access sports science",
+       "https://www.ncbi.nlm.nih.gov/pmc/"
+      ]
+     ]
+    },
+    {
+     "claim": "Pendulum squat mocno obciąża dół zakresu ruchu.",
+     "verdict": "prawda",
+     "note": "Charakterystyka maszyny pendulum squat faktycznie akcentuje głęboki stretch/dół ROM.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Squat (exercise)\"",
+       "https://en.wikipedia.org/wiki/Squat_(exercise)"
+      ],
+      [
+       "ExRx: squat variations",
+       "https://exrx.net/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Tour jest też reklamą MacroFactor i programów Jeffa; \"most scientific gym on the planet\" to marketing, nie niezależny ranking."
   },
   {
    "id": "Aed-Jy_BjmE",
@@ -13921,6 +15976,92 @@
    "bias": "Rzetelny przegląd podstaw, ale z perspektywy rynku USA. Autor promuje kody rabatowe do sklepów, więc część porad o zakupach ma też cel reklamowy."
   },
   {
+   "id": "OqRvmJ2eyBA",
+   "title_pl": "Jak bulkać jak pro - surplus kaloryczny według nauki",
+   "title": "How To Bulk Like A Pro (Using Science)",
+   "channel": "Jeff Nippard",
+   "url": "https://www.youtube.com/watch?v=OqRvmJ2eyBA",
+   "date": "2024-12-01",
+   "duration": 801,
+   "views": 6576461,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Siłownia",
+    "Trening",
+    "Ciało i zdrowie"
+   ],
+   "about": "Jeff Nippard tłumaczy, czemu sensowny bulk bije main gain, jak ustawić tempo przyrostu i makro.",
+   "intro": "Jeff Nippard (trener i popularyzator evidence-based treningu) od 1 stycznia prowadzi właściwy bulk z pomiarem DEXA i USG - jest też obiektem case study na McMaster University. Film ma przekonać, że \"nie bulkać, tylko main gain\" zostawia mięśnie na stole.\n\nTo poradnik: po co surplus, jak szybko tyć (1-2% masy/miesiąc u początkujących, 0,5-1% u zaawansowanych), makro, przykładowy dzień jedzenia, trening, cardio i suplementy. Cel: maksimum mięśni, minimum tłuszczu - bez dirty bulku.",
+   "points": [
+    {
+     "t": "Czemu bulk, nie wieczny recomp",
+     "d": "**Według autora ciało priorytetyzuje przeżycie, nie hipertrofię - bez surplusu energia idzie w organy i odporność, a budowa mięśni spada na listę.** Main gain jest możliwy, ale nigdy nie da tyle masy co właściwy bulk.\n\nPrzytacza badanie: grupa na ok. 2500 kcal vs ok. 4300 kcal przy tym samym treningu przez 8 tygodni - bulk zyskał wyraźnie więcej fat-free mass; u nowicjuszy prawie bez tłuszczu. U zaawansowanych bulk nadal daje więcej mięśnia, ale też więcej tłuszczu - stąd tempo 0,5-1% masy ciała na miesiąc."
+    },
+    {
+     "t": "Makro i przykładowy dzień Jeffa",
+     "d": "**Białko wysokie, tłuszcz 20-30% kalorii (u Jeffa przy 3000 kcal ok. 65-100 g, zwykle ok. 80 g), reszta węglowodany.** Tłuszcz łatwiej odkłada się jako tłuszcz niż węgle, które trzeba najpierw skonwertować.\n\nDzień: kawa/energy rano; śniadanie ok. 10:00 (białka jaj + jedno jajko, turkey bacon, warzywa, 15 g sera, 60 g płatków, borówki); pre-workout indyk + ryż + jogurt; po treningu shake i banan; wieczór elastyczny (pita, sushi, kurczak-ziemniak); przed snem jogurt, miód, masło orzechowe. \"If it fits your macros\" - nawet słodycze, byle w limicie."
+    },
+    {
+     "t": "Trening, cardio, suplementy",
+     "d": "**Trening na bulkach decyduje, czy surplus idzie w mięsień czy w tłuszcz - nie wolno odpuszczać intensywności.** Cardio nie \"zabija gains\"; forma kardio pomaga zdrowiu i regeneracji przy większej masie.\n\nSuplementy bazowe: 5 g kreatyny/dzień, białko w proszku wg potrzeb, ok. 200 mg kofeiny przed treningiem (jeśli nie psuje snu). Jeff dodaje olej rybi (2 g EPA+DHA), magnez na noc, witaminę D; ashwagandha 600 mg - ale sam mówi, że danych bezpieczeństwa za mało, by szeroko polecać."
+    }
+   ],
+   "conclusion": "Autor chce, byś raz zrobił kontrolowany bulk zamiast wiecznego main gainu: surplus + tempo 0,5-2% masy/miesiąc + solidny trening. Puenta: mięśnie rosną najszybciej, gdy ciało wie, że głód nie grozi.",
+   "factchecks": [
+    {
+     "claim": "Surplus kaloryczny sprzyja większym przyrostom masy beztłuszczowej niż jedzenie na utrzymanie.",
+     "verdict": "prawda",
+     "note": "Badania hipertrofii zwykle pokazują lepsze efekty w surplusie niż przy maintenance, zwłaszcza u początkujących.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Muscle hypertrophy\"",
+       "https://en.wikipedia.org/wiki/Muscle_hypertrophy"
+      ],
+      [
+       "Examine: bulking overview",
+       "https://examine.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "Zalecane tempo lean bulku to ok. 0,5-2% masy ciała miesięcznie.",
+     "verdict": "prawda",
+     "note": "Wytyczne evidence-based coachy i przeglądy praktyczne mieszczą się w tym zakresie zależnie od stażu.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Bodybuilding\"",
+       "https://en.wikipedia.org/wiki/Bodybuilding"
+      ],
+      [
+       "ISSN: pozycje białka i masy",
+       "https://www.issn.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "5 g kreatyny dziennie to standardowa skuteczna dawka.",
+     "verdict": "prawda",
+     "note": "Metaanalizy potwierdzają kreatynę monohydrat jako skuteczny ergogenik w typowych dawkach ok. 3-5 g.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Creatine\"",
+       "https://en.wikipedia.org/wiki/Creatine"
+      ],
+      [
+       "ISSN position stand: creatine",
+       "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z"
+      ]
+     ]
+    }
+   ],
+   "bias": "Film promuje własną apkę MacroFactor; konkretne badanie 2500 vs 4300 kcal nie jest cytowane z pełnym źródłem w narracji."
+  },
+  {
    "id": "k50Y_rvA0pw",
    "title_pl": "Jak wybierano urzędników w republice rzymskiej",
    "title": "Getting Elected in Ancient Rome",
@@ -16065,6 +18206,91 @@
    "section": "Chill Dude Explains"
   },
   {
+   "id": "Z8arDvhVamE",
+   "title_pl": "Robert Rutkowski: nie ma bezpiecznej dawki alkoholu",
+   "title": "Funkcjonujemy pod okupacją alkoholową - Robert Rutkowski - didaskalia#45",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=Z8arDvhVamE",
+   "date": "2024-01-01",
+   "duration": 5601,
+   "views": 1058410,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Psychologia"
+   ],
+   "about": "Didaskalia o etanolu, mózgu, młodzieży i dlaczego \"picie z umiarem\" nie regeneruje się w tydzień.",
+   "intro": "Rozmowa Patrycjusza Wyżgi z Robertem Rutkowskim (terapeuta uzależnień) rozbija mit alkoholu jako niewinnej substancji. Teza otwarcia: nie istnieje bezpieczna ilość etanolu - każda może mieć potencjał kancerogenny.\n\nWątki: wpływ na płodność/ojcostwo, depresyjne stany \"jeszcze nie kliniczne\", 6+6 tygodni uszkodzeń i regeneracji, młodzież 15-18 lat i mielinizacja do ok. 26-30 r.ż., psychozy po latach picia oraz noworoczne postanowienia. Cel: zero jako jedyna klarowna liczba.",
+   "points": [
+    {
+     "t": "Zero, nie \"z umiarem\"",
+     "d": "**Rutkowski: nie ma dawki bezpiecznej; picie raz w tygodniu nie daje mózgowi czasu na pełną regenerację.** Badania (w narracji gościa) burzą obraz alkoholu jako leku społecznego.\n\nModel \"kontrakt przy kieliszku\" to archaizm - równoległy świat bez butelki istnieje i jest lepszy."
+    },
+    {
+     "t": "Mózg, młodzież, 12 tygodni",
+     "d": "**Uszkodzenia po ciągu trwają ok. 6 tygodni, potem kolejne ok. 6 na powrót - stąd okno ~12 tygodni.** Mózg kształtuje się do ok. 26-30 lat (mielinizacja); regularne picie 15-18-latków według gościa uszkadza rozwój.\n\nPo kilku drinkach luz języka idzie w parze z mniejszą uwagą i pamięcią - nie tylko \"relaks\"."
+    },
+    {
+     "t": "Ojcostwo, depresja, postanowienia",
+     "d": "**Mężczyźni myślą, że mogą pić i płodzić bez konsekwencji - gość ostrzega przed ryzykiem zaburzeń u dziecka.** Stany depresyjne \"jeszcze nie na leki\" też są w alcospiralii.\n\nNoworoczne \"od dziś zero\": większość postanowień pada; potrzeba wiedzy i codziennej praktyki, nie magii 1 stycznia."
+    }
+   ],
+   "conclusion": "Gość chce jednej liczby: zero. Alkohol nie jest neutralnym smarowidłem relacji - jest toksyną z długim ogonem neurologicznym.",
+   "factchecks": [
+    {
+     "claim": "WHO/IARC klasyfikują alkohol jako kancerogen bez bezpiecznej dawki.",
+     "verdict": "prawda",
+     "note": "Etanol w napojach alkoholowych jest w grupie 1 kancerogenów; ryzyko rośnie z dawką.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Alcohol and cancer\"",
+       "https://en.wikipedia.org/wiki/Alcohol_and_cancer"
+      ],
+      [
+       "WHO: alcohol fact sheet",
+       "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      ]
+     ]
+    },
+    {
+     "claim": "Kora mózgowa dojrzewa u człowieka do wieku ok. 20+.",
+     "verdict": "prawda",
+     "note": "Procesy dojrzewania prefrontalnego i mielinizacji ciągną się w trzecią dekadę życia.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Adolescent development\"",
+       "https://en.wikipedia.org/wiki/Adolescent_development"
+      ],
+      [
+       "NIH: brain development",
+       "https://www.nimh.nih.gov/"
+      ]
+     ]
+    },
+    {
+     "claim": "Alkohol pogarsza jakość snu i funkcje poznawcze nawet przy \"umiarkowaniu\".",
+     "verdict": "prawda",
+     "note": "Etanol fragmentuje sen REM i upośledza uwagę; efekty utrzymują się po wypiciu.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Alcohol (drug)\"",
+       "https://en.wikipedia.org/wiki/Alcohol_(drug)"
+      ],
+      [
+       "CDC: alcohol and health",
+       "https://www.cdc.gov/alcohol/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Mocny abstynencki przekaz terapeuty; mało niuansu o kulturach z bardzo niskim spożyciem vs totalne zero."
+  },
+  {
    "id": "wCxRHueX6jQ",
    "title_pl": "Pompa, która działa dzięki korkom powietrznym",
    "title": "Wirtz pumps are really clever",
@@ -16174,6 +18400,91 @@
     }
    ],
    "bias": "Rzetelny; Mould otwarcie poprawia własny błąd. Pod koniec długa reklama Incogni."
+  },
+  {
+   "id": "4Brg43Pics8",
+   "title_pl": "Neurochirurg: Kabaret Hrabi wybudził pacjentkę",
+   "title": "Kabaret Hrabi wybudził pacjentkę ze śpiączki. Neurochirurg o kulisach swojej pracy - didaskalia#31",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=4Brg43Pics8",
+   "date": "2023-10-08",
+   "duration": 6820,
+   "views": 102599,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Ciało i zdrowie",
+    "Nauka"
+   ],
+   "about": "Didaskalia o świadomości, bólu, barwnikach w mikroskopie i misji ratowania jakości życia.",
+   "intro": "Neurochirurg w Didaskaliach opowiada o mózgu \"jak tofu, które lśni i tętni\" i o najtrudniejszym przeżyciu: pacjentka, do której nie mogli dotrzeć miesiącami - włączył się telewizor, Kabaret Hrabi, ona się zaśmiała: jest świadoma.\n\nRozmowa: stany minimalnej świadomości vs wegetatywne (klinika Budzik), ból ośrodkowy i obwodowy, barwniki fluorescencyjne przy usuwaniu guza, mniejsze otwarcia, nietypowe operacje wojenne/urazowe i finansowanie systemu. Cel: kulisy zawodu, nie sensacja.",
+   "points": [
+    {
+     "t": "Śmiech jako dowód świadomości",
+     "d": "**Zespół szukał oznak świadomości miesiącami; reakcja na Kabaret Hrabi pokazała, że pacjentka jest \"tu\" - różnica między minimalną świadomością a stanem wegetatywnym.** Misja: ratować i poprawiać jakość życia, czasem poza schematem \"tylko operacja\".\n\nMózg żywy jest piękny wizualnie - pełen naczyń, ruchomy - kontrast do skojarzenia z tofu."
+    },
+    {
+     "t": "Ból i nowoczesna chirurgia",
+     "d": "**Opioidy działają ośrodkowo; NLPZ (ibuprofen, ketonal) raczej obwodowo - przy opornym bólu wchodzi neurochirurgia bólu.** Przy guzach: mniejsze otwarcia, barwniki pod wybraną długością światła sprawiają, że tkanka świeci (zielony/żółty) i widać resztki niewidoczne gołym okiem.\n\nAutomatyzacja ruchów (układ piramidowy) tłumaczy, czemu \"nie myślisz\", jak idziesz - aż choroba (np. Parkinson) to psuje."
+    },
+    {
+     "t": "Uraz, system, pieniądze",
+     "d": "**W sytuacjach ekstremalnych operuje się \"wszystko\" - gość wspomina pierwszą torakotomię przy krwawieniu do klatki.** O NFZ: nie lubi politykowania, ale przyznaje, że pieniędzy zawsze \"za mało\" względem oczekiwań - jak Mercedes vs dobra Skoda.\n\nWniosek: technologia idzie do przodu, system i oczekiwania pacjentów - osobna gra."
+    }
+   ],
+   "conclusion": "Gość pokazuje neurochirurgię jako poszukiwanie świadomości i precyzji, nie tylko cięcie. Czasem śmiech z kabaretu mówi więcej niż skan.",
+   "factchecks": [
+    {
+     "claim": "Rozróżnia się stan wegetatywny i stan minimalnej świadomości.",
+     "verdict": "prawda",
+     "note": "Kryteria kliniczne MCS vs VS/UWS są ugruntowane w neurologii.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Minimally conscious state\"",
+       "https://en.wikipedia.org/wiki/Minimally_conscious_state"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Persistent vegetative state\"",
+       "https://en.wikipedia.org/wiki/Persistent_vegetative_state"
+      ]
+     ]
+    },
+    {
+     "claim": "Fluorescencyjne barwniki pomagają w resekcji guzów mózgu.",
+     "verdict": "prawda",
+     "note": "Np. 5-ALA / fluoresceina są używane do wizualizacji tkanek nowotworowych.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"5-Aminolevulinic acid\"",
+       "https://en.wikipedia.org/wiki/5-Aminolevulinic_acid"
+      ],
+      [
+       "Wikipedia (ang.): opis - hasło \"Fluorescence image-guided surgery\"",
+       "https://en.wikipedia.org/wiki/Fluorescence_image-guided_surgery"
+      ]
+     ]
+    },
+    {
+     "claim": "Opioidy działają głównie na ośrodkowe receptory bólu.",
+     "verdict": "prawda",
+     "note": "Agoniści receptorów opioidowych modulują przekaz bólu w OUN.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Opioid\"",
+       "https://en.wikipedia.org/wiki/Opioid"
+      ],
+      [
+       "WHO: pain management",
+       "https://www.who.int/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Anegdoty kliniczne bez nazwisk/dat; fragment o finansowaniu NFZ jest opinią praktyka, nie audytem."
   },
   {
    "id": "jduDyF2Zwd8",
@@ -16294,6 +18605,91 @@
     }
    ],
    "bias": "Rzetelny, z bezpiecznie pokazanymi doświadczeniami i ostrzeżeniem, by ich nie powtarzać; na końcu reklama sponsora."
+  },
+  {
+   "id": "DmEx49-Pc0Y",
+   "title_pl": "Przegalińska: nie oddawaj AI wszystkich zadań",
+   "title": "Niebezpieczne jest delegowanie AI wszystkich zadań: prof. Aleksandra Przegalińska - didaskalia#20",
+   "channel": "didaskalia",
+   "url": "https://www.youtube.com/watch?v=DmEx49-Pc0Y",
+   "date": "2023-07-23",
+   "duration": 4657,
+   "views": 162166,
+   "section": "Didaskalia",
+   "transcript": "youtube",
+   "added": "2026-11-07",
+   "tags": [
+    "Technika",
+    "Psychologia"
+   ],
+   "about": "Didaskalia z prof. Aleksandrą Przegalińską: AI jako wsparcie, agenci sprawczy, zawody i regulacje UE.",
+   "intro": "Prof. Aleksandra Przegalińska ostrzega: oddanie sztucznej inteligencji całkowicie pewnych zadań jest potencjalnie niebezpieczne. Większość zawodów się zmieni, mało które zniknie całkiem - ale \"mikro-mózg\" już wnioskuje, nie tylko liczy.\n\nRozmowa: AI jako wsparcie oparte na wartościach, zalew treści generatywnych, przewaga tych co się uczą narzędzi, agenci sprawczy vs chatbot responsywny, dwa \"błędy\" (internet + psychologia człowieka) oraz Polska jako talent programistyczny bez przełożenia na innowacje. Cel: ramy współpracy człowiek-AI.",
+   "points": [
+    {
+     "t": "Wsparcie, nie abdykacja",
+     "d": "**Przegalińska: AI ma wspierać człowieka - nie tylko \"bo tak chcemy\", ale bo tak działa najlepiej w świecie, w którym żyjemy.** Pełne oddanie zadań jest ryzykiem.\n\nWytworzyliśmy formę inteligencji z wnioskowaniem; pytanie o AGI przez samo dokładanie warstw i danych pozostaje otwarte."
+    },
+    {
+     "t": "Treści, zawody, agenci",
+     "d": "**Gdy każdy ma awatara i obrazki z Midjourney/SD, wyróżni się ludzki wymiar kreacji.** Prawnicy i inne profesje: kto ogarnia AI, ma przewagę nad \"obrażonymi na technologię\".\n\nRóżnica kluczowa: chatbot odpowiada vs agent sam pisze maile do gości podcastu na bazie Twoich notatek - to już sprawczość w świecie."
+    },
+    {
+     "t": "Internet, psychologia, Polska",
+     "d": "**Teza rozmowy: dwa duże błędy to podpięcie AI do internetu i nauczenie jej psychologii człowieka przez miliony rozmów.** Regulacje UE mają szansę ustawić ramy.\n\nPolska: top programistyczny, słabe przełożenie na gospodarkę innowacji - potrzeba dużych podmiotów/instytutów umiejących współpracować z big tech na własnych warunkach."
+    }
+   ],
+   "conclusion": "Gościni chce AI jako partnera z limitem delegacji, nie jako szefa Twojej skrzynki. Sprawczość zostaw człowiekowi - narzędzie ma pomagać, nie przejmować steru.",
+   "factchecks": [
+    {
+     "claim": "Generatywne AI zmienia wiele zawodów, rzadko kasując je w 100%.",
+     "verdict": "prawda",
+     "note": "Raporty rynku pracy wskazują na augmentację zadań raczej niż masowe znikanie całych profesji naraz.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Artificial intelligence\"",
+       "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      ],
+      [
+       "OECD: AI and employment",
+       "https://www.oecd.org/employment/"
+      ]
+     ]
+    },
+    {
+     "claim": "Agenci AI mogą wykonywać wieloetapowe działania bez ciągłych promptów.",
+     "verdict": "prawda",
+     "note": "Agentyczne systemy planują i wywołują narzędzia autonomicznie w zadanych ramach.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Intelligent agent\"",
+       "https://en.wikipedia.org/wiki/Intelligent_agent"
+      ],
+      [
+       "OpenAI: agents overview",
+       "https://openai.com/"
+      ]
+     ]
+    },
+    {
+     "claim": "UE wprowadza regulacje AI (AI Act).",
+     "verdict": "prawda",
+     "note": "European AI Act to przełomowe ramy ryzyka dla systemów AI w UE.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opis - hasło \"Artificial Intelligence Act\"",
+       "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+      ],
+      [
+       "European Commission: AI Act",
+       "https://digital-strategy.ec.europa.eu/"
+      ]
+     ]
+    }
+   ],
+   "bias": "Optymizm regulacyjny UE; \"dwa błędy\" to teza rozmowy, nie konsensus naukowy."
   },
   {
    "id": "iRGbz4m9Q2k",
