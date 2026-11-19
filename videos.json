@@ -1,6 +1,187 @@
 {
  "videos": [
   {
+   "id": "TwRgr9C3BXM",
+   "title_pl": "Drobne naciągactwa, na które trafiasz każdego dnia",
+   "title": "Small Scams You Encounter Every Single Day",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=TwRgr9C3BXM",
+   "date": "2026-11-19",
+   "duration": 594,
+   "views": 5544,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-19",
+   "tags": [
+    "Psychologia",
+    "Mity"
+   ],
+   "about": "Sztuczki sklepów, producentów żywności i restauracji: próg darmowej dostawy, półki, fałszywe dna, porcje, sztuczny niedobór, przekreślone ceny, menu.",
+   "intro": "Chill Dude Explains, kanał z krótkimi rankingami o psychologii, pieniądzach i nawykach, bierze na warsztat codzienne zakupy. Teza filmu: wiele rzeczy, które odbierasz jako okazję, nagrodę albo wolny wybór, zostało zaprojektowanych tak, żebyś wydał więcej, i zwykle jest to w pełni legalne.\n\nFilm to odliczanie od numeru 15 do 1 (w transkrypcji po numerze 15 od razu jest 9, więc omówionych jest 10 sztuczek). Każdy punkt to jeden trik ze sklepu, etykiety, internetu albo restauracji, z wyjaśnieniem, na jaki odruch mózgu jest obliczony, i czasem prostą radą, jak się bronić.",
+   "points": [
+    {
+     "t": "Próg darmowej dostawy",
+     "d": "**Minimalna kwota darmowej dostawy to pułapka przebrana za nagrodę.** Przykład autora: potrzebujesz rzeczy za 20 dolarów, dostawa kosztuje 5, a darmowa jest od 35. Dorzucasz stojak na telefon i skarpetki, więc wydajesz 15 dolarów więcej, żeby nie zapłacić 5.\n\nWedług autora sklep zna średnią wartość zamówienia i ustawia próg tuż nad nią. Opłata za dostawę odczuwa się jak kara, więc robimy umysłową gimnastykę, by jej uniknąć."
+    },
+    {
+     "t": "Półka na wysokości oczu",
+     "d": "**Najdroższe produkty stoją na wysokości wzroku, a tańszy odpowiednik często leży na dole.** Według autora marki takie jak Kellogg's płacą supermarketom miliony rocznie za to miejsce, więc kupując pierwszą rzecz, jaką widzisz, płacisz za ich reklamę.\n\nPłatki dla dzieci stoją niżej, na wysokości oczu dziecka, a ekspozycje na końcach alejek wyglądają na promocję, choć zwykle nią nie są. Autor cytuje badanie: produkty na wysokości oczu sprzedają się do 35% lepiej niż ten sam produkt na dolnej półce."
+    },
+    {
+     "t": "Słoik z fałszywym dnem",
+     "d": "**Gruby, podniesiony spód słoika udaje, że w środku jest więcej produktu.** Przykład: ciężki słoik kremu do twarzy, który wygląda na ok. 113 g (4 uncje), a mieści ok. 43 g (1,5 uncji), bo połowę zajmuje fałszywe dno.\n\nMózg odczytuje ciężkie jako pełne, a ciężar daje grube szkło. Według autora to legalne, dopóki na etykiecie jest prawdziwa waga. Rada: nie porównuj rozmiaru ani ciężaru, tylko wagę netto z etykiety."
+    },
+    {
+     "t": "Słowa „artisan”, „premium”, „craft”",
+     "d": "**Takie słowa nie mają definicji prawnej i każdy może je wpisać na etykietę.** Nikt nie sprawdza, czy chleb jest z małej partii, a wino „reserve” naprawdę leżakowało.\n\nBrązowy papier, rustykalna czcionka i słowo „craft” mogą podwoić cenę, bo sprzedają uczucie (rodzinna manufaktura, nagroda dla siebie, ekskluzywność). Przykłady autora: Subway nazywa pracowników „sandwich artists”, Domino's ma pizzę „artisan”, a Lay's, korporacja z fabrykami, chipsy „artisan”."
+    },
+    {
+     "t": "Zaniżona wielkość porcji",
+     "d": "**Producenci podają kalorie na porcję, której nikt nie zjada.** Paczka chipsów ma „150 kcal”, ale porcja to ok. 28 g (1 uncja), a w paczce jest ich 8, czyli razem 1200 kcal.\n\nWedług autora FDA (amerykański urząd ds. żywności i leków) ustala zasady, ale to firmy decydują, czym jest porcja: 3/4 szklanki płatków, 2 łyżki masła orzechowego, pół szklanki lodów. Ludzie stale nie doszacowują zjadanych kalorii, bo etykieta jest zaprojektowana, by wprowadzać w błąd."
+    },
+    {
+     "t": "„Naturalny aromat” i bóbr",
+     "d": "**„Naturalny aromat” może pochodzić z rośliny, zwierzęcia albo czegoś zupełnie nieoczekiwanego.** Autor podaje kastoreum: wydzielinę z gruczołów bobra (worków bobrowych, położonych obok tych, którymi bóbr znaczy teren), pachnącą wanilią i używaną w smakach waniliowych i malinowych.\n\nFDA uznaje je za ogólnie bezpieczne (GRAS), a producent nie musi pisać, jakiego naturalnego aromatu użył. Batonik truskawkowy może więc pachnieć truskawką albo bobrem."
+    },
+    {
+     "t": "Sztuczny niedobór",
+     "d": "**Komunikat „zostały tylko 2 sztuki” bywa wymyślony, żeby wywołać panikę.** Według autora taki napis potrafi wisieć pół roku, a Amazon i Booking.com są mistrzami haseł typu „został 1 pokój” czy „7 osób ogląda teraz tę ofertę”.\n\nOdruch na niedobór pomagał przodkom przetrwać, dziś każe kupić blender o 23:00. Rada: jeśli coś od tygodni „się kończy” albo licznik resetuje się po odświeżeniu, to fikcja; odczekaj 24 godziny."
+    },
+    {
+     "t": "Pamięć w telefonie i chmura",
+     "d": "**Bazowa pojemność telefonu jest pomyślana tak, żebyś dopłacił do większej.** Według autora system zjada ok. 30 GB ze 128 GB, a reszta szybko się zapełnia, więc kusi model 256 GB za 100 dolarów więcej, choć dodatkowa pamięć kosztuje producenta ok. 3 dolary.\n\nPotem jest abonament na chmurę, czyli wynajem miejsca na zdjęcia z własnego życia. Karta microSD 512 GB kosztuje ok. 30 dolarów, ale większość nowych telefonów po cichu straciła jej slot, gdy pojawiły się subskrypcje."
+    },
+    {
+     "t": "Przekreślona cena (kotwica)",
+     "d": "**Pierwsza pokazana cena to kotwica, do której mózg porównuje wszystko dalej.** Kurtka „200 dolarów” przekreślona na 100 wydaje się okazją, choć nigdy nie była warta 200.\n\nWedług autora w większości miejsc to legalne, o ile towar choć raz gdzieś sprzedano w wyższej cenie. Niektóre sklepy sprzedają jedną sztukę po zawyżonej cenie tylko po to, żeby rabat był formalnie prawdziwy."
+    },
+    {
+     "t": "Inżynieria menu w restauracji",
+     "d": "**Menu projektują specjaliści, a twój „wolny wybór” jest sterowany.** Według autora wzrok najpierw trafia w prawy górny róg, więc tam stoją najdroższe dania: po stejku za 95 dolarów makaron za 45 wydaje się rozsądny. Ceny są bez znaku dolara, bo badania pokazują, że jego brak zwiększa wydatki.\n\nOpisy też działają: „bogate belgijskie ciasto lawa z ciemnej czekolady” sprzedawało się o 27% lepiej niż „ciasto czekoladowe” i było oceniane jako smaczniejsze. Ramka wokół dania wyróżnia najbardziej marżowe pozycje, nie najlepsze."
+    }
+   ],
+   "conclusion": "Autor chce, żeby widz zauważał, jak bardzo zakupy są projektowane pod jego odruchy: lęk przed karą (dostawa), niedoborem, porównanie z kotwicą czy uczucia wywołane słowami. Puenta: przychodzisz z planem wydania 20 dolarów, wychodzisz z rachunkiem na 50 i myślisz, że to był twój pomysł.",
+   "factchecks": [
+    {
+     "claim": "Marki płacą sieciom za miejsce na półce na wysokości oczu",
+     "verdict": "prawda",
+     "note": "Opłaty półkowe (slotting fees) to powszechna praktyka handlu detalicznego; kwota 35% więcej sprzedaży jest niezweryfikowana.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): opłaty za miejsce na półce - hasło \"Slotting fee\"",
+       "https://en.wikipedia.org/wiki/Slotting_fee"
+      ]
+     ]
+    },
+    {
+     "claim": "Fałszywe dno jest całkowicie legalne, jeśli podano wagę netto",
+     "verdict": "półprawda",
+     "note": "W USA przepisy FDA zakazują niefunkcjonalnej pustej przestrzeni (slack fill); są wyjątki, ale nie pełna dowolność.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): puste wypełnienie opakowań - hasło \"Slack fill\"",
+       "https://en.wikipedia.org/wiki/Slack_fill"
+      ],
+      [
+       "eCFR: przepis FDA 21 CFR 100.100 o mylących opakowaniach",
+       "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-100/subpart-G/section-100.100"
+      ]
+     ]
+    },
+    {
+     "claim": "To firmy decydują, czym jest jedna porcja",
+     "verdict": "półprawda",
+     "note": "Porcje opierają się na tabelach FDA (RACC) z ilości zwykle zjadanych; firmy mają mniej swobody, niż mówi autor.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): wielkość porcji, tabele RACC - hasło \"Serving size\"",
+       "https://en.wikipedia.org/wiki/Serving_size"
+      ],
+      [
+       "FDA: zmiany etykiety wartości odżywczej (2016)",
+       "https://www.fda.gov/food/food-labeling-nutrition/changes-nutrition-facts-label"
+      ]
+     ]
+    },
+    {
+     "claim": "Kastoreum z bobra jest dozwolonym naturalnym aromatem (GRAS)",
+     "verdict": "przesada",
+     "note": "Status GRAS się zgadza, ale dziś zużycie to ok. 100 kg rocznie na cały przemysł, więc w batoniku jest skrajnie mało prawdopodobne.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): kastoreum - hasło \"Castoreum\"",
+       "https://en.wikipedia.org/wiki/Castoreum"
+      ]
+     ]
+    },
+    {
+     "claim": "Booking.com stosuje presję fałszywego niedoboru",
+     "verdict": "prawda",
+     "note": "W 2019 r. brytyjski CMA zmusił serwisy hotelowe, w tym Booking.com, do zmiany komunikatów o presji i niedoborze.",
+     "p": 6,
+     "src": [
+      [
+       "GOV.UK: serwisy hotelowe zmieniają praktyki po dochodzeniu CMA",
+       "https://www.gov.uk/government/news/hotel-booking-sites-to-make-major-changes-after-cma-probe"
+      ],
+      [
+       "Wikipedia (ang.): zwodnicze wzorce interfejsu - hasło \"Dark pattern\"",
+       "https://en.wikipedia.org/wiki/Dark_pattern"
+      ]
+     ]
+    },
+    {
+     "claim": "Rabat jest legalny, jeśli towar raz sprzedano po wyższej cenie",
+     "verdict": "półprawda",
+     "note": "W UE (też w Polsce) przy obniżce trzeba podać najniższą cenę z 30 dni przed nią, więc ten trik tu nie przejdzie.",
+     "p": 8,
+     "src": [
+      [
+       "EUR-Lex: dyrektywa Omnibus 2019/2161 (ceny przy obniżkach)",
+       "https://eur-lex.europa.eu/eli/dir/2019/2161/oj"
+      ],
+      [
+       "Wikipedia (ang.): efekt zakotwiczenia - hasło \"Anchoring effect\"",
+       "https://en.wikipedia.org/wiki/Anchoring_effect"
+      ]
+     ]
+    },
+    {
+     "claim": "Brak znaku dolara w menu zwiększa wydatki gości",
+     "verdict": "prawda",
+     "note": "Badanie Cornell (Yang, Kimes, Sessarego, 2009) wykazało, że znak waluty skłania gości do wydawania mniej.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): inżynieria menu - hasło \"Menu engineering\"",
+       "https://en.wikipedia.org/wiki/Menu_engineering"
+      ]
+     ]
+    },
+    {
+     "claim": "Opisowa nazwa ciasta zwiększyła sprzedaż o 27%",
+     "verdict": "półprawda",
+     "note": "Liczba pochodzi z badania Briana Wansinka (2001); wiele jego prac wycofano za błędy metodologiczne.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): Brian Wansink - hasło \"Brian Wansink\"",
+       "https://en.wikipedia.org/wiki/Brian_Wansink"
+      ],
+      [
+       "Wikipedia (ang.): inżynieria menu - hasło \"Menu engineering\"",
+       "https://en.wikipedia.org/wiki/Menu_engineering"
+      ]
+     ]
+    }
+   ],
+   "bias": "Mocno amerykańska perspektywa (FDA, dolary, prawo USA), część liczb bez źródła, a niektóre triki przedstawione jako pewna reguła, choć badania są słabe lub sporne."
+  },
+  {
    "id": "BjlIBGd0Ghs",
    "title_pl": "Jak pokazać komuś, że nie może cię kontrolować",
    "title": "Ways to Make Someone Realize They Can't Control You",
