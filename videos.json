@@ -2255,6 +2255,143 @@
    "bias": "Oceny subiektywne; część zapachów otrzymana od marek (Dior w ramach płatnej współpracy, Lumari za darmo) i reklama własnej marki Atrium."
   },
   {
+   "id": "rV5QKFFX_uI",
+   "title_pl": "Tak, Ground News to operacja psychologiczna",
+   "title": "Yes, Ground News Is A Psyop.",
+   "channel": "Second Thought",
+   "url": "https://www.youtube.com/watch?v=rV5QKFFX_uI",
+   "date": "2026-11-13",
+   "duration": 1338,
+   "views": 1243686,
+   "section": "Ciekawostki",
+   "transcript": "whisper",
+   "added": "2026-11-20",
+   "tags": [
+    "Psychologia"
+   ],
+   "about": "Lewicowy kanał Second Thought krytykuje Ground News i agencje oceniające media za to, że neutralność utożsamiają z rzetelnością.",
+   "intro": "Second Thought to lewicowy kanał publicystyczny, który sam przedstawia się jako socjalistyczny. Bierze na celownik Ground News, aplikację z newsami reklamowaną przez wielu youtuberów (kiedyś także przez sam kanał), która pokazuje, ile mediów lewicowych, centrowych i prawicowych opisało dany temat, i generuje AI-streszczenia ich wersji. Oceny stronniczości i wiarygodności Ground News bierze od zewnętrznych agencji, m.in. Ad Fontes Media i AllSides, a Ad Fontes uznało sam Second Thought za źródło niewiarygodne.\n\nFilm idzie śladem pieniędzy (kto finansuje Ground News), potem pokazuje przykłady ocen agencji, które autor uważa za absurdalne, rozmowę z Nickiem Hayesem z Means TV, a na koniec proponuje alternatywy. Teza: \"neutralność\" przesuwa czytelnika w stronę mediów głównego nurtu i nie mówi, co jest prawdą.",
+   "points": [
+    {
+     "t": "Kto stoi za pieniędzmi Ground News",
+     "d": "**Według autora Ground News wydaje się finansowane przez Joe Rickettsa, republikańskiego miliardera i wielkiego darczyńcę.** Ground News pokazuje właścicieli i finansowanie innych mediów, ale o swoich inwestorach mówi tylko, że są \"niezależni i zgodni z misją\".\n\nTrop (podsunięty przez Erica, autora wcześniejszego materiału o agencjach) prowadzi przez zarząd spółki matki: zasiada w nim Manuel Matka, który pracuje też dla trzech firm Rickettsa, m.in. Straight Arrow News (podobnego agregatora z ocenami stronniczości). Autor zaznacza, że \"wydaje się\" to najwięcej, co da się ustalić."
+    },
+    {
+     "t": "Kim jest Joe Ricketts",
+     "d": "**Autor przedstawia Rickettsa jako miliardera, który chce kontrolować media.** Przytacza co najmniej 3,2 mln dolarów dla kampanii Trumpa oraz ujawnione maile z islamofobicznymi i rasistowskimi wypowiedziami.\n\nW 2017 r. Ricketts kupił i szybko zamknął serwisy Gothamist, LAist i DCist, gdy redakcje zagłosowały za związkiem zawodowym. Autor uważa, że taki inwestor chce, by poglądy reakcyjne stały na równi z resztą mediów, i cytuje opinię, że \"pokazywanie obu stron\" uwiarygadnia fałsz."
+    },
+    {
+     "t": "Jak agencje ocen klasyfikują media",
+     "d": "**Według autora agencje ratingowe prowadzą głównie inwestorzy, konsultanci i przedsiębiorcy, a nie dziennikarze.** W jednej ostatnie słowo ma założyciel z dyplomem z komunikacji, w innej oceny robi częściowo AI.\n\nSecond Thought dostał ocenę na poziomie osób szerzących teorie spiskowe i negujących Holokaust oraz niżej niż Russell Brand i tabloid New York Post. Magazyn Quillette (założony przez Claire Lehmann, publikujący teksty o \"nauce o rasach\") ma za to niemal najwyższą wiarygodność. Autor podaje też przykłady AllSides, m.in. The Free Press i The Atlantic."
+    },
+    {
+     "t": "Neutralność to nie to samo co prawda",
+     "d": "**Autor twierdzi, że wykresy tego typu zakładają, iż wiarygodność rośnie im bliżej politycznego centrum.** Znalazł tylko jeden przypadek, gdy Ad Fontes oceniło coś jako mocno lewicowe i zarazem bardzo rzetelne: dokument \"Knock Down the House\" z 2019 r.\n\nSecond Thought przyznaje, że nie robi własnego reportażu, ale podaje źródła w opisach, rozmawia z ekspertami i jawnie deklaruje swoje poglądy. Nick Hayes z Means TV (streamingu prowadzonego jako spółdzielnia pracownicza) dodaje, że nikt nie jest bez stronniczości, a media korporacyjne podające się za neutralne przemycają opinie jako fakty."
+    },
+    {
+     "t": "Co zamiast Ground News",
+     "d": "**Pierwsze rozwiązanie to umiejętność czytania mediów: zawsze pytaj, co autor zyskuje na danym stanowisku.** Hayes podaje przykład felietonu w New York Times chwalącego AI i centra danych, pisanego często przez kogoś z funduszu, który w nie inwestuje.\n\nDrugie to media należące do pracowników, niezależne od miliarderów. Autor poleca Means TV i sam przyznaje, że zasiada w jej radzie nadzorczej (to jedyna wpleciona autopromocja; sponsora w filmie nie ma)."
+    }
+   ],
+   "conclusion": "Według autora Ground News ma dobre elementy, ale podając \"średnią\" ze sceny politycznej, nie mówi, co jest prawdą, i popycha ludzi z powrotem do mediów centrowych. Ironicznie dziękuje Ad Fontes za niską ocenę, bo pokazała, jak sceptycznie traktować \"bezstronne\" agregatory.",
+   "factchecks": [
+    {
+     "claim": "Ground News bierze oceny od AllSides, Ad Fontes i Media Bias/Fact Check",
+     "verdict": "prawda",
+     "note": "Oceny stronniczości i rzetelności w Ground News to średnia z tych trzech firm.",
+     "p": null,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Ground News\"",
+       "https://en.wikipedia.org/wiki/Ground_News"
+      ],
+      [
+       "Ground News: system ocen - \"Rating System\"",
+       "https://ground.news/rating-system"
+      ]
+     ]
+    },
+    {
+     "claim": "Ground News jest finansowane przez Joe Rickettsa",
+     "verdict": "nie da się sprawdzić",
+     "note": "Ground News nie ujawnia inwestorów; teza opiera się na powiązaniach osoby z zarządu.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Ground News\"",
+       "https://en.wikipedia.org/wiki/Ground_News"
+      ]
+     ]
+    },
+    {
+     "claim": "Straight Arrow News należy do Rickettsa",
+     "verdict": "prawda",
+     "note": "Ricketts założył SAN w 2021 r.; w listopadzie 2026 ogłosił jego zamknięcie.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Straight Arrow News\"",
+       "https://en.wikipedia.org/wiki/Straight_Arrow_News"
+      ]
+     ]
+    },
+    {
+     "claim": "Ricketts dał co najmniej 3,2 mln dolarów na kampanie Trumpa",
+     "verdict": "prawda",
+     "note": "Ponad 1 mln w 2016 r. i 2,2 mln (z żoną) w 2020 r.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Joe Ricketts\"",
+       "https://en.wikipedia.org/wiki/Joe_Ricketts"
+      ]
+     ]
+    },
+    {
+     "claim": "Ricketts zamknął Gothamist po głosowaniu za związkiem zawodowym",
+     "verdict": "prawda",
+     "note": "DNAinfo i sieć Gothamist zamknięto 2.11.2017, tydzień po głosowaniu redakcji.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Gothamist\"",
+       "https://en.wikipedia.org/wiki/Gothamist"
+      ],
+      [
+       "Wikipedia (ang.): \"Joe Ricketts\"",
+       "https://en.wikipedia.org/wiki/Joe_Ricketts"
+      ]
+     ]
+    },
+    {
+     "claim": "Ujawnione maile Rickettsa zawierały islamofobiczne wypowiedzi",
+     "verdict": "prawda",
+     "note": "Maile ujawnione w 2019 r. m.in. \"Muslims are naturally my (our) enemy\"; Ricketts przeprosił.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Joe Ricketts\"",
+       "https://en.wikipedia.org/wiki/Joe_Ricketts"
+      ]
+     ]
+    },
+    {
+     "claim": "Quillette założyła Claire Lehmann",
+     "verdict": "prawda",
+     "note": "Quillette to magazyn internetowy założony przez australijską dziennikarkę Claire Lehmann.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Quillette\"",
+       "https://en.wikipedia.org/wiki/Quillette"
+      ]
+     ]
+    }
+   ],
+   "bias": "Otwarcie lewicowy kanał, który sam dostał niską ocenę, więc ma interes w krytyce; autopromocja Means TV. Dużo emocjonalnych wątków politycznych, w tym o wojnie w Gazie.",
+   "requested_at": "2026-11-20T21:02:35+01:00"
+  },
+  {
    "id": "Sg9WB8XQ85c",
    "title_pl": "7 nordyckich nawyków na najciemniejsze miesiące",
    "title": "7 Nordic Habits to Get Through the Darkest Months",
@@ -11523,6 +11660,185 @@
     }
    ],
    "bias": "Rzetelny i z humorem, z podanymi źródłami książkowymi; opinia o podziale linii to zdanie autora."
+  },
+  {
+   "id": "SNwoI6531us",
+   "title_pl": "Genialny przekręt \"Dolby Atmos\"",
+   "title": "The brilliant scam of \"Dolby Atmos\"",
+   "channel": "Slidebean",
+   "url": "https://www.youtube.com/watch?v=SNwoI6531us",
+   "date": "2026-09-11",
+   "duration": 2306,
+   "views": 999053,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-20",
+   "tags": [
+    "Technika",
+    "Mity",
+    "Historia"
+   ],
+   "about": "Twórca Slidebean buduje domowe kino z Dolby Atmos i sprawdza, ile z reklamowanego wszędzie Atmosu to naprawdę dźwięk 3D, a ile marketing.",
+   "intro": "Autor kanału Slidebean (kanału o biznesie i technologii, nagrywanego w Kostaryce) kupił nowy amplituner z Atmosem, odpalił oficjalny film testowy Dolby na YouTube i zauważył, że amplituner wcale nie pokazuje Atmosu. Stąd pytanie: czym właściwie jest Dolby Atmos, skoro logo widnieje na każdym telewizorze, iPadzie i w każdym serwisie streamingowym, i ile z tego to prawdziwy dźwięk 3D. Według niego około 99% \"Atmosu\", którego ludzie słuchają, jest podróbką.\n\nFilm przeplata dwie warstwy: historię wojny formatów dźwięku w kinie (Cinerama, Dolby, DTS, Blu-ray, streaming) oraz vlog z kompletowania sprzętu, przez kilka miesięcy i za dużo pieniędzy. Kończy się seansem z zespołem i ślepym porównaniem Dolby Atmos z DTS:X na tym samym filmie.",
+   "points": [
+    {
+     "t": "Klasyczny surround: jeden kanał na głośnik",
+     "d": "**Stary dźwięk przestrzenny 5.1 wysyła na sztywno osobny sygnał do każdego głośnika.** Zaczęło się od Cineramy (kina z trzema ekranami) w 1952 r.: obok trzech rolek obrazu szła rolka z siedmioma ścieżkami magnetycznymi, po jednej na głośnik.\n\nOznaczenia 2.1, 5.1, 7.1 to liczba głośników plus subwoofer (to \".1\"); są nawet zestawy 17.1. Problem: filmy przez większość XX w. miksowano na 6, czasem 8 kanałów, a miks zakłada idealne ustawienie głośników (tylne pod kątem 110-120 stopni od słuchacza). Autor pokazuje, że w prawdziwym salonie, gdzie o miejscu głośnika decyduje też żona, to się nie udaje."
+    },
+    {
+     "t": "Co Atmos obiecuje: obiekty w przestrzeni 3D",
+     "d": "**Atmos nie wysyła kanałów, tylko wirtualną scenę 3D z maksymalnie 128 ruchomymi obiektami dźwiękowymi.** Realizator umieszcza dźwięki w przestrzeni, a amplituner, po kalibracji mikrofonem w punkcie odsłuchu, sam rozkłada je na głośniki, które masz, czy jest ich 5, czy 17.\n\nDzięki temu statek może przelecieć w dowolnym kierunku, a deszcz padać nad głową. Na tym samym pomyśle opiera się dźwięk przestrzenny w słuchawkach, np. w AirPodsach, gdzie dźwięk zostaje z przodu, gdy obracasz głowę."
+    },
+    {
+     "t": "Ray Dolby i sprytna sztuczka z fazą",
+     "d": "**Dolby zawdzięczamy surround w domu, ale też kompresję, która ciągnie się do dziś.** Ray Dolby najpierw usunął szum z optycznych ścieżek na taśmie; pierwszym filmem z jego technologią była \"Mechaniczna pomarańcza\", a sławę dały \"Gwiezdne wojny\" z dźwiękiem czterokanałowym.\n\nSztuczka (kodowanie matrycowe) mieściła 4 kanały w 2 ścieżkach: wspólny dźwięk w obu ścieżkach szedł na środek, a dźwięk z odwróconą fazą w jednej z nich na tył. Autor demonstruje to własnym śpiewem: fala plus fala odwrócona daje ciszę, jak w słuchawkach z ANC. Wadą były przecieki dźwięku i rysy na taśmie."
+    },
+    {
+     "t": "Dolby Digital kontra DTS: kompresja kontra jakość",
+     "d": "**Od \"Powrotu Batmana\" Dolby Digital mieściło 6 kanałów w mocno skompresowanych 320 kb/s.** Dane drukowano między perforacjami taśmy. Dla porównania płyta CD to 1411 kb/s na 2 kanały, a MP3 około 160 kb/s.\n\nDTS (znany z logo z płytą CD, np. przed \"Władcą Pierścieni\") trzymał dźwięk na osobnych płytach, z przepływnością 882 kb/s, czyli ponad dwa razy większą. Audiofile i reżyserzy go kochali, ale kina miały kłopot z żonglowaniem płytami. Na DVD (8,5 GB) Dolby miało 320-400 kb/s, DTS około 1,5 Mb/s, a mimo to Dolby wygrało, bo było wszędzie i nie każdy odtwarzacz miał licencję DTS."
+    },
+    {
+     "t": "Blu-ray: bezstratny dźwięk i odwrócenie ról",
+     "d": "**Na płytach Blu-ray (do 50 GB) oba formaty mają wersje bezstratne: Dolby TrueHD i DTS-HD Master Audio.** DTS-HD był wstecznie zgodny w jednej ścieżce, a TrueHD wymagał dodatkowej starej ścieżki Dolby, więc to DTS stał się standardem Blu-ray.\n\nAudiofile do dziś wolą DTS jako \"mocniejszy\" i chwalą jego maks. 24 Mb/s wobec 18 Mb/s u Dolby, ale autor uważa, że tej różnicy nikt nie usłyszy."
+    },
+    {
+     "t": "Atmos w streamingu to skompresowany plik",
+     "d": "**Streamingowy Atmos idzie w formacie Dolby Digital Plus, czyli stratnie, w około 800 kb/s.** Kina dostają dziś nieskompresowany dźwięk PCM (czyste pliki wave, ścieżka na głośnik) albo plik Atmos, ale do domu 128 obiektów trafia ściśnięte do rozmiaru nieco większego niż MP3.\n\nFilm 4K na płycie ma około 100 GB, w streamingu około 10 GB. DTS dopiero wchodzi do streamingu (IMAX Enhanced, na razie tylko Disney+ i wybrane urządzenia). Apple TV i Mac zamieniają bezstratne pliki na PCM i gubią kanały wysokości, więc pełny Atmos daje dopiero odtwarzacz Blu-ray, który autor też musiał dokupić."
+    },
+    {
+     "t": "Największe kłamstwo: brak głośników sufitowych",
+     "d": "**Bez głośników nad głową Atmos to niewiele więcej niż stare 5.1.** Autor przyznaje, że kupił przednie i tylne głośniki, ale wszystkie na wysokości uszu.\n\nOpcje: soundbar z głośnikami strzelającymi w sufit (według autora i audiofilów z Reddita to \"Fatmos\", fałszywy Atmos), głośniki odbijające dźwięk od sufitu (wymagają idealnych kątów) albo głośniki wpuszczane w sufit, na które się zdecydował."
+    },
+    {
+     "t": "Dlaczego dialogi słychać tylko z napisami",
+     "d": "**Kinowe miksy Atmos ze 128 obiektami trafiają na maleńkie głośniki telewizorów.** Dziś miks Atmos dostają nawet sitcomy i dokumenty; telewizor dekoduje Atmos, bo tak pisze na pudełku, ale nie ma głośników, by go zagrać.\n\nAutor nie wie, ile czasu realizatorzy poświęcają na dopasowanie miksu do zwykłych głośników, i uważa to za powód, dla którego włączamy napisy."
+    },
+    {
+     "t": "Test: Blade Runner 2049 i Wysyp żywych trupów",
+     "d": "**Atmos na prawdziwym zestawie robi wrażenie, różnica między płytą a streamingiem jest wyraźna, a Dolby kontra DTS już nie.** Na \"Blade Runnerze 2049\" (według Reddita najlepszy miks Atmos) zespół autora był zachwycony dźwiękami z sufitu, a Blu-ray brzmiał wyraźnie lepiej od streamingu.\n\nDo uczciwego porównania formatów znalazł płytę 4K \"Wysypu żywych trupów\" (Shaun of the Dead) z Atmosem po angielsku i DTS:X po niemiecku. Po kilku odsłuchach nie usłyszał różnicy, choć zastrzega, że nie jest audiofilem."
+    },
+    {
+     "t": "Reklama: Fish Audio",
+     "d": "**W środku filmu jest reklama sponsora, platformy Fish Audio do dubbingu głosem AI.** Autor klonuje swój głos (czyta cytaty z filmów, np. z \"Władcy Pierścieni\") i pokazuje niemiecki dubbing swojego filmu w modelu S2.1 Pro, reklamowanym jako darmowy przez API do końca listopada.\n\nWspomina też, że dubbingowane wersje kanału miały w miesiącu ok. 100 tys. wyświetleń."
+    }
+   ],
+   "conclusion": "Według autora Atmos jako technologia jest świetny i naprawdę immersyjny, ale tylko na Blu-rayu, z głośnikami nad głową i przy filmach, które go wykorzystują. Większość ludzi słyszy skompresowany Atmos przez soundbar albo telewizor, a etykieta Atmos na wszystkim psuje dźwięk reszcie widzów. Pyta audiofilów, czy słyszą różnicę między Dolby a DTS.",
+   "factchecks": [
+    {
+     "claim": "Cinerama w 1952 r. miała 7 ścieżek magnetycznych na osobnej taśmie",
+     "verdict": "prawda",
+     "note": "Cinerama debiutowała w 1952 r. z 7-kanałowym dźwiękiem z osobnej taśmy magnetycznej.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): system kinowy Cinerama - hasło \"Cinerama\"",
+       "https://en.wikipedia.org/wiki/Cinerama"
+      ]
+     ]
+    },
+    {
+     "claim": "Atmos przesyła do 128 obiektów dźwiękowych",
+     "verdict": "prawda",
+     "note": "Dolby Atmos pozwala przesyłać 128 ścieżek audio z metadanymi o położeniu dźwięku.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby Atmos\"",
+       "https://en.wikipedia.org/wiki/Dolby_Atmos"
+      ]
+     ]
+    },
+    {
+     "claim": "Pierwszy film z Dolby to Mechaniczna pomarańcza, sławę dały Gwiezdne wojny",
+     "verdict": "prawda",
+     "note": "Mechaniczna pomarańcza (1971) użyła redukcji szumów Dolby; Gwiezdne wojny (1977) spopularyzowały Dolby Stereo.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby Stereo\"",
+       "https://en.wikipedia.org/wiki/Dolby_Stereo"
+      ]
+     ]
+    },
+    {
+     "claim": "Dolby Digital zadebiutowało przy Powrocie Batmana z 320 kb/s",
+     "verdict": "prawda",
+     "note": "Batman Returns (1992) był pierwszym filmem z Dolby Digital; kinowe AC-3 ma 320 kb/s.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby Digital\"",
+       "https://en.wikipedia.org/wiki/Dolby_Digital"
+      ]
+     ]
+    },
+    {
+     "claim": "Kinowy DTS miał 882 kb/s na osobnych płytach CD",
+     "verdict": "prawda",
+     "note": "Kinowy DTS zapisywano na płytach CD-ROM z przepływnością 882 kb/s, synchronizowanych kodem z taśmy.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): firma DTS - hasło \"DTS, Inc.\"",
+       "https://en.wikipedia.org/wiki/DTS,_Inc."
+      ]
+     ]
+    },
+    {
+     "claim": "Płyty z TrueHD wymagały dodatkowej starej ścieżki Dolby",
+     "verdict": "prawda",
+     "note": "Każdy Blu-ray z TrueHD ma też ścieżkę zapasową Dolby Digital; DTS-HD MA ma rdzeń zgodny w jednej ścieżce.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby TrueHD\"",
+       "https://en.wikipedia.org/wiki/Dolby_TrueHD"
+      ]
+     ]
+    },
+    {
+     "claim": "DTS-HD MA do 24 Mb/s, TrueHD do 18 Mb/s",
+     "verdict": "prawda",
+     "note": "DTS-HD MA ma maks. ok. 24,5 Mb/s, Dolby TrueHD 18 Mb/s.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): \"DTS-HD Master Audio\"",
+       "https://en.wikipedia.org/wiki/DTS-HD_Master_Audio"
+      ],
+      [
+       "Wikipedia (ang.): \"Dolby TrueHD\"",
+       "https://en.wikipedia.org/wiki/Dolby_TrueHD"
+      ]
+     ]
+    },
+    {
+     "claim": "Streamingowy Atmos jest przesyłany stratnym Dolby Digital Plus",
+     "verdict": "prawda",
+     "note": "Atmos jest rozszerzeniem strumienia Dolby Digital Plus (E-AC-3), formatu stratnego.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby Digital Plus\"",
+       "https://en.wikipedia.org/wiki/Dolby_Digital_Plus"
+      ]
+     ]
+    },
+    {
+     "claim": "99% Atmosu, którego słuchają ludzie, jest fałszywy",
+     "verdict": "przesada",
+     "note": "Liczba to retoryka autora; skompresowany Atmos nadal niesie obiekty 3D, choć bez głośników sufitowych efekt słabnie.",
+     "p": null,
+     "src": [
+      [
+       "Wikipedia (ang.): \"Dolby Atmos\"",
+       "https://en.wikipedia.org/wiki/Dolby_Atmos"
+      ]
+     ]
+    }
+   ],
+   "bias": "Tytuł o \"przekręcie\" mocniejszy niż treść: sam Atmos autor chwali. Mieszanka wiedzy i anegdot z Reddita; test Dolby vs DTS to jeden odsłuch amatora.",
+   "requested_at": "2026-11-20T21:02:35+01:00"
   },
   {
    "id": "k5yf-bbHjsY",
