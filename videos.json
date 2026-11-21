@@ -1365,6 +1365,76 @@
    "bias": "Poradnik motywacyjny: anegdoty (Buffett, ceramika) i badania podane w uproszczeniu, bez źródeł; nominalne zyski z giełdy bez inflacji i ryzyka."
   },
   {
+   "id": "UHGOmRwA5-I",
+   "title_pl": "Po spotkaniu Putin-Trump-Xi: druga Jałta czy PR? (OSW)",
+   "title": "Po spotkaniu Putin-Trump-Xi Jinping.",
+   "channel": "OSW - Ośrodek Studiów Wschodnich",
+   "url": "https://www.youtube.com/watch?v=UHGOmRwA5-I",
+   "date": "2026-11-19",
+   "duration": 1418,
+   "views": 221515,
+   "section": "Pozostałe",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Polityka",
+    "Geografia"
+   ],
+   "about": "Eksperci Ośrodka Studiów Wschodnich oceniają trójstronne spotkanie Trumpa, Xi i Putina przy szczycie APEC w Chinach: dużo PR, mało konkretów.",
+   "intro": "Ośrodek Studiów Wschodnich (OSW, polski państwowy think tank od Rosji, Chin i regionu) omawia spotkanie Trumpa, Xi Jinpinga i Putina w Shenzhen przy szczycie APEC (Wspólnoty Gospodarczej Azji i Pacyfiku). W sieci i w rosyjskich mediach nazywano je \"drugą Jałtą\", czyli nawiązaniem do konferencji z 1945 r., na której trzy mocarstwa dzieliły strefy wpływów.\n\nFilm to zestaw wypowiedzi kilku ekspertów OSW (nazwisk transkrypcja nie podaje): najpierw o tym, czy analogia jałtańska ma sens, potem co faktycznie ustalono, kto co zyskał i co umknęło uwadze. Transkrypcja jest po angielsku (wersja tłumaczona); reklam brak.",
+   "points": [
+    {
+     "t": "Analogia z Jałtą nie pasuje",
+     "d": "**W 1945 r. trzy mocarstwa kontrolowały militarnie niemal cały świat, dziś nawet USA, Chiny i Rosja nie mogą same rozstrzygać spraw globalnych.** Rosja nie potrafi wygrać wojny z Ukrainą, która w tym czasie uderzała w Most Krymski i rosyjskie rafinerie; bez Ukrainy, Europy czy Iranu nic trwałego nie da się ustalić.\n\nWedług ekspertów strach przed \"Jałtą\" wynika z transakcyjnego stylu Trumpa, który rozmawia z przeciwnikami ponad głowami sojuszników, a Rosja i Chiny wykorzystują to propagandowo."
+    },
+    {
+     "t": "Góra urodziła mysz",
+     "d": "**Oficjalnym efektem było bardzo krótkie wspólne oświadczenie.** Według Kremla mówiono o reformie ONZ, ropie, Międzynarodowym Trybunale Karnym i o tym, że nie wolno dopuścić do wojny jądrowej.\n\nNa prośbę Chin nie rozmawiano o Ukrainie (Pekin woli, by wojna trwała i dzieliła Europę i USA, ale nie chce psuć relacji z Trumpem) ani o rozbrojeniu jądrowym, bo Chiny wciąż szybko rozbudowują arsenał. Dwugodzinne rozmowy Putin-Xi nie przyniosły znanych nowych umów, także w sprawie gazociągu Siła Syberii 2."
+    },
+    {
+     "t": "Kto co zyskał: głównie wizerunek",
+     "d": "**Trump po porażce republikanów w wyborach połówkowych mógł znów wystąpić jako przywódca mocarstwa, a Chiny pokazać, że najważniejsze sprawy świata rozstrzyga się u nich.** Rosja, agresor w największej wojnie w Europie od dekad, mogła przedstawić się jako współodpowiedzialna za pokój.\n\nRosyjskie media dostały wytyczne, by podkreślać historyczną wagę i nawet to, że Putin siedział po prawej stronie Xi. Putin chwalił się też ok. 10% wzrostu PKB w 3 lata, pomijając, że ostatni rok to stagnacja."
+    },
+    {
+     "t": "Mimo zgrzytów Chiny i Rosja grają razem",
+     "d": "**Media rozdmuchały to, że Xi witał Trumpa osobiście na lotnisku, a Putina nie, ale współpraca jest głęboka.** Rozmowy trwały ponad 2 godziny, przypada 30. rocznica partnerstwa strategicznego i 25. rocznica traktatu o dobrosąsiedztwie.\n\nW tym czasie rosyjskie bombowce strategiczne leciały do bazy w Da Nang w Wietnamie, naruszając przestrzeń powietrzną Japonii przy wyspach Yonaguni i strefę identyfikacji obrony powietrznej Tajwanu, co eksperci odczytują jako grę w jednej drużynie z Chinami."
+    },
+    {
+     "t": "Co umknęło: Korea Południowa i Japonia",
+     "d": "**Przy okazji szczytu Chiny umówiły się z Koreą Południową na pogłębienie inwestycji i rozszerzenie umowy o wolnym handlu, akurat gdy Seul ma spór z Waszyngtonem.** Premier Japonii Takaichi praktycznie nie została powitana na lotnisku, bo między Japonią a Chinami trwa konflikt dyplomatyczno-gospodarczy.\n\nZdaniem ekspertów te efekty w Azji Wschodniej były dla Pekinu najważniejsze."
+    }
+   ],
+   "conclusion": "OSW przekonuje, że trójstronne spotkanie było przede wszystkim widowiskiem dla propagandy, a nie nowym podziałem świata: kluczowe kwestie (Ukraina, Iran, broń jądrowa) zostały poza stołem. Realnie liczy się to, że Chiny i Rosja współpracują w Azji, a Pekin przy okazji rozgrywa sojuszników USA.",
+   "factchecks": [
+    {
+     "claim": "Na konferencji jałtańskiej w 1945 r. trzy mocarstwa ustalały powojenny ład.",
+     "verdict": "prawda",
+     "note": "Roosevelt, Churchill i Stalin spotkali się w lutym 1945 r. na Krymie i uzgodnili m.in. strefy wpływów w Europie.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): konferencja jałtańska - hasło \"Yalta Conference\"",
+       "https://en.wikipedia.org/wiki/Yalta_Conference"
+      ]
+     ]
+    },
+    {
+     "claim": "W 2026 r. przypada 25. rocznica rosyjsko-chińskiego traktatu o dobrosąsiedztwie.",
+     "verdict": "prawda",
+     "note": "Traktat o dobrosąsiedztwie, przyjaźni i współpracy podpisano w Moskwie 16 lipca 2001 r.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): traktat Rosja-Chiny - hasło \"2001 Sino-Russian Treaty of Friendship\"",
+       "https://en.wikipedia.org/wiki/2001_Sino-Russian_Treaty_of_Friendship"
+      ]
+     ]
+    }
+   ],
+   "bias": "Analiza ekspercka z perspektywy polskiej instytucji państwowej; ocena intencji Chin i Rosji to interpretacja. Temat polityczny, poza profilem strony.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
    "id": "BjlIBGd0Ghs",
    "title_pl": "Jak pokazać komuś, że nie może cię kontrolować",
    "title": "Ways to Make Someone Realize They Can't Control You",
@@ -7674,6 +7744,73 @@
    "bias": "Edukacyjny eksperyment Moulda; podziękowania dla badaczy z Manchesteru. Sponsor na końcu: Henson Shaving (maszynki)."
   },
   {
+   "id": "BCcIo2LZJb8",
+   "title_pl": "Wypalenie? Adam Savage o śnie, alkoholu i medytacji",
+   "title": "Feeling Burned Out? Do This",
+   "channel": "Adam Savage’s Tested",
+   "url": "https://www.youtube.com/watch?v=BCcIo2LZJb8",
+   "date": "2026-10-31",
+   "duration": 758,
+   "views": 809706,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Ciało i zdrowie",
+    "Psychologia",
+    "Nawyki"
+   ],
+   "about": "Adam Savage (Pogromcy mitów) opowiada, jak sen, rezygnacja z alkoholu i medytacja wyciągnęły go z wypalenia i jak budować zdrowe nawyki.",
+   "intro": "Fragment transmisji na żywo kanału Adam Savage's Tested: Adam Savage, współprowadzący Pogromców mitów (MythBusters), odpowiada widzom na pytanie, jak walczyć z wypaleniem. Mówi, że wypalenie dotyka każdego i zależy od wieku: w wieku 20 lat da się robić rzeczy, których w wieku 40 już nie.\n\nNajpierw opowiada, jak sam wypalił się pod koniec Pogromców mitów (ok. 2011-2012) i jakie trzy zmiany pomogły. Potem odpowiada na drugie pytanie, o budowanie zdrowych nawyków, i dochodzi do wniosku, że złe nawyki to zwykle próby radzenia sobie ze stresem. Na końcu jest zachęta do członkostwa w kanale.",
+   "points": [
+    {
+     "t": "Sen jako konto bankowe",
+     "d": "**Do końca 30-tki spał 6 godzin, a odkrył, że potrzebuje ok. 7,5, a może teraz i więcej.** W pierwszych latach Pogromców mitów razem z Jamiem (drugim prowadzącym) w weekendy jeździli na płatne wystąpienia, brali wszystko, bo jako wolni strzelcy nie wiedzieli, ile to potrwa.\n\nPrzyznaje, że traktuje sen jak konto: po nocy z 6 godzinami robi drzemkę, żeby wyrównać saldo. Przy okazji: początkowo brali gotówkę zamiast lotu pierwszą klasą, ale szybko uznali, że wygoda w podróży służbowej to inwestycja w zdolność do pracy, a nie luksus."
+    },
+    {
+     "t": "Prawie bez alkoholu",
+     "d": "**Po potężnym kacu w 2013 r. niemal rzucił alkohol i dziś pije może jedno piwo tygodniowo.** Wieczór z przyjaciółmi w Nowym Jorku (dwie butelki sake na trzech, kolejka dla całego baru) skończył się tym, że ledwo zdążył na samolot.\n\nZauważył, że alkohol go nie wycisza, tylko nakręca i sprawia, że więcej krzyczy."
+    },
+    {
+     "t": "Medytacja, nawet nieudolna",
+     "d": "**Praktykuje medytację vipassana (siedzenie w ciszy i skupienie na oddechu) i choć jest \"okropnym medytującym\", czerpie z niej ogromne korzyści.** Umysł nie lubi się wyłączać i podsuwa niezałatwione sprawy czy żenujące wspomnienia sprzed 20 lat.\n\nRazem sen, mniej alkoholu i medytacja według niego radykalnie podniosły mu poziom energii."
+    },
+    {
+     "t": "Złe nawyki to dawne sposoby radzenia sobie",
+     "d": "**Terapeuta uświadomił mu, że strategie radzenia sobie z konfliktem z dzieciństwa były wtedy genialne, tylko nie pasują do dorosłości.** Jako dziecko nauczył się schodzić z drogi konfliktom i wszystko dźwigać sam.\n\nPrzykład z pandemii: gdy mama mieszkała u nich 5 miesięcy, zjadł całą paczkę żelków i zrozumiał, że cukier działa na niego jak antydepresant. Dlatego zdrowe nawyki radzi budować z wyrozumiałością dla siebie, z chęci dbania o siebie i rodzinę, dzień po dniu, akceptując porażki."
+    }
+   ],
+   "conclusion": "Savage przekonuje, że z wypaleniem walczy się prozaicznie: odpowiednią ilością snu, ograniczeniem alkoholu i chwilą wyciszenia. A zmiany nawyków nie zaczyna się od walki ze sobą, tylko od zrozumienia, że złe nawyki to próby samoleczenia, i od łagodności wobec własnych potknięć.",
+   "factchecks": [
+    {
+     "claim": "Dorośli potrzebują ok. 7 godzin snu lub więcej.",
+     "verdict": "prawda",
+     "note": "CDC zaleca dorosłym w wieku 18-60 lat co najmniej 7 godzin snu na dobę.",
+     "p": 0,
+     "src": [
+      [
+       "CDC (amerykańska agencja zdrowia): ile snu potrzebujemy",
+       "https://www.cdc.gov/sleep/about/index.html"
+      ]
+     ]
+    },
+    {
+     "claim": "Niedobór snu działa jak konto, które można wyrównać drzemką.",
+     "verdict": "półprawda",
+     "note": "Dług senny istnieje, ale drzemki i odsypianie tylko częściowo znoszą skutki przewlekłego niedosypiania.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): skumulowany niedobór snu - hasło \"Sleep debt\"",
+       "https://en.wikipedia.org/wiki/Sleep_debt"
+      ]
+     ]
+    }
+   ],
+   "bias": "Osobiste doświadczenia jednej osoby w swobodnej rozmowie; rady rozsądne, ale bez danych i z pominięciem pomocy specjalistycznej przy cięższym wypaleniu.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
    "id": "zuaVFnj4SWY",
    "title_pl": "14 ułamków Conwaya, które kodują wszystkie liczby pierwsze",
    "title": "The mystery of the 14 fractions",
@@ -12430,6 +12567,77 @@
     }
    ],
    "bias": "Rzetelny, lekki materiał kulinarno-historyczny; zawiera dłuższą reklamę chipsów sponsora."
+  },
+  {
+   "id": "D9LSmEg_BcQ",
+   "title_pl": "6 największych błędów średniozaawansowanych wspinaczy (V3-V5)",
+   "title": "6 Biggest Intermediate Climber Mistakes V3-V5",
+   "channel": "Lattice Training",
+   "url": "https://www.youtube.com/watch?v=D9LSmEg_BcQ",
+   "date": "2026-09-21",
+   "duration": 706,
+   "views": 408439,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Trening",
+    "Wspinaczka",
+    "Technika"
+   ],
+   "about": "Trener Lattice Training pokazuje na ściance 3 błędy techniczne i 3 taktyczne, które trzymają wspinaczy na poziomie ok. V5.",
+   "intro": "Film nagrał zespół Lattice Training, firmy trenerskiej dla wspinaczy; prowadzący mówi, że ma za sobą 10 lat trenowania ludzi. Problem: wiele osób utyka w boulderingu (wspinaczce na niskich ścianach bez liny) na poziomie V3-V5 w amerykańskiej skali trudności i nie wie dlaczego.\n\nFilm dzieli błędy na trzy techniczne (jak się poruszasz) i trzy taktyczne (jak trenujesz), a każdy pokazuje na konkretnym problemie na ściance, najpierw źle, potem dobrze. W połowie jest krótka autoreklama: plan treningowy Lattice z 14 dniami za darmo.",
+   "points": [
+    {
+     "t": "Walka z kierunkiem chwytu",
+     "d": "**Chwyty mają kierunek, w którym się je trzyma, a wielu ciągnie każdy prosto w dół.** Gdy chwyt jest boczny (tzw. side pull), trzeba się od niego odchylić, ustawić stopy po przeciwnej stronie i trzymać rękę wyprostowaną.\n\nProwadzący przechodzi ten sam problem najpierw siłowo (\"czułem, że walczę z każdym chwytem\"), potem zgodnie z kierunkiem i jest dużo mniej zmęczony. Na przewieszeniu to jeszcze ważniejsze, bo zamiast serii podciągnięć oszczędzasz siłę."
+    },
+    {
+     "t": "Poprawianie rąk i stóp na chwytach",
+     "d": "**Chwycenie i szukanie lepszego miejsca kosztuje 4-5 sekund zamiast 1-2 na każdym chwycie.** To samo dotyczy stóp, które \"podskakują\" w poszukiwaniu dobrego stopnia.\n\nRozwiązaniem jest czytanie drogi z ziemi: ślady magnezji (odciski kciuków, skupiska kredy) i starte gumą fragmenty podpowiadają, gdzie łapać. Celowe przełożenie ręki, np. by zamiast ciągnąć zacząć się odpychać, jest w porządku."
+    },
+    {
+     "t": "Przejście problemu raz i porzucenie go",
+     "d": "**Trudny problem warto powtórzyć, aż wyjdzie dwa razy z rzędu.** Przejście \"na farta\" niczego nie utrwala; powtórka pokazała prowadzącemu, że wolniejszy ruch działa lepiej.\n\nInne sposoby to ograniczenia: wejście tylko jedną nogą (wymusza ruchy typu flagging, czyli balans wolną nogą, i pogo, czyli zamach nogą) albo eliminacja kluczowych chwytów, która zmusza do nowych pozycji."
+    },
+    {
+     "t": "Brak projektowania",
+     "d": "**Większość nie próbuje naprawdę przy swoim limicie: dwie próby i zmiana problemu albo 30 minut, z czego 28 to rozmowa.** Tzw. projektowanie, czyli długie męczenie jednego bardzo trudnego problemu, wymusza precyzję i daje bodziec siły maksymalnej.\n\nRada: minutnik na 20 minut skupionych prób i rozbijanie problemu na części, zaczynając czasem od górnych ruchów, żeby postęp motywował."
+    },
+    {
+     "t": "Unikanie słabych stron i skakanie po trendach",
+     "d": "**Gonienie za stopniami trudności w ulubionym stylu zatrzymuje rozwój.** Prowadzący sam idzie na płytę (połogą ścianę, gdzie liczy się tarcie), której nie lubi, i skupia się na jednej rzeczy na próbę, np. opuszczeniu pięt dla lepszego tarcia.\n\nOstatni błąd to podpatrywanie treningów zawodowców na YouTube i Instagramie i porzucanie ich po 2 tygodniach. Bez konsekwencji nie ma progresywnego przeciążenia."
+    }
+   ],
+   "conclusion": "Prowadzący przekonuje, że plateau przy V5 to zwykle nie brak siły, tylko marnowanie energii na ścianie i chaotyczny trening. Warto czytać drogę z ziemi, powtarzać i projektować trudne problemy, pracować nad słabościami i trzymać się jednego planu na tyle długo, by zobaczyć efekt.",
+   "factchecks": [
+    {
+     "claim": "V3-V5 to średniozaawansowany poziom w skali boulderingowej.",
+     "verdict": "prawda",
+     "note": "Skala V (Hueco) zaczyna się od V0 i sięga V17; V3-V5 to typowy poziom rekreacyjny po pierwszych latach.",
+     "p": null,
+     "src": [
+      [
+       "Wikipedia (ang.): skale trudności we wspinaczce - hasło \"Grade (bouldering)\"",
+       "https://en.wikipedia.org/wiki/Grade_(bouldering)"
+      ]
+     ]
+    },
+    {
+     "claim": "Bez stałego, stopniowo rosnącego bodźca trening nie daje postępu.",
+     "verdict": "prawda",
+     "note": "To zasada progresywnego przeciążenia, podstawa treningu siłowego i sportowego.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): zasada treningowa - hasło \"Progressive overload\"",
+       "https://en.wikipedia.org/wiki/Progressive_overload"
+      ]
+     ]
+    }
+   ],
+   "bias": "Praktyczne rady trenera, ale film jest też reklamą płatnych planów Lattice; rady oparte na doświadczeniu, bez danych.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
   },
   {
    "id": "wA4kLcKq8Nk",
@@ -17932,6 +18140,101 @@
    "bias": "Rzetelna narracja oparta na źródłach; kończy się reklamą książki autora i powieści internetowej."
   },
   {
+   "id": "BCeC6UoulbQ",
+   "title_pl": "Bawełna to twój największy błąd: ranking 14 materiałów na lato",
+   "title": "Bawełna to Twój największy błąd. RANKING 14 MATERIAŁÓW NA LATO!",
+   "channel": "Marcin Nawrocki",
+   "url": "https://www.youtube.com/watch?v=BCeC6UoulbQ",
+   "date": "2026-05-12",
+   "duration": 1117,
+   "views": 87509,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Moda",
+    "Garderoba",
+    "Nauka"
+   ],
+   "about": "Marcin Nawrocki układa ranking 14 materiałów ubraniowych na upały, od lnu (1.) po ekoskórę (14.), i wyjaśnia, czemu bawełna jest dopiero 9.",
+   "intro": "Marcin Nawrocki, polski twórca o klasycznej modzie męskiej, układa ranking materiałów pod kątem lata: jak oddychają, co robią z potem, czy się gniotą. Jego żona Aga rzuca nazwę materiału, a on ma ok. minuty, by go ocenić i umieścić na liście.\n\nRanking ma 14 pozycji podawanych w losowej kolejności; podium (kora, cupro, len) zostaje na koniec. W środku i na końcu autor promuje swoje przewodniki zakupowe (premiera letniego 2 czerwca, plus nowy przewodnik dla kobiet przygotowany z Agą).",
+   "points": [
+    {
+     "t": "Dno: ekoskóra (14.) i poliester (13.)",
+     "d": "**Ekoskóra to według autora \"ani eko, ani skóra\", tylko poliuretan na tkaninie.** W butach powoduje przegrzanie i obtarcia, nie dopasowuje się do stopy i pęka na zgięciach, często po jednym sezonie.\n\nPoliester (z ropy naftowej) nie wchłania wilgoci i blokuje jej parowanie, więc pot zostaje na skórze i po godzinie na słońcu zaczynasz brzydko pachnieć. Sens ma w kurtce przeciwdeszczowej i do 50% w eleganckich spodniach (lepiej trzyma kant)."
+    },
+    {
+     "t": "Poliamid (12.), skóra licowa (11.), acetat (10.)",
+     "d": "**Poliamid to \"lepszy syntetyk\": do 30% w ubraniu zwiększa trwałość, a w strojach kąpielowych jest podstawą, bo szybko schnie.** Cała klasyczna garderoba z poliamidu odpada.\n\nSkóra licowa (gładka) przy 30 stopniach jest \"piekarnikiem\", bo pasty i woski zatykają pory; latem lepsze loafersy niż oksfordy. Acetat to budżetowy zamiennik jedwabiu, głównie w podszewkach, który może się stopić przy prasowaniu."
+    },
+    {
+     "t": "Bawełna dopiero 9.",
+     "d": "**Bawełna działa jak gąbka: chętnie wchłania pot, ale trzyma go we włóknach zamiast odparować.** Stąd ciężka, zimna, mokra koszulka na plecach.\n\nJest OK na wieczorny spacer przy 22 stopniach, ale w pełnym słońcu przegrywa. \"Jak coś jest do wszystkiego, to jest do niczego\"."
+    },
+    {
+     "t": "Środek stawki: ramia, jedwab, zamsz, wełna, wiskoza",
+     "d": "**Ramia (8.) to egzotyczna kuzynka lnu: sztywne włókna nie kleją się do ciała i są antybakteryjne, ale jest mało dostępna.** Jedwab (7.) jest lekki i oddychający, u mężczyzn głównie w krawatach i poszetkach. Zamsz (6.) oddycha lepiej niż skóra licowa i nie obciera, ale wymaga impregnacji.\n\nWełna latem (5.)? Tak: wełna tropikalna i splot hopsak są tkane tak luźno, że widać przez nie światło, a sprężystość sprawia, że spodnie nie gniotą się po 3 godzinach siedzenia. Wiskoza, lyocell (Tencel) i modal (4.) chłoną więcej wilgoci niż bawełna i od razu ją odparowują; wiskoza się kurczy, lyocell nie."
+    },
+    {
+     "t": "Podium: kora (3.), cupro (2.), len (1.)",
+     "d": "**Len wygrywa, bo sztywne włókna odsuwają tkaninę od ciała i robią tunele powietrzne.** Jest antybakteryjny i z każdym praniem miększy; minus to gniecenie, które autor każe po prostu zaakceptować.\n\nCupro, \"wegański jedwab\" z kłaczków otaczających nasiona bawełny, oddycha jak len, jest chłodny w dotyku i nie trzyma zapachów, ale jest drogi i rzadki. Kora (seersucker) ma gofrowaną strukturę, więc nie przylega do skóry i nie wymaga prasowania; według autora nosili ją amerykańscy senatorowie przed erą klimatyzacji."
+    }
+   ],
+   "conclusion": "Autor przekonuje, że na upał liczy się nie cena, tylko to, co tkanina robi z potem i powietrzem: len, cupro i kora to najlepsze wybory, a syntetyki tylko tam, gdzie mają konkretną funkcję. Za tydzień obiecuje praktykę: sprawdzenie, czy lepsze materiały da się kupić w sieciówkach.",
+   "factchecks": [
+    {
+     "claim": "Poliester prawie nie wchłania wilgoci.",
+     "verdict": "prawda",
+     "note": "Poliester jest hydrofobowy (wchłania ok. 0,4% wilgoci), choć dobrze odprowadza pot po powierzchni włókien.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): włókno poliestrowe - hasło \"Polyester\"",
+       "https://en.wikipedia.org/wiki/Polyester"
+      ]
+     ]
+    },
+    {
+     "claim": "Cupro powstaje z resztek bawełny otaczających nasiona.",
+     "verdict": "prawda",
+     "note": "Cupro to regenerowana celuloza z linteru bawełnianego, rozpuszczana roztworem miedziowo-amoniakalnym.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): włókno miedziowe - hasło \"Cupro\"",
+       "https://en.wikipedia.org/wiki/Cupro"
+      ]
+     ]
+    },
+    {
+     "claim": "Seersucker nosili amerykańscy senatorowie, by przetrwać upały.",
+     "verdict": "prawda",
+     "note": "Popularny w USA przed erą klimatyzacji; w Senacie od 1996 r. istnieje tradycja Seersucker Thursday.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): tkanina kora - hasło \"Seersucker\"",
+       "https://en.wikipedia.org/wiki/Seersucker"
+      ]
+     ]
+    },
+    {
+     "claim": "Ekoskóra to po prostu poliuretan na tkaninie.",
+     "verdict": "półprawda",
+     "note": "Najczęściej to PU lub PVC na podkładzie tekstylnym; nazwa \"eko\" nie ma związku z ekologią.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): sztuczna skóra - hasło \"Artificial leather\"",
+       "https://en.wikipedia.org/wiki/Artificial_leather"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny przegląd właściwości, ale autor promuje swoje płatne przewodniki; kolejność w środku rankingu to jego subiektywna ocena.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
    "id": "fKuIJ_z2Y6A",
    "title_pl": "Fizyka „sztuczki z kciukiem” na wężu ogrodowym: czy wiadro napełni się szybciej?",
    "title": "The Physics Behind the Thumb Trick",
@@ -19864,6 +20167,77 @@
     }
    ],
    "bias": "Rzetelne wyjaśnienie z zastrzeżeniami autora (sam nie wie, czemu kilka wlotów pomaga). Reklama Jane Street na końcu."
+  },
+  {
+   "id": "eHcinXMvhXs",
+   "title_pl": "Marcin Nawrocki w sieciówkach na wiosnę: składy, pułapki i perełki",
+   "title": "PRZEJRZAŁEM SIECIÓWKI w Polsce - 99% to śmieci! (Prawda o składach!)",
+   "channel": "Marcin Nawrocki",
+   "url": "https://www.youtube.com/watch?v=eHcinXMvhXs",
+   "date": "2026-02-28",
+   "duration": 1627,
+   "views": 39541,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Moda",
+    "Jakość",
+    "Garderoba"
+   ],
+   "about": "Marcin Nawrocki sprawdza wiosenne kolekcje sieciówek: fałszywe OCBD, plastikowe kurtki i buty, poliester w marynarkach, kilka dobrych zakupów.",
+   "intro": "Marcin Nawrocki, twórca o klasycznej modzie męskiej, sprawdza przed swoim wiosennym przewodnikiem zakupowym (premiera 10 marca), co da się kupić w popularnych sieciówkach. Teza z początku: styl to nie kwestia portfela, ale 99% rzeczy na wieszakach to strata pieniędzy.\n\nFilm idzie po kategoriach (koszule, kurtki, trencze, marynarki, buty, polówki, spodnie), zawsze z odczytaniem metki i ze zestawieniem bubla z perełką z tego samego sklepu. W tle cały czas przewija się autoreklama przewodnika i zapowiedź sesji zdjęciowej w Monako.",
+   "points": [
+    {
+     "t": "Fałszywe OCBD i poliester w koszulach",
+     "d": "**Koszula udająca OCBD (bawełniana koszula ze splotu Oxford z kołnierzykiem na guziczki) miała zły splot, miękki kołnierzyk i połowę poliestru za 129 zł.** Na wieszaku obok wisiało prawdziwe OCBD ze 100% bawełny, 20 zł tańsze.\n\nWniosek autora: w jednym sklepie są i buble, i perełki, trzeba czytać metki i sprawdzać wykończenie (odstające nitki, szwy)."
+    },
+    {
+     "t": "Wszystko, co udaje skórę, wełnę i bawełnę",
+     "d": "**Poliester jest OK, gdy jest sobą (np. bomberka, kurtka sportowa), a zły, gdy udaje skórę, zamsz czy wełnę.** Przykłady: skórzana kurtka z wnętrzem z 78% akrylu, \"wełniana\" kurtka z 76% poliestru, torba z poliuretanu, który się świeci.\n\nTrencz ze 100% poliestru autor nazywa \"stylowym workiem na śmieci\": powinien być co najmniej w połowie z bawełny, z podszewką z wiskozy lub cupro albo bez niej. Pozytyw: płaszcz typu mac podobny do jego własnego za ok. 1/3 ceny."
+    },
+    {
+     "t": "Marynarki z 82% poliestru",
+     "d": "**Na całej ścianie marynarek nic nie nadawało się na komunię czy wesele.** Składy: 68% poliestru, 29% wiskozy; 82% poliestru i 0% wełny. Dlatego według autora mężczyźni zdejmują marynarki godzinę po rozpoczęciu imprezy.\n\nW spodniach garniturowych 50% poliestru jeszcze przejdzie (lepiej trzyma kant), w marynarce nie. Znalazł luźną bawełnianą marynarkę na co dzień w dwóch kolorach; ekspedientka przypomniała, że fastrygę z rozporka z tyłu trzeba rozciąć."
+    },
+    {
+     "t": "Buty z plastikowego odlewu",
+     "d": "**Półbuty na komunię czy wesele miały za grubą podeszwę albo były jednym plastikowym odlewem, który pęka na zgięciach.** To samo dotyczy loafersów i sneakersów: stopa w nich nie oddycha, a but nie dopasuje się do nogi.\n\nRada: zainwestuj w jedną dobrą parę ze skóry licowej lub zamszu."
+    },
+    {
+     "t": "Polówki, swetry i spodnie",
+     "d": "**W polówkach poliester nie pełni żadnej funkcji, jest tylko taniej dla producenta.** Jego ulubiona granatowa polówka z H&M (50% bawełny, 50% wiskozy) wróciła w wersji z 65% wiskozy i 35% poliamidu.\n\nPerełki: swetry z kołnierzykiem typu Johnny collar z domieszką kaszmiru za nieco ponad 100 zł, T-shirty z bawełny merceryzowanej, eleganckie dresy. Spodnie: tylko rurki albo poliester, plus oversize i joggery, które według autora nikomu nie służą."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że w sieciówkach można się ubrać z klasą, ale tylko czytając metkę i oceniając wykończenie, bo marki coraz częściej podmieniają składy na gorsze przy tym samym wyglądzie. Najwięcej pułapek widzi w rzeczach, które coś udają: skórę, wełnę, klasyczne kroje.",
+   "factchecks": [
+    {
+     "claim": "OCBD to koszula ze splotu Oxford z kołnierzykiem na guziki.",
+     "verdict": "prawda",
+     "note": "Oxford cloth button-down: koszula z tkaniny oxford (splot koszykowy) z kołnierzykiem przypinanym guziczkami.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): tkanina oxford - hasło \"Oxford (cloth)\"",
+       "https://en.wikipedia.org/wiki/Oxford_(cloth)"
+      ]
+     ]
+    },
+    {
+     "claim": "Poliester w polówkach nie daje żadnej funkcji.",
+     "verdict": "przesada",
+     "note": "Poliester przyspiesza schnięcie i zmniejsza gniecenie oraz kurczenie, choć słabiej oddycha.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): włókno poliestrowe - hasło \"Polyester\"",
+       "https://en.wikipedia.org/wiki/Polyester"
+      ]
+     ]
+    }
+   ],
+   "bias": "Konkretne przykłady z metek, ale materiał jest też reklamą płatnego przewodnika; nazwy sklepów przy przykładach zwykle pominięte.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
   },
   {
    "id": "yXj4HWZBANI",
@@ -22050,6 +22424,77 @@
    "bias": "Porady kolorystyczne według karnacji to umowne wskazówki, a deklaracja „gwarantuję” przy pewności siebie jest przesadna; sponsor bez szczegółów."
   },
   {
+   "id": "RPsZY6XS7FI",
+   "title_pl": "Marcin Nawrocki w sieciówkach zimą: plastikowe płaszcze i kilka perełek",
+   "title": "Oceniam ubrania z sieciówek NA ŻYWO! Nie uwierzycie, co sprzedają za takie pieniądze!",
+   "channel": "Marcin Nawrocki",
+   "url": "https://www.youtube.com/watch?v=RPsZY6XS7FI",
+   "date": "2025-11-18",
+   "duration": 1684,
+   "views": 68567,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Moda",
+    "Jakość",
+    "Garderoba"
+   ],
+   "about": "Marcin Nawrocki przegląda zimowe kolekcje sieciówek (kurtki, płaszcze, swetry, buty, dodatki) pod kątem składu i wskazuje nieliczne warte zakupu.",
+   "intro": "Marcin Nawrocki, polski twórca o klasycznej modzie męskiej, który sprzedaje sezonowe przewodniki zakupowe (tzw. abbooki), idzie z żoną Agą do galerii handlowej. Sprawdza Reserved, H&M, Zarę, Bytom, CCC i inne sklepy, pytając, czy da się tam kupić zimą kurtkę z naturalnym wypełnieniem, wełniany płaszcz poniżej 1000 zł czy sweter bez plastiku.\n\nFilm idzie kategoriami: kurtki, płaszcze, swetry, buty, koszule, dodatki, spodnie. Przy każdej pokazuje bubel i, jeśli znalazł, perełkę. To nagranie z listopada 2025 r. i jednocześnie zapowiedź jego zimowego przewodnika (premiera 22 listopada, pakiet z rabatem na Black Friday), czyli wpleciona autoreklama.",
+   "points": [
+    {
+     "t": "Kurtki: watolina z butelek za 2400 zł",
+     "d": "**Większość zimowych kurtek ma wypełnienie poliestrowe, które daje mało ciepła, a i tak kosztuje fortunę.** Sklepy chwalą się wypełnieniem \"z butelek\" jako zamiennikiem puchu; jedna taka kurtka kosztowała 2400 zł.\n\nWedług autora dobra proporcja to 90% puchu i 10% pierza (premium), 80/20 to super, 70/30 nadal OK. Nawet kurtki z dobrym wypełnieniem często mają krój \"worka na śmieci\" ze ściągaczem; w końcu znalazł lekką kurtkę 90/10 w dobrej cenie."
+    },
+    {
+     "t": "Płaszcze \"with wool\" z 60-90% poliestru",
+     "d": "**Etykiety \"z wełną\" czy \"premium\" niewiele znaczą, trzeba czytać skład.** Przykłady: 58% poliestru i 39% wełny; \"premium\" 60/40 z podszewką ze 100% poliestru; płaszcz z dodatkowym alarmem przeciw kradzieży i 22% wełny.\n\nNa jednym wieszaku wisiały dwa identyczne czarne płaszcze o różnym składzie: 77/23 i 90/10. Ekspedientka poleciła mu \"wełniany\", który miał tylko 50% wełny. Znalazł jednak m.in. płaszcz ze 100% wełny z porządną podszewką."
+    },
+    {
+     "t": "Swetry: akryl zamiast wełny",
+     "d": "**Ładne swetry w warkocz czy troyery (z zamkiem pod szyją) to często 40% akrylu albo mieszanka z 9% wełny.** Nawet sweter ze 100% poliestru kosztował 150 zł.\n\nPerełki: golf ze 100% wełny merino oraz sweter i longsleeve z kołnierzykiem polo z 95% wełny i 5% kaszmiru, w dobrej cenie."
+    },
+    {
+     "t": "Buty, koszule i dodatki",
+     "d": "**Buty to głównie ekoskóra, czyli poliuretan, także w środku, w którym stopa się poci.** Autor zawsze sprawdza skład i z zewnątrz, i od środka. Pochwala derby, w których przetańczył pół nocy na zjeździe rodziny bez plastrów.\n\nO koszulach: świąteczne wzory i stójki odpadają, ciemne koszule (np. promowane przez Bytom) nie pasują do marynarki na eleganckie okazje; najbardziej uniwersalna jest biała. Kaszkiet z poliestru sprawi, że głowa się spoci, a szalik w jodełkę ze 100% akrylu nazywa \"najgorszym złem\"."
+    },
+    {
+     "t": "Spodnie: \"wool look\" i oversize",
+     "d": "**Dawne oznaczenie \"wool blend\" zastąpiło \"wool look\", czyli wygląda jak wełna, ale nią nie jest.** Znalazł flanelowe spodnie w sieciówce, ale narzeka na dominację oversize i spodni cargo z wojskowymi wzorami, które według niego psują sylwetkę."
+    }
+   ],
+   "conclusion": "Autor chce nauczyć widza, by w sieciówce nie wierzył etykietom typu \"premium\" czy \"with wool\", tylko czytał skład i dotykał materiału. Perełki da się znaleźć, ale trzeba przekopać się przez masę poliestru, co jego zdaniem dowodzi, że warto kupić jego przewodnik.",
+   "factchecks": [
+    {
+     "claim": "Puch grzeje lepiej niż syntetyczne wypełnienie z poliestru.",
+     "verdict": "półprawda",
+     "note": "Puch ma najlepszy stosunek ciepła do wagi, ale syntetyk lepiej grzeje po zamoczeniu i jest tańszy.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): puch jako izolacja - hasło \"Down feather\"",
+       "https://en.wikipedia.org/wiki/Down_feather"
+      ]
+     ]
+    },
+    {
+     "claim": "Szalik ze 100% akrylu to \"najgorsze zło\".",
+     "verdict": "przesada",
+     "note": "Akryl grzeje i jest tani, ale słabiej oddycha i mechaci się; to kwestia jakości, nie szkodliwości.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): włókno akrylowe - hasło \"Acrylic fiber\"",
+       "https://en.wikipedia.org/wiki/Acrylic_fiber"
+      ]
+     ]
+    }
+   ],
+   "bias": "Konkretne składy z metek, ale film jest też reklamą płatnego przewodnika autora; oceny krojów to jego gust klasycznej mody.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
    "id": "p2QHkIsQrNI",
    "title_pl": "Roland SH-5 z 1975 r. - mały syntezator z wyjątkowymi filtrami",
    "title": "The Unique Roland SH-5 from 1975",
@@ -22135,6 +22580,145 @@
     }
    ],
    "bias": "Pełen entuzjazmu przegląd kolekcjonera; brak słabych stron poza ceną. Promocja Patreona z próbkami."
+  },
+  {
+   "id": "qk8pNOtZhaU",
+   "title_pl": "Jak schudłem 29 kg, nie próbując",
+   "title": "How I Lost 65lbs Without Really Trying",
+   "channel": "Speeed",
+   "url": "https://www.youtube.com/watch?v=qk8pNOtZhaU",
+   "date": "2025-11-13",
+   "duration": 1140,
+   "views": 2108057,
+   "section": "Sport",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Ciało i zdrowie",
+    "Odżywianie",
+    "Nawyki",
+    "Trening"
+   ],
+   "about": "Twórca kanału Speeed opisuje 6 zmian stylu życia, dzięki którym w 3 lata schudł ok. 29 kg: systemy, jedzenie, ruch, kalorie, płyny, tożsamość.",
+   "intro": "Prowadzący kanał Speeed (znany z luźnych, męskich filmów z przyjaciółmi) mówi, że w 2023 r. ważył najwięcej w życiu i bał się stanąć na wadze. Od tego czasu schudł 65 funtów, czyli ok. 29 kg, a widzowie pytają, jak to zrobił. Zaznacza, że celem nie była waga, tylko to, by przestać czuć się źle.\n\nFilm to lista 6 zmian z jego życia, z konkretnymi przykładami i osobistą historią. W środku jest wpleciona reklama sieci komórkowej Mint Mobile.",
+   "points": [
+    {
+     "t": "Systemy zamiast celów",
+     "d": "**Cel jest daleko i łatwo się zniechęcić, więc trzeba codziennie odłupywać po trochu.** Autor odwołuje się do książki Atomic Habits (Atomowe nawyki) Jamesa Cleara i jej \"doliny rozczarowania\", gdzie efekty nie nadążają za oczekiwaniami i ludzie rezygnują.\n\nNie postanowił schudnąć 29 kg, tylko zmienił wiele drobiazgów, które razem zmieniły jego wygląd i myślenie o sobie."
+    },
+    {
+     "t": "Prostsze jedzenie",
+     "d": "**Kolacja nie musi być nagrodą ani świętem.** Jego schemat: duże śniadanie z jak największą ilością białka, resztki z kolacji na lunch, \"nudna\" kolacja. Celuje w 1 g białka na funt masy ciała (ok. 2,2 g na kg), bo białko dłużej syci.\n\nPrzekąsek nie odstawił: w domu trzyma owoce, wafle ryżowe, batony, ser, a wieczorem pozwala sobie na lody jogurtowe. Taki stały schemat pozwala wrócić na tory po świętach czy pizzy."
+    },
+    {
+     "t": "Ruch codziennie",
+     "d": "**Trzy wymówki (ciężko, brak czasu, wstyd) zbija po kolei.** Zaczął od codziennych spacerów, potem z partnerką Riley zrobili program biegowy od zera do 5 km, następnie 10 km i pracę nad tempem; dziś przeszedł 4-dniową wędrówkę z plecakiem.\n\nNa brak czasu mówi: wstań wcześniej na 30 minut. Wspomina ojca, który żył w stresie i nadwadze i zmarł w wieku 47 lat. Wstyd jest naturalny, ale nie wolno się siebie wstydzić; wsparcie bliskiej osoby bardzo pomaga."
+    },
+    {
+     "t": "Kalorie i płyny",
+     "d": "**Bilans kalorii to podstawa, ale spalonych kalorii nie należy \"odjadać\".** Kalkulator w internecie podał mu podstawową przemianę materii (BMR) ok. 2200 kcal i stara się jeść tyle lub mniej; 300 kcal ze spaceru traktuje jako bonus.\n\nDrugi punkt to nie pić kalorii: alkohol, napoje, sosy, dressingi, koktajle. Po 3 godzinach wędrówki trzy piwa IPA cofają efekt. Sam rzucił alkohol i uważa, że już to dałoby ogromną różnicę, bo wcześniej pił ponad 1000 kcal wódki dziennie."
+    },
+    {
+     "t": "Zmień, za kogo się uważasz",
+     "d": "**Wymówki typu \"to nie ja, ja nie biegam\" trzymają w starym życiu.** Zdrowi ludzie robią zdrowe rzeczy, więc żeby być zdrowym, trzeba je robić.\n\nZachęca do jednej małej zmiany dziś: sprawdź swoje BMR, pobierz aplikację, idź na spacer i jutro znowu."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że nie potrzeba diety cud: wystarczą małe, stałe zmiany, które z czasem się sumują, i wsparcie bliskich. Puenta: rok minie i tak, więc lepiej, by po roku być kimś, kto o siebie dba.",
+   "factchecks": [
+    {
+     "claim": "Warto jeść 1 g białka na funt masy ciała (ok. 2,2 g/kg).",
+     "verdict": "przesada",
+     "note": "ISSN podaje 1,4-2,0 g/kg dla aktywnych; 2,2 g/kg nie szkodzi, ale nie jest konieczne.",
+     "p": 1,
+     "src": [
+      [
+       "ISSN (Międzynarodowe Towarzystwo Żywienia Sportowego): stanowisko o białku",
+       "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8"
+      ]
+     ]
+    },
+    {
+     "claim": "Przy BMR 2200 kcal można tyle jeść bez ruchu i utrzymać wagę.",
+     "verdict": "półprawda",
+     "note": "BMR to energia w spoczynku; realne dzienne zużycie jest wyższe, więc to raczej lekki deficyt.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): podstawowa przemiana materii - hasło \"Basal metabolic rate\"",
+       "https://en.wikipedia.org/wiki/Basal_metabolic_rate"
+      ]
+     ]
+    }
+   ],
+   "bias": "Historia jednej osoby, uczciwie podana jako \"co działa u mnie\"; kalorie opisuje z pamięci i sam zachęca do doczytania. Wpleciona reklama Mint Mobile.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
+   "id": "JMPC_KiBfEA",
+   "title_pl": "Przestań prać wełnę po każdym założeniu: wietrz, gol, pierz z głową",
+   "title": "Przestań prać ubrania po KAŻDYM założeniu (Zamiast tego zrób to ✔️)",
+   "channel": "Marcin Nawrocki",
+   "url": "https://www.youtube.com/watch?v=JMPC_KiBfEA",
+   "date": "2025-11-08",
+   "duration": 572,
+   "views": 67907,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Moda",
+    "Garderoba",
+    "Mity"
+   ],
+   "about": "Marcin Nawrocki tłumaczy, czemu swetry i spodnie z wełny wystarczy wietrzyć, jak usuwać plamy i mechacenie oraz jak bezpiecznie prać wełnę w pralce.",
+   "intro": "Marcin Nawrocki, polski twórca o klasycznej modzie męskiej, zaczyna od deklaracji: praktycznie nie pierze swoich ubrań i widz też nie powinien. Chodzi o wełnę każdego rodzaju (owczą, merino, kaszmir): swetry według niego wystarczy prać raz na kilka miesięcy, a spodnie raz na kilkadziesiąt założeń.\n\nKrótki poradnik w trzech krokach: wietrz zamiast prać, gol mechacenie zamiast wyrzucać, a jak już pierzesz, to według jego instrukcji. Na końcu zapisy na newsletter i zapowiedź zimowego przewodnika (premiera 22 listopada 2025 r.), czyli autoreklama.",
+   "points": [
+    {
+     "t": "Wełna jako \"samoczyszcząca się zbroja\"",
+     "d": "**Bawełna chłonie pot jak gąbka, na syntetykach bakterie \"mają imprezę\", a wełna blokuje ich rozmnażanie, więc nie śmierdzi.** Autor przypomina, że brzydko pachnie nie sam pot, tylko bakterie.\n\nPlamę czyści się punktowo i od razu, np. w restauracji: odrobina wody pod kranem, delikatne pocieranie, czysta ściereczka. Wełna wchłania brud wolniej niż bawełna, więc jest czas na reakcję. Sweter bez plamy \"nie jest brudny, tylko zmęczony\"."
+    },
+    {
+     "t": "Wietrz zamiast prać",
+     "d": "**Na co dzień wełnie wystarczy powietrze: wilgoć odparowuje, a z nią to, co zmusza do prania.** Każde pranie wyciera włókna w bębnie, więc rzadsze pranie wydłuża życie swetra.\n\nJak: szeroki wieszak albo płasko na suszarce, przy dobrej pogodzie na noc na balkonie. Wyjątek: wełniane rzeczy noszone bezpośrednio na skórze (T-shirt, polówka z merino) pierze się co 2-3 założenia."
+    },
+    {
+     "t": "Mechacenie to norma, nie wada",
+     "d": "**Mechaci się każda wełna, za 200 zł i kaszmir za 2000 zł, zwłaszcza pod pachami i na bokach.** Raz w miesiącu 5 minut golenia wystarczy, by sweter wyglądał jak nowy.\n\nGrzebień do wełny jest precyzyjny, ale wymaga wprawy (można zaciągnąć nitkę), trwa kilkanaście minut i słabo zbiera drobny meszek. Lepsza jest golarka do ubrań, ale nie za 20 zł, tylko np. Philips za ok. 60 zł; prowadzić ją lekko, kolistymi ruchami, bez nacisku."
+    },
+    {
+     "t": "Jak prać wełnę, gdy już trzeba",
+     "d": "**Autor pierze swetry wełniane i kaszmirowe w pralce: na lewej stronie, ze środkiem do wełny, bez płynu do płukania, w programie wełna lub pranie ręczne, w zimnej wodzie (albo 20°C) i bez wirowania.** Płyn do płukania według niego oblepia włókna i zabija oddychalność.\n\nPotem delikatne wyciskanie bez wykręcania, zwinięcie w ręcznik i suszenie na płasko na suchym ręczniku przez ok. 2 dni. Wyjątek: wełniane spodnie flanelowe tylko do pralni chemicznej."
+    }
+   ],
+   "conclusion": "Trzy zasady autora: nie pierz, tylko wietrz; nie wyrzucaj, tylko gol; a jeśli musisz prać, to zimna woda, płyn do wełny, zero wirowania i suszenie na płasko. Dzięki temu wełniane rzeczy mają służyć latami.",
+   "factchecks": [
+    {
+     "claim": "Wełna hamuje powstawanie nieprzyjemnego zapachu i nie wymaga częstego prania.",
+     "verdict": "półprawda",
+     "note": "Wełna dobrze wiąże wilgoć i wolniej łapie zapach niż syntetyki, ale nie jest w pełni antybakteryjna.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): wełna i jej właściwości - hasło \"Wool\"",
+       "https://en.wikipedia.org/wiki/Wool"
+      ]
+     ]
+    },
+    {
+     "claim": "Mechacenie dotyczy każdej wełny i nie świadczy o złej jakości.",
+     "verdict": "półprawda",
+     "note": "Mechaci się każda dzianina z krótkich włókien; dłuższe włókna i ciaśniejszy splot mechacą się jednak mniej.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): mechacenie tkanin - hasło \"Pill (textile)\"",
+       "https://en.wikipedia.org/wiki/Pill_(textile)"
+      ]
+     ]
+    }
+   ],
+   "bias": "Praktyczne rady, część (wełna \"odpycha brud\", sweter pachnie rano świeżością) podana bardziej kategorycznie niż to wynika z badań; autoreklama.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
   },
   {
    "id": "4-eqMGKNS4E",
@@ -22962,6 +23546,81 @@
    "bias": "Praktyczny materiał od krawca z własną pracownią, więc kilka razy sugeruje, że szycie na miarę jest lepsze od konfekcji. Liczba 50% bez źródła."
   },
   {
+   "id": "AAdGykDaRMA",
+   "title_pl": "Jak prać, żeby nie niszczyć ubrań: poradnik Dandycore",
+   "title": "Nie niszcz ubrań w pralce i oszczędź tysiące złotych! Pranie (nie tylko) dla mężczyzn | Dandycore",
+   "channel": "Dandycore",
+   "url": "https://www.youtube.com/watch?v=AAdGykDaRMA",
+   "date": "2025-09-18",
+   "duration": 1080,
+   "views": 51990,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Moda",
+    "Garderoba",
+    "Mity"
+   ],
+   "about": "Dawid z Dandycore tłumaczy pranie od podstaw: sortowanie, symbole na metkach, temperatury, tryb wełny, dozowanie środka, płyn do płukania i suszenie.",
+   "intro": "Dawid z polskiego kanału Dandycore (o modzie męskiej; prowadzi też sklep vintage, w którym pierze setki swetrów) mówi, że większość mężczyzn traktuje pralkę jak magiczną skrzynkę. Tymczasem różnica między dobrym a złym praniem to koszulka, która wygląda świeżo latami, albo taka, która po 3 miesiącach nadaje się na szmatę.\n\nTo kompleksowy poradnik po kolei: sortowanie, częstotliwość, symbole na metkach, wełna, detergent, płyn do płukania, programy, suszenie. W środku jest autoreklama książek z serii Męska szafa i wzmianka o sklepie vintage.",
+   "points": [
+    {
+     "t": "Sortuj kolory i materiały, pierz na lewej stronie",
+     "d": "**Ciemne, kolorowe i białe rzeczy pierze się osobno, każde ze swoim środkiem; w razie wątpliwości wrzuć rzecz do ciemniejszej grupy.** Nowe dżinsy w pierwszych praniach farbują, więc lepiej prać je osobno.\n\nWszystko wywracaj na lewą stronę: chroni nadruki i kolor, a przy suszeniu też ma znaczenie."
+    },
+    {
+     "t": "Jak często prać",
+     "d": "**Po każdym założeniu pierze się bieliznę, T-shirty i koszule.** Przy koszulach brud na kołnierzyku i mankietach utrwala się z kolejnymi założeniami; radą jest natarcie ich mydłem galasowym przed praniem.\n\nSwetry, bluzy, kurtki i spodnie można prać rzadziej, zależnie od tkaniny: beżowa bawełna brudzi się szybciej niż ciemny denim."
+    },
+    {
+     "t": "Symbole na metkach i temperatura",
+     "d": "**Zasada: najniższa temperatura, która skutecznie dopierze, zwykle 30-40°C; 60°C i więcej tylko dla bielizny, ręczników i pościeli.** Jedna kreska pod miską to cykl delikatny (np. wełna), dwie to bardzo delikatny (jedwab), dłoń w misce to pranie ręczne.\n\nTrójkąt oznacza, że wolno wybielać; przekreślony dwiema liniami tylko środkiem bez chloru (zwykle nadtlenek wodoru), czarny przekreślony zabrania. Okrąg to pranie chemiczne, które autor radzi stosować tylko w ostateczności."
+    },
+    {
+     "t": "Swetry do pralki, w trybie wełny",
+     "d": "**Napis \"tylko pranie ręczne\" na swetrach to według autora asekuracja producenta przed reklamacjami.** Nowoczesne pralki mają tryb wełny i trzeba z niego korzystać, najlepiej ze środkiem do wełny.\n\nKurczenie się swetrów autor przypisuje nie obrotom, tylko różnicy temperatur między praniem (30-40°C) a dużo zimniejszym płukaniem. Tryb wełny trzyma stałą temperaturę, ma najwolniejsze wirowanie i delikatniejsze ruchy bębna."
+    },
+    {
+     "t": "Mniej detergentu, zero płynu do płukania",
+     "d": "**Nadmiar środka się nie wypłukuje: ubrania sztywnieją, kleją się, przyciągają brud, a biel żółknie na słońcu.** Może też podrażniać skórę. Średnio wystarcza 50-100 g na pełny bęben. Autor woli płyn: proszek się zbryla, a kapsułki potrafią się nie rozpuścić.\n\nPłyn do płukania według niego pokrywa włókna warstwą, przez co słabiej chłoną wodę i odprowadzają wilgoć, a zapachy mogą uczulać. Zamiennik: ocet albo nic."
+    },
+    {
+     "t": "Programy, wirowanie i suszenie",
+     "d": "**Na co dzień program do bawełny lub ECO, maks. 40°C; intensywny tylko do naprawdę brudnych rzeczy.** Za radą emerytowanego fachowca od pralek autor nie przekracza 800 obrotów i nie upycha bębna do pełna, po tym jak pralka \"wyskoczyła\" mu z szafy.\n\nSuszarka bębnowa skurczy wełnę, jedwab czy wiskozę. Na suszarce wolnostojącej: z dala od słońca, na lewej stronie, luźno przez dwa pręty (schnie szybciej, bez stęchlizny), swetry na płasko."
+    }
+   ],
+   "conclusion": "Autor przekonuje, że kilka prostych nawyków, czyli sortowanie, niska temperatura, tryb wełny, mniej detergentu i właściwe suszenie, wydłuża życie ubrań o lata i oszczędza realne pieniądze. Najważniejsze: przestać traktować pranie jak jeden przycisk na wszystko.",
+   "factchecks": [
+    {
+     "claim": "Swetry kurczą się przez różnicę temperatur, a nie przez obroty.",
+     "verdict": "półprawda",
+     "note": "Wełna filcuje się przez połączenie wilgoci, ciepła i tarcia; szok termiczny pomaga, ale mechanika jest kluczowa.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): filcowanie wełny - hasło \"Felt\"",
+       "https://en.wikipedia.org/wiki/Felt"
+      ]
+     ]
+    },
+    {
+     "claim": "Płyn do płukania zmniejsza chłonność tkanin.",
+     "verdict": "prawda",
+     "note": "Związki kationowe w płynie pokrywają włókna; ręczniki i odzież sportowa słabiej wtedy chłoną wodę.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): płyn zmiękczający - hasło \"Fabric softener\"",
+       "https://en.wikipedia.org/wiki/Fabric_softener"
+      ]
+     ]
+    }
+   ],
+   "bias": "Praktyczny poradnik, ale część tez (pranie ręczne to asekuracja, przyczyna kurczenia) podana kategorycznie; autoreklama książek i sklepu.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
+  },
+  {
    "id": "U1zCyaQc91g",
    "title_pl": "Jak zbudowałem najbardziej naukowy gym na świecie",
    "title": "I Built The World's Most Scientific Gym",
@@ -23372,6 +24031,73 @@
     }
    ],
    "bias": "Rzetelny, zwięzły przegląd z ostrożnymi wnioskami. Reklama sponsora zawiera polityczne cytaty niezwiązane z tematem."
+  },
+  {
+   "id": "0epdDx_RIv0",
+   "title_pl": "Wyznania pracownika fast foodu",
+   "title": "Confessions of a Fast Food Employee",
+   "channel": "SagaTheYoungin",
+   "url": "https://www.youtube.com/watch?v=0epdDx_RIv0",
+   "date": "2025-07-19",
+   "duration": 1192,
+   "views": 3948693,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-21",
+   "tags": [
+    "Kuchnia",
+    "Ciało i zdrowie",
+    "Praca"
+   ],
+   "about": "Były pracownik sieci z kurczakiem opowiada trzy historie z zaplecza: zgniły kurczak, herbata z wybielaczem i chemia z frytownicy.",
+   "intro": "SagaTheYoungin, youtuber, który jako nastolatek pracował w amerykańskiej sieci fast food z kurczakiem, opowiada, co działo się na zapleczu, czego klient nigdy nie widzi. Tłem wszystkiego jest obsesja sieci na punkcie czasu obsługi: zamówienie miało trafić do klienta w 2-3 minuty, a ekran z licznikiem przy okienku drive-thru zmieniał kolor z zielonego na żółty po 3 minutach i na czerwony po 4.\n\nFilm to trzy anegdoty ułożone od najmniej do najbardziej groźnej, opowiadane z dużą dawką ironii. Wszystkie prowadzą do jednego wniosku: pogoń za szybkością i strach przed kierownikiem kończyły się łamaniem zasad higieny. W transkrypcji nie ma wplecionej reklamy.",
+   "points": [
+    {
+     "t": "Kurczak z kosza na odpadki",
+     "d": "**Żeby zbić czas obsługi, kolega wyjął stary kawałek kurczaka z kosza na odpadki.** Kuchnia miała dwa kubły na jedzenie, które leżało za długo (kurczak i frytki), bo po nagłym końcu fali klientów zostawały góry rozmiękłego jedzenia.\n\nKlient zamówił zestaw z trzema stripsami, a w podgrzewaczu były dwa, świeża partia za 3 minuty, a auto czekało już 2,5 minuty. Pracownik schował zepsuty kawałek pod dwa świeże i przykrył tostem; wynik: 3 minuty 18 sekund. Autor ironicznie wylicza, że \"wszyscy wygrali\", bo nikt nie oberwał od kierownika."
+    },
+    {
+     "t": "Niedosmażone mięso dla szybkości",
+     "d": "**Bywało też odwrotnie: kurczaka wyjmowano niedosmażonego, żeby był szybciej.** Pracownicy rozrywali kawałki i pytali się nawzajem, czy \"nie jest aż tak różowy\".\n\nAutor zauważa paradoks: pośpiech miał dać klientowi najlepsze doświadczenie, a często dawał najgorsze. Dlatego dziś woli, gdy jego zamówienie w fast foodzie trwa kilka minut dłużej."
+    },
+    {
+     "t": "Mrożona herbata z wybielaczem",
+     "d": "**Kasjerka nalewała klientom herbatę z dystrybutora, który właśnie namoczono w wybielaczu.** Przed zamknięciem zlewano resztki herbaty ze wszystkich dystrybutorów do jednego wiadra (ok. 19 l), żeby zmywak mógł zacząć mycie wcześniej.\n\nZmęczona nabieraniem herbaty kubkiem kasjerka wzięła jeden dystrybutor ze zmywaka i wlała do niego wiadro. Nie wiedziała, że zmywający spryskał wnętrza czystym wybielaczem chlorowym; po 10 minutach piana opadła i nie było nic widać. Przez ok. 10 minut serwowano taką herbatę."
+    },
+    {
+     "t": "Kurczak z oleju z resztkami środka czyszczącego",
+     "d": "**Najgorsze: kierownik kazał wydać całą partię kurczaka smażoną w oleju skażonym chemią do frytownic.** Frytownice czyszczono co tydzień wrzątkiem z silnie toksycznym proszkiem, a potem trzeba było je bardzo dokładnie wypłukać wężem, bo resztki środka powodują, że olej zaczyna się pienić.\n\nPewnego dnia, w opóźnieniu i przed falą lunchu, olej po czyszczeniu zaczął się pienić aż po brzegi. Asystent kierownika, którego autor nazywa Jim, przełożył kosze do sąsiedniej frytownicy, dosmażył i sam rozdał całą partię klientom, przy okazji zanieczyszczając drugi olej."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że gdy firma rozlicza ludzi głównie z czasu obsługi, a za spóźnienie grozi kara (np. \"dożywotni zmywak\"), pracownicy wybierają skróty kosztem zdrowia klientów. Puenta: szybko podane jedzenie w fast foodzie nie powinno cieszyć, tylko budzić podejrzenia.",
+   "factchecks": [
+    {
+     "claim": "Mieszanie wybielacza z napojem jest groźne dla zdrowia.",
+     "verdict": "prawda",
+     "note": "Podchloryn sodu (wybielacz) po połknięciu podrażnia i może uszkodzić przewód pokarmowy.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): związek w wybielaczu - hasło \"Sodium hypochlorite\"",
+       "https://en.wikipedia.org/wiki/Sodium_hypochlorite"
+      ]
+     ]
+    },
+    {
+     "claim": "Niedosmażony kurczak bywa źródłem zatrucia pokarmowego.",
+     "verdict": "prawda",
+     "note": "Surowy drób często zawiera Campylobacter i Salmonellę; CDC zaleca 74°C wewnątrz mięsa.",
+     "p": 1,
+     "src": [
+      [
+       "CDC (amerykańska agencja zdrowia): kurczak i zatrucia pokarmowe",
+       "https://www.cdc.gov/food-safety/foods/chicken.html"
+      ]
+     ]
+    }
+   ],
+   "bias": "Anegdoty z jednego lokalu, opowiadane po latach i z przesadą dla efektu komicznego; nie da się ich sprawdzić ani uogólnić na całą branżę.",
+   "requested_at": "2026-11-21T20:57:00+01:00"
   },
   {
    "id": "T47s4L1Wje4",
