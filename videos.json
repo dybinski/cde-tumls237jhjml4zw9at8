@@ -255,6 +255,118 @@
    "bias": "Poradnik bez źródeł, efekty psychologiczne podane jako pewne mechanizmy, choć część słabo się replikuje. Pomija ryzyko, że niektóre sztuczki mogą wyjść niezręcznie."
   },
   {
+   "id": "YFLJDsQBeDY",
+   "title_pl": "Przeczytałem \"wszystkie\" książki o samorozwoju: pięć reguł-esencji",
+   "title": "Przeczytałem \"wszystkie\" książki o SAMOROZWOJU",
+   "channel": "Mosak Marcin",
+   "url": "https://www.youtube.com/watch?v=YFLJDsQBeDY",
+   "date": "2026-11-22",
+   "duration": 1100,
+   "views": 813,
+   "section": "Ciekawostki",
+   "transcript": "youtube",
+   "added": "2026-11-22",
+   "tags": [
+    "Psychologia",
+    "Samorozwój",
+    "Książki",
+    "Technika"
+   ],
+   "about": "Marcin Mosak żegna się z książkami o samorozwoju: pięć nadrzędnych reguł z 37 lektur i aplikacja z jego 1661 cytatami zbudowana z AI.",
+   "intro": "Marcin Mosak (polski twórca, który całe życie pracuje kreatywnie) przez lata czytał poradniki o samorozwoju i według Kindla przeczytał ich 37. Uważa, że zasady w tym gatunku są ponadczasowe, a nowe książki tylko \"odgrzewają kotleta\", więc postanawia się z nim pożegnać. Teraz woli biografie i historie konkretnych ludzi.\n\nFilm ma dwa wątki. Główny: autor dzieli swoje ulubione książki na pięć kategorii i z każdej wyciąga jedną \"regułę-esencję\", która rządzi pozostałymi. Poboczny: pokazuje Quote Scraber, swoją pierwszą aplikację, która na dowolne życiowe pytanie dobiera cytaty z jego notatek, i opowiada, jak zbudował ją z pomocą AI bez umiejętności programowania.",
+   "points": [
+    {
+     "t": "System czytania i 1661 cytatów",
+     "d": "**Autor czyta na Kindlu, zaznacza cytaty i przepisuje je ręcznie do notatników.** Książki, które naprawdę mu się spodobają, kupuje potem w wersji papierowej, żeby do nich wracać. Notatniki prowadzi od 2018 roku.\n\nTłumaczy, że bez spisywania wszystko zapomina, choć w trakcie lektury książka wydaje mu się bardzo wartościowa. Wszystkie notatki zdigitalizował i powstała przeszukiwalna baza 1661 cytatów."
+    },
+    {
+     "t": "Twórczość: nie pracuj dla owoców",
+     "d": "**Pierwsza reguła pochodzi z Bhagawadgity (hinduistycznej świętej księgi): \"Niech owoce działania nie będą twoją motywacją\".** Według autora, gdy tworzymy dla pieniędzy, zasięgów czy pochwał, tracimy kontakt z tym, co robimy, i stajemy się zakładnikami cudzych ocen.\n\nNa ironię największe \"owoce\" zbiera się, tworząc z wewnętrznej motywacji, bo ludzie wyczuwają prawdziwą pasję. Podobną myśl widzi u Ricka Rubina (producenta muzycznego), który otwiera książkę cytatem z Roberta Henriego, a Steven Pressfield w jego \"biblii pracy\" odwołuje się wprost do Bhagawadgity."
+    },
+    {
+     "t": "Biznes i sukces: świat zbudowali zwykli ludzie",
+     "d": "**Esencją książek o działaniu jest myśl Steve'a Jobsa: wszystko wokół, co nazywasz życiem, stworzyli ludzie nie mądrzejsi od ciebie, więc możesz to zmieniać.** Poradniki nie dają gotowego pomysłu na biznes, tylko mówią o nastawieniu: zacząć, uczyć się na błędach, nie poddawać się.\n\nAutor zauważa, że łatwiej wymyślać czarne scenariusze, bo opierają się na obecnym świecie, a nowy projekt to skok w nieznaną przyszłość, dlatego optymizm jest \"bardziej kreatywny\". Aplikacja podsuwa tu definicję sukcesu jako spokoju umysłu z wiedzy, że dało się z siebie wszystko."
+    },
+    {
+     "t": "Relacje: patrz oczami drugiego człowieka",
+     "d": "**Dla relacji (przyjaźń, miłość, małżeństwo, rodzicielstwo) autor wybiera złotą regułę: czyń innym, co chcesz, by tobie czynili.** Przerabia ją na \"patrz oczami drugiego człowieka\", bo zawsze znajdzie się ktoś, kto sam chce być traktowany źle. Chodzi o empatię: traktuj kogoś tak, jak chciałbyś być traktowany na jego miejscu.\n\nPrzykład z notatek, który według autora zmienił mu życie w wieku 20-21 lat: w dwa miesiące zdobędziesz więcej przyjaciół, interesując się innymi, niż w dwa lata, próbując zainteresować ich sobą."
+    },
+    {
+     "t": "Skończoność: przyjmij ją i odpowiadaj na to, o co pyta życie",
+     "d": "**Nie zrobimy wszystkiego, więc trzeba wybierać, a wybór nadaje rzeczom sens.** Kto trzyma otwarte wszystkie ścieżki, kończy bez żadnej wartościowej. Autor przypomina, że \"decydować\" pochodzi od łacińskiego decidere, czyli \"odciąć\", tak jak \"precyzja\" czy \"pestycyd\".\n\nDruga część reguły: gdy ścieżki są wybrane, życie dzień po dniu samo podpowiada, co robić. Zbytnie wybieganie w przyszłość to według niego martwienie się, a rozpamiętywanie przeszłości to użalanie się nad sobą; lepiej działać tu i teraz."
+    },
+    {
+     "t": "Mądrość duchowa: uwaga tworzy rzeczywistość",
+     "d": "**Ostatnia reguła brzmi: to, na czym skupiasz uwagę, staje się twoją rzeczywistością.** Autor pyta, co jest walutą życia. Pieniądze kupią wiele, ale nie czas, a czas jedni wykorzystują, a inni marnują.\n\nDlatego za najgłębszą walutę uznaje uwagę: podsumowując życie, okaże się, że było nim to, na czym się skupialiśmy. Zaznacza, że to jego osobiste zdanie."
+    },
+    {
+     "t": "Jak powstała aplikacja z AI",
+     "d": "**Autor nie jest programistą, a mimo to zbudował działającą aplikację z pomocą modelu Claude.** Zdjęcia notatek AI zamieniło w plik z cytatami, a autor sam narysował logo, animacje i projekt w Photoshopie, dodał własny font z odręcznego pisma i opisał zwykłym językiem, czego chce. Zaznacza, że darmowy model raczej tego nie zrobi.\n\nWidzi w tym trzy korzyści AI: tłumaczy hermetyczny żargon, otwiera kod dla zwykłych ludzi i odwala żmudną robotę. Aplikacja ma suwak tłumaczenia cytatów na polski i nie daje instrukcji jak czat, tylko cytaty do samodzielnej interpretacji."
+    }
+   ],
+   "conclusion": "Autor uważa, że te pięć reguł wystarczy zapamiętać, ale i tak zachęca do czytania, bo najcenniejsze są własne myśli, które rodzą się przy lekturze, i do prowadzenia własnego zbioru cytatów. Aplikację udostępnia za darmo, ale tylko darmowym subskrybentom Patreona, bo model językowy kosztuje; na koniec reklamuje też płatnego Patreona (ponad 200 osób, cel: 1000 prawdziwych fanów).",
+   "factchecks": [
+    {
+     "claim": "Bhagawadgitę spisano ponad 2000 lat temu",
+     "verdict": "prawda",
+     "note": "Badacze datują jej powstanie zwykle na okres od V do II wieku p.n.e.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): święta księga hinduizmu - hasło \"Bhagavad Gita\"",
+       "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+      ],
+      [
+       "Wikipedia (pl.): hasło \"Bhagawadgita\"",
+       "https://pl.wikipedia.org/wiki/Bhagawadgita"
+      ]
+     ]
+    },
+    {
+     "claim": "Jobs mówił, że wszystko wokół stworzyli ludzie nie mądrzejsi od ciebie",
+     "verdict": "prawda",
+     "note": "To fragment wywiadu Jobsa dla Santa Clara Valley Historical Association z 1994 roku.",
+     "p": 2,
+     "src": [
+      [
+       "Wikiquote (ang.): cytaty - hasło \"Steve Jobs\"",
+       "https://en.wikiquote.org/wiki/Steve_Jobs"
+      ]
+     ]
+    },
+    {
+     "claim": "W dwa miesiące zdobędziesz więcej przyjaciół, interesując się innymi, niż w dwa lata",
+     "verdict": "prawda",
+     "note": "To znany cytat Dale'a Carnegiego z poradnika \"Jak zdobyć przyjaciół i zjednać sobie ludzi\" (1936).",
+     "p": 3,
+     "src": [
+      [
+       "Wikiquote (ang.): cytaty - hasło \"Dale Carnegie\"",
+       "https://en.wikiquote.org/wiki/Dale_Carnegie"
+      ],
+      [
+       "Wikipedia (ang.): poradnik - hasło \"How to Win Friends and Influence People\"",
+       "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"
+      ]
+     ]
+    },
+    {
+     "claim": "\"Decydować\" pochodzi od łacińskiego decidere, czyli odciąć",
+     "verdict": "prawda",
+     "note": "Decidere to de- (od) + caedere (ciąć); ten sam rdzeń mają \"precyzja\" i \"pestycyd\".",
+     "p": 4,
+     "src": [
+      [
+       "Wikisłownik (ang.): łacińskie hasło \"decido\"",
+       "https://en.wiktionary.org/wiki/decido"
+      ]
+     ]
+    }
+   ],
+   "bias": "Osobiste wybory autora, bez badań. Ponad jedna trzecia filmu promuje jego aplikację i Patreona; aplikacja jest dostępna tylko po zapisaniu się do jego Patreona.",
+   "requested_at": "2026-11-22T20:58:11+01:00"
+  },
+  {
    "id": "C22_yJbzXV0",
    "title_pl": "Subtelne oznaki, że ktoś cię lubi, które wyglądają na nic",
    "title": "Subtle Signs Someone Likes You That Look Like Nothing",
