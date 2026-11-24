@@ -107,6 +107,168 @@
    "bias": "Spekulatywne hipotezy brzmią w filmie pewniej, niż są; obrazowe metafory upraszczają fizykę, choć autor zaznacza niesprawdzalność."
   },
   {
+   "id": "1K7cViAV1m0",
+   "title_pl": "Nudne rozwiązania, które prawie uniemożliwiają złe decyzje",
+   "title": "Boring Things That Make Bad Decisions Almost Impossible",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=1K7cViAV1m0",
+   "date": "2026-11-24",
+   "duration": 647,
+   "views": 1296,
+   "section": "Chill Dude Explains",
+   "transcript": "whisper",
+   "added": "2026-11-24",
+   "tags": [
+    "Psychologia",
+    "Technika",
+    "Nawyki"
+   ],
+   "about": "Dziesięć niepozornych mechanizmów (wyłącznik czuwakowy, checklista chirurgiczna, zakrętka dla dzieci, pre-mortem), chroniące przed własnymi błędami.",
+   "intro": "Chill Dude Explains, kanał z lekkimi filmami objaśniającymi, przygląda się rzeczom tak zwyczajnym, że nikt o nich nie myśli: przyciskom, dziurkom, nakrętkom i okienkom w programach. Wspólne pytanie brzmi: jak zaprojektować świat tak, żeby człowiek zmęczony, rozproszony albo zbyt pewny siebie nie mógł łatwo zrobić czegoś głupiego lub groźnego.\n\nFilm to ranking od 10 do 1, w którym fizyczne wynalazki (pistolet na stacji paliw, tryskacz, trzeci bolec wtyczki) przeplatają się z psychologicznymi (lista kontrolna, opcja domyślna, pre-mortem). Zmierza do wniosku, że najlepsze zabezpieczenia nie liczą na dobrą decyzję człowieka, tylko działają same albo wymuszają chwilę namysłu.",
+   "points": [
+    {
+     "t": "Wyłącznik czuwakowy: ruch tylko, dopóki trzymasz",
+     "d": "**Maszyna zatrzymuje się, gdy operator przestaje aktywnie potwierdzać, że wszystko jest w porządku.** W XIX wieku maszyniści mdleli lub zasypiali przy sterach, a pociąg pędził dalej bez kierowcy; inżynierowie dodali przycisk, który trzeba trzymać przez całą jazdę (ang. dead man's switch, przycisk umarlaka).\n\nTo samo działa w kosiarce (puszczasz pałąk, noże stają) i w skuterze wodnym, gdzie linka przypięta do nadgarstka wyłącza silnik po upadku. Według autora zasada brzmi: stanem domyślnym jest postój, a dalszy ruch trzeba sobie stale wypracowywać."
+    },
+    {
+     "t": "Checklista chirurgiczna Gawande'a",
+     "d": "**Kartka z 19 banalnymi pytaniami obniżyła śmiertelność po operacjach o 47%, a powikłania o 36%.** W 2008 roku chirurg Atul Gawande wprowadził w szpitalach z ośmiu krajów listę typu: czy pacjent ma alergie, czy wszyscy wiedzą, jaki to zabieg, czy sprzęt jest sterylny.\n\nLekarze to wiedzieli, ale zapominali, bo byli zajęci, zmęczeni i pewni siebie; rutyna przełącza mózg na autopilota. Przed wdrożeniem chirurdzy uważali listę za zbędną, a potem 93% chciało, by użyto jej przy ich własnej operacji. Piloci mają checklisty od 1935 roku, gdy prototyp Boeinga rozbił się, bo pilot zapomniał zwolnić blokadę sterów."
+    },
+    {
+     "t": "Automatyczne odcięcie w dystrybutorze paliwa",
+     "d": "**Pistolet na stacji sam przestaje lać paliwo, gdy bak jest pełny, więc człowiek nie musi pilnować wlewu.** Przy końcówce jest mała dziurka połączona z czujnikiem: dopóki paliwo płynie, przez otwór zasysane jest powietrze.\n\nGdy benzyna zakryje dziurkę, ssanie znika i zawór zamyka się w ułamku sekundy. Według autora główną przyczyną rozlań nie był zepsuty sprzęt, tylko ludzie, którzy na sekundę zerkali w telefon."
+    },
+    {
+     "t": "Otwory odwadniające w murach i oknach",
+     "d": "**Małe otwory u podstawy betonowych murów oporowych wypuszczają wodę, zanim jej ciśnienie przewróci ścianę.** Deszcz wsiąka w grunt za murem, woda nie ma ujścia i napiera coraz mocniej; bez otworów mur może runąć nagle, zabierając drogę lub budynek.\n\nTa sama zasada działa w ramach okien zespolonych: szczeliny na dole wypuszczają wodę, która inaczej zamarzałaby, rozszerzała się i niszczyła uszczelkę. Autor wycenia taką naprawę na ok. 400 dolarów za wymianę okna."
+    },
+    {
+     "t": "Zakrętka zabezpieczająca przed dziećmi",
+     "d": "**Nakrętka typu „wciśnij i przekręć” wymaga dwóch ruchów naraz, czego małe dziecko nie potrafi skoordynować.** Według autora w latach 60. przypadkowe zatrucia lekami zabijały w USA tysiące dzieci rocznie.\n\nW 1970 roku USA przyjęły ustawę Poison Prevention Packaging Act (o opakowaniach chroniących przed zatruciem) i takie zakrętki stały się obowiązkowe; autor twierdzi, że zgony spadły potem o ponad 90%. Irytacja dorosłego przy otwieraniu to właśnie mechanizm bezpieczeństwa: krótka pauza, która dla malucha jest nie do pokonania."
+    },
+    {
+     "t": "Opcja domyślna i dawstwo narządów",
+     "d": "**Większość ludzi zostaje przy ustawieniu domyślnym, więc ten, kto je wybiera, steruje ich zachowaniem.** Autor zestawia Austrię (99% dawców narządów) z Niemcami (12%): w Austrii dawcą jest się domyślnie i trzeba się wypisać, w Niemczech trzeba się zapisać.\n\nTo efekt status quo (skłonność do pozostawania przy obecnym stanie): zmiana wymaga wysiłku. Autor przestrzega, że jeśli sam nie ustawisz swoich domyślnych opcji, zrobią to projektanci aplikacji i firmy spożywcze; domyślne powiadomienia w telefonie mają cię trzymać przy ekranie, a nie pomagać się skupić."
+    },
+    {
+     "t": "Okienko „Czy na pewno?”",
+     "d": "**Pytanie o potwierdzenie spowalnia o ok. 2 sekundy i zamienia automatyczny odruch w świadomą decyzję.** Autor powołuje się na badanie z Harvardu, według którego mózg działa na autopilocie przez ok. 47% dnia; złe decyzje podejmują nie głupi, ale szybcy ludzie.\n\nNiektórzy projektanci zamiast „tak” i „nie” piszą na przyciskach np. „usuń na zawsze” i „zachowaj”, żeby nie dało się kliknąć bez przeczytania. Puenta autora: mądrość mieszka w przerwie między impulsem a działaniem."
+    },
+    {
+     "t": "Tryskacz przeciwpożarowy",
+     "d": "**Każda głowica tryskacza działa osobno i uruchamia się sama, gdy pęknie szklana ampułka z płynem rozszerzającym się w cieple.** Dzieje się to przy ok. 68°C; włącza się tylko głowica nad ogniem, więc filmowe sceny, w których cały budynek zalewa woda, są według autora zmyślone.\n\nTryskacz nie potrzebuje prądu, baterii ani aplikacji, tylko fizyki. Autor podaje, że w budynkach z tryskaczami szansa śmierci w pożarze jest o 87% niższa."
+    },
+    {
+     "t": "Pre-mortem: pogrzeb planu przed startem",
+     "d": "**Przed rozpoczęciem projektu zakłada się, że rok później całkowicie upadł, i pyta, co go zabiło.** Metodę wymyślił psycholog Gary Klein; ma ona przełamać optymizm, który każe pomijać ryzyka, i dać ludziom przyzwolenie na mówienie niewygodnych rzeczy.\n\nAutor przytacza badanie ze szkoły biznesu Wharton, w którym takie pytanie zwiększyło o 30% zdolność wskazania przyczyn możliwej porażki. To nie pesymizm, tylko pewność siebie oparta na tym, że ryzyka zostały nazwane i zaplanowane."
+    },
+    {
+     "t": "Trzeci bolec we wtyczce",
+     "d": "**Bolec uziemiający daje prądowi z uszkodzonego urządzenia łatwiejszą drogę do ziemi niż przez ciało człowieka.** Normalnie prąd płynie jednym bolcem tam i drugim z powrotem; gdy w środku przetrze się przewód, prąd szuka najłatwiejszej drogi.\n\nPrzewód uziemiający jest dla niego taką drogą, więc dotknięcie wadliwego sprzętu nie kończy się porażeniem. Autor stawia to na pierwszym miejscu, bo według niego ten nudny kawałek metalu uratował więcej ludzi niż wielu lekarzy."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że najskuteczniejsze zabezpieczenia nie zakładają, że człowiek będzie uważny i mądry: albo działają same, albo wymuszają chwilę zatrzymania. Ta sama logika przenosi się na życie: warto samemu ustawiać swoje domyślne opcje, robić listy kontrolne i pre-mortem, a irytujące pauzy traktować jako ochronę.",
+   "factchecks": [
+    {
+     "claim": "Checklista Gawande'a w 8 krajach obniżyła zgony o 47% i powikłania o 36%",
+     "verdict": "prawda",
+     "note": "Badanie WHO (NEJM 2009, 8 szpitali): zgony z 1,5% do 0,8%, powikłania z 11% do 7%.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): checklista bezpieczeństwa chirurgicznego WHO - hasło \"WHO Surgical Safety Checklist\"",
+       "https://en.wikipedia.org/wiki/WHO_Surgical_Safety_Checklist"
+      ]
+     ]
+    },
+    {
+     "claim": "Checklisty pilotów powstały w 1935 r. po katastrofie prototypu Boeinga z niezwolnioną blokadą",
+     "verdict": "prawda",
+     "note": "Katastrofa Boeinga Model 299 (prototypu B-17) w 1935 r. doprowadziła do wprowadzenia przedlotowej checklisty.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Boeing B-17 i Model 299 - hasło \"Boeing B-17 Flying Fortress\"",
+       "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress"
+      ]
+     ]
+    },
+    {
+     "claim": "W latach 60. tysiące dzieci rocznie umierały od leków, a zakrętki zmniejszyły zgony o ponad 90%",
+     "verdict": "przesada",
+     "note": "Przed ustawą notowano ok. 500 zgonów dzieci do 5 lat rocznie; spadek szacuje się na do 45%, nie ponad 90%.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): ustawa o opakowaniach z 1970 r. - hasło \"Poison Prevention Packaging Act of 1970\"",
+       "https://en.wikipedia.org/wiki/Poison_Prevention_Packaging_Act_of_1970"
+      ]
+     ]
+    },
+    {
+     "claim": "Austria ma 99% dawców narządów, a Niemcy 12%",
+     "verdict": "półprawda",
+     "note": "To odsetki zgody (opt-out kontra opt-in), nie faktycznych przeszczepów; rzeczywista liczba dawców różni się dużo mniej.",
+     "p": 5,
+     "src": [
+      [
+       "Wikipedia (ang.): dawstwo narządów - hasło \"Organ donation\"",
+       "https://en.wikipedia.org/wiki/Organ_donation"
+      ],
+      [
+       "Wikipedia (ang.): efekt domyślny - hasło \"Default effect\"",
+       "https://en.wikipedia.org/wiki/Default_effect"
+      ]
+     ]
+    },
+    {
+     "claim": "Według badania z Harvardu mózg działa na autopilocie ok. 47% dnia",
+     "verdict": "półprawda",
+     "note": "Killingsworth i Gilbert (2010) mierzyli błądzenie myślami, nie działanie na autopilocie; wynik to ok. 47%.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): błądzenie myślami - hasło \"Mind-wandering\"",
+       "https://en.wikipedia.org/wiki/Mind-wandering"
+      ]
+     ]
+    },
+    {
+     "claim": "Tryskacz pęka przy ok. 68°C, a w budynkach z tryskaczami ryzyko śmierci w pożarze jest o 87% niższe",
+     "verdict": "prawda",
+     "note": "Typowa ampułka pęka przy 68°C; NFPA podaje obecnie wskaźnik zgonów niższy o ok. 90% (wcześniej 87%).",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): instalacja tryskaczowa - hasło \"Fire sprinkler system\"",
+       "https://en.wikipedia.org/wiki/Fire_sprinkler_system"
+      ],
+      [
+       "NFPA: doświadczenia USA z tryskaczami",
+       "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/us-experience-with-sprinklers"
+      ]
+     ]
+    },
+    {
+     "claim": "Pre-mortem Gary'ego Kleina; badanie Wharton: o 30% lepsze wskazywanie przyczyn porażki",
+     "verdict": "prawda",
+     "note": "Klein w HBR (2007) cytuje badanie Mitchell, Russo i Pennington (1989) z wynikiem 30% dla prospektywnego spojrzenia wstecz.",
+     "p": 8,
+     "src": [
+      [
+       "Harvard Business Review: Gary Klein o pre-mortem - \"Performing a Project Premortem\"",
+       "https://hbr.org/2007/09/performing-a-project-premortem"
+      ],
+      [
+       "Wikipedia (ang.): pre-mortem - hasło \"Pre-mortem\"",
+       "https://en.wikipedia.org/wiki/Pre-mortem"
+      ]
+     ]
+    }
+   ],
+   "bias": "Liczby bez źródeł i miejscami zawyżone (zakrętki, dawstwo, autopilot); amerykańska perspektywa (dolary, ustawy USA, wtyczki); poza tym rzetelne i praktyczne."
+  },
+  {
    "id": "zwnKPqDbYlU",
    "title_pl": "Rzeczy, których się pozbyliśmy, zanim zrozumieliśmy, że są potrzebne",
    "title": "Things We Got Rid Of Before Realizing We Needed Them",
