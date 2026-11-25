@@ -1,6 +1,180 @@
 {
  "videos": [
   {
+   "id": "H9EIjKNgVE0",
+   "title_pl": "Nudne strony internetowe, po których będziesz dziwnie dobrze poinformowany",
+   "title": "Boring Websites That Will Make You Weirdly Informed",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=H9EIjKNgVE0",
+   "date": "2026-11-25",
+   "duration": 616,
+   "views": 3730,
+   "section": "Chill Dude Explains",
+   "transcript": "whisper",
+   "added": "2026-11-25",
+   "tags": [
+    "Technika",
+    "Geografia",
+    "Nauka"
+   ],
+   "about": "Dziewięć darmowych baz i map: od tablic rejestracyjnych i zderzeń z ptakami po kable podmorskie, orbitę, sieć energetyczną i żeglugę.",
+   "intro": "Chill Dude Explains przegląda dziewięć niepozornych, darmowych stron i publicznych baz danych, głównie amerykańskich. Każda wygląda nudno, ale po kilku minutach przeglądania zmienia sposób patrzenia na coś codziennego: internet, drogi, orbity okołoziemskie, firmy czy handel światowy.\n\nFilm to odliczanie od 9 do 1. Przy każdej stronie autor mówi, co tam znaleźć, podaje kilka liczb i przykładów, a na koniec puentę. Wspólne przesłanie: cywilizacja opiera się na kruchej, fizycznej infrastrukturze, której na co dzień nie widzimy.",
+   "points": [
+    {
+     "t": "Odrzucone tablice rejestracyjne",
+     "d": "**W USA urzędnicy DMV (wydziały komunikacji) przez cały dzień czytają wnioski o tablice z własnym napisem i odrzucają obraźliwe.** Listy odrzuconych tablic są jawne, a stany takie jak Wirginia i Floryda publikują je w sieci.\n\nWedług autora lista Florydy ma ponad 20 000 pozycji: wulgaryzmy pisane od tyłu, cyframi zamiast liter, w innych językach. Najciekawsze są przypadki graniczne, bo ktoś w urzędzie musi znać slang internetowy i narkotykowy, żeby je wyłapać."
+    },
+    {
+     "t": "Wojna z ptakami: baza FAA",
+     "d": "**FAA (amerykański urząd lotnictwa cywilnego) prowadzi publiczną bazę wszystkich zgłoszonych zderzeń samolotów z ptakami i zwierzętami.** Autor podaje ponad 17 000 zgłoszeń rocznie w USA, czyli ok. 46 dziennie, a to tylko te zgłoszone.\n\nBaza zapisuje, w co trafił ptak (silnik, szyba, nos, skrzydło), i ma kolumnę „ingested”, czyli wessany przez silnik. Najgroźniejsze są duże ptaki w stadach, jak bernikle kanadyjskie (ok. 7 kg); to one spowodowały „cud na rzece Hudson”, gdy pilot wodował po utracie obu silników i wszyscy przeżyli."
+    },
+    {
+     "t": "Mapa kabli podmorskich",
+     "d": "**Strona submarinecablemap.com pokazuje, że „chmura” to w praktyce światłowody leżące na dnie oceanu.** Według autora ponad 400 kabli przenosi 95% międzynarodowego ruchu internetowego, a każdy jest cieńszy niż wąż ogrodowy.\n\nKable zbiegają się w niepozornych stacjach na plażach i bywają przerywane przez kotwice i trzęsienia ziemi. W 2022 erupcja podwodnego wulkanu przy Tonga zerwała główny kabel i cały kraj był bez internetu przez pięć tygodni; Google owijał też niektóre kable kevlarem przez ataki rekinów."
+    },
+    {
+     "t": "Linie przerywane na autostradach",
+     "d": "**Każda kreska linii przerywanej na amerykańskiej autostradzie ma ok. 3 m (10 stóp), a przerwa ok. 9 m (30 stóp), choć z auta wydają się małe.** Wzór powtarza się co ok. 12 m.\n\nPrzy prędkości ok. 100 km/h kreska mija w niecałą sekundę, więc mózg nie umie ocenić jej długości. Wymiary ustala MUTCD (federalny podręcznik oznakowania dróg) tak, by linie były widoczne w deszczu, śniegu i po latach zużycia, a w nocy trzymały rytm."
+    },
+    {
+     "t": "KeepTrack: śmieci na orbicie",
+     "d": "**Strona app.keeptrack.space pokazuje tysiące obiektów krążących wokół Ziemi, z pozycjami liczonymi z danych orbitalnych.** Część to działające satelity (GPS, pogodowe, internet w samolocie), ale wiele to martwe rakiety i szczątki starych misji.\n\nAutor wspomina rękawicę zgubioną przez astronautę w 1965 i szpatułkę, która odleciała podczas misji wahadłowca. Przy prędkości orbitalnej nawet płatek farby przebija metal, a każde zderzenie tworzy kolejne odłamki; to syndrom Kesslera, w którym lawina zderzeń mogłaby zamknąć dostęp do orbity."
+    },
+    {
+     "t": "EDGAR: lęki korporacji",
+     "d": "**W bazie EDGAR na sec.gov każda spółka giełdowa w USA musi publikować raporty roczne z sekcją „risk factors”, czyli listą wszystkiego, co może ją zniszczyć.** Firmy nie mogą tego pominąć ani osłodzić, a sekcje potrafią mieć 50 stron.\n\nPrzykłady autora: producent przekąsek boi się zmiany gustu na słone przekąski, firma kawowa wzrostu cen ziaren, producent parasoli długiej, ciepłej i suchej pogody, a spółki technologiczne piszą, że mogą nigdy nie zarabiać."
+    },
+    {
+     "t": "Wyszukiwarka więźniów federalnych",
+     "d": "**Federalne Biuro Więziennictwa USA (BOP) ma prostą wyszukiwarkę, która po nazwisku pokazuje, czy ktoś jest w więzieniu federalnym, gdzie i do kiedy.** Bez reklam i opłat, pod adresem bop.gov/inmateloc.\n\nAutor podaje przykład Martina Shkreliego, który podniósł cenę leku o 5000%: można sprawdzić jego historię pobytu i datę zwolnienia. Media relacjonują aresztowanie, a ta strona pozwala śledzić los skazanych długo po nagłówkach; niektóre daty zwolnienia są tak odległe, że wyglądają nierealnie."
+    },
+    {
+     "t": "Open Infrastructure Map: sieć energetyczna",
+     "d": "**Strona openinframap.org pokazuje linie wysokiego napięcia, podstacje i gazociągi, czyli fizyczny szkielet zasilania miast.** Najgrubsze linie niosą do 500 000 woltów i zasilają podstacje, które obniżają napięcie dla lokalnej sieci.\n\nNa mapie widać wąskie gardła, gdzie zbiega się wiele linii. Autor przypomina blackout z 2003, gdy według niego jedna wyłączona linia w Ohio pozbawiła prądu 55 mln ludzi w USA i Kanadzie, i dodaje, że większość sieci ma 50-100 lat."
+    },
+    {
+     "t": "ShipMap: światowa żegluga",
+     "d": "**Strona shipmap.org odtwarza rok ruchu statków z 2012 i pokazuje, że tysiące jednostek płyną tymi samymi wąskimi trasami.** Statki ustawiają się w kolejce do Kanału Sueskiego, a przez Cieśninę Malakka (między Malezją a Sumatrą) przechodzi według autora 25% światowego handlu.\n\nW 2021 jeden statek utknął w Kanale Sueskim na sześć dni, blokując setki innych i opóźniając towary warte miliardy dolarów dziennie. Wniosek: gospodarka światowa to krucha sieć oparta na kilku przesmykach."
+    }
+   ],
+   "conclusion": "Autor chce pokazać, że darmowe, nudno wyglądające strony dają wgląd w to, jak naprawdę działa świat: przez kilka kabli, linii i cieśnin, od których zależy wszystko. Puenta: świat wydaje się ogromny, dopóki nie zobaczysz, że trzyma się na kilku bardzo cienkich niciach.",
+   "factchecks": [
+    {
+     "claim": "W USA zgłasza się ponad 17 000 zderzeń samolotów z dziką przyrodą rocznie",
+     "verdict": "prawda",
+     "note": "Raport FAA podaje 24 447 zgłoszonych zderzeń w 2025, więc liczba z filmu jest wręcz zaniżona.",
+     "p": 1,
+     "src": [
+      [
+       "FAA: raport o zderzeniach z dziką przyrodą 1990-2025",
+       "https://www.faa.gov/airports/airport_safety/wildlife/wildlife-strike-report-1990-2024"
+      ],
+      [
+       "Wikipedia (ang.): lot US Airways 1549 - hasło \"US Airways Flight 1549\"",
+       "https://en.wikipedia.org/wiki/US_Airways_Flight_1549"
+      ]
+     ]
+    },
+    {
+     "claim": "Ok. 400 kabli przenosi 95% międzynarodowego ruchu internetowego",
+     "verdict": "prawda",
+     "note": "Zwykle podaje się ok. 99% ruchu przez oceany; TeleGeography liczy dziś ponad 600 kabli aktywnych i planowanych.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): kable podmorskie - hasło \"Submarine communications cable\"",
+       "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+      ],
+      [
+       "TeleGeography: najczęstsze pytania o kable podmorskie",
+       "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions"
+      ]
+     ]
+    },
+    {
+     "claim": "Po erupcji w 2022 Tonga była bez internetu kablowego przez pięć tygodni",
+     "verdict": "prawda",
+     "note": "Erupcja 15.01.2022 zerwała kabel; naprawę zakończono 21-22.02.2022, wcześniej działał tylko satelitarny zapas.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): kabel Tonga - hasło \"Tonga Cable System\"",
+       "https://en.wikipedia.org/wiki/Tonga_Cable_System"
+      ]
+     ]
+    },
+    {
+     "claim": "Kreski linii przerywanej mają 10 stóp, a przerwy 30 stóp",
+     "verdict": "prawda",
+     "note": "MUTCD zaleca odcinki 10 stóp (ok. 3 m) i przerwy 30 stóp (ok. 9 m) lub podobne proporcje.",
+     "p": 3,
+     "src": [
+      [
+       "FHWA: MUTCD 2009, rozdział 3A (oznakowanie poziome)",
+       "https://mutcd.fhwa.dot.gov/htm/2009/part3/part3a.htm"
+      ]
+     ]
+    },
+    {
+     "claim": "Rękawica astronauty z 1965 krążyła po orbicie; grozi syndrom Kesslera",
+     "verdict": "prawda",
+     "note": "Rękawicę zgubił Ed White podczas pierwszego amerykańskiego spaceru kosmicznego; syndrom to hipoteza z 1978.",
+     "p": 4,
+     "src": [
+      [
+       "Wikipedia (ang.): śmieci kosmiczne - hasło \"Space debris\"",
+       "https://en.wikipedia.org/wiki/Space_debris"
+      ],
+      [
+       "Wikipedia (ang.): syndrom Kesslera - hasło \"Kessler syndrome\"",
+       "https://en.wikipedia.org/wiki/Kessler_syndrome"
+      ]
+     ]
+    },
+    {
+     "claim": "Martin Shkreli podniósł cenę leku o 5000%",
+     "verdict": "prawda",
+     "note": "W 2015 cena Daraprimu wzrosła z 13,50 do 750 USD za tabletkę.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): Martin Shkreli - hasło \"Martin Shkreli\"",
+       "https://en.wikipedia.org/wiki/Martin_Shkreli"
+      ]
+     ]
+    },
+    {
+     "claim": "Jedna wyłączona linia w Ohio spowodowała blackout 55 mln ludzi w 2003",
+     "verdict": "półprawda",
+     "note": "Zasięg się zgadza, ale przyczyną było kilka linii dotykających drzew i błąd oprogramowania alarmowego, nie jedna linia.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): blackout 2003 - hasło \"Northeast blackout of 2003\"",
+       "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+      ]
+     ]
+    },
+    {
+     "claim": "Przez Cieśninę Malakka idzie 25% handlu, a Ever Given blokował Suez 6 dni",
+     "verdict": "prawda",
+     "note": "Wikipedia podaje ok. 25% handlowanych towarów dla Malakki; blokada Sueza trwała 23-29.03.2021.",
+     "p": 8,
+     "src": [
+      [
+       "Wikipedia (ang.): Cieśnina Malakka - hasło \"Strait of Malacca\"",
+       "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+      ],
+      [
+       "Wikipedia (ang.): blokada Kanału Sueskiego - hasło \"2021 Suez Canal obstruction\"",
+       "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rzetelny przegląd prawdziwych źródeł, ale amerykocentryczny i z uproszczeniami (blackout, liczby bez źródeł); ton straszy kruchością infrastruktury."
+  },
+  {
    "id": "5tJRG46vOHU",
    "title_pl": "Co może istnieć poza Wszechświatem? 10 teorii naukowców",
    "title": "Realistic Theories On What Exists Outside The Universe",
@@ -409,6 +583,321 @@
     }
    ],
    "bias": "Ton katalogu zakupowego: same zalety, bez cen, wad i alternatyw; część liczb bez źródeł (naskórek, 3200 uderzeń, skuteczność lampy). Brak sponsora, ale wymienia markę Embr Wave."
+  },
+  {
+   "id": "eIs8ES96NtQ",
+   "title_pl": "Nudne zakupy, które po cichu oszczędzają tysiące",
+   "title": "Boring Purchases That Quietly Save You Thousands",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=eIs8ES96NtQ",
+   "date": "2026-11-24",
+   "duration": 595,
+   "views": 40269,
+   "section": "Chill Dude Explains",
+   "transcript": "whisper",
+   "added": "2026-11-25",
+   "tags": [
+    "Technika",
+    "Ciało i zdrowie"
+   ],
+   "about": "Dziesięć tanich rzeczy do domu i auta (anoda, test radonu, zawór zwrotny, ochrona przepięciowa, polisa), które chronią przed drogimi awariami.",
+   "intro": "Chill Dude Explains omawia dziesięć niepozornych zakupów, o których mało kto myśli, bo nic nie robią aż do dnia, w którym zapobiegają katastrofie. To głównie elementy instalacji w domu (woda, kanalizacja, prąd, AGD), ochrona samochodu i jedno ubezpieczenie; realia i ceny są amerykańskie, w dolarach.\n\nFilm to odliczanie od 10 do 1. Przy każdej pozycji autor opisuje, co może się zepsuć, ile kosztuje szkoda, a ile zabezpieczenie, i zestawia te kwoty. Przesłanie: mały, nudny wydatek teraz często chroni przed rachunkiem sto razy większym.",
+   "points": [
+    {
+     "t": "Anoda w bojlerze",
+     "d": "**W zbiorniku podgrzewacza wody jest metalowy pręt (anoda), którego jedynym zadaniem jest korodować zamiast stalowego zbiornika.** Woda „zjada” tańszy metal pręta, a po 3-5 latach pręt znika i woda zaczyna niszczyć zbiornik od środka.\n\nSkutek to pęknięty bojler i ok. 150 litrów rdzawej wody w piwnicy: według autora ok. 2000 USD za nowy podgrzewacz i do 10 000 USD za usuwanie szkód. Nowa anoda kosztuje ok. 30 USD i 30 minut pracy co kilka lat."
+    },
+    {
+     "t": "Test na radon",
+     "d": "**Test na radon to saszetka z węglem za ok. 15 USD, którą zostawia się w piwnicy na trzy dni i odsyła do laboratorium.** Radon to radioaktywny gaz z gruntu, bez koloru, zapachu i smaku, który przenika przez pęknięcia fundamentów.\n\nWedług autora to druga po paleniu przyczyna raka płuca w USA, a podwyższony poziom ma ok. co 15. dom. Gdy wynik jest wysoki, instalacja odprowadzająca gaz (rura i wentylator) kosztuje ok. 1500 USD, a jedna seria chemioterapii 10 000-30 000 USD."
+    },
+    {
+     "t": "Lanolina pod podwozie",
+     "d": "**Tam, gdzie zimą sypie się sól, rdza zjada podwozie auta, a powłoki gumowe potrafią pękać i więzić wilgoć.** Lanolina, czyli tłuszcz z owczej wełny, nigdy nie twardnieje, wnika w szczeliny i wypycha wodę z metalu.\n\nRaz w roku trzeba spryskać spód auta lepką, pachnącą owcą mazią. Według autora kilka puszek za ok. 50 USD rocznie sprawia, że auto w śnieżnym klimacie wytrzyma 20 lat zamiast 5, a nowe kosztuje ok. 30 000 USD."
+    },
+    {
+     "t": "Zawór zwrotny w kanalizacji",
+     "d": "**Zawór przeciwzalewowy to klapka w głównej rurze kanalizacyjnej, która przepuszcza ścieki tylko na zewnątrz.** Podczas ulewy przeciążona kanalizacja miejska cofa ścieki do najniżej położonego miejsca, czyli do piwnicy, także z domów sąsiadów.\n\nSprzątanie po takim cofnięciu kosztuje według autora ponad 10 000 USD, nie licząc zniszczonych rzeczy. Zawór z montażem to kilkaset dolarów i latami nic nie robi, aż do tego jednego dnia."
+    },
+    {
+     "t": "Klucz do głównego zaworu wody",
+     "d": "**Główny zawór wody w USA bywa na zewnątrz, pod metalową pokrywą w ziemi, i bez długiego klucza w kształcie litery T nie da się go zakręcić.** Gdy o 2 w nocy pęka wąż do toalety, bez klucza zostaje drogi hydraulik na wezwanie.\n\nŚrednia szkoda po pęknięciu przewodu to według autora ok. 12 000 USD (podłogi, płyty, grzyb), a klucz kosztuje 8 USD. Radzi też znaleźć zawór zawczasu, w spokojne popołudnie."
+    },
+    {
+     "t": "Ochrona przepięciowa całego domu",
+     "d": "**Listwy „z ochroną przepięciową” radzą sobie z małymi skokami napięcia, ale nie z przepięciem po uderzeniu pioruna w transformator.** Takie przepięcie wchodzi do rozdzielnicy i może w milisekundę spalić telewizor, laptop, lodówkę i resztę elektroniki.\n\nOgranicznik przepięć montowany przez elektryka przy rozdzielnicy kosztuje według autora ok. 500 USD i przyjmuje udar na siebie. Przy elektronice wartej 15 000-20 000 USD to jednorazowe ok. 3%."
+    },
+    {
+     "t": "Reduktor ciśnienia wody",
+     "d": "**Instalacja domowa jest projektowana na ok. 3,5-4 bary (50-60 PSI), a ciśnienie w sieci miejskiej potrafi przekraczać 7 barów.** To jak jazda z silnikiem stale na czerwonym polu obrotomierza.\n\nNajczęściej pęka wąż pralki, nawet w nocy, a szkody sięgają według autora 10 000 USD; cierpią też zawory zmywarki, kostkarki i bojlera. Stukanie w rurach to uderzenie hydrauliczne. Mosiężny reduktor przy wejściu wody kosztuje 50-200 USD plus montaż."
+    },
+    {
+     "t": "Szczotka do przewodu suszarki",
+     "d": "**Czyszczenie sitka na kłaczki nie wystarcza, bo długi przewód wentylacyjny suszarki w ścianie latami zapycha się kłaczkami.** Suszarka pracuje dłużej, co według autora dodaje 20-30 USD miesięcznie do rachunku, ok. 300 USD rocznie.\n\nGorszy problem: kłaczki są bardzo łatwopalne i autor podaje ok. 15 000 pożarów domów rocznie w USA od przewodów suszarek. Szczotka na wiertarkę za ok. 20 USD i 15 minut raz w roku usuwa ten problem."
+    },
+    {
+     "t": "Szczotka do skraplacza lodówki",
+     "d": "**Wężownice z tyłu lub pod lodówką oddają ciepło, a pokryte kurzem i sierścią działają jak futro, więc sprężarka pracuje ciężej.** Według autora brudne wężownice mogą zwiększyć zużycie prądu nawet o 30%.\n\nWiększy problem to zużycie sprężarki, „serca” lodówki: wymiana to 500-1500 USD, więc często kończy się nową lodówką za ponad 2000 USD. Długa szczotka za ok. 10 USD i 5 minut raz w roku temu zapobiega."
+    },
+    {
+     "t": "Polisa parasolowa OC",
+     "d": "**Ubezpieczenie parasolowe dopłaca odszkodowanie, gdy pozew przekracza limity OC z polisy samochodowej i domowej.** Przykład autora: wypadek z ciężkimi obrażeniami, pozew na 600 000 USD, polisa auta pokrywa 300 000, resztę płacisz z oszczędności.\n\nPolisa na dodatkowy 1 mln USD kosztuje według niego 150-300 USD rocznie, bo rzadko się przydaje. Obejmuje wypadki i urazy na posesji (oblodzony podjazd, trampolina, ugryzienie przez psa), a nawet pozew za złą recenzję w sieci."
+    }
+   ],
+   "conclusion": "Autor przekonuje, że najlepsze zakupy to te, o których się zapomina: tanie zabezpieczenia, które latami nic nie robią, a raz ratują przed wydatkiem rzędu tysięcy dolarów. Przy ostatniej pozycji puentuje, że jeśli masz dom albo oszczędności, masz co chronić.",
+   "factchecks": [
+    {
+     "claim": "Anoda w bojlerze koroduje zamiast zbiornika i trzeba ją wymieniać",
+     "verdict": "prawda",
+     "note": "To ochrona katodowa anodą galwaniczną (magnez, aluminium, cynk), stosowana m.in. w podgrzewaczach wody.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): anoda galwaniczna - hasło \"Galvanic anode\"",
+       "https://en.wikipedia.org/wiki/Galvanic_anode"
+      ]
+     ]
+    },
+    {
+     "claim": "Radon to druga po paleniu przyczyna raka płuca w USA",
+     "verdict": "prawda",
+     "note": "EPA podaje, że radon jest drugą przyczyną raka płuca i powoduje ok. 21 000 zgonów rocznie w USA.",
+     "p": 1,
+     "src": [
+      [
+       "EPA: ryzyko zdrowotne radonu",
+       "https://www.epa.gov/radon/health-risk-radon"
+      ],
+      [
+       "Wikipedia (ang.): radon - hasło \"Radon\"",
+       "https://en.wikipedia.org/wiki/Radon"
+      ]
+     ]
+    },
+    {
+     "claim": "Lanolina sprawia, że auto wytrzyma 20 lat zamiast 5",
+     "verdict": "nie da się sprawdzić",
+     "note": "Lanolina działa jako środek antykorozyjny, ale liczby 5 i 20 lat to szacunek autora bez źródła.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): lanolina - hasło \"Lanolin\"",
+       "https://en.wikipedia.org/wiki/Lanolin"
+      ]
+     ]
+    },
+    {
+     "claim": "Przewody suszarek powodują ok. 15 000 pożarów domów rocznie w USA",
+     "verdict": "przesada",
+     "note": "USFA szacuje ok. 2900 pożarów suszarek w budynkach mieszkalnych rocznie (2008-2010); 34% z braku czyszczenia.",
+     "p": 7,
+     "src": [
+      [
+       "USFA (FEMA): pożary suszarek w budynkach mieszkalnych 2008-2010 (PDF)",
+       "https://www.usfa.fema.gov/downloads/pdf/statistics/v13i7.pdf"
+      ],
+      [
+       "Wikipedia (ang.): suszarka do ubrań - hasło \"Clothes dryer\"",
+       "https://en.wikipedia.org/wiki/Clothes_dryer"
+      ]
+     ]
+    },
+    {
+     "claim": "Wysokie ciśnienie wody powoduje stukanie w rurach",
+     "verdict": "półprawda",
+     "note": "Uderzenie hydrauliczne wynika głównie z nagłego zamknięcia zaworu; wysokie ciśnienie je nasila, ale nie jest jedyną przyczyną.",
+     "p": 6,
+     "src": [
+      [
+       "Wikipedia (ang.): uderzenie hydrauliczne - hasło \"Water hammer\"",
+       "https://en.wikipedia.org/wiki/Water_hammer"
+      ]
+     ]
+    },
+    {
+     "claim": "Polisa parasolowa pokrywa szkody ponad limity OC domu i auta",
+     "verdict": "prawda",
+     "note": "Tak działa umbrella insurance w USA; podane ceny są orientacyjne i zależą od ubezpieczyciela.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): ubezpieczenie parasolowe - hasło \"Umbrella insurance\"",
+       "https://en.wikipedia.org/wiki/Umbrella_insurance"
+      ]
+     ]
+    }
+   ],
+   "bias": "Praktyczne, ale amerykańskie realia i ceny; kwoty szkód to najgorsze scenariusze bez źródeł, co wyolbrzymia opłacalność każdego zakupu."
+  },
+  {
+   "id": "08WdV6yv8k0",
+   "title_pl": "Rzeczy, które wyglądają na stratę czasu, a czynią cię mądrzejszym",
+   "title": "Things That Feel Like a Waste of Time But Make You Smarter",
+   "channel": "Chill Dude Explains",
+   "url": "https://www.youtube.com/watch?v=08WdV6yv8k0",
+   "date": "2026-11-24",
+   "duration": 588,
+   "views": 17930,
+   "section": "Chill Dude Explains",
+   "transcript": "youtube",
+   "added": "2026-11-25",
+   "tags": [
+    "Psychologia",
+    "Nauka",
+    "Natura"
+   ],
+   "about": "Dziesięć „bezużytecznych” zajęć (plotki, filmy o produkcji, żonglowanie, stand-up, prysznic, mówienie do siebie), które według autora ćwiczą mózg.",
+   "intro": "Chill Dude Explains bierze na warsztat dziesięć nawyków, za które zwykle mamy wyrzuty sumienia albo które wyglądają na marnowanie czasu, od plotkowania po oglądanie dokumentów przyrodniczych. Przy każdym próbuje pokazać, jaką umiejętność poznawczą po cichu trenuje.\n\nFilm to odliczanie od 10 do 1. Każda pozycja ma podobną budowę: zarzut, że to strata czasu, potem pojęcie z psychologii lub neuronauki (np. teoria umysłu, myślenie systemowe, efekt inkubacji), przykład i krótka puenta.",
+   "points": [
+    {
+     "t": "Plotkowanie",
+     "d": "**Według autora plotkowanie to złożona symulacja społeczna: kto co zrobił, dlaczego i jak zareagują inni.** Powołuje się na hipotezę mózgu społecznego, wg której mózg urósł, by ogarniać sieci relacji, a plotka była „oprogramowaniem” tego sprzętu.\n\nAnalizowanie motywów innych buduje teorię umysłu, czyli rozumienie, że inni mają własne myśli i cele. Ludzie dobrzy w tym lepiej negocjują i przewodzą, a najlepsi plotkarze bywają najbardziej inteligentni społecznie."
+    },
+    {
+     "t": "Filmy o tym, jak coś się robi",
+     "d": "**Oglądanie procesu produkcji od początku do końca buduje modele mentalne, czyli wewnętrzne mapy działania rzeczy.** Zwykle widzimy tylko efekt: auto, a nie 30 000 części, butelkę, a nie stopiony piasek.\n\nLudzie z większą liczbą takich modeli myślą systemowo (co to spowodowało, na co wpływa, co się stanie po zmianie jednego elementu). Przykład autora: Henry Ford wziął pomysł linii montażowej z linii rozbiórki w rzeźni i po prostu go odwrócił."
+    },
+    {
+     "t": "Przypominanie bez Google",
+     "d": "**Męczące przypominanie sobie czegoś „na końcu języka” to według autora darmowa siłownia dla pamięci.** Wysiłek przy wydobywaniu wspomnienia (effortful retrieval) wzmacnia ścieżkę neuronalną jak wydeptywanie szlaku w lesie.\n\nGooglowanie to helikopter do celu: masz odpowiedź, ale szlak zarasta. Nawyk natychmiastowego sprawdzania to cognitive offloading, czyli oddawanie pamięci telefonowi; autor radzi „pocierpieć trochę” i dać mózgowi popracować."
+    },
+    {
+     "t": "Kilka słów z obcego języka",
+     "d": "**Nauka pojedynczych słów z języka, którym nigdy nie będziesz mówić, pokazuje, że twój język nie jest jedynym sposobem widzenia świata.** Przykłady z japońskiego: słowo na światło przesączające się przez liście (komorebi) i tsundoku, czyli kupowanie książek, których się nie czyta.\n\nPo poznaniu takiego słowa zaczyna się zauważać to zjawisko. Autor nazywa to świadomością metajęzykową: jak ryba, która nagle wie, czym jest woda; to według niego umiejętność myślenia, nie językowa."
+    },
+    {
+     "t": "Skuteczne narzekanie",
+     "d": "**Autor dzieli narzekanie na bezużyteczny hałas („korki są okropne”) i skuteczne narzekanie, które diagnozuje, dlaczego coś nie działa.** Szukanie przyczyny to krytyczne myślenie, czyli analiza problemu.\n\nPrzykłady: zamiast „to mieszkanie jest okropne” powiedz, że kuchnia nie ma blatu, więc nie gotujesz i wydajesz 400 USD miesięcznie na jedzenie na wynos. Zamiast „social media mnie dołują” zauważ, że sprawdzasz Instagram zaraz po przebudzeniu i od rana czujesz się w tyle."
+    },
+    {
+     "t": "Żonglowanie",
+     "d": "**Według autora badania mózgu przed nauką żonglowania i po niej pokazały przyrost istoty szarej, czyli tkanki, a nie tylko aktywności.** Żonglowanie każe śledzić kilka obiektów, przewidywać ich tor i koordynować ręce naraz.\n\nUrosły obszary odpowiedzialne za przetwarzanie ruchu i uwagę wzrokową, już po 3 miesiącach nauki. Autor twierdzi, że nawet ci, którzy ciągle upuszczali piłki, mieli przyrost, bo każde upuszczenie poprawia model ruchu świata."
+    },
+    {
+     "t": "Stand-up",
+     "d": "**Każdy żart to według autora zagadka logiczna: setup, ukryte założenie i puenta, która je łamie.** Kto ogląda dużo komedii, zaczyna wyłapywać ukryte założenia w argumentach, nagłówkach i własnych słowach.\n\nPrzykład: zdanie „wszyscy wiedzą, że ciężka praca prowadzi do sukcesu” zakłada, że szczęście, moment i przywileje nie istnieją. Autor powołuje się na badania, wg których fani komedii mają wyższą elastyczność poznawczą."
+    },
+    {
+     "t": "Długi prysznic",
+     "d": "**Pod ciepłym prysznicem mózg przechodzi według autora w sieć stanu spoczynkowego (default mode network), która łączy kropki w tle.** Przy biurku działa tryb skupienia, dobry do wykonywania zadań, ale słaby do kreatywności.\n\nTo efekt inkubacji: ładujesz problem, odchodzisz, a podświadomość pracuje dalej. Według przywołanych badań ludzie są bardziej kreatywni w zrelaksowanym otoczeniu niż przy biurku."
+    },
+    {
+     "t": "Mówienie do siebie",
+     "d": "**Mówienie na głos zmusza do zwolnienia i uporządkowania myśli, bo włącza naraz wytwarzanie i rozumienie mowy.** Według autora ludzie rozwiązujący problemy na głos robią to szybciej, a w jednym eksperymencie szukający przedmiotu znajdowali go szybciej, gdy wypowiadali jego nazwę.\n\nJeszcze lepiej działa mówienie o sobie w trzeciej osobie („John musi się uspokoić”): daje psychologiczny dystans, patrzysz na panikę jak trener, a stres mierzalnie spada."
+    },
+    {
+     "t": "Dokumenty przyrodnicze",
+     "d": "**Oglądając dokument przyrodniczy, mózg śledzi przyczyny i skutki, co trenuje myślenie systemowe.** Przykład autora: po powrocie wilków do Yellowstone jelenie zmieniły trasy, odrosła trawa, ustabilizowały się brzegi i rzeki zmieniły bieg, więc „wilki przesunęły rzeki”.\n\nDokumenty dają też coś w rodzaju efektu perspektywy znanego astronautom: krewetka modliszkowa wielkości palca uderza kraba z siłą pocisku i wywołuje falę uderzeniową, a twój wtorek przestaje wydawać się skomplikowany."
+    }
+   ],
+   "conclusion": "Autor chce zdjąć poczucie winy z „bezproduktywnych” zajęć: jeśli coś cię wciąga, mózg często trenuje przy tym myślenie systemowe, pamięć albo elastyczność. Puenta przy ostatniej pozycji: mózg zapamiętuje to, co ciekawe, a zmiana perspektywy sprawia, że codzienne problemy wydają się mniejsze.",
+   "factchecks": [
+    {
+     "claim": "Hipoteza mózgu społecznego: mózg urósł, by ogarniać złożone relacje",
+     "verdict": "prawda",
+     "note": "To uznana hipoteza (Robin Dunbar), choć nadal dyskutowana; Dunbar wiązał też plotkę z utrzymywaniem więzi.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): hipoteza mózgu społecznego - hasło \"Social brain hypothesis\"",
+       "https://en.wikipedia.org/wiki/Social_brain_hypothesis"
+      ],
+      [
+       "Wikipedia (ang.): liczba Dunbara - hasło \"Dunbar's number\"",
+       "https://en.wikipedia.org/wiki/Dunbar%27s_number"
+      ]
+     ]
+    },
+    {
+     "claim": "Ford wziął pomysł linii montażowej z linii rozbiórki w rzeźni",
+     "verdict": "prawda",
+     "note": "Inspirację liniami rozbiórki w rzeźniach Chicago opisuje historia linii montażowej; Ford mówił o tym sam.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): linia montażowa - hasło \"Assembly line\"",
+       "https://en.wikipedia.org/wiki/Assembly_line"
+      ]
+     ]
+    },
+    {
+     "claim": "Wysiłek przy przypominaniu wzmacnia pamięć",
+     "verdict": "prawda",
+     "note": "Efekt testowania (retrieval practice) to jeden z najlepiej potwierdzonych efektów w psychologii uczenia się.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): efekt testowania - hasło \"Testing effect\"",
+       "https://en.wikipedia.org/wiki/Testing_effect"
+      ]
+     ]
+    },
+    {
+     "claim": "Tsundoku po japońsku to kupowanie książek, których się nie czyta",
+     "verdict": "prawda",
+     "note": "Takie znaczenie podaje hasło Tsundoku; w napisach słowa są zniekształcone, poprawne formy to komorebi i tsundoku.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): tsundoku - hasło \"Tsundoku\"",
+       "https://en.wikipedia.org/wiki/Tsundoku"
+      ]
+     ]
+    },
+    {
+     "claim": "Po 3 miesiącach nauki żonglowania przybyło istoty szarej",
+     "verdict": "prawda",
+     "note": "Draganski i in. (Nature, 2004) wykazali przyrost w obszarach ruchu wzrokowego; po przerwie częściowo się cofnął.",
+     "p": 5,
+     "src": [
+      [
+       "Nature: Draganski i in. 2004 - zmiany istoty szarej po treningu",
+       "https://www.nature.com/articles/427311a"
+      ]
+     ]
+    },
+    {
+     "claim": "Wilki w Yellowstone zmieniły bieg rzek",
+     "verdict": "przesada",
+     "note": "To popularna narracja; naukowcy uważają ekosystem za zbyt złożony, by przypisać zmiany rzek głównie wilkom.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): kaskada troficzna - hasło \"Trophic cascade\"",
+       "https://en.wikipedia.org/wiki/Trophic_cascade"
+      ],
+      [
+       "Wikipedia (ang.): wilki w Yellowstone - hasło \"History of wolves in Yellowstone\"",
+       "https://en.wikipedia.org/wiki/History_of_wolves_in_Yellowstone"
+      ]
+     ]
+    },
+    {
+     "claim": "Krewetka modliszkowa uderza z siłą pocisku i tworzy falę uderzeniową",
+     "verdict": "prawda",
+     "note": "Uderzenie ma przyspieszenie porównywalne z pociskiem i wywołuje pęcherzyki kawitacyjne, które dodatkowo ogłuszają ofiarę.",
+     "p": 9,
+     "src": [
+      [
+       "Wikipedia (ang.): krewetka modliszkowa - hasło \"Mantis shrimp\"",
+       "https://en.wikipedia.org/wiki/Mantis_shrimp"
+      ]
+     ]
+    },
+    {
+     "claim": "Prysznic uruchamia efekt inkubacji i sprzyja pomysłom",
+     "verdict": "półprawda",
+     "note": "Efekt inkubacji jest udokumentowany, ale prysznic jako szczególne miejsce i rola DMN to popularne uproszczenie.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): inkubacja w psychologii - hasło \"Incubation (psychology)\"",
+       "https://en.wikipedia.org/wiki/Incubation_%28psychology%29"
+      ]
+     ]
+    }
+   ],
+   "bias": "Pocieszający przekaz usprawiedliwiający przyjemne nawyki; badania podane ogólnikowo, korelacje i hipotezy brzmią jak pewniki."
   },
   {
    "id": "zwnKPqDbYlU",
