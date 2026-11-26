@@ -1880,6 +1880,91 @@
    "bias": "Poradnik pozytywny i praktyczny; badania przytaczane bez nazw i z uproszczeniami (np. efekt pratfall), a ignoruje m.in. lęk społeczny czy brak czasu."
   },
   {
+   "id": "ek_0AD480vo",
+   "title_pl": "Opony do Tesli: czy muszą mieć homologację T0? Gwarancja, AC, fakty i mity",
+   "title": "Opony do Tesli - Czy musi być homologacja \"T0\"? Gwarancja, AC - fakty i mity!",
+   "channel": "EVdlaCiebie. pl",
+   "url": "https://www.youtube.com/watch?v=ek_0AD480vo",
+   "date": "2026-11-23",
+   "duration": 1566,
+   "views": 2928,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-26",
+   "tags": [
+    "Technika",
+    "Mity"
+   ],
+   "about": "Serwis EVdlaCiebie wyjaśnia, co oznacza homologacja T0, jak dobrać zimowe opony do Tesli i kiedy zmiana kół grozi problemami z gwarancją.",
+   "intro": "Film nagrał polski serwis aut elektrycznych EVdlaCiebie przy okazji zakładania zimówek w Tesli Model 3 Performance. Odpowiada na najczęstsze pytania klientów przed zimą: czy opony muszą mieć oznaczenie T0, zimowe czy wielosezonowe i co się stanie z ubezpieczeniem lub gwarancją, gdy założymy inne koła.\n\nAutor najpierw rozdziela dwie różne „homologacje”, potem przechodzi przez parametry, na które sam patrzy przy zakupie, swoje doświadczenia z konkretnymi modelami opon i miejsca zakupu, a na koniec daje dwie praktyczne rady do wulkanizacji.",
+   "points": [
+    {
+     "t": "Homologacja opony a homologacja samochodu",
+     "d": "**Oznaczenie T0 na oponie to co innego niż homologacja auta i nikt nie może go od nas wymagać.**\n\nT0 znaczy, że opona powstała według wytycznych Tesli. Homologację samochodu potwierdza świadectwo zgodności WE (COC), na podstawie którego auto się rejestruje: w punkcie 35 jest rozmiar kół fabrycznych, a w punkcie 52 dopuszczone zamienniki, z indeksem nośności, prędkości, szerokością felgi i offsetem. Nie ma tam ani producenta opon, ani wymogu T0. COC dostaje się z Tesli razem z fakturą, a przy leasingu ma je finansujący."
+    },
+    {
+     "t": "Czym naprawdę różni się opona T0",
+     "d": "**Tesla chciała opon cichych, o małych oporach toczenia i odpornych na duży moment obrotowy oraz masę auta.**\n\nStąd inna mieszanka gumy i konstrukcja dopasowana do wyższego ciśnienia (zalecane 2,9 bara). W praktyce wyróżnia je głównie pianka wygłuszająca w środku. Nie gwarantuje to jednak najcichszej opony: Michelin Pilot Alpin 5 autora miał na etykiecie 68 dB, a jeden z najcichszych Hankooków z T0 ma 69 dB. T1 i T2 to tylko kolejne rewizje oznaczenia, np. w Modelu 3 Highland i Y Juniper. Zdaniem autora warto brać T0, jeśli nie jest wyraźnie droższa."
+    },
+    {
+     "t": "Najważniejsze: rozmiar i nośność",
+     "d": "**Kluczowe są zgodny z COC rozmiar i indeks nośności, bo zbyt niska nośność może dać ubezpieczycielowi powód do odmowy.**\n\nJeśli biegły wykaże, że wypadek wynikał ze źle dobranej opony, będą kłopoty z odszkodowaniem. Indeks prędkości przy zimówkach z symbolem płatka śniegu na tle trzech szczytów może być niższy, ale nie poniżej Q (160 km/h); wtedy w kabinie powinna być widoczna informacja dla kierowcy. W praktyce zimówki w rozmiarach do Tesli mają zwykle indeks V (240 km/h), a większość Modeli 3 i Y ma ogranicznik 200 km/h."
+    },
+    {
+     "t": "Inny rozmiar a gwarancja Tesli",
+     "d": "**Niefabryczny rozmiar jest legalny, ale może utrudnić naprawę gwarancyjną zawieszenia.**\n\nZamiennik nie może wystawać poza obrys auta ani ocierać przy pełnym skręcie, a obwód koła nie powinien wyraźnie odbiegać od fabrycznego; dobierze go wulkanizacja, która zna temat. Ubezpieczenie i leasing nie będą wtedy problemem, ale serwis Tesli może kazać przyjechać na fabrycznych kołach. Autor zna przypadek, w którym duże felgi z bardzo niskim profilem przyspieszyły zużycie wahaczy i odmówiono naprawy. Nie dotyczy to usterek niezwiązanych z zawieszeniem, np. klamek."
+    },
+    {
+     "t": "Gdy brak T0: XL i ochrona rantu",
+     "d": "**Bez T0 autor szuka opon XL (extra load) i z ochroną rantu (FR).**\n\nNośność opon XL podaje się przy ciśnieniu 2,9 bara, a nie 2,5 bara jak w standardowych, czyli przy takim, na jakim zwykle jeździ się Teslą. Wystający bark z ochroną rantu jako pierwszy przyjmuje uderzenie o krawężnik. Dalej to już kwestia priorytetów według etykiety: hamowanie na mokrym, hałas zewnętrzny, zużycie energii."
+    },
+    {
+     "t": "Zimowe czy wielosezonowe",
+     "d": "**To zależy od klimatu i stylu jazdy, ale autor woli dwa komplety: letni i zimowy.**\n\nKto jeździ mało w umiarkowanym klimacie, może wybrać wielosezonowe; w górach zimówki są według autora praktycznie obowiązkowe. Tesle zawsze wyjeżdżają z fabryki na letnich oponach, nawet zimą, więc prościej dokupić zimówki niż wielosezonówki i sprzedawać letnie za pół ceny. Wizyta w wulkanizacji co sezon to też okazja do wyważenia, rotacji (jeśli osie mają ten sam rozmiar, czego nie ma w Performance) i przeglądu zawieszenia."
+    },
+    {
+     "t": "Które opony sprawdziły się autorowi",
+     "d": "**„Najlepsza opona” zależy od priorytetów: mniejsze opory toczenia to mniej prądu i hałasu, ale słabsza przyczepność.**\n\nDla kierowcy z trasy liczy się cisza, dla mieszkańca gór agresywny bieżnik, dla autora skuteczność hamowania na śniegu. Dobrze ocenia Michelin Pilot Alpin 5 (teraz Alpin 7), Continental WinterContact TS 830 i 870, Hankook iON (najcichsze, także z T0), Dunlop Winter i obecne Vredestein Wintrac Pro+, które go pozytywnie zaskoczyły na śniegu. Goodyear UltraGrip to dla niego opony poprawne. Pirelli nie poleca po złych doświadczeniach z hałasem i reklamacją."
+    },
+    {
+     "t": "Gdzie kupować i czy brać całe koła",
+     "d": "**Porównuje ceny w sklepie Oponeo, ale woli kupować w serwisie, bo wtedy to serwis załatwia reklamację.**\n\nPirelli kupione online hałasowały przy 80 km/h tak, że myślał o zacierających się łożyskach, a producent odrzucił reklamację; za demontaż i wysyłkę zapłacił sam. W serwisie w Warszawie dostał na Vredesteiny 2 lata gwarancji, nawet na przebicie z własnej winy. Całych kompletów kół zimowych zwykle nie poleca, bo to duży wydatek, choć przy dużym budżecie to wygoda."
+    },
+    {
+     "t": "Dwie rady do wulkanizacji",
+     "d": "**Woź w aucie podkładki pod punkty podnoszenia i przypomnij o momencie dokręcania 180 Nm.**\n\nPunkty podnoszenia w Tesli są małe, więc łapa podnośnika może uszkodzić próg albo osłonę baterii. Ciśnienie 2,9 bara potwierdzisz na naklejce na słupku drzwi kierowcy."
+    }
+   ],
+   "conclusion": "Przy zakupie opon do Tesli liczą się przede wszystkim prawidłowy rozmiar i nośność, a w zimówkach dopuszczalny jest niższy indeks prędkości. T0 to miły dodatek, ale nie obowiązek: bez niego autor wybiera XL z ochroną rantu, a resztę parametrów dobiera do własnych priorytetów i ceny.",
+   "factchecks": [
+    {
+     "claim": "Indeks prędkości Q oznacza 160 km/h, a V 240 km/h",
+     "verdict": "prawda",
+     "note": "Tak podają tabele indeksów prędkości opon.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): oznaczenia opon - hasło \"Tire code\"",
+       "https://en.wikipedia.org/wiki/Tire_code"
+      ]
+     ]
+    },
+    {
+     "claim": "Symbol płatka śniegu na tle trzech szczytów oznacza oponę zimową",
+     "verdict": "prawda",
+     "note": "To oznaczenie 3PMSF przyznawane oponom, które przeszły test na śniegu.",
+     "p": 2,
+     "src": [
+      [
+       "Wikipedia (ang.): opona zimowa - hasło \"Snow tire\"",
+       "https://en.wikipedia.org/wiki/Snow_tire"
+      ]
+     ]
+    }
+   ],
+   "bias": "Film serwisu, który sam sprzedaje opony i usługi; rankingi modeli opierają się na osobistych doświadczeniach autora, a nie na testach porównawczych."
+  },
+  {
    "id": "xOzO2s24kkw",
    "title_pl": "Sztuczki w small talku tak skuteczne, że wyglądają na czytanie w myślach",
    "title": "Small Talk Tricks So Effective They Feel Like Mind Reading",
@@ -7539,6 +7624,86 @@
     }
    ],
    "bias": "Pomocne, konstruktywne rady, ale neurobiologia uproszczona (receptory, poziom bazowy dopaminy), a liczby bez źródeł."
+  },
+  {
+   "id": "7RnvvQAVr6A",
+   "title_pl": "Złomnik w EV Repair: o elektrykach i motoryzacji bez owijania w bawełnę",
+   "title": "ZŁOMNIK WJEŻDŻA DO EV REPAIR! CZYLI O MOTORYZACJI BEZ OWIJANIA W BAWEŁNĘ! | EV REPAIR",
+   "channel": "EV REPAIR GARAGE",
+   "url": "https://www.youtube.com/watch?v=7RnvvQAVr6A",
+   "date": "2026-11-11",
+   "duration": 1547,
+   "views": 44517,
+   "section": "Technologie",
+   "transcript": "youtube",
+   "added": "2026-11-26",
+   "tags": [
+    "Technika"
+   ],
+   "about": "Tymon Grabowski (Złomnik) w rozmowie z warsztatem EV Repair o swoim Renault Zoe, ładowaniu, Chinach, recyklingu baterii, konwersjach i autach z PRL.",
+   "intro": "Gościem warsztatu aut elektrycznych EV Repair jest Tymon Grabowski, znany jako Złomnik, dziennikarz motoryzacyjny kojarzony z używanymi, często starymi autami. Gospodarz pyta, jak to się stało, że Złomnik kupił elektryka i czy uważa auta elektryczne za przyszłość.\n\nTo swobodna rozmowa: od zakupu używanego Renault Zoe, przez szybkie ładowanie, infrastrukturę w miastach i ceny prądu, po Teslę, chińskie baterie LFP, konwersje klasyków na prąd i ocenę aut z PRL. W środku jest reklama wyszukiwarki warsztatów prowadzonej przez gospodarzy.",
+   "points": [
+    {
+     "t": "Dlaczego Złomnik kupił elektryka",
+     "d": "**Chciał taniego auta do miasta i uznał, że współczesne auta spalinowe są nadmiernie skomplikowane.**\n\nCzekał 2-3 lata, aż używane elektryki stanieją do ok. 30 tys. zł (zapłacił trochę więcej), i kupił niebieskie Renault Zoe spod Wołomina w „biednej” wersji wyposażenia. Liczyły się buspasy i darmowe parkowanie. Przyznaje, że elektryki też się psują, ale nie mają systemów oczyszczania spalin, przez które w nowych autach spalinowych ciągle grozi kontrolka."
+    },
+    {
+     "t": "Od braku ładowarek do 12 minut ładowania",
+     "d": "**Według Złomnika o przewadze nad spalinowymi decyduje dziś moc i szybkość ładowania.**\n\nW 2010 r. był pierwszym dziennikarzem w Polsce, który odebrał Mitsubishi i-MiEV, i w Warszawie nie było gdzie go naładować, więc szukał zwykłego gniazdka. W Kantonie BYD Tang L z dwoma gniazdami naładował się w ok. 12 minut z 100 do 500 km zasięgu. Jeśli 20 minut ładowania stanie się normą, motoryzacja spalinowa może się „zawijać”, poza np. dalekobieżnymi dostawczakami. Gospodarz w trasie Teslą Model Y do Gibraltaru ładował średnio 9 minut."
+    },
+    {
+     "t": "Problemy z ładowarkami w polskich miastach",
+     "d": "**Główną barierą jest infrastruktura w miastach, gdzie większość ludzi mieszka w blokach.**\n\nObaj uważają, że zamykanie miast dla spalinowych aut bez przygotowania ładowania to błąd, a strefy czystego transportu wprowadza się „z buta” (przykład Krakowa). Złomnik chciałby gniazd typu 2 przy miejskich miejscach parkingowych, jak w Holandii, gdzie elektryki to 40% nowych aut. Opisuje absurd ładowarki w łódzkiej Manufakturze: za szlabanem, z interkomem po prawej stronie, przy którym trzeba klękać. Sam załatwił zgodę wspólnoty na zwykłe gniazdko przy swoim miejscu."
+    },
+    {
+     "t": "Koszty: dom kontra szybka ładowarka",
+     "d": "**Ładowanie z domowej umowy jest według gospodarza ok. 4 razy tańsze niż na szybkiej ładowarce, która w trasie może się nie opłacać.**\n\nZłomnik płacił w trasie Xpengiem 3,14 zł za kWh przy zużyciu 22 kWh na 100 km, a benzyna kosztowała 5,90 zł za litr, choć z dopłatą rządową. Gospodarz przypomina, że do elektryków dopłacono 1,6 mld zł, a do paliw 30 mld zł. Złomnik sądzi, że gdy paliwa podrożeją, ludzie chętniej przesiądą się na elektryki, choć używane są wciąż drogie."
+    },
+    {
+     "t": "Tesla i Chiny",
+     "d": "**Latający Roadster to według Złomnika chwyt marketingowy, a Chińczycy poszli w praktyczność.**\n\nTesla ma starzejącą się gamę z dwóch modeli (Cybertruck według rozmówców został wycofany) i woli pokazywać nowe koncepcje niż nowe auta. Chińskie auto za ok. 150 tys. zł przejechało Złomnikowi 510 km na jednym ładowaniu, a po 20 minutach kolejne 300. Przyznaje, choć niechętnie, że w pewnych aspektach Chińczycy nas wyprzedzili."
+    },
+    {
+     "t": "Baterie LFP i rynek wtórny",
+     "d": "**Gospodarz martwi się, że z chińskich baterii LFP trudno odzyskać surowce, a za ich odbiór trzeba płacić.**\n\nZa baterie NMC firmy recyklingowe płacą warsztatowi, a za LFP żądają ok. 2,5 EUR za kilogram. Do tego baterie strukturalne zabudowane w podłodze są niewymienne, więc auto z 50% sprawności baterii trafi na złom. Złomnik powtarza swoją tezę sprzed trzech lat, że elektryki wykończą rynek wtórny, choć sam kupił używanego. Gospodarz zauważa, że Tesla w Cybercabie zrobiła baterię strukturalną, ale naprawialną."
+    },
+    {
+     "t": "Konwersje klasyków na prąd",
+     "d": "**Złomnik nie widzi problemu w przerabianiu popularnych zabytków, ale rzadkich aut by nie ruszał.**\n\nLancii Aurelii z lat 50. nie ma sensu przerabiać, ale kilka Garbusów, Citroenów 2CV czy Fiatów 500 to żadna strata dla dziedzictwa motoryzacji. Jaguara E-Type by nie przerobił, bo brakowałoby mu dźwięku rzędowej szóstki czy V12, ale z Fiata 850 dla zabawy mógłby."
+    },
+    {
+     "t": "Czy auta z PRL to powód do wstydu",
+     "d": "**Gospodarz nazywa je „ścieżką wstydu”, a Złomnik się nie zgadza.**\n\nWarszawa była licencyjną kopią Pobiedy z 1946 r., nowoczesnej jak na swoje czasy. Silnik Syreny wywodził się z przedwojennej konstrukcji warszawskiej firmy Steinhagen i Stransky, a z założeń technicznych auto nie ustępowało małym autom zachodnim z połowy lat 50., choć montaż był fatalny. Chwali Żuka, Lublina i Autosana H9, a na eksporcie Fiata 125p (1 445 000 sztuk) Polska zarobiła. Wstydzi się za to kłótni klubów i przerabiania maluchów na zlotach."
+    }
+   ],
+   "conclusion": "Elektryki są coraz lepszym produktem i przy szybkim ładowaniu mogą zastąpić auta spalinowe, ale w Polsce hamują je brak ładowarek w miastach, drogi prąd na szybkich ładowarkach i niejasna przyszłość zużytych baterii. Złomnik zachowuje przy tym sentyment do klasyków i bezpretensjonalnych używanych aut.",
+   "factchecks": [
+    {
+     "claim": "Mitsubishi i-MiEV było dostępne w 2010 roku",
+     "verdict": "prawda",
+     "note": "Sprzedaż w Japonii ruszyła w 2009 r., a w Europie pod koniec 2010 r.",
+     "p": 1,
+     "src": [
+      [
+       "Wikipedia (ang.): Mitsubishi i-MiEV - hasło \"Mitsubishi i-MiEV\"",
+       "https://en.wikipedia.org/wiki/Mitsubishi_i-MiEV"
+      ]
+     ]
+    },
+    {
+     "claim": "Wyprodukowano 1 445 000 Fiatów 125p",
+     "verdict": "prawda",
+     "note": "W latach 1967-1991 FSO wyprodukowała ok. 1,45 mln egzemplarzy.",
+     "p": 7,
+     "src": [
+      [
+       "Wikipedia (ang.): Polski Fiat 125p - hasło \"Polski Fiat 125p\"",
+       "https://en.wikipedia.org/wiki/Polski_Fiat_125p"
+      ]
+     ]
+    }
+   ],
+   "bias": "Rozmowa na kanale warsztatu, który zarabia na elektrykach (reklama własnych usług w środku); liczby o dopłatach i kosztach podane z pamięci, bez źródeł."
   },
   {
    "id": "4iZ9-0v7hkY",
@@ -31954,6 +32119,91 @@
     }
    ],
    "bias": "Rzetelny, spokojny wykład; w środku reklama aplikacji Portal, na końcu reklama wycieczek autora."
+  },
+  {
+   "id": "HIi4tXXXaIg",
+   "title_pl": "Kupuj lepsze ubrania: mieszanki tkanin bez tajemnic",
+   "title": "Buy Better Clothes: Fabric Blends Explained",
+   "channel": "Laura VonV",
+   "url": "https://www.youtube.com/watch?v=HIi4tXXXaIg",
+   "date": "2025-09-25",
+   "duration": 1600,
+   "views": 372277,
+   "section": "Moda",
+   "transcript": "youtube",
+   "added": "2026-11-26",
+   "tags": [
+    "Moda",
+    "Technika"
+   ],
+   "about": "Laura VonV wyjaśnia, jak powstają mieszanki tkanin, czemu utrudniają recykling i które połączenia mają sens, a które służą tylko cięciu kosztów.",
+   "intro": "Laura VonV to youtuberka, która recenzuje ubrania pod kątem jakości i świadomych zakupów. Po jej filmie o tkaninach widzowie prosili o odcinek o mieszankach, bo na metkach prawie każdego ubrania jest kilka włókien naraz, często poliester i markowe syntetyki.\n\nFilm ma trzy części: historię i technikę łączenia włókien, skutki społeczne i środowiskowe oraz przewodnik po konkretnych połączeniach (bawełna, len, wełna, jedwab, półsyntetyki, syntetyki). Autorka zastrzega, że przewodnik opiera się na jej opiniach i doświadczeniu. Sponsorem jest marka Lily Silk.",
+   "points": [
+    {
+     "t": "Krótka historia mieszanek",
+     "d": "**Łączenie włókien nie jest nowe, ale syntetyki zmieniły je w narzędzie taniej masowej produkcji.**\n\nMieszanki jedwabiu z bawełną znano już w XII w., a len z wełną (linsey-woolsey) w późnym średniowieczu. Pod koniec XIX w. wynaleziono sztuczny jedwab (wiskozę), potem nylon, poliester i akryl, a w latach 50. elastan. Autorka przytacza pogłoski, że DuPont osłabił nylon, żeby sprzedawać więcej, ale zaznacza, że inne źródła mówią o zamieszaniu marketingowym."
+    },
+    {
+     "t": "Pięć sposobów łączenia włókien",
+     "d": "**Włókna miesza się na etapie przędzy, filamentu, tkaniny, samego włókna albo przez wykończenie chemiczne.**\n\nKrótkie włókna (stapel) przędzie się razem i im krótsze włókna bawełny, tym gorsza koszulka z bawełny i poliestru. Długie filamenty (jedwab, poliester, nylon) skręca się w jedną nić; cieńsze i słabsze szybciej się zaciągają i wycierają. Można też łączyć różne przędze dopiero przy tkaniu lub dzianiu albo wytłaczać dwa polimery jednym otworem, jak w ściereczkach z mikrofibry."
+    },
+    {
+     "t": "Ukryta chemia na tkaninach",
+     "d": "**Najbardziej podstępne są powłoki chemiczne, których prawie nigdy nie ma na metce.**\n\nBawełnę uodparnia się na gniecenie żywicami, jedwab „uzdatnia” do prania, a miękkość koszulki bywa efektem silikonu. Takie wykończenia potrafią się sprać i zmienić chwyt ubrania, a alergik nie wie, co go uczula. Autorka chciałaby, żeby metki, jak w kosmetykach, wymieniały użyte chemikalia, choć przyznaje, że mogłoby to dodatkowo zdezorientować kupujących."
+    },
+    {
+     "t": "Mieszanki a recykling",
+     "d": "**Mieszanki są koszmarem recyklingu.**\n\nRecykling zwykle rozdrabnia tkaninę na włókna, a elastan zapycha i psuje maszyny, więc nawet dżinsy z 1% elastanu częściej trafiają do spalarni lub na wysypisko. Gdy jakaś substancja zostaje zakazana, szybko pojawia się bardzo podobna, a brak danych utrudnia badania."
+    },
+    {
+     "t": "Bawełna w mieszankach",
+     "d": "**Dodatki poprawiają bawełnę, ale ilość i jakość mają znaczenie.**\n\nPoliester daje odporność na gniecenie i szybkie schnięcie, ale tańsze wersje się mechacą, trzymają zapach i są „plastikowe”. Elastan w dżinsach czy dopasowanych koszulach najlepiej poniżej 2%, nylon dodaje odporności na ścieranie, a len latem lepiej oddycha. Uwaga na marketing: sukienka sprzedawana jako kaszmirowa może mieć go 5%. Bawełnę z akrylem autorka odradza: gryzie i szybko się mechaci."
+    },
+    {
+     "t": "Len i wełna",
+     "d": "**Len z bawełną lub wiskozą gniecie się trochę mniej, ale nigdy nie przestanie; dominacja syntetyku z odrobiną lnu to chwyt marketingowy.**\n\nWełna z nylonem to jedno z ulubionych połączeń autorki, ale tylko przy 10-20% nylonu; więcej oznacza cięcie kosztów, podobnie jak dodatek poliestru. Etykieta „wool blend” w sklepach online zwykle znaczy dużo poliestru i mało wełny. Wełna z jedwabiem to według niej oznaka luksusu, kaszmir ją zmiękcza, a moher daje szorstką, włochatą fakturę."
+    },
+    {
+     "t": "Jedwab i półsyntetyki",
+     "d": "**Jedwab z poliestrem traci oddychalność, za którą się płaci; z kaszmirem to szczyt luksusu.**\n\nWiskoza, modal, lyocell (Tencel), cupro i acetat to włókna z regenerowanej celulozy. Wiskoza z bawełną lepiej się układa, ale słabnie na mokro i się kurczy, z poliestrem to typowa szybka moda. Modal z bawełną świetnie sprawdza się w bieliźnie i piżamach, lyocell w dżinsach daje lżejszy, płynniejszy materiał, a podszewka z cupro to znak dobrej jakości."
+    },
+    {
+     "t": "Syntetyki w odzieży sportowej",
+     "d": "**Legginsy i bielizna modelująca to zwykle poliester lub nylon z elastanem: kompresja i rozciągliwość kosztem zapachu i trwałości.**\n\nNazwy typu nylon 6, nylon 66 czy ogólnikowy „poliamid” mówią niewiele, więc autorka patrzy, ile marka podaje informacji; Lycra ma wyższe standardy kontroli jakości. Przyznaje, że sama nosi nylonowe ubrania, i przypomina, że przed elastanem stroje kąpielowe szyto z ciężkiego, prześwitującego na mokro jedwabiu."
+    },
+    {
+     "t": "Wnioski i ostrzeżenie przed modą od influencerów",
+     "d": "**Dla kupującego ważniejsze od techniki przędzenia są informacje o składzie i chemii.**\n\nAutorka przyznaje, że technika łączenia włókien jest dla przeciętnego klienta mało istotna, ale ogólna wiedza pomaga przejrzeć marketing. Martwi ją, że wykształcenie projektantów traci znaczenie: radzi pytać o motywy influencerów sprzedających „poliestrowe marynarki za 100 USD” i nie kupować koszulek za 5 USD z mieszanki bawełny i poliestru."
+    }
+   ],
+   "conclusion": "Mieszanka sama w sobie nie jest zła, ale często służy obniżeniu kosztów i szybszej konsumpcji, a nie trwałości ubrania. Autorka radzi czytać metki, szukać marek, które podają dużo informacji, dotykać ubrań w sklepach i pamiętać, że płaci się za to, co się dostaje.",
+   "factchecks": [
+    {
+     "claim": "Linsey-woolsey to dawna tkanina z lnu i wełny",
+     "verdict": "prawda",
+     "note": "To szorstka tkanina z lnianą osnową i wełnianym wątkiem, znana od średniowiecza.",
+     "p": 0,
+     "src": [
+      [
+       "Wikipedia (ang.): tkanina lniano-wełniana - hasło \"Linsey-woolsey\"",
+       "https://en.wikipedia.org/wiki/Linsey-woolsey"
+      ]
+     ]
+    },
+    {
+     "claim": "Elastan utrudnia recykling tkanin",
+     "verdict": "prawda",
+     "note": "Elastan w mieszankach jest uznawany za jedną z głównych przeszkód w recyklingu włókno do włókna.",
+     "p": 3,
+     "src": [
+      [
+       "Wikipedia (ang.): recykling tekstyliów - hasło \"Textile recycling\"",
+       "https://en.wikipedia.org/wiki/Textile_recycling"
+      ]
+     ]
+    }
+   ],
+   "bias": "Film sponsorowany przez Lily Silk, a jej produkty są przykładami „dobrych” mieszanek; oceny połączeń to w dużej mierze osobiste opinie autorki."
   },
   {
    "id": "bLcGL6rKBBg",
